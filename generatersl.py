@@ -1,22 +1,13 @@
 import yfinance as yf
 import pandas as pd
 import json
-from datetime import datetime
 
-import requests
-from io import StringIO
-
-# S&P 500 Ticker mit User-Agent holen
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
-url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-response = requests.get(url, headers=headers)
-response.raise_for_status()
-
-tables = pd.read_html(StringIO(response.text))
-sp500 = tables[0]['Symbol'].tolist()
+# S&P 500 Ticker aus stabiler CSV-Quelle laden
+csv_url = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
+sp500_df = pd.read_csv(csv_url)
+sp500 = sp500_df['Symbol'].tolist()
 sp500 = [t.replace('.', '-') for t in sp500]
+
 def calculate_rsl(ticker, period_days):
     try:
         data = yf.download(ticker, period=f"{period_days + 30}d", progress=False)
@@ -24,11 +15,11 @@ def calculate_rsl(ticker, period_days):
             return None
         close = data['Close'].iloc[-1]
         sma = data['Close'].iloc[-period_days:].mean()
-        return round(close / sma, 4) if sma > 0 else None
+        return round(float(close / sma), 4) if sma > 0 else None
     except:
         return None
 
-def build_list(period_days, label):
+def build_list(period_days):
     results = []
     for ticker in sp500:
         rsl = calculate_rsl(ticker, period_days)
@@ -37,15 +28,14 @@ def build_list(period_days, label):
                 "ticker": ticker,
                 "rsl": rsl
             })
-    # Sortieren und Rank vergeben
     results.sort(key=lambda x: x["rsl"], reverse=True)
     for i, item in enumerate(results):
         item["rank"] = i + 1
     return results
 
-# 26 Tage und 26 Wochen (26*5 ≈ 130 Handelstage)
-list_26d = build_list(26, "26d")
-list_26w = build_list(130, "26w")
+# 26 Tage und 26 Wochen (ca. 130 Handelstage)
+list_26d = build_list(26)
+list_26w = build_list(130)
 
 # Ranks der anderen Liste zuordnen
 rank_26d = {item["ticker"]: item["rank"] for item in list_26d}
