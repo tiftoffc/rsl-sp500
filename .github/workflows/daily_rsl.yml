@@ -1,0 +1,24 @@
+name: Daily RSL Update
+
+on:
+  schedule:
+    - cron: '0 22 * * 1-5'  # Mo-Fr um 22:00 UTC (nach US-Schluss)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python generate_rsl.py
+      - name: Commit and push JSON
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rsl_26d.json rsl_26w.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSL data"
+          git push
