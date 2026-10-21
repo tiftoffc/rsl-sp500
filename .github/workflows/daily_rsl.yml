@@ -1,5 +1,8 @@
 name: Daily RSL Update
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 22 * * 1-5'  # Mo-Fr um 22:00 UTC (nach US-Schluss)
