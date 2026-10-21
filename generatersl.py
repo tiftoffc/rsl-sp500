@@ -15,10 +15,17 @@ def calculate_rsl(ticker, period_days):
         data = yf.download(ticker, period=f"{period_days + 40}d", progress=False, auto_adjust=True)
         if data.empty or len(data) < period_days:
             return None
-        close = data['Close'].iloc[-1]
-        sma = data['Close'].iloc[-period_days:].mean()
+        
+        close_series = data['Close']
+        # Falls MultiIndex, erste Spalte nehmen
+        if isinstance(close_series, pd.DataFrame):
+            close_series = close_series.iloc[:, 0]
+        
+        close = float(close_series.iloc[-1])
+        sma = float(close_series.iloc[-period_days:].mean())
+        
         if sma > 0:
-            return round(float(close / sma), 4)
+            return round(close / sma, 4)
         return None
     except Exception as e:
         print(f"Fehler bei {ticker}: {e}")
