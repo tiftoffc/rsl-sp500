@@ -1,4 +1,4 @@
-name: Daily RSL Update
+ratename: Daily RSL Update
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
-      - run: python generate_rsl.py
+      - run: python generatersl.py
       - name: Commit and push JSON
         run: |
           git config --local user.email "action@github.com"
