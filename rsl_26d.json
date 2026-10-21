@@ -1,3514 +1,6024 @@
 [
   {
     "ticker": "MRNA",
-    "rsl": 1.215,
+    "name": "Moderna",
+    "sector": "Health Care",
+    "rsl": 1.2289,
+    "pct_1d": 1.45,
+    "pct_1w": 8.52,
+    "pct_1m": 34.52,
     "rank": 1,
     "delta": 0,
     "rank_other": 1
   },
   {
     "ticker": "HAS",
-    "rsl": 1.206,
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.2021,
+    "pct_1d": 1.71,
+    "pct_1w": 16.69,
+    "pct_1m": 28.17,
     "rank": 2,
-    "delta": 1,
-    "rank_other": 21
+    "delta": 0,
+    "rank_other": 24
   },
   {
     "ticker": "ACN",
-    "rsl": 1.1939,
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "rsl": 1.1988,
+    "pct_1d": 0.3,
+    "pct_1w": 11.58,
+    "pct_1m": 31.6,
     "rank": 3,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 8
   },
   {
     "ticker": "PTC",
-    "rsl": 1.1661,
+    "name": "PTC Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.1667,
+    "pct_1d": 0.17,
+    "pct_1w": 0.02,
+    "pct_1m": 38.34,
     "rank": 4,
     "delta": 0,
     "rank_other": 10
   },
   {
     "ticker": "EFX",
-    "rsl": 1.1487,
+    "name": "Equifax",
+    "sector": "Industrials",
+    "rsl": 1.1493,
+    "pct_1d": -0.94,
+    "pct_1w": 16.3,
+    "pct_1m": 9.45,
     "rank": 5,
     "delta": 0,
-    "rank_other": 191
+    "rank_other": 199
   },
   {
     "ticker": "IT",
-    "rsl": 1.1356,
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "rsl": 1.1459,
+    "pct_1d": 0.35,
+    "pct_1w": 12.58,
+    "pct_1m": 23.3,
     "rank": 6,
     "delta": 0,
     "rank_other": 12
   },
   {
     "ticker": "CTSH",
-    "rsl": 1.1332,
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "rsl": 1.1366,
+    "pct_1d": 1.09,
+    "pct_1w": 10.32,
+    "pct_1m": 17.45,
     "rank": 7,
-    "delta": 1,
-    "rank_other": 16
+    "delta": 0,
+    "rank_other": 18
   },
   {
     "ticker": "CSGP",
-    "rsl": 1.1254,
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "rsl": 1.1263,
+    "pct_1d": -0.24,
+    "pct_1w": 9.5,
+    "pct_1m": 14.6,
     "rank": 8,
-    "delta": -1,
-    "rank_other": 168
+    "delta": 0,
+    "rank_other": 166
   },
   {
     "ticker": "CBOE",
-    "rsl": 1.117,
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "rsl": 1.1222,
+    "pct_1d": 0.98,
+    "pct_1w": 5.86,
+    "pct_1m": 19.21,
     "rank": 9,
-    "delta": 3,
-    "rank_other": 128
-  },
-  {
-    "ticker": "INTU",
-    "rsl": 1.1156,
-    "rank": 10,
-    "delta": -1,
-    "rank_other": 193
+    "delta": 0,
+    "rank_other": 121
   },
   {
     "ticker": "VEEV",
-    "rsl": 1.111,
-    "rank": 11,
-    "delta": 0,
+    "name": "Veeva Systems",
+    "sector": "Health Care",
+    "rsl": 1.1182,
+    "pct_1d": 0.42,
+    "pct_1w": 7.62,
+    "pct_1m": 22.65,
+    "rank": 10,
+    "delta": 1,
     "rank_other": 3
   },
   {
-    "ticker": "TYL",
-    "rsl": 1.1109,
-    "rank": 12,
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.1159,
+    "pct_1d": 0.43,
+    "pct_1w": 10.02,
+    "pct_1m": 16.99,
+    "rank": 11,
     "delta": 2,
-    "rank_other": 51
+    "rank_other": 92
   },
   {
-    "ticker": "HLT",
-    "rsl": 1.1099,
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "rsl": 1.1141,
+    "pct_1d": -0.68,
+    "pct_1w": 7.27,
+    "pct_1m": 14.44,
+    "rank": 12,
+    "delta": -2,
+    "rank_other": 195
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "rsl": 1.1135,
+    "pct_1d": 0.08,
+    "pct_1w": 7.82,
+    "pct_1m": 14.03,
     "rank": 13,
-    "delta": 0,
-    "rank_other": 93
+    "delta": -1,
+    "rank_other": 50
   },
   {
     "ticker": "APA",
-    "rsl": 1.1067,
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "rsl": 1.1111,
+    "pct_1d": 0.72,
+    "pct_1w": 6.1,
+    "pct_1m": 18.82,
     "rank": 14,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 17
   },
   {
-    "ticker": "BRO",
-    "rsl": 1.1039,
-    "rank": 15,
-    "delta": 0,
-    "rank_other": 108
-  },
-  {
-    "ticker": "FDS",
-    "rsl": 1.1036,
-    "rank": 16,
-    "delta": 1,
-    "rank_other": 29
-  },
-  {
     "ticker": "CRL",
-    "rsl": 1.1028,
-    "rank": 17,
-    "delta": 58,
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "rsl": 1.1111,
+    "pct_1d": 4.23,
+    "pct_1w": 8.87,
+    "pct_1m": 15.32,
+    "rank": 15,
+    "delta": 2,
     "rank_other": 7
   },
   {
-    "ticker": "MAR",
-    "rsl": 1.1007,
-    "rank": 18,
-    "delta": 1,
-    "rank_other": 99
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Financials",
+    "rsl": 1.1092,
+    "pct_1d": -0.11,
+    "pct_1w": 9.3,
+    "pct_1m": 13.43,
+    "rank": 16,
+    "delta": -1,
+    "rank_other": 111
   },
   {
-    "ticker": "MCK",
-    "rsl": 1.1005,
-    "rank": 19,
-    "delta": -9,
-    "rank_other": 27
+    "ticker": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "rsl": 1.1082,
+    "pct_1d": 0.48,
+    "pct_1w": 8.3,
+    "pct_1m": 13.52,
+    "rank": 17,
+    "delta": -1,
+    "rank_other": 28
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.1072,
+    "pct_1d": 0.96,
+    "pct_1w": 7.88,
+    "pct_1m": 15.24,
+    "rank": 18,
+    "delta": 0,
+    "rank_other": 96
   },
   {
     "ticker": "HST",
-    "rsl": 1.0991,
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "rsl": 1.1039,
+    "pct_1d": 1.11,
+    "pct_1w": 9.35,
+    "pct_1m": 13.56,
+    "rank": 19,
+    "delta": 1,
+    "rank_other": 87
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson",
+    "sector": "Health Care",
+    "rsl": 1.1027,
+    "pct_1d": -1.25,
+    "pct_1w": 4.16,
+    "pct_1m": 14.14,
     "rank": 20,
-    "delta": 5,
-    "rank_other": 88
+    "delta": -1,
+    "rank_other": 29
   },
   {
     "ticker": "MPC",
-    "rsl": 1.0976,
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "rsl": 1.1014,
+    "pct_1d": 0.53,
+    "pct_1w": -1.51,
+    "pct_1m": 22.56,
     "rank": 21,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 2
   },
   {
-    "ticker": "CDW",
-    "rsl": 1.0953,
-    "rank": 22,
-    "delta": 27,
-    "rank_other": 47
-  },
-  {
-    "ticker": "CCL",
-    "rsl": 1.0952,
-    "rank": 23,
-    "delta": -3,
-    "rank_other": 212
-  },
-  {
-    "ticker": "VRSK",
-    "rsl": 1.0941,
-    "rank": 24,
-    "delta": 11,
-    "rank_other": 153
-  },
-  {
     "ticker": "CAH",
-    "rsl": 1.0936,
-    "rank": 25,
-    "delta": -4,
-    "rank_other": 56
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "rsl": 1.0987,
+    "pct_1d": -0.05,
+    "pct_1w": 3.91,
+    "pct_1m": 16.21,
+    "rank": 22,
+    "delta": 3,
+    "rank_other": 54
   },
   {
     "ticker": "ADSK",
-    "rsl": 1.0924,
-    "rank": 26,
-    "delta": 2,
-    "rank_other": 130
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "rsl": 1.098,
+    "pct_1d": 0.51,
+    "pct_1w": 6.79,
+    "pct_1m": 12.39,
+    "rank": 23,
+    "delta": 3,
+    "rank_other": 124
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0977,
+    "pct_1d": 0.22,
+    "pct_1w": 4.43,
+    "pct_1m": 21.72,
+    "rank": 24,
+    "delta": -1,
+    "rank_other": 204
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "Industrials",
+    "rsl": 1.0971,
+    "pct_1d": 0.73,
+    "pct_1w": 6.47,
+    "pct_1m": 11.82,
+    "rank": 25,
+    "delta": -1,
+    "rank_other": 155
   },
   {
     "ticker": "COP",
-    "rsl": 1.092,
-    "rank": 27,
-    "delta": 3,
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "rsl": 1.097,
+    "pct_1d": 0.25,
+    "pct_1w": 2.79,
+    "pct_1m": 16.8,
+    "rank": 26,
+    "delta": 1,
     "rank_other": 32
   },
   {
-    "ticker": "EBAY",
-    "rsl": 1.0908,
-    "rank": 28,
-    "delta": 12,
-    "rank_other": 82
-  },
-  {
-    "ticker": "STZ",
-    "rsl": 1.0907,
-    "rank": 29,
-    "delta": -6,
-    "rank_other": 306
-  },
-  {
-    "ticker": "CCI",
-    "rsl": 1.0894,
-    "rank": 30,
-    "delta": -14,
-    "rank_other": 253
-  },
-  {
-    "ticker": "AJG",
-    "rsl": 1.089,
-    "rank": 31,
-    "delta": -4,
-    "rank_other": 90
-  },
-  {
-    "ticker": "UNH",
-    "rsl": 1.0876,
-    "rank": 32,
-    "delta": -8,
-    "rank_other": 147
-  },
-  {
     "ticker": "NOW",
-    "rsl": 1.0857,
-    "rank": 33,
-    "delta": 33,
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "rsl": 1.0926,
+    "pct_1d": 1.71,
+    "pct_1w": 8.65,
+    "pct_1m": 11.01,
+    "rank": 27,
+    "delta": 6,
     "rank_other": 13
   },
   {
-    "ticker": "CASY",
-    "rsl": 1.0855,
-    "rank": 34,
-    "delta": -5,
-    "rank_other": 450
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "rsl": 1.0919,
+    "pct_1d": -0.33,
+    "pct_1w": 9.02,
+    "pct_1m": 12.13,
+    "rank": 28,
+    "delta": 3,
+    "rank_other": 94
   },
   {
-    "ticker": "KMB",
-    "rsl": 1.0845,
-    "rank": 35,
-    "delta": -4,
-    "rank_other": 161
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Health Care",
+    "rsl": 1.091,
+    "pct_1d": -0.49,
+    "pct_1w": 5.45,
+    "pct_1m": 11.86,
+    "rank": 29,
+    "delta": 3,
+    "rank_other": 145
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "rsl": 1.0905,
+    "pct_1d": -1.66,
+    "pct_1w": 0.52,
+    "pct_1m": 10.25,
+    "rank": 30,
+    "delta": 0,
+    "rank_other": 245
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0905,
+    "pct_1d": 0.64,
+    "pct_1w": 4.35,
+    "pct_1m": 11.6,
+    "rank": 31,
+    "delta": -3,
+    "rank_other": 82
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's",
+    "sector": "Consumer Staples",
+    "rsl": 1.0888,
+    "pct_1d": -0.05,
+    "pct_1w": 4.68,
+    "pct_1m": 16.99,
+    "rank": 32,
+    "delta": 2,
+    "rank_other": 445
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "sector": "Information Technology",
+    "rsl": 1.0887,
+    "pct_1d": 0.5,
+    "pct_1w": 3.77,
+    "pct_1m": 5.65,
+    "rank": 33,
+    "delta": -11,
+    "rank_other": 58
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "rsl": 1.0876,
+    "pct_1d": 1.02,
+    "pct_1w": 8.32,
+    "pct_1m": 9.97,
+    "rank": 34,
+    "delta": 8,
+    "rank_other": 133
   },
   {
     "ticker": "CI",
-    "rsl": 1.0842,
-    "rank": 36,
-    "delta": -4,
+    "name": "Cigna",
+    "sector": "Health Care",
+    "rsl": 1.0873,
+    "pct_1d": -0.46,
+    "pct_1w": 5.39,
+    "pct_1m": 11.49,
+    "rank": 35,
+    "delta": 1,
     "rank_other": 123
   },
   {
     "ticker": "MRSH",
-    "rsl": 1.0837,
-    "rank": 37,
-    "delta": -1,
-    "rank_other": 107
+    "name": "Marsh McLennan",
+    "sector": "Financials",
+    "rsl": 1.0871,
+    "pct_1d": -0.15,
+    "pct_1w": 7.05,
+    "pct_1m": 12.98,
+    "rank": 36,
+    "delta": 1,
+    "rank_other": 103
   },
   {
-    "ticker": "BALL",
-    "rsl": 1.0827,
-    "rank": 38,
-    "delta": 12,
-    "rank_other": 142
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "rsl": 1.0868,
+    "pct_1d": -1.13,
+    "pct_1w": 3.01,
+    "pct_1m": 11.61,
+    "rank": 37,
+    "delta": -8,
+    "rank_other": 313
   },
   {
     "ticker": "EOG",
-    "rsl": 1.0823,
-    "rank": 39,
-    "delta": 8,
-    "rank_other": 70
-  },
-  {
-    "ticker": "WM",
-    "rsl": 1.0818,
-    "rank": 40,
-    "delta": -7,
-    "rank_other": 181
-  },
-  {
-    "ticker": "KDP",
-    "rsl": 1.0817,
-    "rank": 41,
-    "delta": -3,
-    "rank_other": 71
-  },
-  {
-    "ticker": "SPGI",
-    "rsl": 1.0807,
-    "rank": 42,
-    "delta": 14,
-    "rank_other": 138
-  },
-  {
-    "ticker": "GDDY",
-    "rsl": 1.0802,
-    "rank": 43,
-    "delta": 9,
-    "rank_other": 37
-  },
-  {
-    "ticker": "NOC",
-    "rsl": 1.0801,
-    "rank": 44,
-    "delta": 63,
-    "rank_other": 246
-  },
-  {
-    "ticker": "ADP",
-    "rsl": 1.08,
-    "rank": 45,
-    "delta": 9,
-    "rank_other": 34
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "rsl": 1.0858,
+    "pct_1d": 0.28,
+    "pct_1w": 3.39,
+    "pct_1m": 14.26,
+    "rank": 38,
+    "delta": 1,
+    "rank_other": 69
   },
   {
     "ticker": "BR",
-    "rsl": 1.079,
-    "rank": 46,
-    "delta": -5,
-    "rank_other": 66
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "rsl": 1.0846,
+    "pct_1d": -0.09,
+    "pct_1w": 6.88,
+    "pct_1m": 10.31,
+    "rank": 39,
+    "delta": 7,
+    "rank_other": 65
   },
   {
-    "ticker": "AZO",
-    "rsl": 1.0788,
-    "rank": 47,
-    "delta": -8,
-    "rank_other": 250
+    "ticker": "WM",
+    "name": "Waste Management",
+    "sector": "Industrials",
+    "rsl": 1.0841,
+    "pct_1d": -0.68,
+    "pct_1w": 6.68,
+    "pct_1m": 10.82,
+    "rank": 40,
+    "delta": 0,
+    "rank_other": 182
   },
   {
-    "ticker": "RCL",
-    "rsl": 1.0786,
-    "rank": 48,
-    "delta": -5,
-    "rank_other": 222
-  },
-  {
-    "ticker": "EXPE",
-    "rsl": 1.0777,
-    "rank": 49,
-    "delta": -23,
-    "rank_other": 97
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "rsl": 1.0831,
+    "pct_1d": 0.41,
+    "pct_1w": 4.87,
+    "pct_1m": 9.02,
+    "rank": 41,
+    "delta": 4,
+    "rank_other": 33
   },
   {
     "ticker": "ZTS",
-    "rsl": 1.0777,
-    "rank": 50,
-    "delta": -16,
-    "rank_other": 286
+    "name": "Zoetis",
+    "sector": "Health Care",
+    "rsl": 1.0828,
+    "pct_1d": -0.66,
+    "pct_1w": 5.61,
+    "pct_1m": 9.13,
+    "rank": 42,
+    "delta": 8,
+    "rank_other": 280
   },
   {
-    "ticker": "EL",
-    "rsl": 1.0756,
-    "rank": 51,
-    "delta": -14,
-    "rank_other": 35
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "rsl": 1.0827,
+    "pct_1d": 0.16,
+    "pct_1w": 6.34,
+    "pct_1m": 7.15,
+    "rank": 43,
+    "delta": -5,
+    "rank_other": 143
   },
   {
-    "ticker": "ROP",
-    "rsl": 1.0755,
-    "rank": 52,
-    "delta": -4,
-    "rank_other": 106
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "rsl": 1.0827,
+    "pct_1d": 0.23,
+    "pct_1w": 5.5,
+    "pct_1m": 11.0,
+    "rank": 44,
+    "delta": -1,
+    "rank_other": 39
   },
   {
-    "ticker": "MSCI",
-    "rsl": 1.0746,
-    "rank": 53,
-    "delta": 46,
-    "rank_other": 183
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0818,
+    "pct_1d": 0.1,
+    "pct_1w": 5.02,
+    "pct_1m": 22.65,
+    "rank": 45,
+    "delta": 3,
+    "rank_other": 209
   },
   {
     "ticker": "RMD",
-    "rsl": 1.0741,
-    "rank": 54,
-    "delta": 13,
-    "rank_other": 54
-  },
-  {
-    "ticker": "CHD",
-    "rsl": 1.0739,
-    "rank": 55,
-    "delta": -9,
-    "rank_other": 119
-  },
-  {
-    "ticker": "CTAS",
-    "rsl": 1.073,
-    "rank": 56,
-    "delta": 3,
-    "rank_other": 62
-  },
-  {
-    "ticker": "TJX",
-    "rsl": 1.0728,
-    "rank": 57,
-    "delta": -12,
-    "rank_other": 295
-  },
-  {
-    "ticker": "V",
-    "rsl": 1.0728,
-    "rank": 58,
-    "delta": -3,
+    "name": "ResMed|",
+    "sector": "Health Care",
+    "rsl": 1.081,
+    "pct_1d": 0.67,
+    "pct_1w": 5.04,
+    "pct_1m": 11.35,
+    "rank": 46,
+    "delta": 8,
     "rank_other": 52
   },
   {
-    "ticker": "HUM",
-    "rsl": 1.0725,
-    "rank": 59,
-    "delta": 25,
-    "rank_other": 30
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Consumer Staples",
+    "rsl": 1.0806,
+    "pct_1d": -0.45,
+    "pct_1w": 4.09,
+    "pct_1m": 10.2,
+    "rank": 47,
+    "delta": -6,
+    "rank_other": 72
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "rsl": 1.0805,
+    "pct_1d": -1.06,
+    "pct_1w": 7.82,
+    "pct_1m": 8.36,
+    "rank": 48,
+    "delta": -13,
+    "rank_other": 168
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "rsl": 1.0789,
+    "pct_1d": 0.63,
+    "pct_1w": 4.05,
+    "pct_1m": 11.21,
+    "rank": 49,
+    "delta": 23,
+    "rank_other": 88
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "rsl": 1.0783,
+    "pct_1d": 0.29,
+    "pct_1w": 4.33,
+    "pct_1m": 9.49,
+    "rank": 50,
+    "delta": 6,
+    "rank_other": 60
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Information Technology",
+    "rsl": 1.0779,
+    "pct_1d": -0.42,
+    "pct_1w": 6.4,
+    "pct_1m": 9.26,
+    "rank": 51,
+    "delta": 1,
+    "rank_other": 105
   },
   {
     "ticker": "ERIE",
-    "rsl": 1.072,
-    "rank": 60,
-    "delta": 25,
-    "rank_other": 160
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "rsl": 1.0774,
+    "pct_1d": 0.57,
+    "pct_1w": 7.49,
+    "pct_1m": 6.23,
+    "rank": 52,
+    "delta": 8,
+    "rank_other": 151
   },
   {
     "ticker": "MTD",
-    "rsl": 1.0717,
-    "rank": 61,
+    "name": "Mettler Toledo",
+    "sector": "Health Care",
+    "rsl": 1.0773,
+    "pct_1d": 0.97,
+    "pct_1w": 2.52,
+    "pct_1m": 10.67,
+    "rank": 53,
     "delta": 8,
     "rank_other": 23
   },
   {
-    "ticker": "PSX",
-    "rsl": 1.0713,
-    "rank": 62,
-    "delta": 17,
-    "rank_other": 9
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "sector": "Financials",
+    "rsl": 1.0772,
+    "pct_1d": 0.07,
+    "pct_1w": 3.94,
+    "pct_1m": 12.37,
+    "rank": 54,
+    "delta": 4,
+    "rank_other": 51
   },
   {
-    "ticker": "PNW",
-    "rsl": 1.0707,
-    "rank": 63,
-    "delta": 34,
-    "rank_other": 200
-  },
-  {
-    "ticker": "KVUE",
-    "rsl": 1.0706,
-    "rank": 64,
-    "delta": -7,
-    "rank_other": 140
-  },
-  {
-    "ticker": "ABNB",
-    "rsl": 1.0696,
-    "rank": 65,
-    "delta": -7,
-    "rank_other": 69
-  },
-  {
-    "ticker": "MAS",
-    "rsl": 1.069,
-    "rank": 66,
-    "delta": 2,
-    "rank_other": 217
-  },
-  {
-    "ticker": "CVX",
-    "rsl": 1.0682,
-    "rank": 67,
-    "delta": 22,
-    "rank_other": 41
-  },
-  {
-    "ticker": "OTIS",
-    "rsl": 1.068,
-    "rank": 68,
-    "delta": 23,
-    "rank_other": 244
-  },
-  {
-    "ticker": "MA",
-    "rsl": 1.0679,
-    "rank": 69,
-    "delta": 3,
-    "rank_other": 57
-  },
-  {
-    "ticker": "CNC",
-    "rsl": 1.0676,
-    "rank": 70,
-    "delta": -19,
-    "rank_other": 77
-  },
-  {
-    "ticker": "LLY",
-    "rsl": 1.0673,
-    "rank": 71,
-    "delta": -29,
-    "rank_other": 74
-  },
-  {
-    "ticker": "CME",
-    "rsl": 1.0668,
-    "rank": 72,
-    "delta": -1,
-    "rank_other": 95
-  },
-  {
-    "ticker": "ULTA",
-    "rsl": 1.0668,
-    "rank": 73,
-    "delta": -12,
-    "rank_other": 48
-  },
-  {
-    "ticker": "CL",
-    "rsl": 1.066,
-    "rank": 74,
-    "delta": -14,
-    "rank_other": 159
-  },
-  {
-    "ticker": "BIIB",
-    "rsl": 1.0656,
-    "rank": 75,
-    "delta": -11,
-    "rank_other": 44
-  },
-  {
-    "ticker": "IBM",
-    "rsl": 1.0651,
-    "rank": 76,
-    "delta": 48,
-    "rank_other": 258
-  },
-  {
-    "ticker": "TRV",
-    "rsl": 1.0651,
-    "rank": 77,
-    "delta": 15,
-    "rank_other": 50
-  },
-  {
-    "ticker": "WMT",
-    "rsl": 1.0642,
-    "rank": 78,
-    "delta": 0,
-    "rank_other": 232
-  },
-  {
-    "ticker": "AIG",
-    "rsl": 1.0639,
-    "rank": 79,
+    "ticker": "MSCI",
+    "name": "MSCI",
+    "sector": "Financials",
+    "rsl": 1.0769,
+    "pct_1d": 1.47,
+    "pct_1w": 7.11,
+    "pct_1m": 9.38,
+    "rank": 55,
     "delta": -2,
-    "rank_other": 141
+    "rank_other": 191
   },
   {
-    "ticker": "COR",
-    "rsl": 1.0639,
-    "rank": 80,
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0763,
+    "pct_1d": -0.79,
+    "pct_1w": 7.68,
+    "pct_1m": 8.3,
+    "rank": 56,
+    "delta": -9,
+    "rank_other": 246
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0756,
+    "pct_1d": -0.34,
+    "pct_1w": 2.56,
+    "pct_1m": 12.0,
+    "rank": 57,
+    "delta": 0,
+    "rank_other": 295
+  },
+  {
+    "ticker": "EL",
+    "name": "Est\u00e9e Lauder Companies (The)",
+    "sector": "Consumer Staples",
+    "rsl": 1.0748,
+    "pct_1d": -1.2,
+    "pct_1w": 3.2,
+    "pct_1m": 4.54,
+    "rank": 58,
     "delta": -7,
-    "rank_other": 73
-  },
-  {
-    "ticker": "WDAY",
-    "rsl": 1.0629,
-    "rank": 81,
-    "delta": 1,
-    "rank_other": 15
-  },
-  {
-    "ticker": "DLTR",
-    "rsl": 1.0628,
-    "rank": 82,
-    "delta": -8,
-    "rank_other": 134
-  },
-  {
-    "ticker": "OXY",
-    "rsl": 1.0625,
-    "rank": 83,
-    "delta": 19,
-    "rank_other": 92
-  },
-  {
-    "ticker": "WSM",
-    "rsl": 1.062,
-    "rank": 84,
-    "delta": -31,
-    "rank_other": 64
-  },
-  {
-    "ticker": "DG",
-    "rsl": 1.0618,
-    "rank": 85,
-    "delta": -23,
-    "rank_other": 80
-  },
-  {
-    "ticker": "VMC",
-    "rsl": 1.0616,
-    "rank": 86,
-    "delta": 23,
-    "rank_other": 352
-  },
-  {
-    "ticker": "RSG",
-    "rsl": 1.0615,
-    "rank": 87,
-    "delta": -6,
-    "rank_other": 117
-  },
-  {
-    "ticker": "KMI",
-    "rsl": 1.0613,
-    "rank": 88,
-    "delta": 45,
-    "rank_other": 143
-  },
-  {
-    "ticker": "XOM",
-    "rsl": 1.0606,
-    "rank": 89,
-    "delta": 6,
-    "rank_other": 55
-  },
-  {
-    "ticker": "APD",
-    "rsl": 1.0605,
-    "rank": 90,
-    "delta": 14,
-    "rank_other": 190
-  },
-  {
-    "ticker": "MNST",
-    "rsl": 1.0605,
-    "rank": 91,
-    "delta": -15,
-    "rank_other": 186
-  },
-  {
-    "ticker": "ED",
-    "rsl": 1.0599,
-    "rank": 92,
-    "delta": 23,
-    "rank_other": 172
-  },
-  {
-    "ticker": "CVS",
-    "rsl": 1.0599,
-    "rank": 93,
-    "delta": -3,
-    "rank_other": 279
-  },
-  {
-    "ticker": "ABBV",
-    "rsl": 1.0597,
-    "rank": 94,
-    "delta": -24,
     "rank_other": 36
   },
   {
-    "ticker": "AMGN",
-    "rsl": 1.0597,
-    "rank": 95,
-    "delta": -15,
-    "rank_other": 49
-  },
-  {
-    "ticker": "IFF",
-    "rsl": 1.0597,
-    "rank": 96,
-    "delta": 5,
-    "rank_other": 60
-  },
-  {
-    "ticker": "SJM",
-    "rsl": 1.0592,
-    "rank": 97,
-    "delta": -9,
-    "rank_other": 68
-  },
-  {
-    "ticker": "COST",
-    "rsl": 1.059,
-    "rank": 98,
-    "delta": -4,
-    "rank_other": 201
-  },
-  {
-    "ticker": "MO",
-    "rsl": 1.0589,
-    "rank": 99,
-    "delta": 7,
-    "rank_other": 124
-  },
-  {
-    "ticker": "NI",
-    "rsl": 1.0589,
-    "rank": 100,
-    "delta": 21,
-    "rank_other": 315
-  },
-  {
-    "ticker": "HD",
-    "rsl": 1.0587,
-    "rank": 101,
-    "delta": -5,
-    "rank_other": 307
-  },
-  {
-    "ticker": "ALL",
-    "rsl": 1.0576,
-    "rank": 102,
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "rsl": 1.0747,
+    "pct_1d": 0.66,
+    "pct_1w": -1.45,
+    "pct_1m": 14.09,
+    "rank": 59,
     "delta": 3,
-    "rank_other": 171
+    "rank_other": 9
   },
   {
-    "ticker": "ADBE",
-    "rsl": 1.0575,
-    "rank": 103,
-    "delta": 15,
-    "rank_other": 174
-  },
-  {
-    "ticker": "WTW",
-    "rsl": 1.0575,
-    "rank": 104,
-    "delta": 6,
-    "rank_other": 113
-  },
-  {
-    "ticker": "SYK",
-    "rsl": 1.0567,
-    "rank": 105,
-    "delta": -61,
-    "rank_other": 334
-  },
-  {
-    "ticker": "TSN",
-    "rsl": 1.0567,
-    "rank": 106,
-    "delta": 17,
-    "rank_other": 330
-  },
-  {
-    "ticker": "YUM",
-    "rsl": 1.0554,
-    "rank": 107,
-    "delta": -21,
-    "rank_other": 277
-  },
-  {
-    "ticker": "FANG",
-    "rsl": 1.0553,
-    "rank": 108,
-    "delta": 18,
-    "rank_other": 187
-  },
-  {
-    "ticker": "DOW",
-    "rsl": 1.0549,
-    "rank": 109,
-    "delta": -22,
-    "rank_other": 340
-  },
-  {
-    "ticker": "XEL",
-    "rsl": 1.0548,
-    "rank": 110,
-    "delta": 15,
-    "rank_other": 280
-  },
-  {
-    "ticker": "BRK-B",
-    "rsl": 1.0547,
-    "rank": 111,
-    "delta": 26,
-    "rank_other": 111
-  },
-  {
-    "ticker": "TRMB",
-    "rsl": 1.0547,
-    "rank": 112,
-    "delta": 16,
-    "rank_other": 122
-  },
-  {
-    "ticker": "DECK",
-    "rsl": 1.0541,
-    "rank": 113,
-    "delta": -48,
-    "rank_other": 440
-  },
-  {
-    "ticker": "OMC",
-    "rsl": 1.0534,
-    "rank": 114,
-    "delta": 6,
-    "rank_other": 188
-  },
-  {
-    "ticker": "PG",
-    "rsl": 1.0531,
-    "rank": 115,
-    "delta": -12,
-    "rank_other": 121
-  },
-  {
-    "ticker": "CNP",
-    "rsl": 1.053,
-    "rank": 116,
-    "delta": 31,
-    "rank_other": 297
-  },
-  {
-    "ticker": "AMCR",
-    "rsl": 1.0529,
-    "rank": 117,
-    "delta": 15,
-    "rank_other": 144
-  },
-  {
-    "ticker": "PAYX",
-    "rsl": 1.0528,
-    "rank": 118,
-    "delta": 16,
-    "rank_other": 151
-  },
-  {
-    "ticker": "VLO",
-    "rsl": 1.0516,
-    "rank": 119,
-    "delta": 46,
-    "rank_other": 6
-  },
-  {
-    "ticker": "BF-B",
-    "rsl": 1.0515,
-    "rank": 120,
-    "delta": 18,
-    "rank_other": 162
-  },
-  {
-    "ticker": "LMT",
-    "rsl": 1.0507,
-    "rank": 121,
-    "delta": 28,
-    "rank_other": 208
-  },
-  {
-    "ticker": "BDX",
-    "rsl": 1.0506,
-    "rank": 122,
-    "delta": 14,
-    "rank_other": 39
-  },
-  {
-    "ticker": "SO",
-    "rsl": 1.0506,
-    "rank": 123,
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "rsl": 1.0742,
+    "pct_1d": 0.61,
+    "pct_1w": 0.61,
+    "pct_1m": 15.59,
+    "rank": 60,
     "delta": -1,
-    "rank_other": 285
+    "rank_other": 31
   },
   {
-    "ticker": "COF",
-    "rsl": 1.0503,
-    "rank": 124,
-    "delta": 182,
-    "rank_other": 189
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrials",
+    "rsl": 1.0742,
+    "pct_1d": 1.13,
+    "pct_1w": 8.95,
+    "pct_1m": 5.92,
+    "rank": 61,
+    "delta": -17,
+    "rank_other": 258
   },
   {
-    "ticker": "CMS",
-    "rsl": 1.0496,
-    "rank": 125,
-    "delta": 25,
-    "rank_other": 324
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "rsl": 1.0739,
+    "pct_1d": 0.17,
+    "pct_1w": 3.03,
+    "pct_1m": 11.97,
+    "rank": 62,
+    "delta": 7,
+    "rank_other": 59
   },
   {
-    "ticker": "PFE",
-    "rsl": 1.0494,
-    "rank": 126,
-    "delta": -18,
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0739,
+    "pct_1d": 0.01,
+    "pct_1w": 1.78,
+    "pct_1m": 8.87,
+    "rank": 63,
+    "delta": 10,
+    "rank_other": 47
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "rsl": 1.0729,
+    "pct_1d": -0.76,
+    "pct_1w": 2.46,
+    "pct_1m": 9.39,
+    "rank": 64,
+    "delta": -9,
+    "rank_other": 125
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "sector": "Energy",
+    "rsl": 1.0725,
+    "pct_1d": 0.55,
+    "pct_1w": 2.22,
+    "pct_1m": 12.13,
+    "rank": 65,
+    "delta": 2,
+    "rank_other": 43
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "sector": "Industrials",
+    "rsl": 1.0722,
+    "pct_1d": -0.09,
+    "pct_1w": 7.42,
+    "pct_1m": 6.62,
+    "rank": 66,
+    "delta": 0,
+    "rank_other": 207
+  },
+  {
+    "ticker": "LLY",
+    "name": "Lilly (Eli)",
+    "sector": "Health Care",
+    "rsl": 1.0721,
+    "pct_1d": -1.02,
+    "pct_1w": 5.11,
+    "pct_1m": 8.58,
+    "rank": 67,
+    "delta": 4,
+    "rank_other": 74
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Utilities",
+    "rsl": 1.0712,
+    "pct_1d": 0.86,
+    "pct_1w": 1.72,
+    "pct_1m": 11.41,
+    "rank": 68,
+    "delta": -5,
+    "rank_other": 202
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0697,
+    "pct_1d": -0.7,
+    "pct_1w": 4.32,
+    "pct_1m": 8.71,
+    "rank": 69,
+    "delta": 15,
+    "rank_other": 61
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "sector": "Health Care",
+    "rsl": 1.0693,
+    "pct_1d": -1.14,
+    "pct_1w": -0.23,
+    "pct_1m": 10.58,
+    "rank": 70,
+    "delta": 0,
+    "rank_other": 76
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "sector": "Financials",
+    "rsl": 1.069,
+    "pct_1d": 0.28,
+    "pct_1w": 5.04,
+    "pct_1m": 9.63,
+    "rank": 71,
+    "delta": 6,
+    "rank_other": 48
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "rsl": 1.0687,
+    "pct_1d": -0.7,
+    "pct_1w": 6.3,
+    "pct_1m": 7.19,
+    "rank": 72,
+    "delta": -8,
+    "rank_other": 147
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Industrials",
+    "rsl": 1.0677,
+    "pct_1d": 0.15,
+    "pct_1w": 4.44,
+    "pct_1m": 6.02,
+    "rank": 73,
+    "delta": -5,
+    "rank_other": 254
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.0677,
+    "pct_1d": -0.09,
+    "pct_1w": 7.96,
+    "pct_1m": 8.27,
+    "rank": 74,
+    "delta": 7,
+    "rank_other": 15
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0669,
+    "pct_1d": -2.79,
+    "pct_1w": 6.44,
+    "pct_1m": 4.16,
+    "rank": 75,
+    "delta": -26,
+    "rank_other": 104
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "rsl": 1.0666,
+    "pct_1d": -0.24,
+    "pct_1w": 5.49,
+    "pct_1m": 8.65,
+    "rank": 76,
+    "delta": 3,
+    "rank_other": 137
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Staples",
+    "rsl": 1.0665,
+    "pct_1d": -0.32,
+    "pct_1w": 2.3,
+    "pct_1m": 8.28,
+    "rank": 77,
+    "delta": 5,
+    "rank_other": 128
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0659,
+    "pct_1d": -1.09,
+    "pct_1w": 4.76,
+    "pct_1m": 8.16,
+    "rank": 78,
+    "delta": -13,
     "rank_other": 67
   },
   {
-    "ticker": "NUE",
-    "rsl": 1.049,
-    "rank": 127,
-    "delta": 32,
-    "rank_other": 132
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "rsl": 1.0654,
+    "pct_1d": -0.31,
+    "pct_1w": 1.14,
+    "pct_1m": 6.69,
+    "rank": 79,
+    "delta": -1,
+    "rank_other": 235
   },
   {
-    "ticker": "EIX",
-    "rsl": 1.0489,
-    "rank": 128,
-    "delta": 34,
-    "rank_other": 460
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "rsl": 1.0647,
+    "pct_1d": -0.77,
+    "pct_1w": 3.6,
+    "pct_1m": 7.04,
+    "rank": 80,
+    "delta": -5,
+    "rank_other": 46
   },
   {
-    "ticker": "BLK",
-    "rsl": 1.0487,
-    "rank": 129,
-    "delta": 31,
-    "rank_other": 154
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "rsl": 1.0647,
+    "pct_1d": 0.08,
+    "pct_1w": 0.56,
+    "pct_1m": 12.15,
+    "rank": 81,
+    "delta": 8,
+    "rank_other": 56
   },
   {
-    "ticker": "ROL",
-    "rsl": 1.0485,
-    "rank": 130,
-    "delta": 33,
-    "rank_other": 485
+    "ticker": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "rsl": 1.0645,
+    "pct_1d": 0.75,
+    "pct_1w": 6.96,
+    "pct_1m": 5.34,
+    "rank": 82,
+    "delta": -6,
+    "rank_other": 255
   },
   {
-    "ticker": "ODFL",
-    "rsl": 1.0481,
-    "rank": 131,
-    "delta": 24,
-    "rank_other": 422
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "rsl": 1.0643,
+    "pct_1d": -0.81,
+    "pct_1w": 1.29,
+    "pct_1m": 8.29,
+    "rank": 83,
+    "delta": -3,
+    "rank_other": 73
   },
   {
-    "ticker": "EG",
-    "rsl": 1.048,
-    "rank": 132,
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "rsl": 1.0639,
+    "pct_1d": -1.06,
+    "pct_1w": 1.39,
+    "pct_1m": 8.06,
+    "rank": 84,
+    "delta": -10,
+    "rank_other": 162
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "rsl": 1.0638,
+    "pct_1d": -0.06,
+    "pct_1w": 5.76,
+    "pct_1m": 8.83,
+    "rank": 85,
+    "delta": 17,
+    "rank_other": 161
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Staples",
+    "rsl": 1.0635,
+    "pct_1d": -1.09,
+    "pct_1w": 2.15,
+    "pct_1m": 8.77,
+    "rank": 86,
+    "delta": -1,
+    "rank_other": 81
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "sector": "Industrials",
+    "rsl": 1.0634,
+    "pct_1d": -0.61,
+    "pct_1w": 3.18,
+    "pct_1m": 8.62,
+    "rank": 87,
+    "delta": 0,
+    "rank_other": 118
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "rsl": 1.0631,
+    "pct_1d": -0.15,
+    "pct_1w": 2.3,
+    "pct_1m": 11.57,
+    "rank": 88,
+    "delta": -5,
+    "rank_other": 95
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "sector": "Materials",
+    "rsl": 1.0631,
+    "pct_1d": 0.33,
+    "pct_1w": 8.7,
+    "pct_1m": 6.02,
+    "rank": 89,
+    "delta": -3,
+    "rank_other": 345
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "rsl": 1.0629,
+    "pct_1d": -0.77,
+    "pct_1w": 5.56,
+    "pct_1m": 5.44,
+    "rank": 90,
+    "delta": 1,
+    "rank_other": 184
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy",
+    "rsl": 1.0625,
+    "pct_1d": 1.16,
+    "pct_1w": 1.83,
+    "pct_1m": 8.6,
+    "rank": 91,
+    "delta": -3,
+    "rank_other": 142
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "rsl": 1.0618,
+    "pct_1d": -0.01,
+    "pct_1w": 7.27,
+    "pct_1m": 5.97,
+    "rank": 92,
     "delta": 12,
     "rank_other": 112
   },
   {
-    "ticker": "WEC",
-    "rsl": 1.0478,
-    "rank": 133,
-    "delta": 23,
-    "rank_other": 284
-  },
-  {
-    "ticker": "AEP",
-    "rsl": 1.0476,
-    "rank": 134,
-    "delta": 30,
-    "rank_other": 264
-  },
-  {
-    "ticker": "KO",
-    "rsl": 1.0474,
-    "rank": 135,
-    "delta": -8,
-    "rank_other": 87
-  },
-  {
-    "ticker": "HIG",
-    "rsl": 1.0473,
-    "rank": 136,
-    "delta": 3,
-    "rank_other": 239
-  },
-  {
-    "ticker": "LYB",
-    "rsl": 1.0472,
-    "rank": 137,
-    "delta": -7,
-    "rank_other": 261
-  },
-  {
-    "ticker": "FOXA",
-    "rsl": 1.0471,
-    "rank": 138,
-    "delta": 7,
-    "rank_other": 133
-  },
-  {
-    "ticker": "LNT",
-    "rsl": 1.0466,
-    "rank": 139,
-    "delta": 36,
-    "rank_other": 312
-  },
-  {
-    "ticker": "ELV",
-    "rsl": 1.0464,
-    "rank": 140,
-    "delta": -77,
-    "rank_other": 110
-  },
-  {
-    "ticker": "PYPL",
-    "rsl": 1.0462,
-    "rank": 141,
-    "delta": 10,
-    "rank_other": 79
-  },
-  {
-    "ticker": "WST",
-    "rsl": 1.0459,
-    "rank": 142,
-    "delta": 24,
-    "rank_other": 59
-  },
-  {
-    "ticker": "A",
-    "rsl": 1.0456,
-    "rank": 143,
-    "delta": 91,
-    "rank_other": 20
-  },
-  {
-    "ticker": "COO",
-    "rsl": 1.0453,
-    "rank": 144,
-    "delta": -28,
-    "rank_other": 434
-  },
-  {
-    "ticker": "HCA",
-    "rsl": 1.0453,
-    "rank": 145,
-    "delta": -26,
-    "rank_other": 81
-  },
-  {
-    "ticker": "STE",
-    "rsl": 1.0452,
-    "rank": 146,
-    "delta": -29,
-    "rank_other": 211
-  },
-  {
-    "ticker": "AON",
-    "rsl": 1.0451,
-    "rank": 147,
-    "delta": -1,
-    "rank_other": 426
-  },
-  {
-    "ticker": "DRI",
-    "rsl": 1.045,
-    "rank": 148,
-    "delta": -55,
-    "rank_other": 170
-  },
-  {
-    "ticker": "VLTO",
-    "rsl": 1.0449,
-    "rank": 149,
-    "delta": 21,
-    "rank_other": 94
-  },
-  {
-    "ticker": "NKE",
-    "rsl": 1.0448,
-    "rank": 150,
-    "delta": -39,
-    "rank_other": 405
-  },
-  {
-    "ticker": "AIZ",
-    "rsl": 1.044,
-    "rank": 151,
-    "delta": 41,
-    "rank_other": 139
-  },
-  {
-    "ticker": "NCLH",
-    "rsl": 1.044,
-    "rank": 152,
-    "delta": -23,
-    "rank_other": 443
-  },
-  {
-    "ticker": "VTRS",
-    "rsl": 1.044,
-    "rank": 153,
-    "delta": -40,
-    "rank_other": 76
-  },
-  {
-    "ticker": "AMT",
-    "rsl": 1.0439,
-    "rank": 154,
-    "delta": -56,
-    "rank_other": 198
-  },
-  {
-    "ticker": "ATO",
-    "rsl": 1.0439,
-    "rank": 155,
-    "delta": 23,
-    "rank_other": 300
-  },
-  {
-    "ticker": "AEE",
-    "rsl": 1.0438,
-    "rank": 156,
-    "delta": 28,
-    "rank_other": 283
-  },
-  {
-    "ticker": "MDLZ",
-    "rsl": 1.0437,
-    "rank": 157,
-    "delta": -26,
-    "rank_other": 173
-  },
-  {
-    "ticker": "SYY",
-    "rsl": 1.0433,
-    "rank": 158,
-    "delta": -23,
-    "rank_other": 179
-  },
-  {
-    "ticker": "RL",
-    "rsl": 1.0431,
-    "rank": 159,
-    "delta": -18,
-    "rank_other": 226
-  },
-  {
-    "ticker": "LDOS",
-    "rsl": 1.043,
-    "rank": 160,
-    "delta": 42,
-    "rank_other": 216
-  },
-  {
-    "ticker": "DHR",
-    "rsl": 1.0429,
-    "rank": 161,
-    "delta": 117,
-    "rank_other": 46
-  },
-  {
-    "ticker": "LIN",
-    "rsl": 1.0429,
-    "rank": 162,
-    "delta": -9,
-    "rank_other": 249
-  },
-  {
-    "ticker": "IDXX",
-    "rsl": 1.0428,
-    "rank": 163,
-    "delta": -63,
-    "rank_other": 276
-  },
-  {
-    "ticker": "KR",
-    "rsl": 1.0428,
-    "rank": 164,
-    "delta": 26,
-    "rank_other": 180
-  },
-  {
-    "ticker": "PEP",
-    "rsl": 1.0425,
-    "rank": 165,
-    "delta": 33,
-    "rank_other": 327
-  },
-  {
-    "ticker": "AFL",
-    "rsl": 1.0424,
-    "rank": 166,
-    "delta": 10,
-    "rank_other": 219
-  },
-  {
-    "ticker": "FOX",
-    "rsl": 1.0424,
-    "rank": 167,
-    "delta": -9,
-    "rank_other": 145
-  },
-  {
-    "ticker": "VST",
-    "rsl": 1.0424,
-    "rank": 168,
-    "delta": 102,
-    "rank_other": 228
-  },
-  {
-    "ticker": "ACGL",
-    "rsl": 1.0411,
-    "rank": 169,
-    "delta": -29,
-    "rank_other": 195
-  },
-  {
-    "ticker": "ILMN",
-    "rsl": 1.041,
-    "rank": 170,
-    "delta": 114,
-    "rank_other": 5
-  },
-  {
-    "ticker": "MET",
-    "rsl": 1.0406,
-    "rank": 171,
-    "delta": 30,
-    "rank_other": 72
-  },
-  {
-    "ticker": "CINF",
-    "rsl": 1.0405,
-    "rank": 172,
-    "delta": 14,
-    "rank_other": 235
-  },
-  {
-    "ticker": "BBY",
-    "rsl": 1.0404,
-    "rank": 173,
-    "delta": 7,
-    "rank_other": 31
-  },
-  {
-    "ticker": "DIS",
-    "rsl": 1.0404,
-    "rank": 174,
-    "delta": -32,
-    "rank_other": 127
-  },
-  {
-    "ticker": "AXP",
-    "rsl": 1.04,
-    "rank": 175,
-    "delta": 51,
-    "rank_other": 293
-  },
-  {
-    "ticker": "TSLA",
-    "rsl": 1.0397,
-    "rank": 176,
-    "delta": 133,
-    "rank_other": 227
-  },
-  {
-    "ticker": "FIS",
-    "rsl": 1.0396,
-    "rank": 177,
-    "delta": -6,
-    "rank_other": 429
-  },
-  {
-    "ticker": "REGN",
-    "rsl": 1.0392,
-    "rank": 178,
-    "delta": -24,
-    "rank_other": 84
-  },
-  {
-    "ticker": "CB",
-    "rsl": 1.0387,
-    "rank": 179,
-    "delta": -36,
-    "rank_other": 164
-  },
-  {
-    "ticker": "L",
-    "rsl": 1.0387,
-    "rank": 180,
-    "delta": 14,
-    "rank_other": 242
-  },
-  {
-    "ticker": "DUK",
-    "rsl": 1.0385,
-    "rank": 181,
-    "delta": 6,
-    "rank_other": 282
-  },
-  {
-    "ticker": "EQT",
-    "rsl": 1.0383,
-    "rank": 182,
-    "delta": -70,
-    "rank_other": 257
-  },
-  {
-    "ticker": "MDT",
-    "rsl": 1.0383,
-    "rank": 183,
-    "delta": -31,
-    "rank_other": 83
-  },
-  {
-    "ticker": "RVTY",
-    "rsl": 1.0383,
-    "rank": 184,
-    "delta": 16,
-    "rank_other": 11
-  },
-  {
-    "ticker": "DOV",
-    "rsl": 1.0382,
-    "rank": 185,
-    "delta": 22,
-    "rank_other": 351
-  },
-  {
-    "ticker": "AVY",
-    "rsl": 1.0381,
-    "rank": 186,
-    "delta": -1,
-    "rank_other": 136
-  },
-  {
-    "ticker": "ETR",
-    "rsl": 1.038,
-    "rank": 187,
-    "delta": 42,
-    "rank_other": 308
-  },
-  {
-    "ticker": "NWSA",
-    "rsl": 1.0378,
-    "rank": 188,
-    "delta": -20,
-    "rank_other": 101
-  },
-  {
-    "ticker": "GWW",
-    "rsl": 1.0377,
-    "rank": 189,
-    "delta": 0,
-    "rank_other": 196
-  },
-  {
-    "ticker": "WRB",
-    "rsl": 1.0376,
-    "rank": 190,
-    "delta": 5,
-    "rank_other": 152
-  },
-  {
-    "ticker": "SRE",
-    "rsl": 1.0371,
-    "rank": 191,
-    "delta": 26,
-    "rank_other": 353
-  },
-  {
-    "ticker": "SWK",
-    "rsl": 1.0368,
-    "rank": 192,
-    "delta": -18,
-    "rank_other": 131
-  },
-  {
-    "ticker": "MLM",
-    "rsl": 1.0367,
-    "rank": 193,
-    "delta": -2,
-    "rank_other": 410
-  },
-  {
-    "ticker": "EVRG",
-    "rsl": 1.0366,
-    "rank": 194,
-    "delta": 21,
-    "rank_other": 238
-  },
-  {
-    "ticker": "PODD",
-    "rsl": 1.0363,
-    "rank": 195,
-    "delta": -13,
-    "rank_other": 388
-  },
-  {
-    "ticker": "GEHC",
-    "rsl": 1.0362,
-    "rank": 196,
-    "delta": -82,
-    "rank_other": 185
-  },
-  {
-    "ticker": "AOS",
-    "rsl": 1.0357,
-    "rank": 197,
-    "delta": 9,
-    "rank_other": 272
-  },
-  {
-    "ticker": "ZBRA",
-    "rsl": 1.0357,
-    "rank": 198,
-    "delta": 11,
-    "rank_other": 14
-  },
-  {
-    "ticker": "WAT",
-    "rsl": 1.0354,
-    "rank": 199,
-    "delta": 55,
-    "rank_other": 40
-  },
-  {
-    "ticker": "EXPD",
-    "rsl": 1.0351,
-    "rank": 200,
-    "delta": 8,
-    "rank_other": 63
-  },
-  {
-    "ticker": "ALGN",
-    "rsl": 1.0346,
-    "rank": 201,
-    "delta": 22,
-    "rank_other": 420
-  },
-  {
-    "ticker": "EXR",
-    "rsl": 1.0346,
-    "rank": 202,
-    "delta": -30,
-    "rank_other": 288
-  },
-  {
-    "ticker": "TDY",
-    "rsl": 1.0343,
-    "rank": 203,
-    "delta": 19,
-    "rank_other": 248
-  },
-  {
-    "ticker": "NWS",
-    "rsl": 1.034,
-    "rank": 204,
-    "delta": 12,
-    "rank_other": 149
-  },
-  {
-    "ticker": "PCG",
-    "rsl": 1.034,
-    "rank": 205,
-    "delta": 16,
-    "rank_other": 469
-  },
-  {
-    "ticker": "MMM",
-    "rsl": 1.0339,
-    "rank": 206,
-    "delta": -9,
-    "rank_other": 167
-  },
-  {
-    "ticker": "SBUX",
-    "rsl": 1.0338,
-    "rank": 207,
-    "delta": -38,
-    "rank_other": 322
-  },
-  {
-    "ticker": "TMO",
-    "rsl": 1.0338,
-    "rank": 208,
-    "delta": 23,
-    "rank_other": 22
-  },
-  {
-    "ticker": "LOW",
-    "rsl": 1.0337,
-    "rank": 209,
-    "delta": -52,
-    "rank_other": 394
-  },
-  {
-    "ticker": "ORLY",
-    "rsl": 1.0336,
-    "rank": 210,
-    "delta": -49,
-    "rank_other": 266
-  },
-  {
-    "ticker": "ZBH",
-    "rsl": 1.0336,
-    "rank": 211,
-    "delta": -34,
-    "rank_other": 169
-  },
-  {
-    "ticker": "FISV",
-    "rsl": 1.0335,
-    "rank": 212,
-    "delta": -7,
-    "rank_other": 411
-  },
-  {
-    "ticker": "UNP",
-    "rsl": 1.0335,
-    "rank": 213,
-    "delta": 19,
-    "rank_other": 197
-  },
-  {
-    "ticker": "UPS",
-    "rsl": 1.0332,
-    "rank": 214,
-    "delta": 19,
-    "rank_other": 329
-  },
-  {
-    "ticker": "KEY",
-    "rsl": 1.0331,
-    "rank": 215,
-    "delta": 42,
-    "rank_other": 321
-  },
-  {
-    "ticker": "EXC",
-    "rsl": 1.033,
-    "rank": 216,
-    "delta": 4,
-    "rank_other": 316
-  },
-  {
-    "ticker": "LHX",
-    "rsl": 1.0328,
-    "rank": 217,
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "rsl": 1.0617,
+    "pct_1d": -0.36,
+    "pct_1w": 2.64,
+    "pct_1m": 6.61,
+    "rank": 93,
     "delta": 2,
-    "rank_other": 447
+    "rank_other": 49
   },
   {
-    "ticker": "VRSN",
-    "rsl": 1.0328,
-    "rank": 218,
-    "delta": -5,
-    "rank_other": 120
-  },
-  {
-    "ticker": "STLD",
-    "rsl": 1.0323,
-    "rank": 219,
-    "delta": -16,
-    "rank_other": 241
-  },
-  {
-    "ticker": "CMI",
-    "rsl": 1.0322,
-    "rank": 220,
-    "delta": 62,
-    "rank_other": 452
-  },
-  {
-    "ticker": "FTV",
-    "rsl": 1.0322,
-    "rank": 221,
-    "delta": 3,
-    "rank_other": 299
-  },
-  {
-    "ticker": "TRGP",
-    "rsl": 1.0321,
-    "rank": 222,
-    "delta": 27,
-    "rank_other": 118
-  },
-  {
-    "ticker": "EXE",
-    "rsl": 1.032,
-    "rank": 223,
-    "delta": -56,
-    "rank_other": 281
-  },
-  {
-    "ticker": "TDG",
-    "rsl": 1.0319,
-    "rank": 224,
-    "delta": -10,
-    "rank_other": 364
-  },
-  {
-    "ticker": "PPL",
-    "rsl": 1.0318,
-    "rank": 225,
-    "delta": -13,
-    "rank_other": 292
-  },
-  {
-    "ticker": "XYZ",
-    "rsl": 1.0312,
-    "rank": 226,
-    "delta": 36,
-    "rank_other": 206
-  },
-  {
-    "ticker": "IR",
-    "rsl": 1.0311,
-    "rank": 227,
-    "delta": 1,
-    "rank_other": 256
-  },
-  {
-    "ticker": "FITB",
-    "rsl": 1.031,
-    "rank": 228,
-    "delta": 36,
-    "rank_other": 273
-  },
-  {
-    "ticker": "PSA",
-    "rsl": 1.0308,
-    "rank": 229,
-    "delta": -41,
-    "rank_other": 303
-  },
-  {
-    "ticker": "SBAC",
-    "rsl": 1.0308,
-    "rank": 230,
-    "delta": -47,
-    "rank_other": 367
-  },
-  {
-    "ticker": "PGR",
-    "rsl": 1.0303,
-    "rank": 231,
-    "delta": -38,
-    "rank_other": 177
-  },
-  {
-    "ticker": "ECL",
-    "rsl": 1.0302,
-    "rank": 232,
-    "delta": -7,
-    "rank_other": 150
-  },
-  {
-    "ticker": "DPZ",
-    "rsl": 1.03,
-    "rank": 233,
-    "delta": -85,
-    "rank_other": 328
-  },
-  {
-    "ticker": "FICO",
-    "rsl": 1.03,
-    "rank": 234,
-    "delta": 61,
-    "rank_other": 493
-  },
-  {
-    "ticker": "ITW",
-    "rsl": 1.03,
-    "rank": 235,
-    "delta": 3,
-    "rank_other": 202
-  },
-  {
-    "ticker": "NSC",
-    "rsl": 1.0298,
-    "rank": 236,
-    "delta": 9,
-    "rank_other": 234
-  },
-  {
-    "ticker": "MSI",
-    "rsl": 1.0297,
-    "rank": 237,
-    "delta": 42,
-    "rank_other": 126
-  },
-  {
-    "ticker": "OKE",
-    "rsl": 1.0297,
-    "rank": 238,
-    "delta": 17,
-    "rank_other": 184
-  },
-  {
-    "ticker": "UDR",
-    "rsl": 1.0291,
-    "rank": 239,
-    "delta": 48,
-    "rank_other": 362
-  },
-  {
-    "ticker": "DVN",
-    "rsl": 1.0289,
-    "rank": 240,
-    "delta": -44,
-    "rank_other": 116
-  },
-  {
-    "ticker": "LYV",
-    "rsl": 1.0282,
-    "rank": 241,
-    "delta": 6,
-    "rank_other": 236
-  },
-  {
-    "ticker": "DTE",
-    "rsl": 1.028,
-    "rank": 242,
-    "delta": 10,
-    "rank_other": 385
-  },
-  {
-    "ticker": "AWK",
-    "rsl": 1.0277,
-    "rank": 243,
-    "delta": -6,
-    "rank_other": 199
-  },
-  {
-    "ticker": "UHS",
-    "rsl": 1.0276,
-    "rank": 244,
-    "delta": -45,
-    "rank_other": 86
-  },
-  {
-    "ticker": "FERG",
-    "rsl": 1.027,
-    "rank": 245,
-    "delta": 6,
-    "rank_other": 310
-  },
-  {
-    "ticker": "CLX",
-    "rsl": 1.0266,
-    "rank": 246,
-    "delta": -65,
-    "rank_other": 403
-  },
-  {
-    "ticker": "SHW",
-    "rsl": 1.0266,
-    "rank": 247,
-    "delta": -36,
-    "rank_other": 233
-  },
-  {
-    "ticker": "HRL",
-    "rsl": 1.0253,
-    "rank": 248,
-    "delta": -38,
-    "rank_other": 409
-  },
-  {
-    "ticker": "BSX",
-    "rsl": 1.0252,
-    "rank": 249,
-    "delta": -76,
-    "rank_other": 401
-  },
-  {
-    "ticker": "FE",
-    "rsl": 1.0252,
-    "rank": 250,
-    "delta": 3,
-    "rank_other": 290
-  },
-  {
-    "ticker": "AMZN",
-    "rsl": 1.025,
-    "rank": 251,
-    "delta": -47,
-    "rank_other": 229
-  },
-  {
-    "ticker": "DDOG",
-    "rsl": 1.0249,
-    "rank": 252,
-    "delta": 150,
-    "rank_other": 45
-  },
-  {
-    "ticker": "HII",
-    "rsl": 1.0249,
-    "rank": 253,
-    "delta": 48,
-    "rank_other": 407
-  },
-  {
-    "ticker": "NDAQ",
-    "rsl": 1.0247,
-    "rank": 254,
-    "delta": 14,
-    "rank_other": 165
-  },
-  {
-    "ticker": "LH",
-    "rsl": 1.0246,
-    "rank": 255,
-    "delta": -13,
-    "rank_other": 89
-  },
-  {
-    "ticker": "NXPI",
-    "rsl": 1.0243,
-    "rank": 256,
-    "delta": 13,
-    "rank_other": 408
-  },
-  {
-    "ticker": "EMR",
-    "rsl": 1.024,
-    "rank": 257,
-    "delta": 23,
-    "rank_other": 103
-  },
-  {
-    "ticker": "FAST",
-    "rsl": 1.0237,
-    "rank": 258,
-    "delta": 3,
-    "rank_other": 114
-  },
-  {
-    "ticker": "PPG",
-    "rsl": 1.0235,
-    "rank": 259,
-    "delta": -11,
-    "rank_other": 313
-  },
-  {
-    "ticker": "WELL",
-    "rsl": 1.0235,
-    "rank": 260,
-    "delta": -42,
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "rsl": 1.0615,
+    "pct_1d": 0.46,
+    "pct_1w": 2.65,
+    "pct_1m": 8.34,
+    "rank": 94,
+    "delta": -2,
     "rank_other": 176
   },
   {
-    "ticker": "CPT",
-    "rsl": 1.0234,
-    "rank": 261,
-    "delta": 15,
-    "rank_other": 363
-  },
-  {
-    "ticker": "HSY",
-    "rsl": 1.0233,
-    "rank": 262,
-    "delta": -16,
-    "rank_other": 356
-  },
-  {
-    "ticker": "JKHY",
-    "rsl": 1.0233,
-    "rank": 263,
-    "delta": -33,
-    "rank_other": 192
-  },
-  {
-    "ticker": "DD",
-    "rsl": 1.0229,
-    "rank": 264,
-    "delta": 10,
-    "rank_other": 319
-  },
-  {
-    "ticker": "GRMN",
-    "rsl": 1.0226,
-    "rank": 265,
-    "delta": -30,
-    "rank_other": 96
-  },
-  {
-    "ticker": "PLTR",
-    "rsl": 1.0225,
-    "rank": 266,
-    "delta": 51,
-    "rank_other": 18
-  },
-  {
-    "ticker": "GD",
-    "rsl": 1.0216,
-    "rank": 267,
-    "delta": 18,
-    "rank_other": 309
-  },
-  {
-    "ticker": "VMRK",
-    "rsl": 1.0213,
-    "rank": 268,
-    "delta": 28,
-    "rank_other": 331
-  },
-  {
-    "ticker": "PEG",
-    "rsl": 1.0212,
-    "rank": 269,
-    "delta": 17,
-    "rank_other": 378
-  },
-  {
-    "ticker": "CRM",
-    "rsl": 1.0212,
-    "rank": 270,
-    "delta": -26,
-    "rank_other": 26
-  },
-  {
-    "ticker": "TT",
-    "rsl": 1.0209,
-    "rank": 271,
-    "delta": 29,
-    "rank_other": 263
-  },
-  {
-    "ticker": "CPAY",
-    "rsl": 1.0207,
-    "rank": 272,
-    "delta": -9,
-    "rank_other": 98
-  },
-  {
-    "ticker": "MSFT",
-    "rsl": 1.0206,
-    "rank": 273,
-    "delta": -32,
-    "rank_other": 38
-  },
-  {
-    "ticker": "WMB",
-    "rsl": 1.0206,
-    "rank": 274,
-    "delta": 99,
-    "rank_other": 268
-  },
-  {
-    "ticker": "FFIV",
-    "rsl": 1.0203,
-    "rank": 275,
-    "delta": 38,
-    "rank_other": 53
-  },
-  {
-    "ticker": "KHC",
-    "rsl": 1.0198,
-    "rank": 276,
-    "delta": -16,
-    "rank_other": 274
-  },
-  {
-    "ticker": "XYL",
-    "rsl": 1.0198,
-    "rank": 277,
-    "delta": 38,
-    "rank_other": 375
-  },
-  {
-    "ticker": "FDX",
-    "rsl": 1.0197,
-    "rank": 278,
-    "delta": -1,
-    "rank_other": 350
-  },
-  {
-    "ticker": "MCD",
-    "rsl": 1.0196,
-    "rank": 279,
-    "delta": -43,
-    "rank_other": 418
-  },
-  {
-    "ticker": "CRH",
-    "rsl": 1.0195,
-    "rank": 280,
-    "delta": 9,
-    "rank_other": 461
-  },
-  {
-    "ticker": "USB",
-    "rsl": 1.0195,
-    "rank": 281,
-    "delta": 13,
-    "rank_other": 260
-  },
-  {
-    "ticker": "ICE",
-    "rsl": 1.0194,
-    "rank": 282,
-    "delta": -16,
-    "rank_other": 158
-  },
-  {
-    "ticker": "PKG",
-    "rsl": 1.0193,
-    "rank": 283,
-    "delta": -27,
-    "rank_other": 205
-  },
-  {
-    "ticker": "HON",
-    "rsl": 1.0186,
-    "rank": 284,
-    "delta": 15,
-    "rank_other": 358
-  },
-  {
-    "ticker": "ALLE",
-    "rsl": 1.0185,
-    "rank": 285,
-    "delta": -20,
-    "rank_other": 129
-  },
-  {
-    "ticker": "RDDT",
-    "rsl": 1.0184,
-    "rank": 286,
-    "delta": 4,
-    "rank_other": 346
-  },
-  {
-    "ticker": "CARR",
-    "rsl": 1.0183,
-    "rank": 287,
-    "delta": 1,
-    "rank_other": 436
-  },
-  {
-    "ticker": "HAL",
-    "rsl": 1.018,
-    "rank": 288,
-    "delta": -13,
-    "rank_other": 386
-  },
-  {
-    "ticker": "RF",
-    "rsl": 1.0177,
-    "rank": 289,
-    "delta": 19,
-    "rank_other": 323
-  },
-  {
-    "ticker": "RTX",
-    "rsl": 1.0175,
-    "rank": 290,
-    "delta": -31,
-    "rank_other": 275
-  },
-  {
-    "ticker": "CSX",
-    "rsl": 1.0173,
-    "rank": 291,
-    "delta": 14,
-    "rank_other": 251
-  },
-  {
-    "ticker": "GL",
-    "rsl": 1.0169,
-    "rank": 292,
-    "delta": 19,
-    "rank_other": 237
-  },
-  {
-    "ticker": "KIM",
-    "rsl": 1.0168,
-    "rank": 293,
-    "delta": -43,
-    "rank_other": 336
-  },
-  {
-    "ticker": "VTR",
-    "rsl": 1.0152,
-    "rank": 294,
-    "delta": -11,
-    "rank_other": 298
-  },
-  {
-    "ticker": "BAX",
-    "rsl": 1.0149,
-    "rank": 295,
-    "delta": -24,
-    "rank_other": 109
-  },
-  {
-    "ticker": "PM",
-    "rsl": 1.0147,
-    "rank": 296,
-    "delta": -69,
-    "rank_other": 137
-  },
-  {
-    "ticker": "MRK",
-    "rsl": 1.0143,
-    "rank": 297,
+    "ticker": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "rsl": 1.0605,
+    "pct_1d": -0.14,
+    "pct_1w": 3.29,
+    "pct_1m": 5.66,
+    "rank": 95,
     "delta": -5,
-    "rank_other": 58
+    "rank_other": 197
   },
   {
-    "ticker": "ROST",
-    "rsl": 1.0142,
-    "rank": 298,
-    "delta": -58,
-    "rank_other": 231
-  },
-  {
-    "ticker": "ISRG",
-    "rsl": 1.0139,
-    "rank": 299,
-    "delta": -216,
-    "rank_other": 207
-  },
-  {
-    "ticker": "ADI",
-    "rsl": 1.0136,
-    "rank": 300,
-    "delta": 39,
-    "rank_other": 220
-  },
-  {
-    "ticker": "APTV",
-    "rsl": 1.0136,
-    "rank": 301,
-    "delta": -34,
-    "rank_other": 475
-  },
-  {
-    "ticker": "DHI",
-    "rsl": 1.0135,
-    "rank": 302,
-    "delta": -11,
-    "rank_other": 360
-  },
-  {
-    "ticker": "P",
-    "rsl": 1.0133,
-    "rank": 303,
-    "delta": 95,
-    "rank_other": 4
-  },
-  {
-    "ticker": "MKC",
-    "rsl": 1.013,
-    "rank": 304,
-    "delta": -32,
-    "rank_other": 345
-  },
-  {
-    "ticker": "IEX",
-    "rsl": 1.0127,
-    "rank": 305,
-    "delta": 7,
-    "rank_other": 166
-  },
-  {
-    "ticker": "SNPS",
-    "rsl": 1.0125,
-    "rank": 306,
-    "delta": 41,
-    "rank_other": 223
-  },
-  {
-    "ticker": "TXN",
-    "rsl": 1.0124,
-    "rank": 307,
-    "delta": 45,
-    "rank_other": 278
-  },
-  {
-    "ticker": "IQV",
-    "rsl": 1.0123,
-    "rank": 308,
-    "delta": 18,
-    "rank_other": 25
-  },
-  {
-    "ticker": "LULU",
-    "rsl": 1.012,
-    "rank": 309,
-    "delta": -66,
-    "rank_other": 468
-  },
-  {
-    "ticker": "HONA",
-    "rsl": 1.0119,
-    "rank": 310,
-    "delta": 32,
-    "rank_other": "-"
-  },
-  {
-    "ticker": "D",
-    "rsl": 1.0113,
-    "rank": 311,
-    "delta": -4,
-    "rank_other": 335
-  },
-  {
-    "ticker": "MAA",
-    "rsl": 1.0113,
-    "rank": 312,
-    "delta": 9,
-    "rank_other": 397
-  },
-  {
-    "ticker": "AAPL",
-    "rsl": 1.0109,
-    "rank": 313,
-    "delta": 14,
-    "rank_other": 102
-  },
-  {
-    "ticker": "HBAN",
-    "rsl": 1.0107,
-    "rank": 314,
-    "delta": 20,
-    "rank_other": 374
-  },
-  {
-    "ticker": "SPG",
-    "rsl": 1.0103,
-    "rank": 315,
-    "delta": -42,
-    "rank_other": 302
-  },
-  {
-    "ticker": "BMY",
-    "rsl": 1.0102,
-    "rank": 316,
-    "delta": -19,
-    "rank_other": 214
-  },
-  {
-    "ticker": "DGX",
-    "rsl": 1.0101,
-    "rank": 317,
-    "delta": 7,
-    "rank_other": 100
-  },
-  {
-    "ticker": "O",
-    "rsl": 1.0101,
-    "rank": 318,
-    "delta": -37,
-    "rank_other": 399
-  },
-  {
-    "ticker": "ECHO",
-    "rsl": 1.01,
-    "rank": 319,
-    "delta": 136,
-    "rank_other": 430
-  },
-  {
-    "ticker": "MCO",
-    "rsl": 1.0098,
-    "rank": 320,
-    "delta": -62,
-    "rank_other": 262
-  },
-  {
-    "ticker": "NDSN",
-    "rsl": 1.0097,
-    "rank": 321,
-    "delta": 4,
-    "rank_other": 105
-  },
-  {
-    "ticker": "CPRT",
-    "rsl": 1.0096,
-    "rank": 322,
-    "delta": 29,
-    "rank_other": 413
-  },
-  {
-    "ticker": "URI",
-    "rsl": 1.0096,
-    "rank": 323,
-    "delta": 5,
-    "rank_other": 247
-  },
-  {
-    "ticker": "CMCSA",
-    "rsl": 1.0093,
-    "rank": 324,
-    "delta": -85,
-    "rank_other": 424
-  },
-  {
-    "ticker": "ESS",
-    "rsl": 1.0092,
-    "rank": 325,
-    "delta": -2,
-    "rank_other": 287
-  },
-  {
-    "ticker": "GILD",
-    "rsl": 1.0092,
-    "rank": 326,
-    "delta": -147,
-    "rank_other": 85
-  },
-  {
-    "ticker": "LII",
-    "rsl": 1.0089,
-    "rank": 327,
-    "delta": -9,
-    "rank_other": 486
-  },
-  {
-    "ticker": "NEE",
-    "rsl": 1.0089,
-    "rank": 328,
-    "delta": -14,
-    "rank_other": 404
-  },
-  {
-    "ticker": "TFC",
-    "rsl": 1.0087,
-    "rank": 329,
-    "delta": 0,
-    "rank_other": 339
-  },
-  {
-    "ticker": "INVH",
-    "rsl": 1.0084,
-    "rank": 330,
-    "delta": -26,
-    "rank_other": 369
-  },
-  {
-    "ticker": "TSCO",
-    "rsl": 1.0073,
-    "rank": 331,
-    "delta": -21,
-    "rank_other": 243
-  },
-  {
-    "ticker": "MCHP",
-    "rsl": 1.0071,
-    "rank": 332,
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "rsl": 1.0602,
+    "pct_1d": 0.29,
+    "pct_1w": 2.78,
+    "pct_1m": 10.03,
+    "rank": 96,
     "delta": 12,
-    "rank_other": 416
-  },
-  {
-    "ticker": "GPN",
-    "rsl": 1.0064,
-    "rank": 333,
-    "delta": -30,
-    "rank_other": 146
-  },
-  {
-    "ticker": "AME",
-    "rsl": 1.0061,
-    "rank": 334,
-    "delta": 7,
-    "rank_other": 175
-  },
-  {
-    "ticker": "VRTX",
-    "rsl": 1.0061,
-    "rank": 335,
-    "delta": -13,
-    "rank_other": 148
-  },
-  {
-    "ticker": "SLB",
-    "rsl": 1.0059,
-    "rank": 336,
-    "delta": 21,
-    "rank_other": 318
-  },
-  {
-    "ticker": "EW",
-    "rsl": 1.0058,
-    "rank": 337,
-    "delta": -44,
-    "rank_other": 259
-  },
-  {
-    "ticker": "J",
-    "rsl": 1.0058,
-    "rank": 338,
-    "delta": 17,
-    "rank_other": 155
-  },
-  {
-    "ticker": "TPR",
-    "rsl": 1.0058,
-    "rank": 339,
-    "delta": -37,
-    "rank_other": 456
-  },
-  {
-    "ticker": "TTWO",
-    "rsl": 1.0051,
-    "rank": 340,
-    "delta": -2,
-    "rank_other": 417
-  },
-  {
-    "ticker": "TXT",
-    "rsl": 1.0051,
-    "rank": 341,
-    "delta": -10,
-    "rank_other": 439
-  },
-  {
-    "ticker": "PNC",
-    "rsl": 1.0046,
-    "rank": 342,
-    "delta": 11,
-    "rank_other": 342
-  },
-  {
-    "ticker": "WAB",
-    "rsl": 1.0037,
-    "rank": 343,
-    "delta": 23,
-    "rank_other": 209
-  },
-  {
-    "ticker": "JCI",
-    "rsl": 1.0035,
-    "rank": 344,
-    "delta": 26,
-    "rank_other": 182
-  },
-  {
-    "ticker": "AES",
-    "rsl": 1.0034,
-    "rank": 345,
-    "delta": -10,
-    "rank_other": 221
-  },
-  {
-    "ticker": "IRM",
-    "rsl": 1.0032,
-    "rank": 346,
-    "delta": 8,
-    "rank_other": 370
-  },
-  {
-    "ticker": "CBRE",
-    "rsl": 1.0031,
-    "rank": 347,
-    "delta": -15,
-    "rank_other": 338
-  },
-  {
-    "ticker": "SYF",
-    "rsl": 1.0031,
-    "rank": 348,
-    "delta": -15,
-    "rank_other": 301
-  },
-  {
-    "ticker": "NTAP",
-    "rsl": 1.0024,
-    "rank": 349,
-    "delta": 18,
-    "rank_other": 19
-  },
-  {
-    "ticker": "CDNS",
-    "rsl": 1.0023,
-    "rank": 350,
-    "delta": 30,
-    "rank_other": 359
-  },
-  {
-    "ticker": "GIS",
-    "rsl": 1.0022,
-    "rank": 351,
-    "delta": -32,
-    "rank_other": 349
-  },
-  {
-    "ticker": "REG",
-    "rsl": 1.002,
-    "rank": 352,
-    "delta": -36,
-    "rank_other": 361
-  },
-  {
-    "ticker": "ON",
-    "rsl": 1.0018,
-    "rank": 353,
-    "delta": 3,
-    "rank_other": 473
-  },
-  {
-    "ticker": "IP",
-    "rsl": 1.0017,
-    "rank": 354,
-    "delta": -24,
-    "rank_other": 379
-  },
-  {
-    "ticker": "ES",
-    "rsl": 1.0009,
-    "rank": 355,
-    "delta": -7,
-    "rank_other": 357
-  },
-  {
-    "ticker": "LEN",
-    "rsl": 1.0009,
-    "rank": 356,
-    "delta": -20,
-    "rank_other": 400
-  },
-  {
-    "ticker": "TECH",
-    "rsl": 1.0007,
-    "rank": 357,
-    "delta": -12,
-    "rank_other": 78
-  },
-  {
-    "ticker": "SNA",
-    "rsl": 1.0002,
-    "rank": 358,
-    "delta": -8,
-    "rank_other": 343
-  },
-  {
-    "ticker": "CFG",
-    "rsl": 0.9995,
-    "rank": 359,
-    "delta": 4,
-    "rank_other": 337
-  },
-  {
-    "ticker": "GEN",
-    "rsl": 0.9993,
-    "rank": 360,
-    "delta": 33,
-    "rank_other": 354
-  },
-  {
-    "ticker": "BA",
-    "rsl": 0.9991,
-    "rank": 361,
-    "delta": 16,
-    "rank_other": 438
-  },
-  {
-    "ticker": "TPL",
-    "rsl": 0.9983,
-    "rank": 362,
-    "delta": 32,
-    "rank_other": 423
-  },
-  {
-    "ticker": "VICI",
-    "rsl": 0.9971,
-    "rank": 363,
-    "delta": -23,
-    "rank_other": 433
-  },
-  {
-    "ticker": "MTB",
-    "rsl": 0.9969,
-    "rank": 364,
-    "delta": 1,
-    "rank_other": 341
-  },
-  {
-    "ticker": "BNY",
-    "rsl": 0.9964,
-    "rank": 365,
-    "delta": 22,
-    "rank_other": 296
-  },
-  {
-    "ticker": "ROK",
-    "rsl": 0.9964,
-    "rank": 366,
-    "delta": -2,
-    "rank_other": 314
-  },
-  {
-    "ticker": "PRU",
-    "rsl": 0.9955,
-    "rank": 367,
-    "delta": -18,
-    "rank_other": 194
-  },
-  {
-    "ticker": "TEL",
-    "rsl": 0.9955,
-    "rank": 368,
-    "delta": -25,
-    "rank_other": 230
-  },
-  {
-    "ticker": "HUBB",
-    "rsl": 0.9941,
-    "rank": 369,
-    "delta": 2,
-    "rank_other": 355
-  },
-  {
-    "ticker": "JPM",
-    "rsl": 0.9936,
-    "rank": 370,
-    "delta": -12,
-    "rank_other": 252
-  },
-  {
-    "ticker": "CF",
-    "rsl": 0.9934,
-    "rank": 371,
-    "delta": 4,
-    "rank_other": 289
-  },
-  {
-    "ticker": "ARES",
-    "rsl": 0.9933,
-    "rank": 372,
-    "delta": 25,
-    "rank_other": 376
-  },
-  {
-    "ticker": "WFC",
-    "rsl": 0.9933,
-    "rank": 373,
-    "delta": -13,
-    "rank_other": 291
-  },
-  {
-    "ticker": "LVS",
-    "rsl": 0.9907,
-    "rank": 374,
-    "delta": -28,
-    "rank_other": 479
-  },
-  {
-    "ticker": "PCAR",
-    "rsl": 0.9903,
-    "rank": 375,
-    "delta": 1,
-    "rank_other": 414
-  },
-  {
-    "ticker": "BKR",
-    "rsl": 0.9902,
-    "rank": 376,
-    "delta": 5,
-    "rank_other": 402
-  },
-  {
-    "ticker": "PH",
-    "rsl": 0.9902,
-    "rank": 377,
-    "delta": 5,
-    "rank_other": 270
-  },
-  {
-    "ticker": "TKO",
-    "rsl": 0.9878,
-    "rank": 378,
-    "delta": -16,
-    "rank_other": 371
-  },
-  {
-    "ticker": "PNR",
-    "rsl": 0.9874,
-    "rank": 379,
-    "delta": 6,
-    "rank_other": 489
-  },
-  {
-    "ticker": "PHM",
-    "rsl": 0.9874,
-    "rank": 380,
-    "delta": -8,
-    "rank_other": 391
-  },
-  {
-    "ticker": "NEM",
-    "rsl": 0.9871,
-    "rank": 381,
-    "delta": 2,
-    "rank_other": 157
-  },
-  {
-    "ticker": "BKNG",
-    "rsl": 0.9868,
-    "rank": 382,
-    "delta": -62,
-    "rank_other": 431
-  },
-  {
-    "ticker": "NVR",
-    "rsl": 0.9868,
-    "rank": 383,
-    "delta": 1,
-    "rank_other": 366
-  },
-  {
-    "ticker": "DASH",
-    "rsl": 0.9865,
-    "rank": 384,
-    "delta": -47,
-    "rank_other": 255
-  },
-  {
-    "ticker": "JBHT",
-    "rsl": 0.9863,
-    "rank": 385,
-    "delta": 16,
-    "rank_other": 458
-  },
-  {
-    "ticker": "HSIC",
-    "rsl": 0.986,
-    "rank": 386,
-    "delta": -27,
-    "rank_other": 240
-  },
-  {
-    "ticker": "FRT",
-    "rsl": 0.9859,
-    "rank": 387,
-    "delta": -18,
-    "rank_other": 415
-  },
-  {
-    "ticker": "HPQ",
-    "rsl": 0.9856,
-    "rank": 388,
-    "delta": 1,
-    "rank_other": 43
-  },
-  {
-    "ticker": "TROW",
-    "rsl": 0.9851,
-    "rank": 389,
-    "delta": -11,
-    "rank_other": 348
-  },
-  {
-    "ticker": "TGT",
-    "rsl": 0.9851,
-    "rank": 390,
-    "delta": -22,
-    "rank_other": 115
-  },
-  {
-    "ticker": "GS",
-    "rsl": 0.9828,
-    "rank": 391,
-    "delta": 16,
-    "rank_other": 432
-  },
-  {
-    "ticker": "SOLV",
-    "rsl": 0.9825,
-    "rank": 392,
-    "delta": -6,
-    "rank_other": 156
-  },
-  {
-    "ticker": "ABT",
-    "rsl": 0.982,
-    "rank": 393,
-    "delta": -95,
-    "rank_other": 225
-  },
-  {
-    "ticker": "RJF",
-    "rsl": 0.9809,
-    "rank": 394,
-    "delta": 9,
-    "rank_other": 333
-  },
-  {
-    "ticker": "PLD",
-    "rsl": 0.9807,
-    "rank": 395,
-    "delta": 9,
-    "rank_other": 396
-  },
-  {
-    "ticker": "DLR",
-    "rsl": 0.98,
-    "rank": 396,
-    "delta": -1,
-    "rank_other": 380
-  },
-  {
-    "ticker": "GE",
-    "rsl": 0.98,
-    "rank": 397,
-    "delta": 28,
-    "rank_other": 395
-  },
-  {
-    "ticker": "UBER",
-    "rsl": 0.9796,
-    "rank": 398,
-    "delta": -19,
-    "rank_other": 381
-  },
-  {
-    "ticker": "ADM",
-    "rsl": 0.9783,
-    "rank": 399,
+    "rank_other": 179
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "rsl": 1.06,
+    "pct_1d": -1.1,
+    "pct_1w": 1.47,
+    "pct_1m": 8.46,
+    "rank": 97,
     "delta": -3,
-    "rank_other": 254
+    "rank_other": 35
   },
   {
-    "ticker": "CEG",
-    "rsl": 0.9783,
-    "rank": 400,
-    "delta": 37,
-    "rank_other": 320
-  },
-  {
-    "ticker": "META",
-    "rsl": 0.9782,
-    "rank": 401,
-    "delta": 27,
-    "rank_other": 75
-  },
-  {
-    "ticker": "NTRS",
-    "rsl": 0.9779,
-    "rank": 402,
-    "delta": 13,
-    "rank_other": 347
-  },
-  {
-    "ticker": "BEN",
-    "rsl": 0.9762,
-    "rank": 403,
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0599,
+    "pct_1d": -0.46,
+    "pct_1w": 6.14,
+    "pct_1m": 2.72,
+    "rank": 98,
     "delta": 3,
     "rank_other": 304
   },
   {
-    "ticker": "WYNN",
-    "rsl": 0.9761,
-    "rank": 404,
-    "delta": -14,
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Materials",
+    "rsl": 1.0594,
+    "pct_1d": -0.13,
+    "pct_1w": 1.66,
+    "pct_1m": 6.18,
+    "rank": 99,
+    "delta": -3,
+    "rank_other": 64
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "rsl": 1.0589,
+    "pct_1d": -0.91,
+    "pct_1w": 3.87,
+    "pct_1m": 7.79,
+    "rank": 100,
+    "delta": -7,
+    "rank_other": 279
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "sector": "Health Care",
+    "rsl": 1.0588,
+    "pct_1d": -2.32,
+    "pct_1w": 5.58,
+    "pct_1m": 8.43,
+    "rank": 101,
+    "delta": 4,
+    "rank_other": 330
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0582,
+    "pct_1d": -0.91,
+    "pct_1w": 2.41,
+    "pct_1m": 7.52,
+    "rank": 102,
+    "delta": 5,
+    "rank_other": 270
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "sector": "Utilities",
+    "rsl": 1.058,
+    "pct_1d": 0.33,
+    "pct_1w": 3.97,
+    "pct_1m": 7.57,
+    "rank": 103,
+    "delta": -3,
+    "rank_other": 319
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "rsl": 1.0576,
+    "pct_1d": -0.46,
+    "pct_1w": 0.82,
+    "pct_1m": 10.07,
+    "rank": 104,
+    "delta": -6,
+    "rank_other": 206
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.0576,
+    "pct_1d": 0.47,
+    "pct_1w": 5.61,
+    "pct_1m": 5.25,
+    "rank": 105,
+    "delta": 7,
+    "rank_other": 117
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.0575,
+    "pct_1d": -0.14,
+    "pct_1w": 6.51,
+    "pct_1m": 7.6,
+    "rank": 106,
+    "delta": -3,
+    "rank_other": 171
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Industrials",
+    "rsl": 1.0572,
+    "pct_1d": 0.08,
+    "pct_1w": 4.0,
+    "pct_1m": -1.59,
+    "rank": 107,
+    "delta": 11,
+    "rank_other": 148
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "rsl": 1.0567,
+    "pct_1d": 4.3,
+    "pct_1w": 8.17,
+    "pct_1m": 4.83,
+    "rank": 108,
+    "delta": 16,
+    "rank_other": 178
+  },
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "rsl": 1.056,
+    "pct_1d": 0.43,
+    "pct_1w": 3.0,
+    "pct_1m": 7.68,
+    "rank": 109,
+    "delta": 2,
+    "rank_other": 113
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "rsl": 1.0557,
+    "pct_1d": 0.37,
+    "pct_1w": 2.98,
+    "pct_1m": 6.29,
+    "rank": 110,
+    "delta": 12,
+    "rank_other": 37
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Health Care",
+    "rsl": 1.0557,
+    "pct_1d": 1.19,
+    "pct_1w": 5.01,
+    "pct_1m": 6.02,
+    "rank": 111,
+    "delta": 31,
+    "rank_other": 57
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "rsl": 1.0554,
+    "pct_1d": 0.22,
+    "pct_1w": 1.98,
+    "pct_1m": 6.65,
+    "rank": 112,
+    "delta": -2,
+    "rank_other": 274
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0552,
+    "pct_1d": -1.68,
+    "pct_1w": 3.72,
+    "pct_1m": 7.6,
+    "rank": 113,
+    "delta": 0,
+    "rank_other": 439
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "rsl": 1.0545,
+    "pct_1d": 0.56,
+    "pct_1w": 1.98,
+    "pct_1m": 6.91,
+    "rank": 114,
+    "delta": 2,
+    "rank_other": 296
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "rsl": 1.0544,
+    "pct_1d": 1.16,
+    "pct_1w": -4.64,
+    "pct_1m": 16.25,
+    "rank": 115,
+    "delta": 4,
+    "rank_other": 6
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "rsl": 1.0542,
+    "pct_1d": 0.16,
+    "pct_1w": 5.96,
+    "pct_1m": 3.61,
+    "rank": 116,
+    "delta": 1,
+    "rank_other": 139
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "sector": "Consumer Staples",
+    "rsl": 1.0542,
+    "pct_1d": -1.21,
+    "pct_1w": 5.14,
+    "pct_1m": 5.77,
+    "rank": 117,
+    "delta": -20,
+    "rank_other": 70
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "sector": "Health Care",
+    "rsl": 1.0541,
+    "pct_1d": -0.16,
+    "pct_1w": 6.77,
+    "pct_1m": 8.38,
+    "rank": 118,
+    "delta": 35,
+    "rank_other": 75
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "rsl": 1.0534,
+    "pct_1d": 0.55,
+    "pct_1w": 2.42,
+    "pct_1m": 8.63,
+    "rank": 119,
+    "delta": 22,
+    "rank_other": 77
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "sector": "Industrials",
+    "rsl": 1.0532,
+    "pct_1d": 0.56,
+    "pct_1w": 2.72,
+    "pct_1m": 6.81,
+    "rank": 120,
+    "delta": 11,
+    "rank_other": 417
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "rsl": 1.0528,
+    "pct_1d": -0.77,
+    "pct_1w": 1.0,
+    "pct_1m": 6.67,
+    "rank": 121,
+    "delta": -6,
+    "rank_other": 126
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "rsl": 1.0527,
+    "pct_1d": -0.16,
+    "pct_1w": 1.97,
+    "pct_1m": 6.7,
+    "rank": 122,
+    "delta": -16,
+    "rank_other": 337
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "sector": "Health Care",
+    "rsl": 1.0523,
+    "pct_1d": -0.66,
+    "pct_1w": 2.4,
+    "pct_1m": 7.09,
+    "rank": 123,
+    "delta": 3,
+    "rank_other": 68
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0522,
+    "pct_1d": -0.69,
+    "pct_1w": 6.57,
+    "pct_1m": 4.21,
+    "rank": 124,
+    "delta": 26,
+    "rank_other": 401
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "sector": "Financials",
+    "rsl": 1.052,
+    "pct_1d": -0.07,
+    "pct_1w": 3.29,
+    "pct_1m": 5.88,
+    "rank": 125,
+    "delta": 11,
+    "rank_other": 239
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "rsl": 1.0519,
+    "pct_1d": -0.83,
+    "pct_1w": 1.22,
+    "pct_1m": 7.84,
+    "rank": 126,
+    "delta": -27,
+    "rank_other": 135
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "sector": "Materials",
+    "rsl": 1.0517,
+    "pct_1d": 0.44,
+    "pct_1w": 2.16,
+    "pct_1m": 7.17,
+    "rank": 127,
+    "delta": 0,
+    "rank_other": 130
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "rsl": 1.0513,
+    "pct_1d": 0.13,
+    "pct_1w": 4.86,
+    "pct_1m": 6.13,
+    "rank": 128,
+    "delta": 4,
+    "rank_other": 109
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "rsl": 1.0506,
+    "pct_1d": -0.54,
+    "pct_1w": 2.89,
+    "pct_1m": 7.08,
+    "rank": 129,
+    "delta": -15,
+    "rank_other": 196
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "rsl": 1.0505,
+    "pct_1d": -0.39,
+    "pct_1w": 1.1,
+    "pct_1m": 6.12,
+    "rank": 130,
+    "delta": -7,
+    "rank_other": 282
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "rsl": 1.0504,
+    "pct_1d": -1.01,
+    "pct_1w": 4.4,
+    "pct_1m": 5.9,
+    "rank": 131,
+    "delta": 32,
+    "rank_other": 260
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "rsl": 1.0502,
+    "pct_1d": 0.12,
+    "pct_1w": 2.51,
+    "pct_1m": 6.58,
+    "rank": 132,
+    "delta": -7,
+    "rank_other": 324
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "sector": "Industrials",
+    "rsl": 1.05,
+    "pct_1d": 0.27,
+    "pct_1w": 2.45,
+    "pct_1m": 1.73,
+    "rank": 133,
+    "delta": -3,
     "rank_other": 483
   },
   {
-    "ticker": "INCY",
-    "rsl": 0.9757,
-    "rank": 405,
-    "delta": -17,
-    "rank_other": 210
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "rsl": 1.0498,
+    "pct_1d": 0.49,
+    "pct_1w": 5.62,
+    "pct_1m": 6.33,
+    "rank": 134,
+    "delta": -5,
+    "rank_other": 152
   },
   {
-    "ticker": "JNJ",
-    "rsl": 0.9755,
-    "rank": 406,
-    "delta": -32,
-    "rank_other": 218
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0494,
+    "pct_1d": 0.24,
+    "pct_1w": 1.08,
+    "pct_1m": 9.92,
+    "rank": 135,
+    "delta": 24,
+    "rank_other": 217
   },
   {
-    "ticker": "AMP",
-    "rsl": 0.975,
-    "rank": 407,
-    "delta": 11,
-    "rank_other": 311
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "rsl": 1.0491,
+    "pct_1d": 0.49,
+    "pct_1w": 1.36,
+    "pct_1m": 6.29,
+    "rank": 136,
+    "delta": -2,
+    "rank_other": 266
   },
   {
-    "ticker": "DVA",
-    "rsl": 0.9748,
-    "rank": 408,
-    "delta": 3,
-    "rank_other": 419
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "sector": "Health Care",
+    "rsl": 1.0486,
+    "pct_1d": -0.61,
+    "pct_1w": 7.07,
+    "pct_1m": 6.28,
+    "rank": 137,
+    "delta": 7,
+    "rank_other": 430
   },
   {
-    "ticker": "CSCO",
-    "rsl": 0.9746,
-    "rank": 409,
-    "delta": 4,
-    "rank_other": 317
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "sector": "Materials",
+    "rsl": 1.0486,
+    "pct_1d": -1.92,
+    "pct_1w": 3.12,
+    "pct_1m": 6.74,
+    "rank": 138,
+    "delta": -29,
+    "rank_other": 351
   },
   {
-    "ticker": "KKR",
-    "rsl": 0.9742,
-    "rank": 410,
-    "delta": 13,
-    "rank_other": 421
+    "ticker": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "rsl": 1.0482,
+    "pct_1d": -0.43,
+    "pct_1w": 7.3,
+    "pct_1m": 3.27,
+    "rank": 139,
+    "delta": 8,
+    "rank_other": 425
   },
   {
-    "ticker": "WY",
-    "rsl": 0.9739,
-    "rank": 411,
-    "delta": -11,
-    "rank_other": 471
+    "ticker": "BF-B",
+    "name": "Brown\u2013Forman",
+    "sector": "Consumer Staples",
+    "rsl": 1.0479,
+    "pct_1d": -0.21,
+    "pct_1w": -0.88,
+    "pct_1m": 5.57,
+    "rank": 140,
+    "delta": -20,
+    "rank_other": 167
   },
   {
-    "ticker": "Q",
-    "rsl": 0.9731,
-    "rank": 412,
-    "delta": 20,
-    "rank_other": 457
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "rsl": 1.0478,
+    "pct_1d": 0.59,
+    "pct_1w": 1.72,
+    "pct_1m": 6.27,
+    "rank": 141,
+    "delta": -2,
+    "rank_other": 314
   },
   {
-    "ticker": "BXP",
-    "rsl": 0.973,
-    "rank": 413,
-    "delta": -8,
-    "rank_other": 389
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "sector": "Utilities",
+    "rsl": 1.0478,
+    "pct_1d": 0.1,
+    "pct_1w": 1.98,
+    "pct_1m": 5.86,
+    "rank": 142,
+    "delta": -9,
+    "rank_other": 281
   },
   {
-    "ticker": "LUV",
-    "rsl": 0.9727,
-    "rank": 414,
-    "delta": 5,
-    "rank_other": 382
-  },
-  {
-    "ticker": "CHRW",
-    "rsl": 0.9724,
-    "rank": 415,
-    "delta": 9,
-    "rank_other": 463
-  },
-  {
-    "ticker": "SWKS",
-    "rsl": 0.9723,
-    "rank": 416,
-    "delta": 1,
-    "rank_other": 65
-  },
-  {
-    "ticker": "NRG",
-    "rsl": 0.9718,
-    "rank": 417,
-    "delta": 14,
-    "rank_other": 488
-  },
-  {
-    "ticker": "NVDA",
-    "rsl": 0.9718,
-    "rank": 418,
-    "delta": 11,
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Industrials",
+    "rsl": 1.0477,
+    "pct_1d": -0.23,
+    "pct_1w": 4.83,
+    "pct_1m": 4.81,
+    "rank": 143,
+    "delta": -22,
     "rank_other": 213
   },
   {
-    "ticker": "EQIX",
-    "rsl": 0.9716,
-    "rank": 419,
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0474,
+    "pct_1d": -1.68,
+    "pct_1w": 2.79,
+    "pct_1m": 1.19,
+    "rank": 144,
+    "delta": 4,
+    "rank_other": 163
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "rsl": 1.0473,
+    "pct_1d": -2.73,
+    "pct_1w": 0.02,
+    "pct_1m": 6.4,
+    "rank": 145,
+    "delta": -5,
+    "rank_other": 115
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Staples",
+    "rsl": 1.0472,
+    "pct_1d": -0.59,
+    "pct_1w": 1.26,
+    "pct_1m": 4.88,
+    "rank": 146,
+    "delta": -11,
+    "rank_other": 90
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "rsl": 1.0466,
+    "pct_1d": 2.23,
+    "pct_1w": 1.65,
+    "pct_1m": 5.91,
+    "rank": 147,
+    "delta": -4,
+    "rank_other": 20
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "rsl": 1.0464,
+    "pct_1d": 0.18,
+    "pct_1w": 2.15,
+    "pct_1m": 4.56,
+    "rank": 148,
+    "delta": -20,
+    "rank_other": 461
+  },
+  {
+    "ticker": "STE",
+    "name": "Steris",
+    "sector": "Health Care",
+    "rsl": 1.0464,
+    "pct_1d": -0.95,
+    "pct_1w": 2.66,
+    "pct_1m": 6.83,
+    "rank": 149,
+    "delta": -3,
+    "rank_other": 212
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "rsl": 1.0463,
+    "pct_1d": -1.69,
+    "pct_1w": 0.59,
+    "pct_1m": 4.08,
+    "rank": 150,
+    "delta": 4,
+    "rank_other": 186
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "sector": "Health Care",
+    "rsl": 1.0461,
+    "pct_1d": 2.36,
+    "pct_1w": 3.81,
+    "pct_1m": 6.46,
+    "rank": 151,
+    "delta": 48,
+    "rank_other": 38
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "rsl": 1.046,
+    "pct_1d": -0.45,
+    "pct_1w": 3.31,
+    "pct_1m": 6.2,
+    "rank": 152,
+    "delta": 17,
+    "rank_other": 188
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "sector": "Health Care",
+    "rsl": 1.046,
+    "pct_1d": 0.52,
+    "pct_1w": 7.06,
+    "pct_1m": 2.87,
+    "rank": 153,
+    "delta": 42,
+    "rank_other": 382
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "rsl": 1.0456,
+    "pct_1d": 0.33,
+    "pct_1w": 2.08,
+    "pct_1m": 5.3,
+    "rank": 154,
+    "delta": 12,
+    "rank_other": 214
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "sector": "Health Care",
+    "rsl": 1.0456,
+    "pct_1d": 3.44,
+    "pct_1w": 1.98,
+    "pct_1m": 11.99,
+    "rank": 155,
+    "delta": 15,
+    "rank_other": 5
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "rsl": 1.0453,
+    "pct_1d": 1.38,
+    "pct_1w": 5.63,
+    "pct_1m": -0.47,
+    "rank": 156,
+    "delta": 45,
+    "rank_other": 404
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "rsl": 1.045,
+    "pct_1d": 0.48,
+    "pct_1w": 3.13,
+    "pct_1m": 5.12,
+    "rank": 157,
+    "delta": -6,
+    "rank_other": 134
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "rsl": 1.0448,
+    "pct_1d": -0.87,
+    "pct_1w": -1.85,
+    "pct_1m": 5.39,
+    "rank": 158,
+    "delta": -13,
+    "rank_other": 84
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "rsl": 1.0448,
+    "pct_1d": -0.71,
+    "pct_1w": 1.65,
+    "pct_1m": 5.37,
+    "rank": 159,
+    "delta": -1,
+    "rank_other": 180
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "rsl": 1.0446,
+    "pct_1d": 1.18,
+    "pct_1w": 4.93,
+    "pct_1m": 5.9,
+    "rank": 160,
+    "delta": 15,
+    "rank_other": 290
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "rsl": 1.0444,
+    "pct_1d": 0.4,
+    "pct_1w": 1.99,
+    "pct_1m": 4.92,
+    "rank": 161,
+    "delta": -5,
+    "rank_other": 285
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0442,
+    "pct_1d": -0.7,
+    "pct_1w": 4.51,
+    "pct_1m": 9.28,
+    "rank": 162,
+    "delta": -10,
+    "rank_other": 443
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "rsl": 1.044,
+    "pct_1d": 0.3,
+    "pct_1w": 3.55,
+    "pct_1m": 4.66,
+    "rank": 163,
+    "delta": 9,
+    "rank_other": 231
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "sector": "Energy",
+    "rsl": 1.044,
+    "pct_1d": -1.48,
+    "pct_1w": 2.39,
+    "pct_1m": 6.3,
+    "rank": 164,
+    "delta": 18,
+    "rank_other": 253
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "sector": "Health Care",
+    "rsl": 1.044,
+    "pct_1d": -0.51,
+    "pct_1w": -0.09,
+    "pct_1m": 4.57,
+    "rank": 165,
+    "delta": 18,
+    "rank_other": 83
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "sector": "Health Care",
+    "rsl": 1.0437,
+    "pct_1d": 2.7,
+    "pct_1w": 2.49,
+    "pct_1m": 4.35,
+    "rank": 166,
+    "delta": -5,
+    "rank_other": 44
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "rsl": 1.0435,
+    "pct_1d": 1.53,
+    "pct_1w": 3.67,
+    "pct_1m": 5.98,
+    "rank": 167,
+    "delta": 41,
+    "rank_other": 21
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Health Care",
+    "rsl": 1.0434,
+    "pct_1d": -0.42,
+    "pct_1w": 3.31,
+    "pct_1m": 0.02,
+    "rank": 168,
+    "delta": 10,
+    "rank_other": 85
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "sector": "Financials",
+    "rsl": 1.0434,
+    "pct_1d": 0.57,
+    "pct_1w": -0.31,
+    "pct_1m": 7.92,
+    "rank": 169,
+    "delta": 21,
+    "rank_other": 149
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "sector": "Utilities",
+    "rsl": 1.043,
+    "pct_1d": 2.44,
+    "pct_1w": 1.45,
+    "pct_1m": 9.67,
+    "rank": 170,
+    "delta": -2,
+    "rank_other": 222
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0429,
+    "pct_1d": 0.14,
+    "pct_1w": 5.52,
+    "pct_1m": -0.84,
+    "rank": 171,
+    "delta": 2,
+    "rank_other": 30
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "rsl": 1.0428,
+    "pct_1d": 0.16,
+    "pct_1w": 2.11,
+    "pct_1m": 6.4,
+    "rank": 172,
+    "delta": -17,
+    "rank_other": 300
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrials",
+    "rsl": 1.0428,
+    "pct_1d": 0.13,
+    "pct_1w": 4.35,
+    "pct_1m": 2.26,
+    "rank": 173,
+    "delta": 19,
+    "rank_other": 127
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "sector": "Industrials",
+    "rsl": 1.0426,
+    "pct_1d": -0.07,
+    "pct_1w": 0.63,
+    "pct_1m": 5.88,
+    "rank": 174,
+    "delta": -25,
+    "rank_other": 99
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "sector": "Health Care",
+    "rsl": 1.0424,
+    "pct_1d": 0.97,
+    "pct_1w": 3.55,
+    "pct_1m": 9.92,
+    "rank": 175,
+    "delta": 9,
+    "rank_other": 11
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "rsl": 1.0423,
+    "pct_1d": 0.21,
+    "pct_1w": 0.04,
+    "pct_1m": 7.78,
+    "rank": 176,
+    "delta": -12,
+    "rank_other": 187
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "sector": "Financials",
+    "rsl": 1.0422,
+    "pct_1d": -0.74,
+    "pct_1w": 1.41,
+    "pct_1m": 5.76,
+    "rank": 177,
+    "delta": 2,
+    "rank_other": 160
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "sector": "Materials",
+    "rsl": 1.0421,
+    "pct_1d": -0.41,
+    "pct_1w": 1.45,
+    "pct_1m": 7.52,
+    "rank": 178,
+    "delta": -16,
+    "rank_other": 257
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "rsl": 1.0421,
+    "pct_1d": 0.66,
+    "pct_1w": 2.14,
+    "pct_1m": 6.18,
+    "rank": 179,
+    "delta": -8,
+    "rank_other": 71
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.042,
+    "pct_1d": 3.2,
+    "pct_1w": 5.04,
+    "pct_1m": 1.78,
+    "rank": 180,
+    "delta": -4,
+    "rank_other": 234
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "rsl": 1.0412,
+    "pct_1d": 1.03,
+    "pct_1w": 2.96,
+    "pct_1m": 7.3,
+    "rank": 181,
+    "delta": 17,
+    "rank_other": 14
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "sector": "Industrials",
+    "rsl": 1.041,
+    "pct_1d": 0.41,
+    "pct_1w": 6.29,
+    "pct_1m": 3.95,
+    "rank": 182,
+    "delta": -22,
+    "rank_other": 221
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "rsl": 1.0408,
+    "pct_1d": 0.22,
+    "pct_1w": 3.9,
+    "pct_1m": 2.38,
+    "rank": 183,
+    "delta": -18,
+    "rank_other": 326
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "sector": "Financials",
+    "rsl": 1.0405,
+    "pct_1d": 0.23,
+    "pct_1w": 2.3,
+    "pct_1m": 5.38,
+    "rank": 184,
+    "delta": -4,
+    "rank_other": 243
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "rsl": 1.0401,
+    "pct_1d": -1.55,
+    "pct_1w": 0.98,
+    "pct_1m": 4.33,
+    "rank": 185,
+    "delta": 11,
+    "rank_other": 181
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Materials",
+    "rsl": 1.0397,
+    "pct_1d": -1.59,
+    "pct_1w": 2.89,
+    "pct_1m": 6.25,
+    "rank": 186,
+    "delta": -49,
+    "rank_other": 276
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "rsl": 1.0396,
+    "pct_1d": -0.03,
+    "pct_1w": 3.63,
+    "pct_1m": 3.47,
+    "rank": 187,
+    "delta": -1,
+    "rank_other": 138
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "rsl": 1.0395,
+    "pct_1d": -0.67,
+    "pct_1w": 2.02,
+    "pct_1m": 3.5,
+    "rank": 188,
+    "delta": -11,
+    "rank_other": 429
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "sector": "Communication Services",
+    "rsl": 1.0393,
+    "pct_1d": -1.05,
+    "pct_1w": 1.38,
+    "pct_1m": 6.43,
+    "rank": 189,
+    "delta": -15,
+    "rank_other": 132
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "rsl": 1.039,
+    "pct_1d": -0.09,
+    "pct_1w": 1.32,
+    "pct_1m": 4.22,
+    "rank": 190,
+    "delta": -9,
+    "rank_other": 283
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "sector": "Industrials",
+    "rsl": 1.0386,
+    "pct_1d": -0.02,
+    "pct_1w": 0.38,
+    "pct_1m": 5.29,
+    "rank": 191,
+    "delta": -2,
+    "rank_other": 192
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "rsl": 1.0383,
+    "pct_1d": 0.8,
+    "pct_1w": 1.44,
+    "pct_1m": 4.79,
+    "rank": 192,
+    "delta": -5,
+    "rank_other": 308
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "rsl": 1.0383,
+    "pct_1d": -0.73,
+    "pct_1w": 2.93,
+    "pct_1m": 4.02,
+    "rank": 193,
+    "delta": -5,
+    "rank_other": 102
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "rsl": 1.038,
+    "pct_1d": -1.38,
+    "pct_1w": 6.21,
+    "pct_1m": 2.84,
+    "rank": 194,
+    "delta": -56,
+    "rank_other": 144
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Health Care",
+    "rsl": 1.038,
+    "pct_1d": -0.54,
+    "pct_1w": 4.04,
+    "pct_1m": 1.86,
+    "rank": 195,
+    "delta": 16,
+    "rank_other": 172
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0379,
+    "pct_1d": 0.41,
+    "pct_1w": 2.38,
+    "pct_1m": 6.11,
+    "rank": 196,
+    "delta": -11,
+    "rank_other": 347
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Materials",
+    "rsl": 1.0379,
+    "pct_1d": 0.24,
+    "pct_1w": 0.84,
+    "pct_1m": 4.94,
+    "rank": 197,
+    "delta": 22,
+    "rank_other": 238
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "rsl": 1.0379,
+    "pct_1d": 0.74,
+    "pct_1w": 4.59,
+    "pct_1m": 3.94,
+    "rank": 198,
+    "delta": 5,
+    "rank_other": 256
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Energy",
+    "rsl": 1.0378,
+    "pct_1d": -0.91,
+    "pct_1w": 0.78,
+    "pct_1m": 5.51,
+    "rank": 199,
+    "delta": 24,
+    "rank_other": 278
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "sector": "Information Technology",
+    "rsl": 1.0378,
+    "pct_1d": 0.49,
+    "pct_1w": 2.19,
+    "pct_1m": 2.87,
+    "rank": 200,
+    "delta": 18,
+    "rank_other": 120
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "rsl": 1.0377,
+    "pct_1d": 0.04,
+    "pct_1w": 4.78,
+    "pct_1m": 4.71,
+    "rank": 201,
+    "delta": 11,
+    "rank_other": 403
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0377,
+    "pct_1d": 0.72,
+    "pct_1w": 1.14,
+    "pct_1m": 5.57,
+    "rank": 202,
+    "delta": 11,
+    "rank_other": 193
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "rsl": 1.0374,
+    "pct_1d": 0.49,
+    "pct_1w": 0.73,
+    "pct_1m": 5.05,
+    "rank": 203,
+    "delta": -9,
+    "rank_other": 240
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0374,
+    "pct_1d": -0.72,
+    "pct_1w": 5.8,
+    "pct_1m": 3.73,
+    "rank": 204,
+    "delta": 3,
+    "rank_other": 316
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Materials",
+    "rsl": 1.0368,
+    "pct_1d": -0.32,
+    "pct_1w": 7.4,
+    "pct_1m": 1.33,
+    "rank": 205,
+    "delta": -12,
+    "rank_other": 406
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Consumer Staples",
+    "rsl": 1.0368,
+    "pct_1d": -1.63,
+    "pct_1w": 0.61,
+    "pct_1m": 3.97,
+    "rank": 206,
+    "delta": -49,
+    "rank_other": 189
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "rsl": 1.0367,
+    "pct_1d": 0.44,
+    "pct_1w": 1.45,
+    "pct_1m": 3.57,
+    "rank": 207,
+    "delta": -16,
+    "rank_other": 348
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "rsl": 1.0361,
+    "pct_1d": -0.79,
+    "pct_1w": 4.37,
+    "pct_1m": 3.66,
+    "rank": 208,
+    "delta": -6,
+    "rank_other": 288
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "rsl": 1.036,
+    "pct_1d": 0.4,
+    "pct_1w": 3.27,
+    "pct_1m": 3.18,
+    "rank": 209,
+    "delta": 5,
+    "rank_other": 322
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "rsl": 1.0357,
+    "pct_1d": 0.45,
+    "pct_1w": 2.42,
+    "pct_1m": 4.78,
+    "rank": 210,
+    "delta": 11,
+    "rank_other": 292
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0357,
+    "pct_1d": -0.89,
+    "pct_1w": 2.91,
+    "pct_1m": 3.96,
+    "rank": 211,
+    "delta": -1,
+    "rank_other": 265
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "sector": "Financials",
+    "rsl": 1.0355,
+    "pct_1d": -0.4,
+    "pct_1w": 3.55,
+    "pct_1m": 6.87,
+    "rank": 212,
+    "delta": 19,
+    "rank_other": 173
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "sector": "Industrials",
+    "rsl": 1.0352,
+    "pct_1d": 0.07,
+    "pct_1w": 1.1,
+    "pct_1m": 5.88,
+    "rank": 213,
+    "delta": -13,
+    "rank_other": 63
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "rsl": 1.0352,
+    "pct_1d": 0.89,
+    "pct_1w": 6.09,
+    "pct_1m": 2.51,
+    "rank": 214,
+    "delta": 1,
+    "rank_other": 320
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Energy",
+    "rsl": 1.0349,
+    "pct_1d": 0.98,
+    "pct_1w": 1.59,
+    "pct_1m": 4.74,
+    "rank": 215,
+    "delta": 7,
+    "rank_other": 119
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0342,
+    "pct_1d": -1.32,
+    "pct_1w": 4.03,
+    "pct_1m": -0.09,
+    "rank": 216,
+    "delta": -7,
+    "rank_other": 394
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "rsl": 1.0333,
+    "pct_1d": -0.7,
+    "pct_1w": 3.77,
+    "pct_1m": 3.43,
+    "rank": 217,
+    "delta": 12,
+    "rank_other": 301
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "sector": "Utilities",
+    "rsl": 1.0332,
+    "pct_1d": 0.04,
+    "pct_1w": 0.27,
+    "pct_1m": 2.79,
+    "rank": 218,
+    "delta": -13,
+    "rank_other": 469
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "rsl": 1.0331,
+    "pct_1d": 0.46,
+    "pct_1w": 1.3,
+    "pct_1m": 6.91,
+    "rank": 219,
+    "delta": 8,
+    "rank_other": 248
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "rsl": 1.0331,
+    "pct_1d": -0.09,
+    "pct_1w": 2.84,
+    "pct_1m": 3.06,
+    "rank": 220,
+    "delta": -16,
+    "rank_other": 154
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "rsl": 1.033,
+    "pct_1d": 0.68,
+    "pct_1w": 1.26,
+    "pct_1m": 4.39,
+    "rank": 221,
+    "delta": 15,
+    "rank_other": 230
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "rsl": 1.0329,
+    "pct_1d": 0.06,
+    "pct_1w": 1.07,
+    "pct_1m": 3.0,
+    "rank": 222,
+    "delta": -6,
+    "rank_other": 318
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "rsl": 1.0329,
+    "pct_1d": -1.55,
+    "pct_1w": 5.65,
+    "pct_1m": 2.63,
+    "rank": 223,
+    "delta": -56,
+    "rank_other": 157
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "rsl": 1.0328,
+    "pct_1d": -0.66,
+    "pct_1w": 0.26,
+    "pct_1m": 6.65,
+    "rank": 224,
+    "delta": 16,
+    "rank_other": 114
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "rsl": 1.0327,
+    "pct_1d": -0.13,
+    "pct_1w": 2.82,
+    "pct_1m": 2.24,
+    "rank": 225,
+    "delta": -28,
+    "rank_other": 277
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "rsl": 1.0325,
+    "pct_1d": 0.42,
+    "pct_1w": 2.47,
+    "pct_1m": 2.75,
+    "rank": 226,
+    "delta": 9,
+    "rank_other": 200
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Financials",
+    "rsl": 1.0323,
+    "pct_1d": 0.78,
+    "pct_1w": 6.41,
+    "pct_1m": 0.95,
+    "rank": 227,
+    "delta": 1,
+    "rank_other": 271
+  },
+  {
+    "ticker": "OKE",
+    "name": "Oneok",
+    "sector": "Energy",
+    "rsl": 1.0323,
+    "pct_1d": 0.63,
+    "pct_1w": 1.59,
+    "pct_1m": 3.71,
+    "rank": 228,
+    "delta": 10,
+    "rank_other": 190
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block, Inc.",
+    "sector": "Financials",
+    "rsl": 1.0318,
+    "pct_1d": 0.86,
+    "pct_1w": 3.85,
+    "pct_1m": 1.6,
+    "rank": 229,
+    "delta": -3,
+    "rank_other": 205
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "sector": "Utilities",
+    "rsl": 1.0317,
+    "pct_1d": -0.09,
+    "pct_1w": -0.49,
+    "pct_1m": 5.17,
+    "rank": 230,
+    "delta": -5,
+    "rank_other": 294
+  },
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "sector": "Industrials",
+    "rsl": 1.0315,
+    "pct_1d": -0.53,
+    "pct_1w": 3.65,
+    "pct_1m": 0.69,
+    "rank": 231,
+    "delta": -25,
+    "rank_other": 169
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "rsl": 1.031,
+    "pct_1d": -3.33,
+    "pct_1w": 0.75,
+    "pct_1m": 5.3,
+    "rank": 232,
+    "delta": 67,
+    "rank_other": 174
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "rsl": 1.0309,
+    "pct_1d": 1.52,
+    "pct_1w": 1.13,
+    "pct_1m": 5.65,
+    "rank": 233,
+    "delta": 24,
+    "rank_other": 98
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "rsl": 1.0306,
+    "pct_1d": -1.17,
+    "pct_1w": -1.02,
+    "pct_1m": 1.72,
+    "rank": 234,
+    "delta": -4,
+    "rank_other": 364
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Information Technology",
+    "rsl": 1.0305,
+    "pct_1d": 2.55,
+    "pct_1w": -1.72,
+    "pct_1m": 6.77,
+    "rank": 235,
+    "delta": 31,
+    "rank_other": 16
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "rsl": 1.0304,
+    "pct_1d": -0.02,
+    "pct_1w": 0.14,
+    "pct_1m": 4.3,
+    "rank": 236,
+    "delta": -4,
+    "rank_other": 153
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "rsl": 1.0303,
+    "pct_1d": 0.73,
+    "pct_1w": 3.06,
+    "pct_1m": 3.0,
+    "rank": 237,
+    "delta": 51,
+    "rank_other": 374
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "rsl": 1.0302,
+    "pct_1d": 1.12,
+    "pct_1w": 3.09,
+    "pct_1m": 3.06,
+    "rank": 238,
+    "delta": -18,
+    "rank_other": 450
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris",
+    "sector": "Industrials",
+    "rsl": 1.0302,
+    "pct_1d": -0.32,
+    "pct_1w": 4.41,
+    "pct_1m": 3.37,
+    "rank": 239,
+    "delta": -22,
+    "rank_other": 446
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR, Inc.",
+    "sector": "Real Estate",
+    "rsl": 1.0301,
+    "pct_1d": 1.21,
+    "pct_1w": 2.98,
+    "pct_1m": 2.56,
+    "rank": 240,
+    "delta": -1,
+    "rank_other": 361
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Information Technology",
+    "rsl": 1.0291,
+    "pct_1d": 5.97,
+    "pct_1w": 0.9,
+    "pct_1m": 9.81,
+    "rank": 241,
+    "delta": 11,
+    "rank_other": 42
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "rsl": 1.0291,
+    "pct_1d": 0.31,
+    "pct_1w": 11.48,
+    "pct_1m": -12.27,
+    "rank": 242,
+    "delta": -8,
+    "rank_other": 492
+  },
+  {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises",
+    "sector": "Industrials",
+    "rsl": 1.0291,
+    "pct_1d": 0.57,
+    "pct_1w": 2.44,
+    "pct_1m": 3.26,
+    "rank": 243,
+    "delta": 2,
+    "rank_other": 306
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "rsl": 1.0289,
+    "pct_1d": -0.15,
+    "pct_1w": 2.94,
+    "pct_1m": 1.32,
+    "rank": 244,
+    "delta": -1,
+    "rank_other": 198
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group",
+    "sector": "Industrials",
+    "rsl": 1.0288,
+    "pct_1d": -0.3,
+    "pct_1w": 2.69,
+    "pct_1m": 2.44,
+    "rank": 245,
+    "delta": -21,
+    "rank_other": 365
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Materials",
+    "rsl": 1.0286,
+    "pct_1d": -0.47,
+    "pct_1w": 3.05,
+    "pct_1m": 1.86,
+    "rank": 246,
+    "delta": 1,
+    "rank_other": 229
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "rsl": 1.0285,
+    "pct_1d": 0.6,
+    "pct_1w": -0.08,
+    "pct_1m": 3.75,
+    "rank": 247,
+    "delta": 11,
+    "rank_other": 110
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "sector": "Health Care",
+    "rsl": 1.0284,
+    "pct_1d": 0.08,
+    "pct_1w": 1.91,
+    "pct_1m": 3.81,
+    "rank": 248,
+    "delta": 7,
+    "rank_other": 89
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "rsl": 1.0283,
+    "pct_1d": 0.31,
+    "pct_1w": 3.84,
+    "pct_1m": 3.23,
+    "rank": 249,
+    "delta": -8,
+    "rank_other": 241
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "sector": "Financials",
+    "rsl": 1.0283,
+    "pct_1d": 0.88,
+    "pct_1w": 4.0,
+    "pct_1m": 1.2,
+    "rank": 250,
+    "delta": 4,
+    "rank_other": 165
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "rsl": 1.0271,
+    "pct_1d": 0.17,
+    "pct_1w": 0.95,
+    "pct_1m": 3.29,
+    "rank": 251,
+    "delta": -9,
+    "rank_other": 385
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "rsl": 1.0262,
+    "pct_1d": 0.3,
+    "pct_1w": 4.21,
+    "pct_1m": 4.23,
+    "rank": 252,
+    "delta": 20,
+    "rank_other": 97
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "rsl": 1.0259,
+    "pct_1d": -1.6,
+    "pct_1w": 1.27,
+    "pct_1m": -1.26,
+    "rank": 253,
+    "delta": -7,
+    "rank_other": 407
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0257,
+    "pct_1d": -0.27,
+    "pct_1w": 3.52,
+    "pct_1m": 1.72,
+    "rank": 254,
+    "delta": 11,
+    "rank_other": 93
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0255,
+    "pct_1d": -0.87,
+    "pct_1w": 2.47,
+    "pct_1m": 2.1,
+    "rank": 255,
+    "delta": -4,
+    "rank_other": 227
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "rsl": 1.0254,
+    "pct_1d": 0.54,
+    "pct_1w": 3.15,
+    "pct_1m": 2.03,
+    "rank": 256,
+    "delta": -19,
+    "rank_other": 136
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "sector": "Materials",
+    "rsl": 1.0251,
+    "pct_1d": 0.02,
+    "pct_1w": 3.59,
+    "pct_1m": 0.8,
+    "rank": 257,
+    "delta": 2,
+    "rank_other": 310
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "rsl": 1.0249,
+    "pct_1d": 0.38,
+    "pct_1w": 2.99,
+    "pct_1m": 1.94,
+    "rank": 258,
+    "delta": 3,
+    "rank_other": 359
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "rsl": 1.0245,
+    "pct_1d": -0.79,
+    "pct_1w": 1.73,
+    "pct_1m": 2.52,
+    "rank": 259,
+    "delta": 1,
+    "rank_other": 175
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "rsl": 1.0244,
+    "pct_1d": -0.52,
+    "pct_1w": 2.22,
+    "pct_1m": 3.39,
+    "rank": 260,
+    "delta": 10,
+    "rank_other": 26
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "rsl": 1.0241,
+    "pct_1d": -0.1,
+    "pct_1w": 0.58,
+    "pct_1m": 2.11,
+    "rank": 261,
+    "delta": -11,
+    "rank_other": 291
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "Financials",
+    "rsl": 1.0239,
+    "pct_1d": -0.71,
+    "pct_1w": -1.06,
+    "pct_1m": 3.02,
+    "rank": 262,
+    "delta": 1,
+    "rank_other": 194
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "sector": "Industrials",
+    "rsl": 1.0238,
+    "pct_1d": 0.47,
+    "pct_1w": 3.97,
+    "pct_1m": 1.35,
+    "rank": 263,
+    "delta": 1,
+    "rank_other": 317
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "rsl": 1.0235,
+    "pct_1d": 0.35,
+    "pct_1w": -0.83,
+    "pct_1m": 3.86,
+    "rank": 264,
+    "delta": 31,
+    "rank_other": 100
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "rsl": 1.0235,
+    "pct_1d": 0.2,
+    "pct_1w": 2.78,
+    "pct_1m": 1.16,
+    "rank": 265,
+    "delta": 13,
+    "rank_other": 333
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Health Care",
+    "rsl": 1.0235,
+    "pct_1d": -1.25,
+    "pct_1w": -1.4,
+    "pct_1m": 2.23,
+    "rank": 266,
+    "delta": -22,
+    "rank_other": 91
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "rsl": 1.0232,
+    "pct_1d": -2.0,
+    "pct_1w": 3.88,
+    "pct_1m": -0.56,
+    "rank": 267,
+    "delta": -18,
+    "rank_other": 397
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "rsl": 1.0231,
+    "pct_1d": 0.37,
+    "pct_1w": 8.0,
+    "pct_1m": 0.39,
+    "rank": 268,
+    "delta": -12,
+    "rank_other": 412
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.023,
+    "pct_1d": -2.74,
+    "pct_1w": 3.97,
+    "pct_1m": 3.54,
+    "rank": 269,
+    "delta": -36,
+    "rank_other": 336
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "rsl": 1.023,
+    "pct_1d": 1.61,
+    "pct_1w": 3.88,
+    "pct_1m": 0.77,
+    "rank": 270,
+    "delta": 38,
+    "rank_other": 22
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "sector": "Financials",
+    "rsl": 1.0229,
+    "pct_1d": -0.1,
+    "pct_1w": 2.62,
+    "pct_1m": 1.2,
+    "rank": 271,
+    "delta": 49,
+    "rank_other": 250
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "rsl": 1.0226,
+    "pct_1d": 0.0,
+    "pct_1w": 2.23,
+    "pct_1m": 3.69,
+    "rank": 272,
+    "delta": 10,
+    "rank_other": 156
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co.",
+    "sector": "Health Care",
+    "rsl": 1.0223,
+    "pct_1d": 0.62,
+    "pct_1w": 1.26,
+    "pct_1m": -1.12,
+    "rank": 273,
+    "delta": 24,
+    "rank_other": 62
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "sector": "Consumer Staples",
+    "rsl": 1.0222,
+    "pct_1d": -0.46,
+    "pct_1w": 2.77,
+    "pct_1m": 0.2,
+    "rank": 274,
+    "delta": -12,
+    "rank_other": 356
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "rsl": 1.0218,
+    "pct_1d": 0.4,
+    "pct_1w": 0.82,
+    "pct_1m": 2.92,
+    "rank": 275,
+    "delta": -6,
+    "rank_other": 379
+  },
+  {
+    "ticker": "VMRK",
+    "name": "Vivmark Residential",
+    "sector": "Real Estate",
+    "rsl": 1.0214,
+    "pct_1d": 0.31,
+    "pct_1w": 2.11,
+    "pct_1m": 0.75,
+    "rank": 276,
+    "delta": -8,
+    "rank_other": 328
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "rsl": 1.0213,
+    "pct_1d": -0.12,
+    "pct_1w": 2.84,
+    "pct_1m": 1.87,
+    "rank": 277,
+    "delta": 8,
+    "rank_other": 131
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0213,
+    "pct_1d": 0.69,
+    "pct_1w": 0.27,
+    "pct_1m": 3.91,
+    "rank": 278,
+    "delta": 13,
+    "rank_other": 247
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0213,
+    "pct_1d": -0.98,
+    "pct_1w": 2.43,
+    "pct_1m": -2.49,
+    "rank": 279,
+    "delta": 0,
+    "rank_other": 409
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrials",
+    "rsl": 1.0212,
+    "pct_1d": 0.91,
+    "pct_1w": -1.21,
+    "pct_1m": 6.35,
+    "rank": 280,
+    "delta": -9,
+    "rank_other": 264
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "rsl": 1.0209,
+    "pct_1d": 0.11,
+    "pct_1w": 3.03,
+    "pct_1m": 0.9,
+    "rank": 281,
+    "delta": -14,
+    "rank_other": 309
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "sector": "Energy",
+    "rsl": 1.0208,
+    "pct_1d": 3.2,
+    "pct_1w": -0.3,
+    "pct_1m": 2.25,
+    "rank": 282,
+    "delta": -8,
+    "rank_other": 268
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Information Technology",
+    "rsl": 1.0206,
+    "pct_1d": -0.51,
+    "pct_1w": -0.85,
+    "pct_1m": 6.26,
+    "rank": 283,
+    "delta": -10,
+    "rank_other": 41
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Materials",
+    "rsl": 1.0206,
+    "pct_1d": -0.34,
+    "pct_1w": 3.54,
+    "pct_1m": -0.05,
+    "rank": 284,
+    "delta": -1,
+    "rank_other": 203
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit",
+    "sector": "Communication Services",
+    "rsl": 1.0203,
+    "pct_1d": 0.17,
+    "pct_1w": 4.92,
+    "pct_1m": 0.15,
+    "rank": 285,
+    "delta": 1,
+    "rank_other": 349
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "sector": "Industrials",
+    "rsl": 1.0202,
+    "pct_1d": 0.9,
+    "pct_1w": 3.14,
+    "pct_1m": -1.74,
+    "rank": 286,
+    "delta": -9,
+    "rank_other": 376
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "rsl": 1.0198,
+    "pct_1d": 0.32,
+    "pct_1w": 3.24,
+    "pct_1m": 0.79,
+    "rank": 287,
+    "delta": -34,
+    "rank_other": 415
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "sector": "Materials",
+    "rsl": 1.0197,
+    "pct_1d": 0.09,
+    "pct_1w": 7.7,
+    "pct_1m": -3.12,
+    "rank": 288,
+    "delta": -8,
+    "rank_other": 460
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "rsl": 1.0195,
+    "pct_1d": -1.56,
+    "pct_1w": 1.92,
+    "pct_1m": 0.84,
+    "rank": 289,
+    "delta": -41,
+    "rank_other": 419
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.0194,
+    "pct_1d": 1.02,
+    "pct_1w": 0.9,
+    "pct_1m": 1.77,
+    "rank": 290,
+    "delta": -15,
+    "rank_other": 55
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0193,
+    "pct_1d": -0.74,
+    "pct_1w": 2.13,
+    "pct_1m": 1.28,
+    "rank": 291,
+    "delta": 7,
+    "rank_other": 224
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "rsl": 1.0187,
+    "pct_1d": 0.61,
+    "pct_1w": 2.0,
+    "pct_1m": 0.98,
+    "rank": 292,
+    "delta": 0,
+    "rank_other": 237
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "rsl": 1.0182,
+    "pct_1d": -2.14,
+    "pct_1w": -0.25,
+    "pct_1m": 0.32,
+    "rank": 293,
+    "delta": 33,
+    "rank_other": 78
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell Technologies",
+    "sector": "Industrials",
+    "rsl": 1.0182,
+    "pct_1d": 0.41,
+    "pct_1w": 3.17,
+    "pct_1m": 1.1,
+    "rank": 294,
+    "delta": -10,
+    "rank_other": 350
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "rsl": 1.0179,
+    "pct_1d": -0.8,
+    "pct_1w": 1.9,
+    "pct_1m": 1.18,
+    "rank": 295,
+    "delta": -2,
+    "rank_other": 339
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "sector": "Financials",
+    "rsl": 1.0178,
+    "pct_1d": 0.25,
+    "pct_1w": 3.83,
+    "pct_1m": 0.04,
+    "rank": 296,
+    "delta": -7,
+    "rank_other": 323
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "rsl": 1.0176,
+    "pct_1d": -0.14,
+    "pct_1w": 4.89,
+    "pct_1m": 0.21,
+    "rank": 297,
+    "delta": -16,
+    "rank_other": 261
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "rsl": 1.0174,
+    "pct_1d": 0.02,
+    "pct_1w": 3.58,
+    "pct_1m": 1.66,
+    "rank": 298,
+    "delta": -11,
+    "rank_other": 437
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate",
+    "rsl": 1.0168,
+    "pct_1d": -0.31,
+    "pct_1w": 2.27,
+    "pct_1m": -0.13,
+    "rank": 299,
+    "delta": -5,
+    "rank_other": 297
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0158,
+    "pct_1d": 0.59,
+    "pct_1w": -1.71,
+    "pct_1m": 4.25,
+    "rank": 300,
+    "delta": 5,
+    "rank_other": 164
+  },
+  {
+    "ticker": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy",
+    "rsl": 1.0158,
+    "pct_1d": 1.75,
+    "pct_1w": 4.83,
+    "pct_1m": -2.43,
+    "rank": 301,
+    "delta": 35,
+    "rank_other": 305
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "rsl": 1.0152,
+    "pct_1d": 2.06,
+    "pct_1w": 1.02,
+    "pct_1m": 4.45,
+    "rank": 302,
+    "delta": 5,
+    "rank_other": 269
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "rsl": 1.0143,
+    "pct_1d": 0.55,
+    "pct_1w": 2.14,
+    "pct_1m": 1.94,
+    "rank": 303,
+    "delta": 14,
+    "rank_other": 101
+  },
+  {
+    "ticker": "P",
+    "name": "Everpure",
+    "sector": "Information Technology",
+    "rsl": 1.0137,
+    "pct_1d": 4.72,
+    "pct_1w": -6.36,
+    "pct_1m": 19.48,
+    "rank": 304,
+    "delta": -1,
+    "rank_other": 4
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "rsl": 1.0134,
+    "pct_1d": -0.7,
+    "pct_1w": 3.44,
+    "pct_1m": -0.2,
+    "rank": 305,
+    "delta": 10,
+    "rank_other": 302
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "rsl": 1.0132,
+    "pct_1d": -1.3,
+    "pct_1w": 3.61,
+    "pct_1m": -2.0,
+    "rank": 306,
+    "delta": -30,
+    "rank_other": 284
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0131,
+    "pct_1d": 0.82,
+    "pct_1w": 0.29,
+    "pct_1m": 3.13,
+    "rank": 307,
+    "delta": 14,
+    "rank_other": 108
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0129,
+    "pct_1d": -0.48,
+    "pct_1w": 4.38,
+    "pct_1m": -3.2,
+    "rank": 308,
+    "delta": -6,
+    "rank_other": 354
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "rsl": 1.0129,
+    "pct_1d": -1.24,
+    "pct_1w": 2.4,
+    "pct_1m": -0.02,
+    "rank": 309,
+    "delta": -19,
+    "rank_other": 286
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "rsl": 1.0125,
+    "pct_1d": 0.46,
+    "pct_1w": 1.47,
+    "pct_1m": 0.43,
+    "rank": 310,
+    "delta": 15,
+    "rank_other": 287
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Health Care",
+    "rsl": 1.0124,
+    "pct_1d": 0.44,
+    "pct_1w": 3.69,
+    "pct_1m": 0.37,
+    "rank": 311,
+    "delta": 24,
+    "rank_other": 146
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0122,
+    "pct_1d": -1.49,
+    "pct_1w": 4.63,
+    "pct_1m": -5.09,
+    "rank": 312,
+    "delta": -3,
+    "rank_other": 467
+  },
+  {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace",
+    "sector": "Industrials",
+    "rsl": 1.0121,
+    "pct_1d": 0.99,
+    "pct_1w": 3.04,
+    "pct_1m": -3.48,
+    "rank": 313,
+    "delta": -3,
+    "rank_other": "-"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "rsl": 1.012,
+    "pct_1d": -0.52,
+    "pct_1w": 3.51,
+    "pct_1m": -0.41,
+    "rank": 314,
+    "delta": 2,
+    "rank_other": 211
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "sector": "Real Estate",
+    "rsl": 1.0117,
+    "pct_1d": 0.12,
+    "pct_1w": 2.99,
+    "pct_1m": -0.06,
+    "rank": 315,
+    "delta": -3,
+    "rank_other": 395
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "rsl": 1.0114,
+    "pct_1d": 0.39,
+    "pct_1w": 3.31,
+    "pct_1m": -0.57,
+    "rank": 316,
+    "delta": -2,
+    "rank_other": 371
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry, Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0113,
+    "pct_1d": -0.4,
+    "pct_1w": 1.78,
+    "pct_1m": 3.98,
+    "rank": 317,
+    "delta": 22,
+    "rank_other": 454
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "rsl": 1.0111,
+    "pct_1d": -0.24,
+    "pct_1w": -0.18,
+    "pct_1m": 0.42,
+    "rank": 318,
+    "delta": -7,
+    "rank_other": 335
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "rsl": 1.011,
+    "pct_1d": -0.53,
+    "pct_1w": 1.59,
+    "pct_1m": -1.08,
+    "rank": 319,
+    "delta": 18,
+    "rank_other": 252
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0107,
+    "pct_1d": -0.18,
+    "pct_1w": 0.34,
+    "pct_1m": 0.03,
+    "rank": 320,
+    "delta": 11,
+    "rank_other": 244
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "rsl": 1.0106,
+    "pct_1d": -1.05,
+    "pct_1w": 1.05,
+    "pct_1m": -0.89,
+    "rank": 321,
+    "delta": -3,
+    "rank_other": 400
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Financials",
+    "rsl": 1.0106,
+    "pct_1d": 0.21,
+    "pct_1w": 4.08,
+    "pct_1m": -1.33,
+    "rank": 322,
+    "delta": 7,
+    "rank_other": 331
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "rsl": 1.0094,
+    "pct_1d": 0.96,
+    "pct_1w": -0.67,
+    "pct_1m": 2.69,
+    "rank": 323,
+    "delta": -23,
+    "rank_other": 216
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0093,
+    "pct_1d": -1.24,
+    "pct_1w": 1.53,
+    "pct_1m": -0.25,
+    "rank": 324,
+    "delta": -23,
+    "rank_other": 476
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "rsl": 1.0088,
+    "pct_1d": -0.35,
+    "pct_1w": 0.27,
+    "pct_1m": -0.85,
+    "rank": 325,
+    "delta": 3,
+    "rank_other": 405
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "rsl": 1.0085,
+    "pct_1d": -0.88,
+    "pct_1w": 3.93,
+    "pct_1m": -0.84,
+    "rank": 326,
+    "delta": 7,
+    "rank_other": 140
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "rsl": 1.008,
+    "pct_1d": 0.59,
+    "pct_1w": 6.57,
+    "pct_1m": -2.8,
+    "rank": 327,
+    "delta": -5,
+    "rank_other": 414
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "rsl": 1.0079,
+    "pct_1d": 0.21,
+    "pct_1w": -0.8,
+    "pct_1m": 0.14,
+    "rank": 328,
+    "delta": -15,
+    "rank_other": 106
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "rsl": 1.0078,
+    "pct_1d": 0.68,
+    "pct_1w": 0.9,
+    "pct_1m": 1.48,
+    "rank": 329,
+    "delta": 5,
+    "rank_other": 177
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "rsl": 1.0078,
+    "pct_1d": 2.2,
+    "pct_1w": -3.43,
+    "pct_1m": 11.48,
+    "rank": 330,
+    "delta": 19,
+    "rank_other": 19
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "rsl": 1.0077,
+    "pct_1d": 1.55,
+    "pct_1w": -5.29,
+    "pct_1m": 11.07,
+    "rank": 331,
+    "delta": -25,
+    "rank_other": 242
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "sector": "Industrials",
+    "rsl": 1.0075,
+    "pct_1d": -0.15,
+    "pct_1w": 4.12,
+    "pct_1m": -1.91,
+    "rank": 332,
+    "delta": -5,
+    "rank_other": 486
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "rsl": 1.0075,
+    "pct_1d": -2.33,
+    "pct_1w": -5.03,
+    "pct_1m": 3.51,
+    "rank": 333,
+    "delta": -37,
+    "rank_other": 141
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "rsl": 1.0073,
+    "pct_1d": -0.8,
+    "pct_1w": 0.92,
+    "pct_1m": -0.2,
+    "rank": 334,
+    "delta": -4,
+    "rank_other": 373
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "sector": "Industrials",
+    "rsl": 1.0072,
+    "pct_1d": 0.25,
+    "pct_1w": 1.13,
+    "pct_1m": 0.33,
+    "rank": 335,
+    "delta": -12,
+    "rank_other": 249
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Financials",
+    "rsl": 1.0067,
+    "pct_1d": 0.01,
+    "pct_1w": 2.29,
+    "pct_1m": 0.96,
+    "rank": 336,
+    "delta": 12,
+    "rank_other": 298
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "rsl": 1.0061,
+    "pct_1d": -0.1,
+    "pct_1w": 4.06,
+    "pct_1m": -4.93,
+    "rank": 337,
+    "delta": 10,
+    "rank_other": 332
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "rsl": 1.0058,
+    "pct_1d": -1.68,
+    "pct_1w": 4.35,
+    "pct_1m": -4.4,
+    "rank": 338,
+    "delta": -34,
+    "rank_other": 360
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "sector": "Industrials",
+    "rsl": 1.0044,
+    "pct_1d": -0.32,
+    "pct_1w": 4.2,
+    "pct_1m": -1.26,
+    "rank": 339,
+    "delta": 2,
+    "rank_other": 438
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "rsl": 1.0042,
+    "pct_1d": 0.39,
+    "pct_1w": 2.81,
+    "pct_1m": -1.78,
+    "rank": 340,
+    "delta": 2,
+    "rank_other": 342
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "rsl": 1.0039,
+    "pct_1d": 0.76,
+    "pct_1w": 2.76,
+    "pct_1m": -3.56,
+    "rank": 341,
+    "delta": 5,
+    "rank_other": 368
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "rsl": 1.0038,
+    "pct_1d": -0.07,
+    "pct_1w": 0.0,
+    "pct_1m": 0.94,
+    "rank": 342,
+    "delta": 3,
+    "rank_other": 220
+  },
+  {
+    "ticker": "ECHO",
+    "name": "EchoStar",
+    "sector": "Communication Services",
+    "rsl": 1.0038,
+    "pct_1d": 6.89,
+    "pct_1w": 5.1,
+    "pct_1m": -3.26,
+    "rank": 343,
+    "delta": -24,
+    "rank_other": 431
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "rsl": 1.0037,
+    "pct_1d": 0.54,
+    "pct_1w": -1.11,
+    "pct_1m": -1.88,
+    "rank": 344,
+    "delta": -6,
+    "rank_other": 158
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "rsl": 1.0027,
+    "pct_1d": -2.93,
+    "pct_1w": 3.11,
+    "pct_1m": -1.68,
+    "rank": 345,
+    "delta": -21,
+    "rank_other": 426
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "rsl": 1.0023,
+    "pct_1d": -0.27,
+    "pct_1w": 6.67,
+    "pct_1m": -4.95,
+    "rank": 346,
+    "delta": 10,
+    "rank_other": 399
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrials",
+    "rsl": 1.0022,
+    "pct_1d": 1.58,
+    "pct_1w": -1.42,
+    "pct_1m": 2.62,
+    "rank": 347,
+    "delta": -3,
+    "rank_other": 183
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "rsl": 1.0018,
+    "pct_1d": -0.91,
+    "pct_1w": 1.07,
+    "pct_1m": -1.35,
+    "rank": 348,
+    "delta": 4,
+    "rank_other": 362
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "rsl": 1.0015,
+    "pct_1d": 0.67,
+    "pct_1w": 3.78,
+    "pct_1m": 3.44,
+    "rank": 349,
+    "delta": 4,
+    "rank_other": 473
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "rsl": 1.0014,
+    "pct_1d": 0.18,
+    "pct_1w": 6.65,
+    "pct_1m": 0.22,
+    "rank": 350,
+    "delta": -18,
+    "rank_other": 418
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Utilities",
+    "rsl": 1.0012,
+    "pct_1d": 0.11,
+    "pct_1w": -1.73,
+    "pct_1m": -1.3,
+    "rank": 351,
+    "delta": 4,
+    "rank_other": 355
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Health Care",
+    "rsl": 1.0009,
+    "pct_1d": -0.03,
+    "pct_1w": 0.08,
+    "pct_1m": 0.01,
+    "rank": 352,
+    "delta": 5,
+    "rank_other": 80
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on",
+    "sector": "Industrials",
+    "rsl": 1.0008,
+    "pct_1d": 0.2,
+    "pct_1w": 1.0,
+    "pct_1m": -1.25,
+    "rank": 353,
+    "delta": 5,
+    "rank_other": 343
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "rsl": 1.0005,
+    "pct_1d": -0.59,
+    "pct_1w": 4.98,
+    "pct_1m": -6.22,
+    "rank": 354,
+    "delta": 0,
+    "rank_other": 381
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrials",
+    "rsl": 1.0004,
+    "pct_1d": 0.96,
+    "pct_1w": 2.0,
+    "pct_1m": 1.1,
+    "rank": 355,
+    "delta": 11,
+    "rank_other": 312
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "rsl": 1.0001,
+    "pct_1d": 0.43,
+    "pct_1w": 3.08,
+    "pct_1m": -1.52,
+    "rank": 356,
+    "delta": 3,
+    "rank_other": 340
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy",
+    "rsl": 0.9997,
+    "pct_1d": 1.58,
+    "pct_1w": -1.97,
+    "pct_1m": -2.16,
+    "rank": 357,
+    "delta": 5,
+    "rank_other": 424
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "rsl": 0.9996,
+    "pct_1d": 1.92,
+    "pct_1w": -1.04,
+    "pct_1m": 7.62,
+    "rank": 358,
+    "delta": -8,
+    "rank_other": 366
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "rsl": 0.9989,
+    "pct_1d": 0.6,
+    "pct_1w": 1.79,
+    "pct_1m": -11.23,
+    "rank": 359,
+    "delta": 1,
+    "rank_other": 346
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "rsl": 0.9988,
+    "pct_1d": -0.61,
+    "pct_1w": 2.09,
+    "pct_1m": -0.05,
+    "rank": 360,
+    "delta": -20,
+    "rank_other": 423
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "rsl": 0.9972,
+    "pct_1d": -0.26,
+    "pct_1w": 1.35,
+    "pct_1m": -0.18,
+    "rank": 361,
+    "delta": 7,
+    "rank_other": 228
+  },
+  {
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "sector": "Real Estate",
+    "rsl": 0.9967,
+    "pct_1d": -0.88,
+    "pct_1w": 0.98,
+    "pct_1m": -3.4,
+    "rank": 362,
+    "delta": 1,
+    "rank_other": 432
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "sector": "Financials",
+    "rsl": 0.9964,
+    "pct_1d": 0.2,
+    "pct_1w": 1.27,
+    "pct_1m": -2.07,
+    "rank": 363,
+    "delta": 1,
+    "rank_other": 341
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9963,
+    "pct_1d": -0.95,
+    "pct_1w": 3.17,
+    "pct_1m": -1.23,
+    "rank": 364,
+    "delta": 20,
+    "rank_other": 236
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "rsl": 0.9955,
+    "pct_1d": 0.91,
+    "pct_1w": 1.42,
+    "pct_1m": -1.93,
+    "rank": 365,
+    "delta": 11,
+    "rank_other": 392
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Financials",
+    "rsl": 0.9951,
+    "pct_1d": -0.46,
+    "pct_1w": 1.11,
+    "pct_1m": -2.48,
+    "rank": 366,
+    "delta": 1,
+    "rank_other": 201
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "rsl": 0.9946,
+    "pct_1d": 0.35,
+    "pct_1w": 3.5,
+    "pct_1m": -3.33,
+    "rank": 367,
+    "delta": -6,
+    "rank_other": 440
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "rsl": 0.9942,
+    "pct_1d": -1.84,
+    "pct_1w": 2.2,
+    "pct_1m": -5.67,
+    "rank": 368,
+    "delta": -17,
+    "rank_other": 370
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "rsl": 0.9942,
+    "pct_1d": 0.66,
+    "pct_1w": -2.32,
+    "pct_1m": 0.77,
+    "rank": 369,
+    "delta": 0,
+    "rank_other": 352
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "rsl": 0.9936,
+    "pct_1d": -2.25,
+    "pct_1w": -2.15,
+    "pct_1m": -2.83,
+    "rank": 370,
+    "delta": 23,
+    "rank_other": 208
+  },
+  {
+    "ticker": "BNY",
+    "name": "BNY Mellon",
+    "sector": "Financials",
+    "rsl": 0.993,
+    "pct_1d": 0.58,
+    "pct_1w": 5.41,
+    "pct_1m": -3.39,
+    "rank": 371,
+    "delta": -6,
+    "rank_other": 299
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "rsl": 0.9928,
+    "pct_1d": -0.18,
+    "pct_1w": -1.2,
+    "pct_1m": -3.32,
+    "rank": 372,
+    "delta": 14,
+    "rank_other": 233
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Financials",
+    "rsl": 0.9926,
+    "pct_1d": 1.1,
+    "pct_1w": 4.51,
+    "pct_1m": -5.74,
+    "rank": 373,
+    "delta": -1,
+    "rank_other": 375
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker Hannifin",
+    "sector": "Industrials",
+    "rsl": 0.9921,
+    "pct_1d": 0.78,
+    "pct_1w": -0.46,
+    "pct_1m": -1.34,
+    "rank": 374,
+    "delta": 3,
+    "rank_other": 262
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "rsl": 0.9919,
+    "pct_1d": -0.44,
+    "pct_1w": 1.16,
+    "pct_1m": -1.58,
+    "rank": 375,
+    "delta": -2,
+    "rank_other": 293
+  },
+  {
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrials",
+    "rsl": 0.9914,
+    "pct_1d": -0.05,
+    "pct_1w": 1.34,
+    "pct_1m": -3.41,
+    "rank": 376,
+    "delta": -1,
+    "rank_other": 410
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "sector": "Health Care",
+    "rsl": 0.9914,
+    "pct_1d": 0.52,
+    "pct_1w": -0.48,
+    "pct_1m": -2.15,
+    "rank": 377,
+    "delta": 15,
+    "rank_other": 150
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "rsl": 0.9912,
+    "pct_1d": -0.62,
+    "pct_1w": -0.63,
+    "pct_1m": -1.52,
+    "rank": 378,
+    "delta": -8,
+    "rank_other": 259
+  },
+  {
+    "ticker": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrials",
+    "rsl": 0.9889,
+    "pct_1d": -0.12,
+    "pct_1w": -1.18,
+    "pct_1m": -2.28,
+    "rank": 379,
+    "delta": -36,
+    "rank_other": 232
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9888,
+    "pct_1d": -0.26,
+    "pct_1w": 4.46,
+    "pct_1m": -6.59,
+    "rank": 380,
+    "delta": 0,
+    "rank_other": 387
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "rsl": 0.9887,
+    "pct_1d": 0.1,
+    "pct_1w": 2.56,
+    "pct_1m": -2.5,
+    "rank": 381,
+    "delta": 7,
+    "rank_other": 40
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "sector": "Consumer Staples",
+    "rsl": 0.9887,
+    "pct_1d": -0.16,
+    "pct_1w": -1.0,
+    "pct_1m": -3.31,
+    "rank": 382,
+    "delta": 8,
+    "rank_other": 116
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "sector": "Industrials",
+    "rsl": 0.9886,
+    "pct_1d": 0.4,
+    "pct_1w": -2.09,
+    "pct_1m": -4.25,
+    "rank": 383,
+    "delta": 2,
+    "rank_other": 456
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "rsl": 0.9886,
+    "pct_1d": 0.11,
+    "pct_1w": 1.59,
+    "pct_1m": -4.6,
+    "rank": 384,
+    "delta": -5,
+    "rank_other": 489
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "sector": "Materials",
+    "rsl": 0.9873,
+    "pct_1d": -0.06,
+    "pct_1w": 4.64,
+    "pct_1m": -8.27,
+    "rank": 385,
+    "delta": -4,
+    "rank_other": 159
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "rsl": 0.9872,
+    "pct_1d": -0.07,
+    "pct_1w": 2.45,
+    "pct_1m": -2.03,
+    "rank": 386,
+    "delta": 3,
+    "rank_other": 344
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9865,
+    "pct_1d": -1.83,
+    "pct_1w": 1.22,
+    "pct_1m": -5.62,
+    "rank": 387,
+    "delta": -13,
+    "rank_other": 479
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "sector": "Communication Services",
+    "rsl": 0.9853,
+    "pct_1d": -1.0,
+    "pct_1w": 3.17,
+    "pct_1m": -5.84,
+    "rank": 388,
     "delta": -10,
     "rank_other": 377
   },
   {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate",
+    "rsl": 0.9847,
+    "pct_1d": -0.79,
+    "pct_1w": 0.71,
+    "pct_1m": -3.28,
+    "rank": 389,
+    "delta": -2,
+    "rank_other": 411
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9843,
+    "pct_1d": -0.31,
+    "pct_1w": 3.94,
+    "pct_1m": -5.99,
+    "rank": 390,
+    "delta": -7,
+    "rank_other": 357
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "rsl": 0.9836,
+    "pct_1d": 0.92,
+    "pct_1w": -1.4,
+    "pct_1m": -5.33,
+    "rank": 391,
+    "delta": 4,
+    "rank_other": 391
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "rsl": 0.983,
+    "pct_1d": -1.14,
+    "pct_1w": -2.41,
+    "pct_1m": -3.33,
+    "rank": 392,
+    "delta": -21,
+    "rank_other": 311
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "rsl": 0.9817,
+    "pct_1d": -0.69,
+    "pct_1w": -1.19,
+    "pct_1m": -2.04,
+    "rank": 393,
+    "delta": 5,
+    "rank_other": 384
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9809,
+    "pct_1d": -3.06,
+    "pct_1w": -1.11,
+    "pct_1m": -3.24,
+    "rank": 394,
+    "delta": -12,
+    "rank_other": 433
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Financials",
+    "rsl": 0.9794,
+    "pct_1d": 0.22,
+    "pct_1w": -1.04,
+    "pct_1m": -2.03,
+    "rank": 395,
+    "delta": -1,
+    "rank_other": 334
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "sector": "Industrials",
+    "rsl": 0.9789,
+    "pct_1d": 1.22,
+    "pct_1w": 2.03,
+    "pct_1m": -4.87,
+    "rank": 396,
+    "delta": 19,
+    "rank_other": 459
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "rsl": 0.9788,
+    "pct_1d": 0.45,
+    "pct_1w": 1.15,
+    "pct_1m": -6.39,
+    "rank": 397,
+    "delta": -6,
+    "rank_other": 434
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9788,
+    "pct_1d": -1.08,
+    "pct_1w": 3.91,
+    "pct_1m": -7.15,
+    "rank": 398,
+    "delta": 6,
+    "rank_other": 482
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "rsl": 0.978,
+    "pct_1d": -0.25,
+    "pct_1w": 1.61,
+    "pct_1m": -5.81,
+    "rank": 399,
+    "delta": -3,
+    "rank_other": 380
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "rsl": 0.978,
+    "pct_1d": -0.87,
+    "pct_1w": 3.62,
+    "pct_1m": -8.92,
+    "rank": 400,
+    "delta": 5,
+    "rank_other": 210
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "rsl": 0.978,
+    "pct_1d": 1.39,
+    "pct_1w": 2.19,
+    "pct_1m": -4.47,
+    "rank": 401,
+    "delta": 13,
+    "rank_other": 383
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "rsl": 0.9777,
+    "pct_1d": 0.76,
+    "pct_1w": -2.22,
+    "pct_1m": -3.83,
+    "rank": 402,
+    "delta": 6,
+    "rank_other": 420
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Health Care",
+    "rsl": 0.9774,
+    "pct_1d": -1.37,
+    "pct_1w": 0.74,
+    "pct_1m": -4.97,
+    "rank": 403,
+    "delta": 3,
+    "rank_other": 219
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "sector": "Financials",
+    "rsl": 0.9768,
+    "pct_1d": 0.38,
+    "pct_1w": 2.72,
+    "pct_1m": -4.38,
+    "rank": 404,
+    "delta": -1,
+    "rank_other": 303
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Utilities",
+    "rsl": 0.9766,
+    "pct_1d": 1.54,
+    "pct_1w": -1.49,
+    "pct_1m": -3.31,
+    "rank": 405,
+    "delta": 12,
+    "rank_other": 487
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "rsl": 0.9752,
+    "pct_1d": 2.0,
+    "pct_1w": -5.55,
+    "pct_1m": 0.21,
+    "rank": 406,
+    "delta": -6,
+    "rank_other": 327
+  },
+  {
     "ticker": "IVZ",
-    "rsl": 0.9715,
-    "rank": 420,
-    "delta": 7,
-    "rank_other": 267
+    "name": "Invesco",
+    "sector": "Financials",
+    "rsl": 0.9749,
+    "pct_1d": 1.34,
+    "pct_1w": 4.42,
+    "pct_1m": -5.46,
+    "rank": 407,
+    "delta": 13,
+    "rank_other": 263
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "rsl": 0.9739,
+    "pct_1d": 0.61,
+    "pct_1w": -5.53,
+    "pct_1m": 1.26,
+    "rank": 408,
+    "delta": 1,
+    "rank_other": 321
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate",
+    "rsl": 0.9737,
+    "pct_1d": -0.98,
+    "pct_1w": 1.32,
+    "pct_1m": -11.1,
+    "rank": 409,
+    "delta": 2,
+    "rank_other": 470
   },
   {
     "ticker": "TWLO",
-    "rsl": 0.9712,
-    "rank": 421,
-    "delta": 29,
-    "rank_other": 24
+    "name": "Twilio",
+    "sector": "Information Technology",
+    "rsl": 0.9736,
+    "pct_1d": 3.77,
+    "pct_1w": -0.99,
+    "pct_1m": -5.66,
+    "rank": 410,
+    "delta": 11,
+    "rank_other": 25
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "rsl": 0.9734,
+    "pct_1d": 1.6,
+    "pct_1w": -4.36,
+    "pct_1m": -4.24,
+    "rank": 411,
+    "delta": -10,
+    "rank_other": 79
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Industrials",
+    "rsl": 0.9733,
+    "pct_1d": 1.2,
+    "pct_1w": -1.16,
+    "pct_1m": -4.79,
+    "rank": 412,
+    "delta": -15,
+    "rank_other": 402
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "rsl": 0.9732,
+    "pct_1d": 0.38,
+    "pct_1w": 2.11,
+    "pct_1m": -4.23,
+    "rank": 413,
+    "delta": -11,
+    "rank_other": 353
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "rsl": 0.9731,
+    "pct_1d": 0.25,
+    "pct_1w": -1.4,
+    "pct_1m": -4.58,
+    "rank": 414,
+    "delta": -7,
+    "rank_other": 315
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Financials",
+    "rsl": 0.9727,
+    "pct_1d": 0.51,
+    "pct_1w": 4.75,
+    "pct_1m": -8.91,
+    "rank": 415,
+    "delta": -5,
+    "rank_other": 422
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "sector": "Consumer Staples",
+    "rsl": 0.9721,
+    "pct_1d": -1.03,
+    "pct_1w": -4.79,
+    "pct_1m": -3.29,
+    "rank": 416,
+    "delta": -17,
+    "rank_other": 275
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "sector": "Real Estate",
+    "rsl": 0.9719,
+    "pct_1d": -0.3,
+    "pct_1w": 2.06,
+    "pct_1m": -7.38,
+    "rank": 417,
+    "delta": -4,
+    "rank_other": 388
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "rsl": 0.9709,
+    "pct_1d": 0.1,
+    "pct_1w": 5.85,
+    "pct_1m": -9.53,
+    "rank": 418,
+    "delta": -2,
+    "rank_other": 66
   },
   {
     "ticker": "PFG",
-    "rsl": 0.9704,
-    "rank": 422,
-    "delta": -2,
-    "rank_other": 269
+    "name": "Principal Financial Group",
+    "sector": "Financials",
+    "rsl": 0.9706,
+    "pct_1d": 0.22,
+    "pct_1w": 0.86,
+    "pct_1m": -4.76,
+    "rank": 419,
+    "delta": 3,
+    "rank_other": 273
   },
   {
     "ticker": "GNRC",
-    "rsl": 0.9698,
-    "rank": 423,
-    "delta": 25,
-    "rank_other": 451
-  },
-  {
-    "ticker": "CVNA",
-    "rsl": 0.9685,
-    "rank": 424,
-    "delta": 9,
+    "name": "Generac",
+    "sector": "Industrials",
+    "rsl": 0.97,
+    "pct_1d": 3.05,
+    "pct_1w": 1.25,
+    "pct_1m": -2.73,
+    "rank": 420,
+    "delta": 3,
     "rank_other": 449
   },
   {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "rsl": 0.9698,
+    "pct_1d": -0.06,
+    "pct_1w": -0.91,
+    "pct_1m": -6.84,
+    "rank": 421,
+    "delta": -2,
+    "rank_other": 378
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9696,
+    "pct_1d": 0.78,
+    "pct_1w": -5.43,
+    "pct_1m": -3.94,
+    "rank": 422,
+    "delta": 9,
+    "rank_other": 170
+  },
+  {
     "ticker": "DAL",
-    "rsl": 0.9682,
-    "rank": 425,
-    "delta": 19,
-    "rank_other": 332
-  },
-  {
-    "ticker": "VZ",
-    "rsl": 0.9662,
-    "rank": 426,
-    "delta": -27,
-    "rank_other": 344
-  },
-  {
-    "ticker": "QCOM",
-    "rsl": 0.9658,
-    "rank": 427,
-    "delta": 3,
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "rsl": 0.9675,
+    "pct_1d": 2.03,
+    "pct_1w": 2.33,
+    "pct_1m": -6.54,
+    "rank": 423,
+    "delta": 2,
     "rank_other": 325
   },
   {
     "ticker": "DXCM",
-    "rsl": 0.9653,
-    "rank": 428,
-    "delta": -67,
-    "rank_other": 125
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "rsl": 0.9668,
+    "pct_1d": -2.73,
+    "pct_1w": -0.08,
+    "pct_1m": -6.85,
+    "rank": 424,
+    "delta": 4,
+    "rank_other": 122
   },
   {
-    "ticker": "APH",
-    "rsl": 0.9652,
-    "rank": 429,
-    "delta": 9,
-    "rank_other": 204
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "sector": "Information Technology",
+    "rsl": 0.9664,
+    "pct_1d": 0.8,
+    "pct_1w": -1.4,
+    "pct_1m": -4.66,
+    "rank": 425,
+    "delta": -7,
+    "rank_other": 226
   },
   {
-    "ticker": "GEV",
-    "rsl": 0.9651,
-    "rank": 430,
-    "delta": 31,
-    "rank_other": 412
-  },
-  {
-    "ticker": "GPC",
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Information Technology",
     "rsl": 0.965,
-    "rank": 431,
-    "delta": -5,
-    "rank_other": 178
-  },
-  {
-    "ticker": "GOOGL",
-    "rsl": 0.9647,
-    "rank": 432,
-    "delta": -41,
-    "rank_other": 383
-  },
-  {
-    "ticker": "MPWR",
-    "rsl": 0.964,
-    "rank": 433,
-    "delta": 9,
-    "rank_other": 427
-  },
-  {
-    "ticker": "F",
-    "rsl": 0.9634,
-    "rank": 434,
-    "delta": -26,
-    "rank_other": 444
-  },
-  {
-    "ticker": "GOOG",
-    "rsl": 0.9632,
-    "rank": 435,
-    "delta": -43,
-    "rank_other": 390
+    "pct_1d": 0.77,
+    "pct_1w": -1.92,
+    "pct_1m": -4.46,
+    "rank": 426,
+    "delta": -14,
+    "rank_other": 457
   },
   {
     "ticker": "DOC",
-    "rsl": 0.9624,
-    "rank": 436,
-    "delta": -15,
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate",
+    "rsl": 0.9649,
+    "pct_1d": -0.19,
+    "pct_1w": 0.46,
+    "pct_1m": -8.61,
+    "rank": 427,
+    "delta": 9,
     "rank_other": 372
   },
   {
-    "ticker": "FSLR",
-    "rsl": 0.9603,
-    "rank": 437,
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "rsl": 0.9648,
+    "pct_1d": 0.32,
+    "pct_1w": 2.12,
+    "pct_1m": -11.09,
+    "rank": 428,
     "delta": -1,
-    "rank_other": 487
-  },
-  {
-    "ticker": "STT",
-    "rsl": 0.9598,
-    "rank": 438,
-    "delta": 7,
-    "rank_other": 305
-  },
-  {
-    "ticker": "FCX",
-    "rsl": 0.958,
-    "rank": 439,
-    "delta": -29,
-    "rank_other": 224
-  },
-  {
-    "ticker": "CIEN",
-    "rsl": 0.9568,
-    "rank": 440,
-    "delta": 28,
-    "rank_other": 481
-  },
-  {
-    "ticker": "BX",
-    "rsl": 0.9566,
-    "rank": 441,
-    "delta": -6,
-    "rank_other": 445
-  },
-  {
-    "ticker": "IBKR",
-    "rsl": 0.9566,
-    "rank": 442,
-    "delta": 5,
-    "rank_other": 373
-  },
-  {
-    "ticker": "TMUS",
-    "rsl": 0.9548,
-    "rank": 443,
-    "delta": -27,
-    "rank_other": 459
-  },
-  {
-    "ticker": "KEYS",
-    "rsl": 0.9544,
-    "rank": 444,
-    "delta": 13,
-    "rank_other": 271
-  },
-  {
-    "ticker": "APO",
-    "rsl": 0.9539,
-    "rank": 445,
-    "delta": 11,
-    "rank_other": 437
-  },
-  {
-    "ticker": "C",
-    "rsl": 0.9535,
-    "rank": 446,
-    "delta": -3,
-    "rank_other": 393
-  },
-  {
-    "ticker": "AVGO",
-    "rsl": 0.9532,
-    "rank": 447,
-    "delta": -6,
-    "rank_other": 454
-  },
-  {
-    "ticker": "FDXF",
-    "rsl": 0.9524,
-    "rank": 448,
-    "delta": -14,
-    "rank_other": "-"
-  },
-  {
-    "ticker": "MS",
-    "rsl": 0.9519,
-    "rank": 449,
-    "delta": 5,
-    "rank_other": 441
+    "rank_other": 329
   },
   {
     "ticker": "FTNT",
-    "rsl": 0.9518,
-    "rank": 450,
-    "delta": -10,
-    "rank_other": 61
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "rsl": 0.9613,
+    "pct_1d": 0.97,
+    "pct_1w": -6.23,
+    "pct_1m": -0.96,
+    "rank": 429,
+    "delta": 21,
+    "rank_other": 53
   },
   {
-    "ticker": "BG",
-    "rsl": 0.9508,
-    "rank": 451,
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9599,
+    "pct_1d": -0.18,
+    "pct_1w": 3.78,
+    "pct_1m": -8.03,
+    "rank": 430,
+    "delta": -6,
+    "rank_other": 451
+  },
+  {
+    "ticker": "FDXF",
+    "name": "FedEx Freight",
+    "sector": "Industrials",
+    "rsl": 0.9599,
+    "pct_1d": -0.34,
+    "pct_1w": 0.44,
+    "pct_1m": -8.26,
+    "rank": 431,
+    "delta": 17,
+    "rank_other": "-"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "rsl": 0.9598,
+    "pct_1d": 3.32,
+    "pct_1w": -2.33,
+    "pct_1m": -3.2,
+    "rank": 432,
     "delta": -2,
-    "rank_other": 442
+    "rank_other": 416
   },
   {
-    "ticker": "SW",
-    "rsl": 0.9504,
-    "rank": 452,
-    "delta": -13,
-    "rank_other": 368
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "sector": "Financials",
+    "rsl": 0.9589,
+    "pct_1d": 0.81,
+    "pct_1w": 0.63,
+    "pct_1m": -6.34,
+    "rank": 433,
+    "delta": 5,
+    "rank_other": 307
   },
   {
-    "ticker": "CHTR",
-    "rsl": 0.9476,
-    "rank": 453,
-    "delta": -31,
-    "rank_other": 492
-  },
-  {
-    "ticker": "DE",
-    "rsl": 0.9465,
-    "rank": 454,
+    "ticker": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "rsl": 0.9588,
+    "pct_1d": -2.54,
+    "pct_1w": -2.28,
+    "pct_1m": -5.1,
+    "rank": 434,
     "delta": -8,
+    "rank_other": 358
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "rsl": 0.9586,
+    "pct_1d": 0.52,
+    "pct_1w": -3.58,
+    "pct_1m": -3.75,
+    "rank": 435,
+    "delta": -6,
     "rank_other": 215
   },
   {
-    "ticker": "NFLX",
-    "rsl": 0.9444,
-    "rank": 455,
-    "delta": -41,
-    "rank_other": 466
-  },
-  {
-    "ticker": "HWM",
-    "rsl": 0.9442,
-    "rank": 456,
-    "delta": -4,
-    "rank_other": 476
-  },
-  {
-    "ticker": "COIN",
-    "rsl": 0.9409,
-    "rank": 457,
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "rsl": 0.9583,
+    "pct_1d": -1.02,
+    "pct_1w": -1.87,
+    "pct_1m": -8.11,
+    "rank": 436,
     "delta": 3,
-    "rank_other": 294
+    "rank_other": 225
   },
   {
-    "ticker": "MRVL",
-    "rsl": 0.9409,
-    "rank": 458,
-    "delta": 0,
-    "rank_other": 135
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "rsl": 0.9581,
+    "pct_1d": 1.31,
+    "pct_1w": 1.77,
+    "pct_1m": -8.23,
+    "rank": 437,
+    "delta": -4,
+    "rank_other": 428
   },
   {
-    "ticker": "JBL",
-    "rsl": 0.9406,
-    "rank": 459,
-    "delta": 8,
-    "rank_other": 465
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "rsl": 0.9576,
+    "pct_1d": -2.76,
+    "pct_1w": -4.82,
+    "pct_1m": -5.78,
+    "rank": 438,
+    "delta": -6,
+    "rank_other": 386
   },
   {
-    "ticker": "UAL",
-    "rsl": 0.9394,
-    "rank": 460,
-    "delta": 12,
-    "rank_other": 425
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Financials",
+    "rsl": 0.9572,
+    "pct_1d": 0.9,
+    "pct_1w": -0.58,
+    "pct_1m": -8.95,
+    "rank": 439,
+    "delta": 3,
+    "rank_other": 367
   },
   {
-    "ticker": "AXON",
-    "rsl": 0.9371,
-    "rank": 461,
-    "delta": 4,
-    "rank_other": 474
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9568,
+    "pct_1d": -1.89,
+    "pct_1w": -1.08,
+    "pct_1m": -9.01,
+    "rank": 440,
+    "delta": -6,
+    "rank_other": 447
   },
   {
-    "ticker": "EME",
-    "rsl": 0.9354,
-    "rank": 462,
-    "delta": 1,
-    "rank_other": 448
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "rsl": 0.9564,
+    "pct_1d": -0.64,
+    "pct_1w": -3.22,
+    "pct_1m": -13.68,
+    "rank": 441,
+    "delta": -4,
+    "rank_other": 488
   },
   {
-    "ticker": "BAC",
-    "rsl": 0.934,
-    "rank": 463,
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "sector": "Financials",
+    "rsl": 0.956,
+    "pct_1d": -0.64,
+    "pct_1w": 3.22,
+    "pct_1m": -11.6,
+    "rank": 442,
+    "delta": -1,
+    "rank_other": 442
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "rsl": 0.9557,
+    "pct_1d": -2.87,
+    "pct_1w": -4.92,
+    "pct_1m": -5.95,
+    "rank": 443,
+    "delta": -8,
+    "rank_other": 393
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Financials",
+    "rsl": 0.954,
+    "pct_1d": 1.11,
+    "pct_1w": -0.83,
+    "pct_1m": -9.42,
+    "rank": 444,
     "delta": 1,
     "rank_other": 435
   },
   {
-    "ticker": "SCHW",
-    "rsl": 0.9326,
-    "rank": 464,
-    "delta": 2,
-    "rank_other": 392
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Information Technology",
+    "rsl": 0.9528,
+    "pct_1d": 1.92,
+    "pct_1w": -4.76,
+    "pct_1m": -1.94,
+    "rank": 445,
+    "delta": -1,
+    "rank_other": 267
   },
   {
-    "ticker": "GM",
-    "rsl": 0.9326,
-    "rank": 465,
-    "delta": -12,
-    "rank_other": 387
-  },
-  {
-    "ticker": "ORCL",
-    "rsl": 0.9317,
-    "rank": 466,
-    "delta": -15,
-    "rank_other": 478
-  },
-  {
-    "ticker": "ETN",
-    "rsl": 0.9287,
-    "rank": 467,
+    "ticker": "SW",
+    "name": "Smurfit Westrock",
+    "sector": "Materials",
+    "rsl": 0.9523,
+    "pct_1d": -0.24,
+    "pct_1w": 0.83,
+    "pct_1m": -11.54,
+    "rank": 446,
     "delta": 6,
-    "rank_other": 365
+    "rank_other": 369
   },
   {
-    "ticker": "PWR",
-    "rsl": 0.9285,
-    "rank": 468,
-    "delta": 1,
-    "rank_other": 428
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "rsl": 0.9518,
+    "pct_1d": -0.03,
+    "pct_1w": 0.16,
+    "pct_1m": -7.55,
+    "rank": 447,
+    "delta": -1,
+    "rank_other": 396
   },
   {
-    "ticker": "T",
-    "rsl": 0.9273,
-    "rank": 469,
-    "delta": -57,
-    "rank_other": 384
-  },
-  {
-    "ticker": "APP",
-    "rsl": 0.9252,
-    "rank": 470,
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "sector": "Information Technology",
+    "rsl": 0.9494,
+    "pct_1d": 3.7,
+    "pct_1w": -1.39,
+    "pct_1m": -3.79,
+    "rank": 448,
     "delta": -8,
-    "rank_other": 500
-  },
-  {
-    "ticker": "CAT",
-    "rsl": 0.9228,
-    "rank": 471,
-    "delta": 0,
-    "rank_other": 462
-  },
-  {
-    "ticker": "ALB",
-    "rsl": 0.921,
-    "rank": 472,
-    "delta": -2,
-    "rank_other": 499
-  },
-  {
-    "ticker": "CRWD",
-    "rsl": 0.9198,
-    "rank": 473,
-    "delta": 4,
-    "rank_other": 28
-  },
-  {
-    "ticker": "AMD",
-    "rsl": 0.9154,
-    "rank": 474,
-    "delta": 0,
-    "rank_other": 104
-  },
-  {
-    "ticker": "HPE",
-    "rsl": 0.9151,
-    "rank": 475,
-    "delta": 6,
-    "rank_other": 33
-  },
-  {
-    "ticker": "ANET",
-    "rsl": 0.9146,
-    "rank": 476,
-    "delta": 0,
-    "rank_other": 203
-  },
-  {
-    "ticker": "SMCI",
-    "rsl": 0.9131,
-    "rank": 477,
-    "delta": 22,
-    "rank_other": 163
-  },
-  {
-    "ticker": "PANW",
-    "rsl": 0.9083,
-    "rank": 478,
-    "delta": 2,
-    "rank_other": 91
-  },
-  {
-    "ticker": "ARE",
-    "rsl": 0.9073,
-    "rank": 479,
-    "delta": -4,
-    "rank_other": 446
-  },
-  {
-    "ticker": "VRT",
-    "rsl": 0.9052,
-    "rank": 480,
-    "delta": 12,
-    "rank_other": 494
-  },
-  {
-    "ticker": "TER",
-    "rsl": 0.9045,
-    "rank": 481,
-    "delta": 2,
-    "rank_other": 406
-  },
-  {
-    "ticker": "MGM",
-    "rsl": 0.8992,
-    "rank": 482,
-    "delta": -4,
-    "rank_other": 498
-  },
-  {
-    "ticker": "DELL",
-    "rsl": 0.8991,
-    "rank": 483,
-    "delta": 10,
-    "rank_other": 42
-  },
-  {
-    "ticker": "MU",
-    "rsl": 0.8965,
-    "rank": 484,
-    "delta": -5,
-    "rank_other": 265
-  },
-  {
-    "ticker": "GLW",
-    "rsl": 0.895,
-    "rank": 485,
-    "delta": 0,
-    "rank_other": 484
-  },
-  {
-    "ticker": "CMG",
-    "rsl": 0.8947,
-    "rank": 486,
-    "delta": -27,
-    "rank_other": 467
-  },
-  {
-    "ticker": "WDC",
-    "rsl": 0.8933,
-    "rank": 487,
-    "delta": -3,
-    "rank_other": 490
-  },
-  {
-    "ticker": "HOOD",
-    "rsl": 0.8922,
-    "rank": 488,
-    "delta": -6,
-    "rank_other": 245
-  },
-  {
-    "ticker": "LITE",
-    "rsl": 0.8867,
-    "rank": 489,
-    "delta": 1,
-    "rank_other": 326
-  },
-  {
-    "ticker": "KLAC",
-    "rsl": 0.8844,
-    "rank": 490,
-    "delta": -4,
-    "rank_other": 477
-  },
-  {
-    "ticker": "BE",
-    "rsl": 0.8829,
-    "rank": 491,
-    "delta": 5,
-    "rank_other": 398
-  },
-  {
-    "ticker": "FIX",
-    "rsl": 0.8796,
-    "rank": 492,
-    "delta": -4,
     "rank_other": 480
   },
   {
-    "ticker": "LRCX",
-    "rsl": 0.8734,
-    "rank": 493,
-    "delta": -6,
-    "rank_other": 464
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "rsl": 0.9492,
+    "pct_1d": 0.54,
+    "pct_1w": -0.07,
+    "pct_1m": -9.39,
+    "rank": 449,
+    "delta": 0,
+    "rank_other": 441
   },
   {
-    "ticker": "AMAT",
-    "rsl": 0.8658,
-    "rank": 494,
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "rsl": 0.9454,
+    "pct_1d": -0.47,
+    "pct_1w": -3.89,
+    "pct_1m": -8.71,
+    "rank": 450,
     "delta": -3,
-    "rank_other": 472
+    "rank_other": 458
   },
   {
-    "ticker": "AKAM",
-    "rsl": 0.8601,
-    "rank": 495,
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "rsl": 0.9449,
+    "pct_1d": -2.83,
+    "pct_1w": -2.86,
+    "pct_1m": -5.62,
+    "rank": 451,
+    "delta": -8,
+    "rank_other": 462
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "sector": "Industrials",
+    "rsl": 0.9449,
+    "pct_1d": 3.84,
+    "pct_1w": 2.59,
+    "pct_1m": -11.88,
+    "rank": 452,
+    "delta": 8,
+    "rank_other": 421
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "sector": "Financials",
+    "rsl": 0.9434,
+    "pct_1d": 1.44,
+    "pct_1w": 0.24,
+    "pct_1m": -13.81,
+    "rank": 453,
+    "delta": 4,
+    "rank_other": 289
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrials",
+    "rsl": 0.9431,
+    "pct_1d": -0.69,
+    "pct_1w": -3.47,
+    "pct_1m": -10.49,
+    "rank": 454,
+    "delta": 0,
+    "rank_other": 218
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Information Technology",
+    "rsl": 0.9422,
+    "pct_1d": 0.95,
+    "pct_1w": -1.05,
+    "pct_1m": -7.47,
+    "rank": 455,
+    "delta": 3,
+    "rank_other": 129
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "sector": "Consumer Staples",
+    "rsl": 0.9408,
+    "pct_1d": -1.1,
+    "pct_1w": -6.46,
+    "pct_1m": -7.39,
+    "rank": 456,
+    "delta": -5,
+    "rank_other": 448
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "rsl": 0.9402,
+    "pct_1d": 1.33,
+    "pct_1w": -2.58,
+    "pct_1m": -13.38,
+    "rank": 457,
+    "delta": 4,
+    "rank_other": 471
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "rsl": 0.9359,
+    "pct_1d": 1.49,
+    "pct_1w": -4.29,
+    "pct_1m": -8.96,
+    "rank": 458,
+    "delta": 1,
+    "rank_other": 465
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "rsl": 0.9356,
+    "pct_1d": -4.08,
+    "pct_1w": 0.38,
+    "pct_1m": -9.99,
+    "rank": 459,
     "delta": -6,
-    "rank_other": 491
+    "rank_other": 493
   },
   {
-    "ticker": "MOS",
-    "rsl": 0.8535,
-    "rank": 496,
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "rsl": 0.9356,
+    "pct_1d": -0.69,
+    "pct_1w": -3.38,
+    "pct_1m": -6.74,
+    "rank": 460,
+    "delta": -4,
+    "rank_other": 478
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "rsl": 0.9332,
+    "pct_1d": 0.39,
+    "pct_1w": -5.74,
+    "pct_1m": -9.08,
+    "rank": 461,
+    "delta": 3,
+    "rank_other": 389
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "rsl": 0.9327,
+    "pct_1d": 0.11,
+    "pct_1w": -1.35,
+    "pct_1m": -9.8,
+    "rank": 462,
     "delta": 1,
-    "rank_other": 482
+    "rank_other": 436
   },
   {
-    "ticker": "STX",
-    "rsl": 0.8518,
-    "rank": 497,
-    "delta": 1,
-    "rank_other": 470
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "rsl": 0.9316,
+    "pct_1d": -4.32,
+    "pct_1w": -6.87,
+    "pct_1m": -8.92,
+    "rank": 463,
+    "delta": -8,
+    "rank_other": 468
   },
   {
-    "ticker": "SNDK",
-    "rsl": 0.84,
-    "rank": 498,
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "sector": "Information Technology",
+    "rsl": 0.9307,
+    "pct_1d": -1.43,
+    "pct_1w": -0.98,
+    "pct_1m": -13.04,
+    "rank": 464,
+    "delta": 2,
+    "rank_other": 477
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "sector": "Industrials",
+    "rsl": 0.9272,
+    "pct_1d": 2.53,
+    "pct_1w": -4.21,
+    "pct_1m": -11.49,
+    "rank": 465,
+    "delta": 2,
+    "rank_other": 363
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "sector": "Industrials",
+    "rsl": 0.9271,
+    "pct_1d": -0.21,
+    "pct_1w": -5.9,
+    "pct_1m": -7.28,
+    "rank": 466,
     "delta": -4,
     "rank_other": 453
   },
   {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.9263,
+    "pct_1d": -1.84,
+    "pct_1w": -8.89,
+    "pct_1m": -9.32,
+    "rank": 467,
+    "delta": -2,
+    "rank_other": 390
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Industrials",
+    "rsl": 0.9263,
+    "pct_1d": 1.59,
+    "pct_1w": -8.33,
+    "pct_1m": -5.77,
+    "rank": 468,
+    "delta": 0,
+    "rank_other": 427
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "rsl": 0.9249,
+    "pct_1d": 3.45,
+    "pct_1w": -5.64,
+    "pct_1m": -5.93,
+    "rank": 469,
+    "delta": 4,
+    "rank_other": 27
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "sector": "Communication Services",
+    "rsl": 0.9205,
+    "pct_1d": -1.68,
+    "pct_1w": 2.17,
+    "pct_1m": -18.51,
+    "rank": 470,
+    "delta": 0,
+    "rank_other": 500
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "sector": "Industrials",
+    "rsl": 0.9205,
+    "pct_1d": 0.93,
+    "pct_1w": -2.27,
+    "pct_1m": -9.41,
+    "rank": 471,
+    "delta": 0,
+    "rank_other": 463
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "rsl": 0.9156,
+    "pct_1d": -6.0,
+    "pct_1w": -4.49,
+    "pct_1m": -11.3,
+    "rank": 472,
+    "delta": -3,
+    "rank_other": 398
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "rsl": 0.9147,
+    "pct_1d": 3.09,
+    "pct_1w": -6.46,
+    "pct_1m": -6.35,
+    "rank": 473,
+    "delta": 5,
+    "rank_other": 86
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "rsl": 0.913,
+    "pct_1d": -0.37,
+    "pct_1w": -2.6,
+    "pct_1m": -18.3,
+    "rank": 474,
+    "delta": -2,
+    "rank_other": 499
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "rsl": 0.9112,
+    "pct_1d": 1.19,
+    "pct_1w": -5.21,
+    "pct_1m": -13.26,
+    "rank": 475,
+    "delta": -1,
+    "rank_other": 107
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "rsl": 0.911,
+    "pct_1d": 3.26,
+    "pct_1w": -8.22,
+    "pct_1m": -5.1,
+    "rank": 476,
+    "delta": -1,
+    "rank_other": 34
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "rsl": 0.9103,
+    "pct_1d": 0.27,
+    "pct_1w": 3.05,
+    "pct_1m": -19.39,
+    "rank": 477,
+    "delta": 2,
+    "rank_other": 444
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "rsl": 0.9074,
+    "pct_1d": 0.77,
+    "pct_1w": -6.57,
+    "pct_1m": -11.01,
+    "rank": 478,
+    "delta": -2,
+    "rank_other": 223
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "sector": "Information Technology",
+    "rsl": 0.9045,
+    "pct_1d": 10.67,
+    "pct_1w": 0.43,
+    "pct_1m": -13.49,
+    "rank": 479,
+    "delta": -2,
+    "rank_other": 185
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Information Technology",
+    "rsl": 0.8972,
+    "pct_1d": 5.04,
+    "pct_1w": -4.42,
+    "pct_1m": -11.56,
+    "rank": 480,
+    "delta": 3,
+    "rank_other": 45
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.8969,
+    "pct_1d": -4.7,
+    "pct_1w": -7.42,
+    "pct_1m": -13.41,
+    "rank": 481,
+    "delta": 5,
+    "rank_other": 464
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "rsl": 0.8967,
+    "pct_1d": 2.34,
+    "pct_1w": -4.17,
+    "pct_1m": -13.6,
+    "rank": 482,
+    "delta": -1,
+    "rank_other": 413
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "sector": "Industrials",
+    "rsl": 0.8944,
+    "pct_1d": 4.73,
+    "pct_1w": -4.33,
+    "pct_1m": -15.89,
+    "rank": 483,
+    "delta": -3,
+    "rank_other": 494
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Financials",
+    "rsl": 0.8943,
+    "pct_1d": 0.97,
+    "pct_1w": -1.9,
+    "pct_1m": -20.19,
+    "rank": 484,
+    "delta": 4,
+    "rank_other": 251
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "rsl": 0.8941,
+    "pct_1d": -0.83,
+    "pct_1w": -1.04,
+    "pct_1m": -26.32,
+    "rank": 485,
+    "delta": -3,
+    "rank_other": 498
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "rsl": 0.892,
+    "pct_1d": 0.61,
+    "pct_1w": -1.38,
+    "pct_1m": -17.74,
+    "rank": 486,
+    "delta": -2,
+    "rank_other": 272
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "rsl": 0.8915,
+    "pct_1d": 1.36,
+    "pct_1w": 1.43,
+    "pct_1m": -20.51,
+    "rank": 487,
+    "delta": 0,
+    "rank_other": 490
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "sector": "Information Technology",
+    "rsl": 0.8898,
+    "pct_1d": 1.49,
+    "pct_1w": -4.73,
+    "pct_1m": -15.94,
+    "rank": 488,
+    "delta": -3,
+    "rank_other": 484
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "rsl": 0.8806,
+    "pct_1d": 0.81,
+    "pct_1w": -8.81,
+    "pct_1m": -13.42,
+    "rank": 489,
+    "delta": 1,
+    "rank_other": 475
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "sector": "Information Technology",
+    "rsl": 0.8798,
+    "pct_1d": 2.91,
+    "pct_1w": -5.56,
+    "pct_1m": -10.49,
+    "rank": 490,
+    "delta": -1,
+    "rank_other": 338
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Industrials",
+    "rsl": 0.8734,
+    "pct_1d": 1.19,
+    "pct_1w": -8.3,
+    "pct_1m": -13.01,
+    "rank": 491,
+    "delta": 1,
+    "rank_other": 481
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "sector": "Industrials",
+    "rsl": 0.8711,
+    "pct_1d": 4.2,
+    "pct_1w": -3.06,
+    "pct_1m": -16.1,
+    "rank": 492,
+    "delta": -1,
+    "rank_other": 408
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "rsl": 0.8691,
+    "pct_1d": 0.36,
+    "pct_1w": -7.85,
+    "pct_1m": -14.88,
+    "rank": 493,
+    "delta": 0,
+    "rank_other": 466
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "rsl": 0.8607,
+    "pct_1d": 0.63,
+    "pct_1w": -8.75,
+    "pct_1m": -13.74,
+    "rank": 494,
+    "delta": 0,
+    "rank_other": 474
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "rsl": 0.8549,
+    "pct_1d": -0.86,
+    "pct_1w": -3.11,
+    "pct_1m": -24.91,
+    "rank": 495,
+    "delta": 0,
+    "rank_other": 491
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "rsl": 0.8462,
+    "pct_1d": 2.02,
+    "pct_1w": -3.47,
+    "pct_1m": -25.06,
+    "rank": 496,
+    "delta": 1,
+    "rank_other": 472
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "sector": "Materials",
+    "rsl": 0.8392,
+    "pct_1d": -0.14,
+    "pct_1w": -6.18,
+    "pct_1m": -27.88,
+    "rank": 497,
+    "delta": -1,
+    "rank_other": 485
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Information Technology",
+    "rsl": 0.8389,
+    "pct_1d": -0.69,
+    "pct_1w": -3.38,
+    "pct_1m": -28.15,
+    "rank": 498,
+    "delta": 0,
+    "rank_other": 452
+  },
+  {
     "ticker": "INTC",
-    "rsl": 0.8373,
+    "name": "Intel",
+    "sector": "Information Technology",
+    "rsl": 0.835,
+    "pct_1d": -0.36,
+    "pct_1w": -6.89,
+    "pct_1m": -26.24,
     "rank": 499,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 455
   },
   {
     "ticker": "FLEX",
-    "rsl": 0.8173,
+    "name": "Flex Ltd.",
+    "sector": "Information Technology",
+    "rsl": 0.8107,
+    "pct_1d": 0.86,
+    "pct_1w": -12.07,
+    "pct_1m": -22.9,
     "rank": 500,
     "delta": 0,
     "rank_other": 495
   },
   {
     "ticker": "COHR",
-    "rsl": 0.8123,
+    "name": "Coherent Corp.",
+    "sector": "Information Technology",
+    "rsl": 0.8002,
+    "pct_1d": 0.7,
+    "pct_1w": -11.36,
+    "pct_1m": -24.8,
     "rank": 501,
     "delta": 0,
     "rank_other": 496
   },
   {
     "ticker": "SKYD",
-    "rsl": 0.7634,
+    "name": "Skydance Corporation",
+    "sector": "Communication Services",
+    "rsl": 0.7528,
+    "pct_1d": -2.68,
+    "pct_1w": -2.12,
+    "pct_1m": -31.65,
     "rank": 502,
     "delta": 0,
     "rank_other": 497
