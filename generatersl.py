@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import json
+import os
 import time
 
 # S&P 500 Ticker laden
@@ -15,15 +16,11 @@ def calculate_rsl(ticker, period_days):
         data = yf.download(ticker, period=f"{period_days + 40}d", progress=False, auto_adjust=True)
         if data.empty or len(data) < period_days:
             return None
-        
         close_series = data['Close']
-        # Falls MultiIndex, erste Spalte nehmen
         if isinstance(close_series, pd.DataFrame):
             close_series = close_series.iloc[:, 0]
-        
         close = float(close_series.iloc[-1])
         sma = float(close_series.iloc[-period_days:].mean())
-        
         if sma > 0:
             return round(close / sma, 4)
         return None
@@ -31,7 +28,14 @@ def calculate_rsl(ticker, period_days):
         print(f"Fehler bei {ticker}: {e}")
         return None
 
-def build_list(period_days, label):
+def load_previous(filename):
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            data = json.load(f)
+            return {item["ticker"]: item["rank"] for item in data}
+    return {}
+
+def build_list(period_days, label, prev_ranks):
     results = []
     print(f"\nBerechne {label}...")
     for i, ticker in enumerate(sp500):
@@ -40,15 +44,24 @@ def build_list(period_days, label):
             results.append({"ticker": ticker, "rsl": rsl})
         if (i + 1) % 50 == 0:
             print(f"  {i+1}/{len(sp500)} verarbeitet, bisher {len(results)} gültig")
-        time.sleep(0.1)  # kurze Pause gegen Rate-Limits
+        time.sleep(0.05)
     results.sort(key=lambda x: x["rsl"], reverse=True)
     for i, item in enumerate(results):
         item["rank"] = i + 1
+        prev = prev_ranks.get(item["ticker"])
+        if prev:
+            item["delta"] = prev - item["rank"]  # positiv = verbessert
+        else:
+            item["delta"] = None
     print(f"{label}: {len(results)} gültige Aktien")
     return results
 
-list_26d = build_list(26, "26 Tage")
-list_26w = build_list(130, "26 Wochen")
+# Vorherige Ranks laden
+prev_26d = load_previous("rsl_26d.json")
+prev_26w = load_previous("rsl_26w.json")
+
+list_26d = build_list(26, "26 Tage", prev_26d)
+list_26w = build_list(130, "26 Wochen", prev_26w)
 
 # Andere Ranks zuordnen
 rank_26d = {item["ticker"]: item["rank"] for item in list_26d}
