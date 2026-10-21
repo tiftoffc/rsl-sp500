@@ -3,12 +3,20 @@ import pandas as pd
 import json
 from datetime import datetime
 
-# S&P 500 Ticker holen (Wikipedia)
-url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-tables = pd.read_html(url)
-sp500 = tables[0]['Symbol'].tolist()
-sp500 = [t.replace('.', '-') for t in sp500]  # yfinance Format
+import requests
+from io import StringIO
 
+# S&P 500 Ticker mit User-Agent holen
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+response = requests.get(url, headers=headers)
+response.raise_for_status()
+
+tables = pd.read_html(StringIO(response.text))
+sp500 = tables[0]['Symbol'].tolist()
+sp500 = [t.replace('.', '-') for t in sp500]
 def calculate_rsl(ticker, period_days):
     try:
         data = yf.download(ticker, period=f"{period_days + 30}d", progress=False)
