@@ -1,4 +1,4 @@
-ratename: Daily RSL Update
+name: Daily RSL Update
 
 on:
   schedule:
