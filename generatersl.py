@@ -18,34 +18,30 @@ print(f"Geladene Ticker: {len(sp500)}")
 
 def get_fundamental(ticker):
     try:
-        info = yf.Ticker(ticker).info
-        market_cap = info.get('marketCap')
-        revenue = info.get('totalRevenue')
-        return {
-            "market_cap": market_cap,
-            "revenue": revenue
-        }
-    except:
-        return {"market_cap": None, "revenue": None}
 
 def get_iv_metrics(ticker):
+    print(f"IV-Abfrage für {ticker}...")
     if not EULERPOOL_KEY:
+        print("  -> Kein API-Key vorhanden")
         return {"ivr": None, "ivp": None}
     try:
-        # Endpoint anpassen, falls nötig – hier ein übliches Muster
-        url = f"https://api.eulerpool.com/api/1/volatility/{ticker}/iv-rank?token={EULERPOOL_KEY}"
-        r = requests.get(url, timeout=10)
-        if r.status_code == 200:
-            data = r.json()
-            # Felder je nach tatsächlicher Antwort anpassen
-            return {
-                "ivr": data.get("iv_rank") or data.get("ivr"),
-                "ivp": data.get("iv_percentile") or data.get("ivp")
-            }
+        url = f"https://api.eulerpool.com/v1/volatility/{ticker}/iv-rank"
+        headers = {"Authorization": f"Bearer {EULERPOOL_KEY}"}
+        r = requests.get(url, headers=headers, timeout=10)
+        print(f"  -> Status: {r.status_code}")
+        if r.status_code != 200:
+            print(f"  -> Antwort: {r.text[:200]}")
+            return {"ivr": None, "ivp": None}
+        data = r.json()
+        print(f"  -> Daten: {str(data)[:300]}")
+        return {
+            "ivr": data.get("iv_rank") or data.get("ivr"),
+            "ivp": data.get("iv_percentile") or data.get("ivp")
+        }
     except Exception as e:
-        print(f"IV Fehler bei {ticker}: {e}")
-    return {"ivr": None, "ivp": None}
-
+        print(f"  -> Exception: {e}")
+        return {"ivr": None, "ivp": None}
+        
 def calculate_metrics(ticker, period_days):
     try:
         data = yf.download(ticker, period="1y", progress=False, auto_adjust=True)
