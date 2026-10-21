@@ -18,6 +18,13 @@ print(f"Geladene Ticker: {len(sp500)}")
 
 def get_fundamental(ticker):
     try:
+        info = yf.Ticker(ticker).info
+        return {
+            "market_cap": info.get("marketCap"),
+            "revenue": info.get("totalRevenue")
+        }
+    except:
+        return {"market_cap": None, "revenue": None}
 
 def get_iv_metrics(ticker):
     print(f"IV-Abfrage für {ticker}...")
@@ -41,7 +48,7 @@ def get_iv_metrics(ticker):
     except Exception as e:
         print(f"  -> Exception: {e}")
         return {"ivr": None, "ivp": None}
-        
+
 def calculate_metrics(ticker, period_days):
     try:
         data = yf.download(ticker, period="1y", progress=False, auto_adjust=True)
