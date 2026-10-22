@@ -3,10 +3,6 @@ import pandas as pd
 import json
 import os
 import time
-import requests
-
-# Eulerpool API Key aus GitHub Secret
-EULERPOOL_KEY = os.environ.get("EULERPOOL_API_KEY")
 
 # S&P 500 Daten laden
 csv_url = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
@@ -25,29 +21,6 @@ def get_fundamental(ticker):
         }
     except:
         return {"market_cap": None, "revenue": None}
-
-def get_iv_metrics(ticker):
-    print(f"IV-Abfrage für {ticker}...")
-    if not EULERPOOL_KEY:
-        print("  -> Kein API-Key vorhanden")
-        return {"ivr": None, "ivp": None}
-    try:
-        url = f"https://api.eulerpool.com/v1/volatility/{ticker}/iv-rank"
-        headers = {"Authorization": f"Bearer {EULERPOOL_KEY}"}
-        r = requests.get(url, headers=headers, timeout=10)
-        print(f"  -> Status: {r.status_code}")
-        if r.status_code != 200:
-            print(f"  -> Antwort: {r.text[:200]}")
-            return {"ivr": None, "ivp": None}
-        data = r.json()
-        print(f"  -> Daten: {str(data)[:300]}")
-        return {
-            "ivr": data.get("iv_rank") or data.get("ivr"),
-            "ivp": data.get("iv_percentile") or data.get("ivp")
-        }
-    except Exception as e:
-        print(f"  -> Exception: {e}")
-        return {"ivr": None, "ivp": None}
 
 def calculate_metrics(ticker, period_days):
     try:
@@ -84,7 +57,7 @@ def load_previous(filename):
             return {item["ticker"]: item["rank"] for item in data}
     return {}
 
-def build_list(period_days, label, prev_ranks, top50_tickers):
+def build_list(period_days, label, prev_ranks):
     results = []
     print(f"\nBerechne {label}...")
     for i, ticker in enumerate(sp500):
@@ -92,7 +65,6 @@ def build_list(period_days, label, prev_ranks, top50_tickers):
         if metrics and metrics["rsl"]:
             info = ticker_info.get(ticker, {})
             fund = get_fundamental(ticker)
-            iv = get_iv_metrics(ticker) if ticker in top50_tickers else {"ivr": None, "ivp": None}
             results.append({
                 "ticker": ticker,
                 "name": info.get("Security", ticker),
@@ -103,8 +75,8 @@ def build_list(period_days, label, prev_ranks, top50_tickers):
                 "pct_1m": metrics["pct_1m"],
                 "market_cap": fund["market_cap"],
                 "revenue": fund["revenue"],
-                "ivr": iv["ivr"],
-                "ivp": iv["ivp"]
+                "ivr": None,
+                "ivp": None
             })
         if (i + 1) % 50 == 0:
             print(f"  {i+1}/{len(sp500)} verarbeitet")
@@ -118,24 +90,11 @@ def build_list(period_days, label, prev_ranks, top50_tickers):
     print(f"{label}: {len(results)} gültige Aktien")
     return results
 
-# Zuerst Fundamentals holen, um Top 50 zu bestimmen
-print("Hole Marktkapitalisierung für Top-50-Auswahl...")
-fundamentals = []
-for ticker in sp500:
-    fund = get_fundamental(ticker)
-    if fund["market_cap"]:
-        fundamentals.append({"ticker": ticker, "market_cap": fund["market_cap"]})
-    time.sleep(0.02)
-
-fundamentals.sort(key=lambda x: x["market_cap"], reverse=True)
-top50_tickers = {item["ticker"] for item in fundamentals[:50]}
-print(f"Top 50 nach Marktkapitalisierung: {len(top50_tickers)} Titel")
-
 prev_26d = load_previous("rsl_26d.json")
 prev_26w = load_previous("rsl_26w.json")
 
-list_26d = build_list(26, "26 Tage", prev_26d, top50_tickers)
-list_26w = build_list(130, "26 Wochen", prev_26w, top50_tickers)
+list_26d = build_list(26, "26 Tage", prev_26d)
+list_26w = build_list(130, "26 Wochen", prev_26w)
 
 rank_26d = {item["ticker"]: item["rank"] for item in list_26d}
 rank_26w = {item["ticker"]: item["rank"] for item in list_26w}
