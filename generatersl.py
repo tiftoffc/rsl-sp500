@@ -27,17 +27,29 @@ def calculate_metrics(ticker, period_days):
         data = yf.download(ticker, period="1y", progress=False, auto_adjust=True)
         if data.empty or len(data) < period_days:
             return None
+        
         close_series = data['Close']
         if isinstance(close_series, pd.DataFrame):
             close_series = close_series.iloc[:, 0]
+        
+        # NaN-Werte entfernen
+        close_series = close_series.dropna()
+        if len(close_series) < period_days:
+            return None
+        
         close = float(close_series.iloc[-1])
         sma = float(close_series.iloc[-period_days:].mean())
-        rsl = round(close / sma, 4) if sma > 0 else None
+        
+        if pd.isna(close) or pd.isna(sma) or sma <= 0:
+            return None
+        
+        rsl = round(close / sma, 4)
 
         def pct_change(days):
             if len(close_series) > days:
                 past = float(close_series.iloc[-days-1])
-                return round((close / past - 1) * 100, 2) if past > 0 else None
+                if past > 0 and not pd.isna(past):
+                    return round((close / past - 1) * 100, 2)
             return None
 
         return {
