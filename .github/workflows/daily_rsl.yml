@@ -21,10 +21,10 @@ jobs:
         env:
           EULERPOOL_API_KEY: ${{ secrets.EULERPOOL_API_KEY }}
         run: python generatersl.py
-      - name: Commit and push JSON
+      - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add rsl_26d.json rsl_26w.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSL data"
+          git add rsl_26d.json rsl_26w.json last_update.json
+          git commit -m "Update RSL data" || echo "No changes"
           git push
