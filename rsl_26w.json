@@ -7,8 +7,8 @@
     "pct_1d": -1.25,
     "pct_1w": -8.22,
     "pct_1m": 2.71,
-    "market_cap": 79887106048,
-    "revenue": 2228000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 1,
@@ -23,13 +23,13 @@
     "pct_1d": 0.15,
     "pct_1w": 4.09,
     "pct_1m": 17.54,
-    "market_cap": 52303036416,
-    "revenue": 3458097920,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 2,
-    "delta": 1,
-    "rank_other": 34
+    "delta": 0,
+    "rank_other": 27
   },
   {
     "ticker": "CRL",
@@ -39,13 +39,13 @@
     "pct_1d": 1.68,
     "pct_1w": 15.07,
     "pct_1m": 17.3,
-    "market_cap": 16487573504,
+    "market_cap": 16635687936,
     "revenue": 3998987008,
     "ivr": null,
     "ivp": null,
     "rank": 3,
-    "delta": 1,
-    "rank_other": 18
+    "delta": 0,
+    "rank_other": 12
   },
   {
     "ticker": "ACN",
@@ -60,8 +60,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 4,
-    "delta": -2,
-    "rank_other": 1
+    "delta": 0,
+    "rank_other": 2
   },
   {
     "ticker": "MPC",
@@ -71,13 +71,13 @@
     "pct_1d": -0.45,
     "pct_1w": -4.36,
     "pct_1m": 16.95,
-    "market_cap": 133479268352,
-    "revenue": 154145996800,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 5,
     "delta": 0,
-    "rank_other": 211
+    "rank_other": 191
   },
   {
     "ticker": "IT",
@@ -93,7 +93,7 @@
     "ivp": null,
     "rank": 6,
     "delta": 0,
-    "rank_other": 4
+    "rank_other": 5
   },
   {
     "ticker": "ILMN",
@@ -109,7 +109,7 @@
     "ivp": null,
     "rank": 7,
     "delta": 0,
-    "rank_other": 333
+    "rank_other": 334
   },
   {
     "ticker": "NOW",
@@ -120,12 +120,12 @@
     "pct_1w": 11.97,
     "pct_1m": 15.37,
     "market_cap": 164342710272,
-    "revenue": 14732000256,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 8,
-    "delta": 3,
-    "rank_other": 20
+    "delta": 0,
+    "rank_other": 21
   },
   {
     "ticker": "PTC",
@@ -135,12 +135,12 @@
     "pct_1d": -0.1,
     "pct_1w": 0.42,
     "pct_1m": 41.04,
-    "market_cap": 21052925952,
-    "revenue": 2953971968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 9,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 19
   },
   {
@@ -151,13 +151,13 @@
     "pct_1d": 0.94,
     "pct_1w": 4.06,
     "pct_1m": 5.42,
-    "market_cap": 17716574208,
-    "revenue": 2911811072,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 10,
-    "delta": 2,
-    "rank_other": 222
+    "delta": 0,
+    "rank_other": 206
   },
   {
     "ticker": "VLO",
@@ -167,13 +167,13 @@
     "pct_1d": -1.64,
     "pct_1w": -5.72,
     "pct_1m": 9.51,
-    "market_cap": 120722227200,
-    "revenue": 146578997248,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 11,
-    "delta": -1,
-    "rank_other": 334
+    "delta": 0,
+    "rank_other": 335
   },
   {
     "ticker": "P",
@@ -188,8 +188,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 12,
-    "delta": 3,
-    "rank_other": 449
+    "delta": 0,
+    "rank_other": 441
   },
   {
     "ticker": "PSX",
@@ -199,13 +199,13 @@
     "pct_1d": -0.51,
     "pct_1w": -3.41,
     "pct_1m": 10.67,
-    "market_cap": 112994746368,
-    "revenue": 152167006208,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 13,
     "delta": 0,
-    "rank_other": 266
+    "rank_other": 252
   },
   {
     "ticker": "WDAY",
@@ -215,13 +215,13 @@
     "pct_1d": 0.0,
     "pct_1w": 10.05,
     "pct_1m": 9.95,
-    "market_cap": 50607591424,
-    "revenue": 10154999808,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 14,
     "delta": 0,
-    "rank_other": 62
+    "rank_other": 54
   },
   {
     "ticker": "CRWD",
@@ -236,8 +236,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 15,
-    "delta": 15,
-    "rank_other": 442
+    "delta": 0,
+    "rank_other": 324
   },
   {
     "ticker": "APA",
@@ -252,8 +252,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 16,
-    "delta": 9,
-    "rank_other": 59
+    "delta": 0,
+    "rank_other": 15
   },
   {
     "ticker": "HAS",
@@ -268,8 +268,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 17,
-    "delta": -1,
-    "rank_other": 2
+    "delta": 0,
+    "rank_other": 1
   },
   {
     "ticker": "CTSH",
@@ -279,13 +279,13 @@
     "pct_1d": -4.31,
     "pct_1w": 6.83,
     "pct_1m": 23.39,
-    "market_cap": 33365420032,
+    "market_cap": 31774334976,
     "revenue": 21642000384,
     "ivr": null,
     "ivp": null,
     "rank": 18,
-    "delta": -9,
-    "rank_other": 5
+    "delta": 0,
+    "rank_other": 10
   },
   {
     "ticker": "ZBRA",
@@ -295,13 +295,13 @@
     "pct_1d": 0.6,
     "pct_1w": 4.73,
     "pct_1m": 5.85,
-    "market_cap": 18407925760,
-    "revenue": 5847000064,
+    "market_cap": 18283204608,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 19,
-    "delta": -1,
-    "rank_other": 287
+    "delta": 0,
+    "rank_other": 276
   },
   {
     "ticker": "FDS",
@@ -316,7 +316,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 20,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 8
   },
   {
@@ -332,8 +332,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 21,
-    "delta": -1,
-    "rank_other": 216
+    "delta": 0,
+    "rank_other": 198
   },
   {
     "ticker": "BBY",
@@ -348,8 +348,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 22,
-    "delta": -3,
-    "rank_other": 45
+    "delta": 0,
+    "rank_other": 36
   },
   {
     "ticker": "PLTR",
@@ -359,13 +359,13 @@
     "pct_1d": 0.29,
     "pct_1w": 5.76,
     "pct_1m": 2.16,
-    "market_cap": 472801738752,
-    "revenue": 6155940864,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 23,
     "delta": 0,
-    "rank_other": 308
+    "rank_other": 304
   },
   {
     "ticker": "HPQ",
@@ -380,8 +380,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 24,
-    "delta": -3,
-    "rank_other": 150
+    "delta": 0,
+    "rank_other": 124
   },
   {
     "ticker": "NTAP",
@@ -391,13 +391,13 @@
     "pct_1d": 1.4,
     "pct_1w": 5.73,
     "pct_1m": 9.49,
-    "market_cap": 42324365312,
-    "revenue": 7391000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 25,
-    "delta": 3,
-    "rank_other": 336
+    "delta": 0,
+    "rank_other": 338
   },
   {
     "ticker": "MTD",
@@ -407,13 +407,13 @@
     "pct_1d": -0.85,
     "pct_1w": 2.96,
     "pct_1m": 9.95,
-    "market_cap": 33466865664,
-    "revenue": 4133874944,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 26,
-    "delta": -4,
-    "rank_other": 112
+    "delta": 0,
+    "rank_other": 92
   },
   {
     "ticker": "CRM",
@@ -423,13 +423,13 @@
     "pct_1d": -0.69,
     "pct_1w": 3.27,
     "pct_1m": 4.34,
-    "market_cap": 204573114368,
-    "revenue": 43938000896,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 27,
-    "delta": -3,
-    "rank_other": 184
+    "delta": 0,
+    "rank_other": 163
   },
   {
     "ticker": "COP",
@@ -444,8 +444,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 28,
-    "delta": 13,
-    "rank_other": 71
+    "delta": 0,
+    "rank_other": 24
   },
   {
     "ticker": "ADP",
@@ -460,8 +460,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 29,
-    "delta": -3,
-    "rank_other": 21
+    "delta": 0,
+    "rank_other": 28
   },
   {
     "ticker": "A",
@@ -471,13 +471,13 @@
     "pct_1d": -0.47,
     "pct_1w": 0.06,
     "pct_1m": 0.28,
-    "market_cap": 48793432064,
+    "market_cap": 48799825920,
     "revenue": 7372000256,
     "ivr": null,
     "ivp": null,
     "rank": 30,
-    "delta": -1,
-    "rank_other": 295
+    "delta": 0,
+    "rank_other": 311
   },
   {
     "ticker": "ALLE",
@@ -492,8 +492,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 31,
-    "delta": 6,
-    "rank_other": 14
+    "delta": 0,
+    "rank_other": 9
   },
   {
     "ticker": "EL",
@@ -508,8 +508,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 32,
-    "delta": 3,
-    "rank_other": 50
+    "delta": 0,
+    "rank_other": 35
   },
   {
     "ticker": "CDW",
@@ -525,7 +525,7 @@
     "ivp": null,
     "rank": 33,
     "delta": 0,
-    "rank_other": 12
+    "rank_other": 14
   },
   {
     "ticker": "GDDY",
@@ -540,8 +540,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 34,
-    "delta": -7,
-    "rank_other": 37
+    "delta": 0,
+    "rank_other": 32
   },
   {
     "ticker": "TMO",
@@ -551,13 +551,13 @@
     "pct_1d": -0.4,
     "pct_1w": -2.34,
     "pct_1m": -0.67,
-    "market_cap": 249143132160,
-    "revenue": 47351001088,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 35,
-    "delta": 1,
-    "rank_other": 335
+    "delta": 0,
+    "rank_other": 337
   },
   {
     "ticker": "BDX",
@@ -572,8 +572,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 36,
-    "delta": -2,
-    "rank_other": 85
+    "delta": 0,
+    "rank_other": 98
   },
   {
     "ticker": "BIIB",
@@ -588,8 +588,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 37,
-    "delta": -5,
-    "rank_other": 31
+    "delta": 0,
+    "rank_other": 51
   },
   {
     "ticker": "CVX",
@@ -604,8 +604,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 38,
-    "delta": 16,
-    "rank_other": 133
+    "delta": 0,
+    "rank_other": 50
   },
   {
     "ticker": "ROP",
@@ -615,13 +615,13 @@
     "pct_1d": 0.44,
     "pct_1w": 14.48,
     "pct_1m": 20.66,
-    "market_cap": 43332427776,
-    "revenue": 8434599936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 39,
-    "delta": 1,
-    "rank_other": 7
+    "delta": 0,
+    "rank_other": 6
   },
   {
     "ticker": "ULTA",
@@ -631,13 +631,13 @@
     "pct_1d": -1.66,
     "pct_1w": 5.32,
     "pct_1m": 13.79,
-    "market_cap": 26700331008,
-    "revenue": 12955516928,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 40,
-    "delta": -9,
-    "rank_other": 52
+    "delta": 0,
+    "rank_other": 43
   },
   {
     "ticker": "TYL",
@@ -647,12 +647,12 @@
     "pct_1d": -0.59,
     "pct_1w": 8.11,
     "pct_1m": 19.36,
-    "market_cap": 15977119744,
-    "revenue": 2429657088,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 41,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 16
   },
   {
@@ -663,13 +663,13 @@
     "pct_1d": 7.22,
     "pct_1w": 11.27,
     "pct_1m": -2.4,
-    "market_cap": 311289905152,
-    "revenue": 11480000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 42,
-    "delta": 59,
-    "rank_other": 357
+    "delta": 0,
+    "rank_other": 359
   },
   {
     "ticker": "FTNT",
@@ -684,8 +684,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 43,
-    "delta": 21,
-    "rank_other": 406
+    "delta": 0,
+    "rank_other": 346
   },
   {
     "ticker": "TWLO",
@@ -695,13 +695,13 @@
     "pct_1d": 3.22,
     "pct_1w": 7.13,
     "pct_1m": -12.64,
-    "market_cap": 40204455936,
-    "revenue": 5572327936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 44,
-    "delta": 15,
-    "rank_other": 429
+    "delta": 0,
+    "rank_other": 426
   },
   {
     "ticker": "MCK",
@@ -711,13 +711,13 @@
     "pct_1d": -1.14,
     "pct_1w": -0.41,
     "pct_1m": 15.12,
-    "market_cap": 116680138752,
-    "revenue": 410983006208,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 45,
-    "delta": -7,
-    "rank_other": 113
+    "delta": 0,
+    "rank_other": 93
   },
   {
     "ticker": "XOM",
@@ -732,8 +732,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 46,
-    "delta": 17,
-    "rank_other": 160
+    "delta": 0,
+    "rank_other": 64
   },
   {
     "ticker": "RMD",
@@ -743,13 +743,13 @@
     "pct_1d": -0.08,
     "pct_1w": 5.81,
     "pct_1m": 13.96,
-    "market_cap": 35562041344,
-    "revenue": 5653443072,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 47,
-    "delta": -3,
-    "rank_other": 54
+    "delta": 0,
+    "rank_other": 45
   },
   {
     "ticker": "CTAS",
@@ -764,8 +764,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 48,
-    "delta": -1,
-    "rank_other": 43
+    "delta": 0,
+    "rank_other": 42
   },
   {
     "ticker": "ABBV",
@@ -781,7 +781,7 @@
     "ivp": null,
     "rank": 49,
     "delta": 0,
-    "rank_other": 187
+    "rank_other": 176
   },
   {
     "ticker": "IFF",
@@ -791,13 +791,13 @@
     "pct_1d": 0.34,
     "pct_1w": 3.83,
     "pct_1m": 9.67,
-    "market_cap": 24036823040,
+    "market_cap": 24022370304,
     "revenue": 10780999680,
     "ivr": null,
     "ivp": null,
     "rank": 50,
-    "delta": 1,
-    "rank_other": 80
+    "delta": 0,
+    "rank_other": 66
   },
   {
     "ticker": "WAT",
@@ -807,13 +807,13 @@
     "pct_1d": -0.42,
     "pct_1w": 3.83,
     "pct_1m": 5.43,
-    "market_cap": 44543979520,
-    "revenue": 4644285952,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 51,
-    "delta": -6,
-    "rank_other": 235
+    "delta": 0,
+    "rank_other": 224
   },
   {
     "ticker": "DHR",
@@ -828,8 +828,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 52,
-    "delta": 5,
-    "rank_other": 258
+    "delta": 0,
+    "rank_other": 245
   },
   {
     "ticker": "HUM",
@@ -844,8 +844,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 53,
-    "delta": 3,
-    "rank_other": 213
+    "delta": 0,
+    "rank_other": 195
   },
   {
     "ticker": "MSFT",
@@ -855,13 +855,13 @@
     "pct_1d": 0.66,
     "pct_1w": -0.86,
     "pct_1m": 5.34,
-    "market_cap": 3894773022720,
-    "revenue": 331839012864,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 54,
-    "delta": 6,
-    "rank_other": 330
+    "delta": 0,
+    "rank_other": 331
   },
   {
     "ticker": "EOG",
@@ -871,13 +871,13 @@
     "pct_1d": 3.21,
     "pct_1w": 3.18,
     "pct_1m": 14.89,
-    "market_cap": 86834429952,
+    "market_cap": 85513994240,
     "revenue": 26720999424,
     "ivr": null,
     "ivp": null,
     "rank": 55,
-    "delta": 36,
-    "rank_other": 98
+    "delta": 0,
+    "rank_other": 30
   },
   {
     "ticker": "AMGN",
@@ -892,8 +892,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 56,
-    "delta": -14,
-    "rank_other": 100
+    "delta": 0,
+    "rank_other": 169
   },
   {
     "ticker": "BR",
@@ -908,8 +908,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 57,
-    "delta": -9,
-    "rank_other": 26
+    "delta": 0,
+    "rank_other": 47
   },
   {
     "ticker": "TRV",
@@ -919,13 +919,13 @@
     "pct_1d": -1.77,
     "pct_1w": 2.24,
     "pct_1m": 9.9,
-    "market_cap": 83071262720,
-    "revenue": 48921001984,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 58,
-    "delta": -12,
-    "rank_other": 136
+    "delta": 0,
+    "rank_other": 110
   },
   {
     "ticker": "SWKS",
@@ -935,13 +935,13 @@
     "pct_1d": 1.26,
     "pct_1w": 4.68,
     "pct_1m": -4.99,
-    "market_cap": 19619862528,
-    "revenue": 4014099968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 59,
-    "delta": 10,
-    "rank_other": 343
+    "delta": 0,
+    "rank_other": 347
   },
   {
     "ticker": "CBOE",
@@ -956,8 +956,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 60,
-    "delta": 57,
-    "rank_other": 10
+    "delta": 0,
+    "rank_other": 4
   },
   {
     "ticker": "V",
@@ -967,13 +967,13 @@
     "pct_1d": -1.55,
     "pct_1w": 1.32,
     "pct_1m": 10.85,
-    "market_cap": 765810769920,
-    "revenue": 44487999488,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 61,
-    "delta": -11,
-    "rank_other": 121
+    "delta": 0,
+    "rank_other": 100
   },
   {
     "ticker": "HPE",
@@ -988,8 +988,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 62,
-    "delta": 20,
-    "rank_other": 464
+    "delta": 0,
+    "rank_other": 465
   },
   {
     "ticker": "MA",
@@ -999,13 +999,13 @@
     "pct_1d": -1.52,
     "pct_1w": 1.0,
     "pct_1m": 10.33,
-    "market_cap": 546279751680,
-    "revenue": 35083001856,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 63,
-    "delta": -10,
-    "rank_other": 132
+    "delta": 0,
+    "rank_other": 106
   },
   {
     "ticker": "DDOG",
@@ -1020,8 +1020,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 64,
-    "delta": 61,
-    "rank_other": 392
+    "delta": 0,
+    "rank_other": 320
   },
   {
     "ticker": "AJG",
@@ -1036,8 +1036,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 65,
-    "delta": -7,
-    "rank_other": 15
+    "delta": 0,
+    "rank_other": 23
   },
   {
     "ticker": "WSM",
@@ -1047,13 +1047,13 @@
     "pct_1d": -3.19,
     "pct_1w": 0.92,
     "pct_1m": 10.75,
-    "market_cap": 29732886528,
-    "revenue": 8005155840,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 66,
-    "delta": -23,
-    "rank_other": 171
+    "delta": 0,
+    "rank_other": 150
   },
   {
     "ticker": "WST",
@@ -1063,13 +1063,13 @@
     "pct_1d": -0.48,
     "pct_1w": 2.12,
     "pct_1m": 4.97,
-    "market_cap": 27597854720,
-    "revenue": 3326799872,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 67,
-    "delta": -2,
-    "rank_other": 218
+    "delta": 0,
+    "rank_other": 200
   },
   {
     "ticker": "SJM",
@@ -1079,13 +1079,13 @@
     "pct_1d": -2.56,
     "pct_1w": 2.0,
     "pct_1m": 6.84,
-    "market_cap": 13884876800,
-    "revenue": 9156899840,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 68,
-    "delta": -16,
-    "rank_other": 153
+    "delta": 0,
+    "rank_other": 126
   },
   {
     "ticker": "CME",
@@ -1095,13 +1095,13 @@
     "pct_1d": -0.09,
     "pct_1w": 4.03,
     "pct_1m": 13.68,
-    "market_cap": 109926973440,
-    "revenue": 6958499840,
+    "market_cap": 109423968256,
+    "revenue": 6956100096,
     "ivr": null,
     "ivp": null,
     "rank": 69,
-    "delta": 5,
-    "rank_other": 38
+    "delta": 0,
+    "rank_other": 40
   },
   {
     "ticker": "PFE",
@@ -1111,13 +1111,13 @@
     "pct_1d": -1.28,
     "pct_1w": 1.52,
     "pct_1m": 5.7,
-    "market_cap": 171161206784,
-    "revenue": 63695998976,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 70,
-    "delta": -8,
-    "rank_other": 206
+    "delta": 0,
+    "rank_other": 186
   },
   {
     "ticker": "GILD",
@@ -1132,8 +1132,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 71,
-    "delta": -4,
-    "rank_other": 272
+    "delta": 0,
+    "rank_other": 260
   },
   {
     "ticker": "HCA",
@@ -1143,13 +1143,13 @@
     "pct_1d": 0.37,
     "pct_1w": 2.22,
     "pct_1m": 10.76,
-    "market_cap": 104049524736,
+    "market_cap": 101545697280,
     "revenue": 78012997632,
     "ivr": null,
     "ivp": null,
     "rank": 72,
-    "delta": 16,
-    "rank_other": 185
+    "delta": 0,
+    "rank_other": 165
   },
   {
     "ticker": "FFIV",
@@ -1164,8 +1164,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 73,
-    "delta": 27,
-    "rank_other": 360
+    "delta": 0,
+    "rank_other": 341
   },
   {
     "ticker": "LMT",
@@ -1175,12 +1175,12 @@
     "pct_1d": 2.42,
     "pct_1w": 9.44,
     "pct_1m": 15.37,
-    "market_cap": 139568381952,
-    "revenue": 79116001280,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 74,
-    "delta": 50,
+    "delta": 0,
     "rank_other": 11
   },
   {
@@ -1191,13 +1191,13 @@
     "pct_1d": -1.22,
     "pct_1w": 0.7,
     "pct_1m": 8.68,
-    "market_cap": 122042556416,
-    "revenue": 37541998592,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 75,
-    "delta": -5,
-    "rank_other": 182
+    "delta": 0,
+    "rank_other": 161
   },
   {
     "ticker": "VLTO",
@@ -1207,13 +1207,13 @@
     "pct_1d": -0.54,
     "pct_1w": 3.26,
     "pct_1m": 8.6,
-    "market_cap": 25434959872,
-    "revenue": 5696000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 76,
-    "delta": 2,
-    "rank_other": 141
+    "delta": 0,
+    "rank_other": 117
   },
   {
     "ticker": "SWK",
@@ -1223,13 +1223,13 @@
     "pct_1d": 0.27,
     "pct_1w": 7.31,
     "pct_1m": 10.06,
-    "market_cap": 14986891264,
-    "revenue": 15247699968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 77,
-    "delta": 16,
-    "rank_other": 69
+    "delta": 0,
+    "rank_other": 60
   },
   {
     "ticker": "UHS",
@@ -1239,13 +1239,13 @@
     "pct_1d": -0.66,
     "pct_1w": 0.97,
     "pct_1m": 5.59,
-    "market_cap": 11014645760,
-    "revenue": 18114486272,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 78,
-    "delta": 1,
-    "rank_other": 237
+    "delta": 0,
+    "rank_other": 227
   },
   {
     "ticker": "MRSH",
@@ -1255,13 +1255,13 @@
     "pct_1d": -0.9,
     "pct_1w": 4.85,
     "pct_1m": 16.89,
-    "market_cap": 94239678464,
-    "revenue": 28458999808,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 79,
-    "delta": -4,
-    "rank_other": 33
+    "delta": 0,
+    "rank_other": 26
   },
   {
     "ticker": "KDP",
@@ -1276,8 +1276,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 80,
-    "delta": -12,
-    "rank_other": 103
+    "delta": 0,
+    "rank_other": 83
   },
   {
     "ticker": "EXPD",
@@ -1292,8 +1292,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 81,
-    "delta": 15,
-    "rank_other": 303
+    "delta": 0,
+    "rank_other": 299
   },
   {
     "ticker": "BAX",
@@ -1308,8 +1308,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 82,
-    "delta": -9,
-    "rank_other": 155
+    "delta": 0,
+    "rank_other": 203
   },
   {
     "ticker": "BRO",
@@ -1324,8 +1324,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 83,
-    "delta": -17,
-    "rank_other": 9
+    "delta": 0,
+    "rank_other": 20
   },
   {
     "ticker": "LH",
@@ -1335,13 +1335,13 @@
     "pct_1d": -0.3,
     "pct_1w": 3.46,
     "pct_1m": 6.47,
-    "market_cap": 26677846016,
-    "revenue": 14348000256,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 84,
-    "delta": 5,
-    "rank_other": 225
+    "delta": 0,
+    "rank_other": 208
   },
   {
     "ticker": "RSG",
@@ -1351,13 +1351,13 @@
     "pct_1d": -0.6,
     "pct_1w": 3.85,
     "pct_1m": 13.4,
-    "market_cap": 73628909568,
-    "revenue": 16890999808,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 85,
-    "delta": 1,
-    "rank_other": 56
+    "delta": 0,
+    "rank_other": 48
   },
   {
     "ticker": "NDAQ",
@@ -1367,13 +1367,13 @@
     "pct_1d": -0.72,
     "pct_1w": 9.14,
     "pct_1m": 8.47,
-    "market_cap": 57328713728,
-    "revenue": 5779999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 86,
-    "delta": -1,
-    "rank_other": 67
+    "delta": 0,
+    "rank_other": 58
   },
   {
     "ticker": "OXY",
@@ -1383,13 +1383,13 @@
     "pct_1d": 2.67,
     "pct_1w": 2.87,
     "pct_1m": 10.54,
-    "market_cap": 64146726912,
-    "revenue": 23925999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 87,
-    "delta": 55,
-    "rank_other": 97
+    "delta": 0,
+    "rank_other": 80
   },
   {
     "ticker": "LLY",
@@ -1399,13 +1399,13 @@
     "pct_1d": -2.54,
     "pct_1w": 1.31,
     "pct_1m": 7.75,
-    "market_cap": 1135107506176,
-    "revenue": 79666003968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 88,
-    "delta": -27,
-    "rank_other": 151
+    "delta": 0,
+    "rank_other": 125
   },
   {
     "ticker": "GRMN",
@@ -1415,13 +1415,13 @@
     "pct_1d": -0.56,
     "pct_1w": 3.14,
     "pct_1m": -0.44,
-    "market_cap": 56649580544,
+    "market_cap": 56648503296,
     "revenue": 7671437824,
     "ivr": null,
     "ivp": null,
     "rank": 89,
-    "delta": 9,
-    "rank_other": 230
+    "delta": 0,
+    "rank_other": 250
   },
   {
     "ticker": "CNC",
@@ -1436,8 +1436,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 90,
-    "delta": -14,
-    "rank_other": 83
+    "delta": 0,
+    "rank_other": 113
   },
   {
     "ticker": "MRK",
@@ -1447,13 +1447,13 @@
     "pct_1d": -1.34,
     "pct_1w": -0.47,
     "pct_1m": -1.83,
-    "market_cap": 358406029312,
-    "revenue": 66568998912,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 91,
-    "delta": -7,
-    "rank_other": 353
+    "delta": 0,
+    "rank_other": 355
   },
   {
     "ticker": "DG",
@@ -1468,8 +1468,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 92,
-    "delta": -37,
-    "rank_other": 35
+    "delta": 0,
+    "rank_other": 160
   },
   {
     "ticker": "REGN",
@@ -1479,13 +1479,13 @@
     "pct_1d": -1.72,
     "pct_1w": 1.81,
     "pct_1m": 1.13,
-    "market_cap": 82880831488,
-    "revenue": 15534699520,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 93,
-    "delta": -13,
-    "rank_other": 234
+    "delta": 0,
+    "rank_other": 223
   },
   {
     "ticker": "CAH",
@@ -1500,8 +1500,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 94,
-    "delta": -22,
-    "rank_other": 75
+    "delta": 0,
+    "rank_other": 152
   },
   {
     "ticker": "TECH",
@@ -1516,8 +1516,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 95,
-    "delta": 12,
-    "rank_other": 342
+    "delta": 0,
+    "rank_other": 344
   },
   {
     "ticker": "ISRG",
@@ -1532,8 +1532,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 96,
-    "delta": 51,
-    "rank_other": 74
+    "delta": 0,
+    "rank_other": 61
   },
   {
     "ticker": "DVN",
@@ -1548,8 +1548,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 97,
-    "delta": 86,
-    "rank_other": 315
+    "delta": 0,
+    "rank_other": 147
   },
   {
     "ticker": "ELV",
@@ -1564,8 +1564,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 98,
-    "delta": -3,
-    "rank_other": 81
+    "delta": 0,
+    "rank_other": 103
   },
   {
     "ticker": "ABNB",
@@ -1580,8 +1580,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 99,
-    "delta": -22,
-    "rank_other": 130
+    "delta": 0,
+    "rank_other": 210
   },
   {
     "ticker": "PYPL",
@@ -1591,13 +1591,13 @@
     "pct_1d": -0.9,
     "pct_1w": 0.56,
     "pct_1m": 8.4,
-    "market_cap": 49151242240,
-    "revenue": 34127998976,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 100,
-    "delta": -1,
-    "rank_other": 245
+    "delta": 0,
+    "rank_other": 233
   },
   {
     "ticker": "DGX",
@@ -1607,13 +1607,13 @@
     "pct_1d": -0.57,
     "pct_1w": 2.93,
     "pct_1m": 2.62,
-    "market_cap": 26698211328,
-    "revenue": 11841000448,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 101,
-    "delta": 2,
-    "rank_other": 281
+    "delta": 0,
+    "rank_other": 269
   },
   {
     "ticker": "AAPL",
@@ -1628,7 +1628,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 102,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 283
   },
   {
@@ -1639,13 +1639,13 @@
     "pct_1d": -2.16,
     "pct_1w": 3.02,
     "pct_1m": 11.06,
-    "market_cap": 30184308736,
-    "revenue": 10101999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 103,
-    "delta": -20,
-    "rank_other": 102
+    "delta": 0,
+    "rank_other": 82
   },
   {
     "ticker": "EBAY",
@@ -1660,8 +1660,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 104,
-    "delta": 8,
-    "rank_other": 78
+    "delta": 0,
+    "rank_other": 84
   },
   {
     "ticker": "PAYX",
@@ -1671,13 +1671,13 @@
     "pct_1d": -0.65,
     "pct_1w": 5.74,
     "pct_1m": 16.19,
-    "market_cap": 42019934208,
-    "revenue": 6602500096,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 105,
-    "delta": 3,
-    "rank_other": 39
+    "delta": 0,
+    "rank_other": 33
   },
   {
     "ticker": "TRGP",
@@ -1687,13 +1687,13 @@
     "pct_1d": 4.43,
     "pct_1w": 2.53,
     "pct_1m": 6.79,
-    "market_cap": 64837509120,
-    "revenue": 16741499904,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 106,
-    "delta": 82,
-    "rank_other": 178
+    "delta": 0,
+    "rank_other": 158
   },
   {
     "ticker": "MSI",
@@ -1703,13 +1703,13 @@
     "pct_1d": 0.84,
     "pct_1w": 4.03,
     "pct_1m": 5.92,
-    "market_cap": 79739871232,
-    "revenue": 12236999680,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 107,
-    "delta": 34,
-    "rank_other": 174
+    "delta": 0,
+    "rank_other": 154
   },
   {
     "ticker": "TRMB",
@@ -1719,13 +1719,13 @@
     "pct_1d": -0.81,
     "pct_1w": 6.78,
     "pct_1m": 10.05,
-    "market_cap": 14804588544,
-    "revenue": 3782899968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 108,
-    "delta": 10,
-    "rank_other": 139
+    "delta": 0,
+    "rank_other": 112
   },
   {
     "ticker": "PG",
@@ -1735,13 +1735,13 @@
     "pct_1d": -2.12,
     "pct_1w": 1.72,
     "pct_1m": 11.26,
-    "market_cap": 373209432064,
-    "revenue": 87921999872,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 109,
-    "delta": -15,
-    "rank_other": 124
+    "delta": 0,
+    "rank_other": 101
   },
   {
     "ticker": "ADSK",
@@ -1756,8 +1756,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 110,
-    "delta": 4,
-    "rank_other": 22
+    "delta": 0,
+    "rank_other": 29
   },
   {
     "ticker": "KO",
@@ -1772,8 +1772,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 111,
-    "delta": -30,
-    "rank_other": 122
+    "delta": 0,
+    "rank_other": 232
   },
   {
     "ticker": "BF-B",
@@ -1788,8 +1788,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 112,
-    "delta": -25,
-    "rank_other": 24
+    "delta": 0,
+    "rank_other": 63
   },
   {
     "ticker": "EG",
@@ -1804,8 +1804,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 113,
-    "delta": -16,
-    "rank_other": 82
+    "delta": 0,
+    "rank_other": 142
   },
   {
     "ticker": "NWSA",
@@ -1815,13 +1815,13 @@
     "pct_1d": -1.09,
     "pct_1w": 2.36,
     "pct_1m": 8.09,
-    "market_cap": 16555458560,
-    "revenue": 9027999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 114,
-    "delta": -1,
-    "rank_other": 215
+    "delta": 0,
+    "rank_other": 197
   },
   {
     "ticker": "KR",
@@ -1831,13 +1831,13 @@
     "pct_1d": -1.62,
     "pct_1w": 4.93,
     "pct_1m": 13.32,
-    "market_cap": 39433605120,
-    "revenue": 149326004224,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 115,
-    "delta": -10,
-    "rank_other": 61
+    "delta": 0,
+    "rank_other": 53
   },
   {
     "ticker": "AMCR",
@@ -1852,8 +1852,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 116,
-    "delta": 12,
-    "rank_other": 84
+    "delta": 0,
+    "rank_other": 87
   },
   {
     "ticker": "JKHY",
@@ -1868,8 +1868,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 117,
-    "delta": 33,
-    "rank_other": 92
+    "delta": 0,
+    "rank_other": 77
   },
   {
     "ticker": "CPAY",
@@ -1884,8 +1884,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 118,
-    "delta": -3,
-    "rank_other": 247
+    "delta": 0,
+    "rank_other": 297
   },
   {
     "ticker": "COR",
@@ -1900,8 +1900,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 119,
-    "delta": -13,
-    "rank_other": 180
+    "delta": 0,
+    "rank_other": 270
   },
   {
     "ticker": "HST",
@@ -1916,8 +1916,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 120,
-    "delta": 10,
-    "rank_other": 106
+    "delta": 0,
+    "rank_other": 88
   },
   {
     "ticker": "SPGI",
@@ -1927,13 +1927,13 @@
     "pct_1d": -0.62,
     "pct_1w": 4.81,
     "pct_1m": 11.67,
-    "market_cap": 132751384576,
-    "revenue": 16122000384,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 121,
-    "delta": 13,
-    "rank_other": 55
+    "delta": 0,
+    "rank_other": 46
   },
   {
     "ticker": "AVY",
@@ -1943,13 +1943,13 @@
     "pct_1d": -1.53,
     "pct_1w": 3.72,
     "pct_1m": 7.59,
-    "market_cap": 13908246528,
+    "market_cap": 13780558848,
     "revenue": 9248100352,
     "ivr": null,
     "ivp": null,
     "rank": 122,
-    "delta": -2,
-    "rank_other": 109
+    "delta": 0,
+    "rank_other": 157
   },
   {
     "ticker": "DIS",
@@ -1959,13 +1959,13 @@
     "pct_1d": -0.54,
     "pct_1w": 1.75,
     "pct_1m": 6.59,
-    "market_cap": 194286796800,
-    "revenue": 98860998656,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 123,
-    "delta": 13,
-    "rank_other": 194
+    "delta": 0,
+    "rank_other": 173
   },
   {
     "ticker": "EMR",
@@ -1975,13 +1975,13 @@
     "pct_1d": 0.81,
     "pct_1w": 0.07,
     "pct_1m": 3.49,
-    "market_cap": 90506551296,
+    "market_cap": 90134896640,
     "revenue": 18635999232,
     "ivr": null,
     "ivp": null,
     "rank": 124,
-    "delta": 34,
-    "rank_other": 323
+    "delta": 0,
+    "rank_other": 309
   },
   {
     "ticker": "J",
@@ -1991,13 +1991,13 @@
     "pct_1d": -0.82,
     "pct_1w": 2.82,
     "pct_1m": 7.19,
-    "market_cap": 17128812544,
+    "market_cap": 16977619968,
     "revenue": 14219215872,
     "ivr": null,
     "ivp": null,
     "rank": 125,
-    "delta": 8,
-    "rank_other": 265
+    "delta": 0,
+    "rank_other": 251
   },
   {
     "ticker": "MET",
@@ -2007,13 +2007,13 @@
     "pct_1d": -4.59,
     "pct_1w": -1.93,
     "pct_1m": 1.61,
-    "market_cap": 62797828096,
-    "revenue": 79398002688,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 126,
-    "delta": -55,
-    "rank_other": 329
+    "delta": 0,
+    "rank_other": 330
   },
   {
     "ticker": "DELL",
@@ -2028,8 +2028,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 127,
-    "delta": 29,
-    "rank_other": 484
+    "delta": 0,
+    "rank_other": 483
   },
   {
     "ticker": "LDOS",
@@ -2039,13 +2039,13 @@
     "pct_1d": 1.0,
     "pct_1w": 8.99,
     "pct_1m": 10.32,
-    "market_cap": 17116886016,
-    "revenue": 17634000896,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 128,
-    "delta": 42,
-    "rank_other": 48
+    "delta": 0,
+    "rank_other": 37
   },
   {
     "ticker": "AMT",
@@ -2060,8 +2060,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 129,
-    "delta": 83,
-    "rank_other": 199
+    "delta": 0,
+    "rank_other": 57
   },
   {
     "ticker": "AWK",
@@ -2076,8 +2076,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 130,
-    "delta": 18,
-    "rank_other": 79
+    "delta": 0,
+    "rank_other": 78
   },
   {
     "ticker": "BRK-B",
@@ -2092,8 +2092,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 131,
-    "delta": 8,
-    "rank_other": 157
+    "delta": 0,
+    "rank_other": 177
   },
   {
     "ticker": "CCI",
@@ -2103,13 +2103,13 @@
     "pct_1d": 9.06,
     "pct_1w": 4.51,
     "pct_1m": 27.12,
-    "market_cap": 36576403456,
+    "market_cap": 37568888832,
     "revenue": 4084000000,
     "ivr": null,
     "ivp": null,
     "rank": 132,
-    "delta": 153,
-    "rank_other": 110
+    "delta": 0,
+    "rank_other": 7
   },
   {
     "ticker": "FAST",
@@ -2119,13 +2119,13 @@
     "pct_1d": -1.56,
     "pct_1w": 1.74,
     "pct_1m": 2.33,
-    "market_cap": 59566600192,
+    "market_cap": 59556421632,
     "revenue": 9079300096,
     "ivr": null,
     "ivp": null,
     "rank": 133,
-    "delta": -10,
-    "rank_other": 238
+    "delta": 0,
+    "rank_other": 295
   },
   {
     "ticker": "ICE",
@@ -2140,8 +2140,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 134,
-    "delta": 10,
-    "rank_other": 224
+    "delta": 0,
+    "rank_other": 207
   },
   {
     "ticker": "ERIE",
@@ -2156,8 +2156,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 135,
-    "delta": -4,
-    "rank_other": 28
+    "delta": 0,
+    "rank_other": 38
   },
   {
     "ticker": "CI",
@@ -2172,8 +2172,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 136,
-    "delta": -32,
-    "rank_other": 25
+    "delta": 0,
+    "rank_other": 69
   },
   {
     "ticker": "KVUE",
@@ -2188,8 +2188,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 137,
-    "delta": -10,
-    "rank_other": 88
+    "delta": 0,
+    "rank_other": 73
   },
   {
     "ticker": "VTRS",
@@ -2199,13 +2199,13 @@
     "pct_1d": -2.6,
     "pct_1w": -3.54,
     "pct_1m": 3.33,
-    "market_cap": 20674635776,
-    "revenue": 14737300480,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 138,
-    "delta": -28,
-    "rank_other": 316
+    "delta": 0,
+    "rank_other": 314
   },
   {
     "ticker": "PM",
@@ -2215,13 +2215,13 @@
     "pct_1d": -1.13,
     "pct_1w": -2.79,
     "pct_1m": 5.06,
-    "market_cap": 310896623616,
-    "revenue": 43137998848,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 139,
-    "delta": -1,
-    "rank_other": 294
+    "delta": 0,
+    "rank_other": 290
   },
   {
     "ticker": "CSGP",
@@ -2236,8 +2236,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 140,
-    "delta": -50,
-    "rank_other": 6
+    "delta": 0,
+    "rank_other": 13
   },
   {
     "ticker": "EFX",
@@ -2252,7 +2252,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 141,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 3
   },
   {
@@ -2263,13 +2263,13 @@
     "pct_1d": -0.25,
     "pct_1w": 3.77,
     "pct_1m": 10.18,
-    "market_cap": 18799106048,
-    "revenue": 8508800000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 142,
-    "delta": 15,
-    "rank_other": 131
+    "delta": 0,
+    "rank_other": 105
   },
   {
     "ticker": "WM",
@@ -2279,13 +2279,13 @@
     "pct_1d": 0.12,
     "pct_1w": 5.52,
     "pct_1m": 15.11,
-    "market_cap": 95683829760,
-    "revenue": 25667000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 143,
-    "delta": 17,
-    "rank_other": 27
+    "delta": 0,
+    "rank_other": 25
   },
   {
     "ticker": "KMI",
@@ -2295,13 +2295,13 @@
     "pct_1d": 2.11,
     "pct_1w": 0.67,
     "pct_1m": 10.18,
-    "market_cap": 76600754176,
+    "market_cap": 76700237824,
     "revenue": 18343999488,
     "ivr": null,
     "ivp": null,
     "rank": 144,
-    "delta": 48,
-    "rank_other": 128
+    "delta": 0,
+    "rank_other": 104
   },
   {
     "ticker": "PGR",
@@ -2311,13 +2311,13 @@
     "pct_1d": -0.68,
     "pct_1w": 4.38,
     "pct_1m": 12.87,
-    "market_cap": 132371832832,
-    "revenue": 91699003392,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 145,
-    "delta": 8,
-    "rank_other": 156
+    "delta": 0,
+    "rank_other": 129
   },
   {
     "ticker": "VRSK",
@@ -2327,13 +2327,13 @@
     "pct_1d": -3.66,
     "pct_1w": 2.61,
     "pct_1m": 16.15,
-    "market_cap": 25664559104,
-    "revenue": 3136000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 146,
-    "delta": -44,
-    "rank_other": 36
+    "delta": 0,
+    "rank_other": 31
   },
   {
     "ticker": "GEHC",
@@ -2343,13 +2343,13 @@
     "pct_1d": 0.1,
     "pct_1w": 2.76,
     "pct_1m": 7.7,
-    "market_cap": 32502016000,
+    "market_cap": 32272979968,
     "revenue": 21265999872,
     "ivr": null,
     "ivp": null,
     "rank": 147,
-    "delta": 22,
-    "rank_other": 126
+    "delta": 0,
+    "rank_other": 115
   },
   {
     "ticker": "ADBE",
@@ -2364,8 +2364,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 148,
-    "delta": -26,
-    "rank_other": 32
+    "delta": 0,
+    "rank_other": 72
   },
   {
     "ticker": "CHD",
@@ -2380,8 +2380,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 149,
-    "delta": -40,
-    "rank_other": 42
+    "delta": 0,
+    "rank_other": 128
   },
   {
     "ticker": "DLTR",
@@ -2396,8 +2396,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 150,
-    "delta": -58,
-    "rank_other": 30
+    "delta": 0,
+    "rank_other": 134
   },
   {
     "ticker": "KMB",
@@ -2407,13 +2407,13 @@
     "pct_1d": -1.93,
     "pct_1w": 4.34,
     "pct_1m": 13.3,
-    "market_cap": 36563230720,
+    "market_cap": 36633583616,
     "revenue": 16581999616,
     "ivr": null,
     "ivp": null,
     "rank": 151,
-    "delta": -16,
-    "rank_other": 51
+    "delta": 0,
+    "rank_other": 41
   },
   {
     "ticker": "VRTX",
@@ -2423,13 +2423,13 @@
     "pct_1d": -2.1,
     "pct_1w": 4.84,
     "pct_1m": 0.3,
-    "market_cap": 132711464960,
-    "revenue": 12587200512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 152,
-    "delta": -23,
-    "rank_other": 297
+    "delta": 0,
+    "rank_other": 292
   },
   {
     "ticker": "BALL",
@@ -2439,13 +2439,13 @@
     "pct_1d": -1.6,
     "pct_1w": 2.47,
     "pct_1m": 14.3,
-    "market_cap": 17242124288,
+    "market_cap": 17142190080,
     "revenue": 14325999616,
     "ivr": null,
     "ivp": null,
     "rank": 153,
-    "delta": -8,
-    "rank_other": 40
+    "delta": 0,
+    "rank_other": 67
   },
   {
     "ticker": "TGT",
@@ -2455,13 +2455,13 @@
     "pct_1d": -3.38,
     "pct_1w": -0.97,
     "pct_1m": -2.17,
-    "market_cap": 69397561344,
-    "revenue": 107704999936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 154,
-    "delta": -43,
-    "rank_other": 376
+    "delta": 0,
+    "rank_other": 377
   },
   {
     "ticker": "ED",
@@ -2476,8 +2476,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 155,
-    "delta": 6,
-    "rank_other": 63
+    "delta": 0,
+    "rank_other": 68
   },
   {
     "ticker": "EXPE",
@@ -2487,13 +2487,13 @@
     "pct_1d": -3.18,
     "pct_1w": 0.02,
     "pct_1m": 10.41,
-    "market_cap": 34686791680,
+    "market_cap": 34687582208,
     "revenue": 15699999744,
     "ivr": null,
     "ivp": null,
     "rank": 156,
-    "delta": -37,
-    "rank_other": 70
+    "delta": 0,
+    "rank_other": 170
   },
   {
     "ticker": "MO",
@@ -2508,8 +2508,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 157,
-    "delta": -25,
-    "rank_other": 104
+    "delta": 0,
+    "rank_other": 182
   },
   {
     "ticker": "FOXA",
@@ -2524,8 +2524,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 158,
-    "delta": -21,
-    "rank_other": 120
+    "delta": 0,
+    "rank_other": 213
   },
   {
     "ticker": "HLT",
@@ -2540,8 +2540,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 159,
-    "delta": -19,
-    "rank_other": 134
+    "delta": 0,
+    "rank_other": 107
   },
   {
     "ticker": "NWS",
@@ -2551,13 +2551,13 @@
     "pct_1d": -0.53,
     "pct_1w": 2.71,
     "pct_1m": 7.0,
-    "market_cap": 18190266368,
-    "revenue": 9027999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 160,
-    "delta": 6,
-    "rank_other": 226
+    "delta": 0,
+    "rank_other": 209
   },
   {
     "ticker": "MAR",
@@ -2567,13 +2567,13 @@
     "pct_1d": -1.53,
     "pct_1w": 0.69,
     "pct_1m": 11.15,
-    "market_cap": 101883994112,
-    "revenue": 7384999936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 161,
-    "delta": -7,
-    "rank_other": 148
+    "delta": 0,
+    "rank_other": 123
   },
   {
     "ticker": "INTU",
@@ -2588,7 +2588,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 162,
-    "delta": -36,
+    "delta": 0,
     "rank_other": 17
   },
   {
@@ -2599,13 +2599,13 @@
     "pct_1d": -0.65,
     "pct_1w": 4.78,
     "pct_1m": 3.86,
-    "market_cap": 22033117184,
-    "revenue": 9534600192,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 163,
-    "delta": 5,
-    "rank_other": 183
+    "delta": 0,
+    "rank_other": 162
   },
   {
     "ticker": "FOX",
@@ -2620,8 +2620,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 164,
-    "delta": -18,
-    "rank_other": 138
+    "delta": 0,
+    "rank_other": 220
   },
   {
     "ticker": "STE",
@@ -2631,13 +2631,13 @@
     "pct_1d": -0.03,
     "pct_1w": 4.26,
     "pct_1m": 11.2,
-    "market_cap": 22634649600,
-    "revenue": 6037499904,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 165,
-    "delta": 15,
-    "rank_other": 95
+    "delta": 0,
+    "rank_other": 79
   },
   {
     "ticker": "MMM",
@@ -2652,8 +2652,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 166,
-    "delta": -3,
-    "rank_other": 166
+    "delta": 0,
+    "rank_other": 215
   },
   {
     "ticker": "ALL",
@@ -2668,8 +2668,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 167,
-    "delta": -18,
-    "rank_other": 46
+    "delta": 0,
+    "rank_other": 85
   },
   {
     "ticker": "AIZ",
@@ -2684,8 +2684,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 168,
-    "delta": -9,
-    "rank_other": 165
+    "delta": 0,
+    "rank_other": 216
   },
   {
     "ticker": "ABT",
@@ -2695,13 +2695,13 @@
     "pct_1d": 1.16,
     "pct_1w": -1.13,
     "pct_1m": 3.23,
-    "market_cap": 180626014208,
+    "market_cap": 179440746496,
     "revenue": 48228999168,
     "ivr": null,
     "ivp": null,
     "rank": 169,
-    "delta": 31,
-    "rank_other": 310
+    "delta": 0,
+    "rank_other": 277
   },
   {
     "ticker": "MSCI",
@@ -2711,13 +2711,13 @@
     "pct_1d": -0.74,
     "pct_1w": 8.18,
     "pct_1m": 10.71,
-    "market_cap": 44755574784,
-    "revenue": 3432358912,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 170,
-    "delta": 4,
-    "rank_other": 64
+    "delta": 0,
+    "rank_other": 55
   },
   {
     "ticker": "AIG",
@@ -2732,8 +2732,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 171,
-    "delta": -16,
-    "rank_other": 94
+    "delta": 0,
+    "rank_other": 164
   },
   {
     "ticker": "OKE",
@@ -2743,13 +2743,13 @@
     "pct_1d": 2.06,
     "pct_1w": 2.7,
     "pct_1m": 5.1,
-    "market_cap": 60412116992,
-    "revenue": 39366000640,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 172,
-    "delta": 42,
-    "rank_other": 172
+    "delta": 0,
+    "rank_other": 151
   },
   {
     "ticker": "UNH",
@@ -2759,13 +2759,13 @@
     "pct_1d": -1.62,
     "pct_1w": 4.15,
     "pct_1m": 11.49,
-    "market_cap": 375275421696,
-    "revenue": 450059010048,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 173,
-    "delta": -11,
-    "rank_other": 87
+    "delta": 0,
+    "rank_other": 71
   },
   {
     "ticker": "ECL",
@@ -2780,8 +2780,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 174,
-    "delta": -2,
-    "rank_other": 232
+    "delta": 0,
+    "rank_other": 281
   },
   {
     "ticker": "OMC",
@@ -2791,13 +2791,13 @@
     "pct_1d": 0.15,
     "pct_1w": 2.63,
     "pct_1m": 10.68,
-    "market_cap": 23564312576,
-    "revenue": 22371299328,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 175,
-    "delta": 14,
-    "rank_other": 117
+    "delta": 0,
+    "rank_other": 96
   },
   {
     "ticker": "CSX",
@@ -2812,8 +2812,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 176,
-    "delta": -11,
-    "rank_other": 76
+    "delta": 0,
+    "rank_other": 119
   },
   {
     "ticker": "WRB",
@@ -2823,13 +2823,13 @@
     "pct_1d": -2.94,
     "pct_1w": -2.77,
     "pct_1m": 8.98,
-    "market_cap": 27222114304,
-    "revenue": 14866676736,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 177,
-    "delta": -26,
-    "rank_other": 268
+    "delta": 0,
+    "rank_other": 255
   },
   {
     "ticker": "VRSN",
@@ -2839,13 +2839,13 @@
     "pct_1d": -1.4,
     "pct_1w": -0.67,
     "pct_1m": 2.89,
-    "market_cap": 26938703872,
-    "revenue": 1707900032,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 178,
-    "delta": -2,
-    "rank_other": 321
+    "delta": 0,
+    "rank_other": 322
   },
   {
     "ticker": "CL",
@@ -2860,8 +2860,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 179,
-    "delta": -36,
-    "rank_other": 47
+    "delta": 0,
+    "rank_other": 138
   },
   {
     "ticker": "URI",
@@ -2871,13 +2871,13 @@
     "pct_1d": -1.09,
     "pct_1w": 6.72,
     "pct_1m": 7.56,
-    "market_cap": 68397027328,
-    "revenue": 17496000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 180,
-    "delta": -1,
-    "rank_other": 207
+    "delta": 0,
+    "rank_other": 187
   },
   {
     "ticker": "NDSN",
@@ -2887,13 +2887,13 @@
     "pct_1d": 0.04,
     "pct_1w": -1.08,
     "pct_1m": -1.37,
-    "market_cap": 17765109760,
-    "revenue": 2979794944,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 181,
-    "delta": 15,
-    "rank_other": 385
+    "delta": 0,
+    "rank_other": 383
   },
   {
     "ticker": "FANG",
@@ -2903,13 +2903,13 @@
     "pct_1d": 4.37,
     "pct_1w": 0.88,
     "pct_1m": 8.86,
-    "market_cap": 57880215552,
+    "market_cap": 57614069760,
     "revenue": 16248000512,
     "ivr": null,
     "ivp": null,
     "rank": 182,
-    "delta": 75,
-    "rank_other": 282
+    "delta": 0,
+    "rank_other": 95
   },
   {
     "ticker": "JNJ",
@@ -2924,8 +2924,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 183,
-    "delta": -5,
-    "rank_other": 327
+    "delta": 0,
+    "rank_other": 328
   },
   {
     "ticker": "APD",
@@ -2940,8 +2940,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 184,
-    "delta": 10,
-    "rank_other": 101
+    "delta": 0,
+    "rank_other": 99
   },
   {
     "ticker": "CB",
@@ -2956,8 +2956,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 185,
-    "delta": -21,
-    "rank_other": 144
+    "delta": 0,
+    "rank_other": 238
   },
   {
     "ticker": "LYB",
@@ -2967,13 +2967,13 @@
     "pct_1d": 1.65,
     "pct_1w": 3.81,
     "pct_1m": 10.42,
-    "market_cap": 21465870336,
-    "revenue": 31192000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 186,
-    "delta": 33,
-    "rank_other": 57
+    "delta": 0,
+    "rank_other": 49
   },
   {
     "ticker": "NUE",
@@ -2983,13 +2983,13 @@
     "pct_1d": 0.02,
     "pct_1w": 0.71,
     "pct_1m": 4.34,
-    "market_cap": 58558877696,
-    "revenue": 36101001216,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 187,
-    "delta": 11,
-    "rank_other": 267
+    "delta": 0,
+    "rank_other": 253
   },
   {
     "ticker": "PNW",
@@ -2999,13 +2999,13 @@
     "pct_1d": -0.68,
     "pct_1w": 2.38,
     "pct_1m": 16.25,
-    "market_cap": 12832362496,
-    "revenue": 5554253824,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 188,
-    "delta": -1,
-    "rank_other": 86
+    "delta": 0,
+    "rank_other": 70
   },
   {
     "ticker": "OTIS",
@@ -3015,13 +3015,13 @@
     "pct_1d": -0.6,
     "pct_1w": 5.36,
     "pct_1m": 12.7,
-    "market_cap": 28607301632,
-    "revenue": 14910999552,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 189,
-    "delta": 4,
-    "rank_other": 44
+    "delta": 0,
+    "rank_other": 34
   },
   {
     "ticker": "DE",
@@ -3036,8 +3036,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 190,
-    "delta": 20,
-    "rank_other": 401
+    "delta": 0,
+    "rank_other": 390
   },
   {
     "ticker": "MDLZ",
@@ -3047,13 +3047,13 @@
     "pct_1d": -2.13,
     "pct_1w": -0.17,
     "pct_1m": 5.76,
-    "market_cap": 81896857600,
-    "revenue": 39674998784,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 191,
-    "delta": -18,
-    "rank_other": 214
+    "delta": 0,
+    "rank_other": 196
   },
   {
     "ticker": "GPN",
@@ -3068,8 +3068,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 192,
-    "delta": -40,
-    "rank_other": 351
+    "delta": 0,
+    "rank_other": 353
   },
   {
     "ticker": "ACGL",
@@ -3079,13 +3079,13 @@
     "pct_1d": -0.97,
     "pct_1w": 0.41,
     "pct_1m": 7.02,
-    "market_cap": 34676289536,
+    "market_cap": 34699591680,
     "revenue": 19232000000,
     "ivr": null,
     "ivp": null,
     "rank": 193,
-    "delta": -3,
-    "rank_other": 159
+    "delta": 0,
+    "rank_other": 180
   },
   {
     "ticker": "MAS",
@@ -3095,13 +3095,13 @@
     "pct_1d": -2.61,
     "pct_1w": 4.31,
     "pct_1m": 12.93,
-    "market_cap": 14988216320,
-    "revenue": 7619999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 194,
-    "delta": -27,
-    "rank_other": 90
+    "delta": 0,
+    "rank_other": 75
   },
   {
     "ticker": "WELL",
@@ -3111,13 +3111,13 @@
     "pct_1d": -0.03,
     "pct_1w": 1.05,
     "pct_1m": 1.59,
-    "market_cap": 171006164992,
-    "revenue": 12763214848,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 195,
-    "delta": 11,
-    "rank_other": 286
+    "delta": 0,
+    "rank_other": 274
   },
   {
     "ticker": "IBM",
@@ -3132,8 +3132,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 196,
-    "delta": 19,
-    "rank_other": 49
+    "delta": 0,
+    "rank_other": 39
   },
   {
     "ticker": "UNP",
@@ -3143,13 +3143,13 @@
     "pct_1d": -1.75,
     "pct_1w": 1.33,
     "pct_1m": 6.86,
-    "market_cap": 173986889728,
-    "revenue": 26363000832,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 197,
-    "delta": -16,
-    "rank_other": 221
+    "delta": 0,
+    "rank_other": 204
   },
   {
     "ticker": "BLK",
@@ -3164,8 +3164,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 198,
-    "delta": -14,
-    "rank_other": 208
+    "delta": 0,
+    "rank_other": 273
   },
   {
     "ticker": "SOLV",
@@ -3175,13 +3175,13 @@
     "pct_1d": -2.33,
     "pct_1w": -0.47,
     "pct_1m": -3.59,
-    "market_cap": 14538809344,
-    "revenue": 8310000128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 199,
-    "delta": -22,
-    "rank_other": 388
+    "delta": 0,
+    "rank_other": 384
   },
   {
     "ticker": "COST",
@@ -3196,8 +3196,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 200,
-    "delta": -9,
-    "rank_other": 91
+    "delta": 0,
+    "rank_other": 139
   },
   {
     "ticker": "GWW",
@@ -3207,13 +3207,13 @@
     "pct_1d": -0.75,
     "pct_1w": 1.44,
     "pct_1m": 5.5,
-    "market_cap": 63732989952,
-    "revenue": 18844999680,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 201,
-    "delta": 2,
-    "rank_other": 231
+    "delta": 0,
+    "rank_other": 217
   },
   {
     "ticker": "KHC",
@@ -3223,13 +3223,13 @@
     "pct_1d": -1.16,
     "pct_1w": 4.73,
     "pct_1m": 3.94,
-    "market_cap": 29408428032,
-    "revenue": 24899999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 202,
-    "delta": -7,
-    "rank_other": 135
+    "delta": 0,
+    "rank_other": 109
   },
   {
     "ticker": "DRI",
@@ -3244,8 +3244,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 203,
-    "delta": -21,
-    "rank_other": 163
+    "delta": 0,
+    "rank_other": 254
   },
   {
     "ticker": "CINF",
@@ -3261,7 +3261,7 @@
     "ivp": null,
     "rank": 204,
     "delta": 0,
-    "rank_other": 107
+    "rank_other": 133
   },
   {
     "ticker": "WMT",
@@ -3271,13 +3271,13 @@
     "pct_1d": -1.02,
     "pct_1w": 0.91,
     "pct_1m": 11.43,
-    "market_cap": 951176855552,
-    "revenue": 735839977472,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 205,
-    "delta": 3,
-    "rank_other": 105
+    "delta": 0,
+    "rank_other": 86
   },
   {
     "ticker": "EQT",
@@ -3292,8 +3292,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 206,
-    "delta": 38,
-    "rank_other": 191
+    "delta": 0,
+    "rank_other": 108
   },
   {
     "ticker": "AOS",
@@ -3309,7 +3309,7 @@
     "ivp": null,
     "rank": 207,
     "delta": 0,
-    "rank_other": 93
+    "rank_other": 131
   },
   {
     "ticker": "TSCO",
@@ -3319,13 +3319,13 @@
     "pct_1d": -3.77,
     "pct_1w": 0.78,
     "pct_1m": 6.3,
-    "market_cap": 17413160960,
-    "revenue": 15942134784,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 208,
-    "delta": -33,
-    "rank_other": 291
+    "delta": 0,
+    "rank_other": 286
   },
   {
     "ticker": "GPC",
@@ -3340,8 +3340,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 209,
-    "delta": -38,
-    "rank_other": 408
+    "delta": 0,
+    "rank_other": 412
   },
   {
     "ticker": "DOW",
@@ -3351,13 +3351,13 @@
     "pct_1d": 2.51,
     "pct_1w": 8.95,
     "pct_1m": 14.18,
-    "market_cap": 23555532800,
+    "market_cap": 23605790720,
     "revenue": 42612998144,
     "ivr": null,
     "ivp": null,
     "rank": 210,
-    "delta": 57,
-    "rank_other": 41
+    "delta": 0,
+    "rank_other": 22
   },
   {
     "ticker": "PRU",
@@ -3367,13 +3367,13 @@
     "pct_1d": -2.69,
     "pct_1w": -0.79,
     "pct_1m": -3.17,
-    "market_cap": 39671549952,
-    "revenue": 65223999488,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 211,
-    "delta": -25,
-    "rank_other": 347
+    "delta": 0,
+    "rank_other": 351
   },
   {
     "ticker": "ITW",
@@ -3388,8 +3388,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 212,
-    "delta": 1,
-    "rank_other": 288
+    "delta": 0,
+    "rank_other": 278
   },
   {
     "ticker": "AZO",
@@ -3404,8 +3404,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 213,
-    "delta": -14,
-    "rank_other": 29
+    "delta": 0,
+    "rank_other": 62
   },
   {
     "ticker": "STZ",
@@ -3420,8 +3420,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 214,
-    "delta": 9,
-    "rank_other": 13
+    "delta": 0,
+    "rank_other": 18
   },
   {
     "ticker": "AMD",
@@ -3436,8 +3436,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 215,
-    "delta": 34,
-    "rank_other": 482
+    "delta": 0,
+    "rank_other": 475
   },
   {
     "ticker": "SYY",
@@ -3447,13 +3447,13 @@
     "pct_1d": -3.1,
     "pct_1w": -1.03,
     "pct_1m": 4.81,
-    "market_cap": 40027037696,
-    "revenue": 84552998912,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 216,
-    "delta": -31,
-    "rank_other": 285
+    "delta": 0,
+    "rank_other": 272
   },
   {
     "ticker": "BMY",
@@ -3468,8 +3468,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 217,
-    "delta": -20,
-    "rank_other": 244
+    "delta": 0,
+    "rank_other": 312
   },
   {
     "ticker": "MCO",
@@ -3479,13 +3479,13 @@
     "pct_1d": -1.55,
     "pct_1w": -0.33,
     "pct_1m": 3.44,
-    "market_cap": 83358425088,
-    "revenue": 8176000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 218,
-    "delta": -7,
-    "rank_other": 257
+    "delta": 0,
+    "rank_other": 244
   },
   {
     "ticker": "NOC",
@@ -3495,13 +3495,13 @@
     "pct_1d": -0.16,
     "pct_1w": 6.07,
     "pct_1m": 8.34,
-    "market_cap": 78339235840,
-    "revenue": 43591000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 219,
-    "delta": 12,
-    "rank_other": 65
+    "delta": 0,
+    "rank_other": 56
   },
   {
     "ticker": "SHW",
@@ -3511,13 +3511,13 @@
     "pct_1d": -2.48,
     "pct_1w": 0.55,
     "pct_1m": 5.2,
-    "market_cap": 81824063488,
-    "revenue": 24410300416,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 220,
-    "delta": -18,
-    "rank_other": 279
+    "delta": 0,
+    "rank_other": 266
   },
   {
     "ticker": "MNST",
@@ -3527,13 +3527,13 @@
     "pct_1d": -2.35,
     "pct_1w": 1.01,
     "pct_1m": 8.25,
-    "market_cap": 90488602624,
-    "revenue": 9218957312,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 221,
-    "delta": -20,
-    "rank_other": 212
+    "delta": 0,
+    "rank_other": 193
   },
   {
     "ticker": "IEX",
@@ -3548,8 +3548,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 222,
-    "delta": 26,
-    "rank_other": 366
+    "delta": 0,
+    "rank_other": 367
   },
   {
     "ticker": "EVRG",
@@ -3564,8 +3564,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 223,
-    "delta": -1,
-    "rank_other": 175
+    "delta": 0,
+    "rank_other": 192
   },
   {
     "ticker": "INCY",
@@ -3580,7 +3580,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 224,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 371
   },
   {
@@ -3591,13 +3591,13 @@
     "pct_1d": 0.2,
     "pct_1w": 0.33,
     "pct_1m": 1.01,
-    "market_cap": 10697365504,
+    "market_cap": 10701580288,
     "revenue": 13054000128,
     "ivr": null,
     "ivp": null,
     "rank": 225,
-    "delta": 15,
-    "rank_other": 338
+    "delta": 0,
+    "rank_other": 336
   },
   {
     "ticker": "AFL",
@@ -3612,8 +3612,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 226,
-    "delta": -17,
-    "rank_other": 142
+    "delta": 0,
+    "rank_other": 226
   },
   {
     "ticker": "NSC",
@@ -3623,13 +3623,13 @@
     "pct_1d": -2.44,
     "pct_1w": 0.94,
     "pct_1m": 5.37,
-    "market_cap": 74121256960,
-    "revenue": 12963000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 227,
-    "delta": -22,
-    "rank_other": 263
+    "delta": 0,
+    "rank_other": 248
   },
   {
     "ticker": "LIN",
@@ -3639,13 +3639,13 @@
     "pct_1d": -0.3,
     "pct_1w": 2.09,
     "pct_1m": 8.69,
-    "market_cap": 234560536576,
-    "revenue": 35448999936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 228,
-    "delta": 7,
-    "rank_other": 197
+    "delta": 0,
+    "rank_other": 175
   },
   {
     "ticker": "HSIC",
@@ -3655,13 +3655,13 @@
     "pct_1d": -1.21,
     "pct_1w": -1.64,
     "pct_1m": -0.67,
-    "market_cap": 9678367744,
+    "market_cap": 9468497920,
     "revenue": 13601999872,
     "ivr": null,
     "ivp": null,
     "rank": 229,
-    "delta": -11,
-    "rank_other": 346
+    "delta": 0,
+    "rank_other": 350
   },
   {
     "ticker": "DUK",
@@ -3676,8 +3676,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 230,
-    "delta": 7,
-    "rank_other": 116
+    "delta": 0,
+    "rank_other": 114
   },
   {
     "ticker": "EW",
@@ -3687,13 +3687,13 @@
     "pct_1d": -1.13,
     "pct_1w": 2.85,
     "pct_1m": 3.9,
-    "market_cap": 51286507520,
+    "market_cap": 51339948032,
     "revenue": 6512300032,
     "ivr": null,
     "ivp": null,
     "rank": 231,
-    "delta": -10,
-    "rank_other": 259
+    "delta": 0,
+    "rank_other": 289
   },
   {
     "ticker": "META",
@@ -3703,12 +3703,12 @@
     "pct_1d": -0.96,
     "pct_1w": -9.4,
     "pct_1m": -17.36,
-    "market_cap": 1637078401024,
-    "revenue": 241605001216,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 232,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 467
   },
   {
@@ -3719,13 +3719,13 @@
     "pct_1d": -1.19,
     "pct_1w": -2.1,
     "pct_1m": 7.56,
-    "market_cap": 22486337536,
-    "revenue": 8355200000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 233,
-    "delta": -7,
-    "rank_other": 270
+    "delta": 0,
+    "rank_other": 257
   },
   {
     "ticker": "ZTS",
@@ -3735,13 +3735,13 @@
     "pct_1d": -1.18,
     "pct_1w": 2.08,
     "pct_1m": 15.31,
-    "market_cap": 33483509760,
-    "revenue": 9525000192,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 234,
     "delta": 0,
-    "rank_other": 60
+    "rank_other": 52
   },
   {
     "ticker": "SLB",
@@ -3751,13 +3751,13 @@
     "pct_1d": 7.08,
     "pct_1w": 7.19,
     "pct_1m": 3.17,
-    "market_cap": 78748639232,
-    "revenue": 36366000128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 235,
-    "delta": 135,
-    "rank_other": 162
+    "delta": 0,
+    "rank_other": 140
   },
   {
     "ticker": "SO",
@@ -3767,13 +3767,13 @@
     "pct_1d": -0.99,
     "pct_1w": 1.88,
     "pct_1m": 12.06,
-    "market_cap": 106857218048,
-    "revenue": 30179000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 236,
-    "delta": -4,
-    "rank_other": 115
+    "delta": 0,
+    "rank_other": 94
   },
   {
     "ticker": "IDXX",
@@ -3783,13 +3783,13 @@
     "pct_1d": -1.13,
     "pct_1w": 0.0,
     "pct_1m": 9.15,
-    "market_cap": 44204453888,
+    "market_cap": 44147363840,
     "revenue": 4553223168,
     "ivr": null,
     "ivp": null,
     "rank": 237,
-    "delta": -8,
-    "rank_other": 169
+    "delta": 0,
+    "rank_other": 148
   },
   {
     "ticker": "HIG",
@@ -3804,8 +3804,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 238,
-    "delta": -21,
-    "rank_other": 192
+    "delta": 0,
+    "rank_other": 171
   },
   {
     "ticker": "AEP",
@@ -3820,8 +3820,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 239,
-    "delta": -1,
-    "rank_other": 129
+    "delta": 0,
+    "rank_other": 146
   },
   {
     "ticker": "L",
@@ -3831,13 +3831,13 @@
     "pct_1d": -1.47,
     "pct_1w": 1.35,
     "pct_1m": 6.61,
-    "market_cap": 22897948672,
-    "revenue": 18694000640,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 240,
-    "delta": -13,
-    "rank_other": 236
+    "delta": 0,
+    "rank_other": 225
   },
   {
     "ticker": "EXR",
@@ -3852,8 +3852,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 241,
-    "delta": 13,
-    "rank_other": 167
+    "delta": 0,
+    "rank_other": 145
   },
   {
     "ticker": "WEC",
@@ -3863,13 +3863,13 @@
     "pct_1d": -0.95,
     "pct_1w": 2.19,
     "pct_1m": 10.1,
-    "market_cap": 36198604800,
-    "revenue": 10137400320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 242,
     "delta": 0,
-    "rank_other": 158
+    "rank_other": 130
   },
   {
     "ticker": "PSA",
@@ -3879,13 +3879,13 @@
     "pct_1d": 0.25,
     "pct_1w": 3.88,
     "pct_1m": 8.9,
-    "market_cap": 57903656960,
-    "revenue": 4910444032,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 243,
-    "delta": 17,
-    "rank_other": 145
+    "delta": 0,
+    "rank_other": 120
   },
   {
     "ticker": "FTV",
@@ -3895,13 +3895,13 @@
     "pct_1d": 0.33,
     "pct_1w": 4.26,
     "pct_1m": 8.68,
-    "market_cap": 18367877120,
+    "market_cap": 18196527104,
     "revenue": 4315800064,
     "ivr": null,
     "ivp": null,
     "rank": 244,
-    "delta": 20,
-    "rank_other": 168
+    "delta": 0,
+    "rank_other": 149
   },
   {
     "ticker": "XEL",
@@ -3911,13 +3911,13 @@
     "pct_1d": -1.08,
     "pct_1w": 2.28,
     "pct_1m": 12.21,
-    "market_cap": 48752709632,
-    "revenue": 14616000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 245,
-    "delta": -4,
-    "rank_other": 143
+    "delta": 0,
+    "rank_other": 118
   },
   {
     "ticker": "USB",
@@ -3927,13 +3927,13 @@
     "pct_1d": -0.73,
     "pct_1w": 1.45,
     "pct_1m": 2.98,
-    "market_cap": 92828704768,
-    "revenue": 27886000128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 246,
-    "delta": -1,
-    "rank_other": 289
+    "delta": 0,
+    "rank_other": 282
   },
   {
     "ticker": "EXE",
@@ -3943,13 +3943,13 @@
     "pct_1d": 0.29,
     "pct_1w": -0.19,
     "pct_1m": 5.2,
-    "market_cap": 22303305728,
+    "market_cap": 21583099904,
     "revenue": 12657999872,
     "ivr": null,
     "ivp": null,
     "rank": 247,
-    "delta": 18,
-    "rank_other": 209
+    "delta": 0,
+    "rank_other": 185
   },
   {
     "ticker": "CF",
@@ -3964,8 +3964,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 248,
-    "delta": 45,
-    "rank_other": 337
+    "delta": 0,
+    "rank_other": 284
   },
   {
     "ticker": "ORLY",
@@ -3975,13 +3975,13 @@
     "pct_1d": -2.26,
     "pct_1w": 0.73,
     "pct_1m": 4.27,
-    "market_cap": 72741748736,
-    "revenue": 18572562432,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 249,
-    "delta": -25,
-    "rank_other": 254
+    "delta": 0,
+    "rank_other": 242
   },
   {
     "ticker": "ATO",
@@ -3996,8 +3996,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 250,
-    "delta": -3,
-    "rank_other": 96
+    "delta": 0,
+    "rank_other": 111
   },
   {
     "ticker": "ESS",
@@ -4007,13 +4007,13 @@
     "pct_1d": -1.45,
     "pct_1w": 3.31,
     "pct_1m": 3.44,
-    "market_cap": 19185606656,
+    "market_cap": 19187470336,
     "revenue": 1980775936,
     "ivr": null,
     "ivp": null,
     "rank": 251,
-    "delta": -12,
-    "rank_other": 229
+    "delta": 0,
+    "rank_other": 279
   },
   {
     "ticker": "SPG",
@@ -4023,13 +4023,13 @@
     "pct_1d": -0.19,
     "pct_1w": 3.01,
     "pct_1m": 3.39,
-    "market_cap": 80339722240,
-    "revenue": 6940724224,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 252,
-    "delta": 10,
-    "rank_other": 239
+    "delta": 0,
+    "rank_other": 229
   },
   {
     "ticker": "AME",
@@ -4039,13 +4039,13 @@
     "pct_1d": 0.51,
     "pct_1w": -3.28,
     "pct_1m": -3.11,
-    "market_cap": 55015596032,
+    "market_cap": 55029575680,
     "revenue": 7863923200,
     "ivr": null,
     "ivp": null,
     "rank": 253,
-    "delta": 21,
-    "rank_other": 403
+    "delta": 0,
+    "rank_other": 399
   },
   {
     "ticker": "DHI",
@@ -4060,8 +4060,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 254,
-    "delta": 12,
-    "rank_other": 127
+    "delta": 0,
+    "rank_other": 116
   },
   {
     "ticker": "DXCM",
@@ -4076,8 +4076,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 255,
-    "delta": 3,
-    "rank_other": 458
+    "delta": 0,
+    "rank_other": 456
   },
   {
     "ticker": "MRVL",
@@ -4087,12 +4087,12 @@
     "pct_1d": 2.26,
     "pct_1w": 0.3,
     "pct_1m": -11.74,
-    "market_cap": 205362987008,
-    "revenue": 9450300416,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 256,
-    "delta": 56,
+    "delta": 0,
     "rank_other": 468
   },
   {
@@ -4108,8 +4108,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 257,
-    "delta": -2,
-    "rank_other": 149
+    "delta": 0,
+    "rank_other": 167
   },
   {
     "ticker": "TXN",
@@ -4119,13 +4119,13 @@
     "pct_1d": 1.86,
     "pct_1w": 2.97,
     "pct_1m": 5.19,
-    "market_cap": 259992485888,
-    "revenue": 20765999104,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 258,
-    "delta": 53,
-    "rank_other": 318
+    "delta": 0,
+    "rank_other": 317
   },
   {
     "ticker": "LEN",
@@ -4135,13 +4135,13 @@
     "pct_1d": 0.56,
     "pct_1w": 10.17,
     "pct_1m": 4.91,
-    "market_cap": 20202487808,
-    "revenue": 31973076992,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 259,
-    "delta": 27,
-    "rank_other": 99
+    "delta": 0,
+    "rank_other": 81
   },
   {
     "ticker": "LYV",
@@ -4151,13 +4151,13 @@
     "pct_1d": -0.61,
     "pct_1w": 1.72,
     "pct_1m": 1.39,
-    "market_cap": 40404496384,
-    "revenue": 26272534528,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 260,
-    "delta": 3,
-    "rank_other": 313
+    "delta": 0,
+    "rank_other": 310
   },
   {
     "ticker": "COF",
@@ -4167,13 +4167,13 @@
     "pct_1d": -1.03,
     "pct_1w": -0.2,
     "pct_1m": 2.41,
-    "market_cap": 123522097152,
+    "market_cap": 123519041536,
     "revenue": 48893001728,
     "ivr": null,
     "ivp": null,
     "rank": 261,
-    "delta": -5,
-    "rank_other": 298
+    "delta": 0,
+    "rank_other": 318
   },
   {
     "ticker": "ADM",
@@ -4183,13 +4183,13 @@
     "pct_1d": 0.38,
     "pct_1w": -2.99,
     "pct_1m": -2.13,
-    "market_cap": 38623993856,
+    "market_cap": 38624239616,
     "revenue": 82099003392,
     "ivr": null,
     "ivp": null,
     "rank": 262,
-    "delta": 16,
-    "rank_other": 387
+    "delta": 0,
+    "rank_other": 373
   },
   {
     "ticker": "FITB",
@@ -4199,13 +4199,13 @@
     "pct_1d": -0.47,
     "pct_1w": 5.18,
     "pct_1m": 3.81,
-    "market_cap": 48030236672,
+    "market_cap": 48047165440,
     "revenue": 11125000192,
     "ivr": null,
     "ivp": null,
     "rank": 263,
-    "delta": 5,
-    "rank_other": 243
+    "delta": 0,
+    "rank_other": 256
   },
   {
     "ticker": "XYZ",
@@ -4220,8 +4220,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 264,
-    "delta": -44,
-    "rank_other": 269
+    "delta": 0,
+    "rank_other": 345
   },
   {
     "ticker": "PFG",
@@ -4231,13 +4231,13 @@
     "pct_1d": -1.4,
     "pct_1w": -0.22,
     "pct_1m": -4.89,
-    "market_cap": 23244271616,
-    "revenue": 15693200384,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 265,
-    "delta": -15,
-    "rank_other": 383
+    "delta": 0,
+    "rank_other": 380
   },
   {
     "ticker": "EXC",
@@ -4252,8 +4252,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 266,
-    "delta": -5,
-    "rank_other": 114
+    "delta": 0,
+    "rank_other": 136
   },
   {
     "ticker": "JPM",
@@ -4268,8 +4268,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 267,
-    "delta": -16,
-    "rank_other": 367
+    "delta": 0,
+    "rank_other": 368
   },
   {
     "ticker": "STLD",
@@ -4279,13 +4279,13 @@
     "pct_1d": 0.68,
     "pct_1w": 0.41,
     "pct_1m": 2.94,
-    "market_cap": 34618036224,
-    "revenue": 22219882496,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 268,
-    "delta": 23,
-    "rank_other": 300
+    "delta": 0,
+    "rank_other": 293
   },
   {
     "ticker": "TEL",
@@ -4295,13 +4295,13 @@
     "pct_1d": -0.18,
     "pct_1w": -2.16,
     "pct_1m": -2.63,
-    "market_cap": 60322156544,
-    "revenue": 19321999360,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 269,
-    "delta": 11,
-    "rank_other": 393
+    "delta": 0,
+    "rank_other": 392
   },
   {
     "ticker": "HD",
@@ -4316,8 +4316,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 270,
-    "delta": -27,
-    "rank_other": 111
+    "delta": 0,
+    "rank_other": 91
   },
   {
     "ticker": "CNP",
@@ -4332,8 +4332,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 271,
-    "delta": 5,
-    "rank_other": 123
+    "delta": 0,
+    "rank_other": 122
   },
   {
     "ticker": "ADI",
@@ -4348,8 +4348,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 272,
-    "delta": 42,
-    "rank_other": 399
+    "delta": 0,
+    "rank_other": 379
   },
   {
     "ticker": "YUM",
@@ -4359,13 +4359,13 @@
     "pct_1d": -3.08,
     "pct_1w": -0.54,
     "pct_1m": 9.0,
-    "market_cap": 40853291008,
-    "revenue": 8721999872,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 273,
-    "delta": -40,
-    "rank_other": 220
+    "delta": 0,
+    "rank_other": 202
   },
   {
     "ticker": "JCI",
@@ -4380,8 +4380,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 274,
-    "delta": 25,
-    "rank_other": 411
+    "delta": 0,
+    "rank_other": 416
   },
   {
     "ticker": "PPL",
@@ -4391,13 +4391,13 @@
     "pct_1d": -1.05,
     "pct_1w": -0.54,
     "pct_1m": 9.42,
-    "market_cap": 26324017152,
-    "revenue": 9397999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 275,
-    "delta": -6,
-    "rank_other": 240
+    "delta": 0,
+    "rank_other": 230
   },
   {
     "ticker": "D",
@@ -4412,8 +4412,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 276,
-    "delta": 1,
-    "rank_other": 189
+    "delta": 0,
+    "rank_other": 183
   },
   {
     "ticker": "FE",
@@ -4423,13 +4423,13 @@
     "pct_1d": -0.73,
     "pct_1w": -0.09,
     "pct_1m": 6.85,
-    "market_cap": 26694598656,
+    "market_cap": 26704234496,
     "revenue": 15635999744,
     "ivr": null,
     "ivp": null,
     "rank": 277,
-    "delta": -4,
-    "rank_other": 233
+    "delta": 0,
+    "rank_other": 259
   },
   {
     "ticker": "SYK",
@@ -4439,13 +4439,13 @@
     "pct_1d": 0.02,
     "pct_1w": 4.24,
     "pct_1m": 14.23,
-    "market_cap": 117814460416,
-    "revenue": 25837000704,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 278,
-    "delta": 11,
-    "rank_other": 77
+    "delta": 0,
+    "rank_other": 65
   },
   {
     "ticker": "ROST",
@@ -4455,13 +4455,13 @@
     "pct_1d": -3.11,
     "pct_1w": -3.2,
     "pct_1m": -2.59,
-    "market_cap": 73250603008,
-    "revenue": 24511797248,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 279,
-    "delta": -43,
-    "rank_other": 365
+    "delta": 0,
+    "rank_other": 366
   },
   {
     "ticker": "CCL",
@@ -4476,8 +4476,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 280,
-    "delta": -52,
-    "rank_other": 72
+    "delta": 0,
+    "rank_other": 219
   },
   {
     "ticker": "CVS",
@@ -4492,8 +4492,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 281,
-    "delta": -11,
-    "rank_other": 118
+    "delta": 0,
+    "rank_other": 143
   },
   {
     "ticker": "SBUX",
@@ -4503,13 +4503,13 @@
     "pct_1d": -1.09,
     "pct_1w": 3.36,
     "pct_1m": 7.63,
-    "market_cap": 114912002048,
-    "revenue": 38338301952,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 282,
-    "delta": -10,
-    "rank_other": 176
+    "delta": 0,
+    "rank_other": 156
   },
   {
     "ticker": "DD",
@@ -4519,13 +4519,13 @@
     "pct_1d": 1.07,
     "pct_1w": 4.68,
     "pct_1m": 4.86,
-    "market_cap": 18436900864,
+    "market_cap": 18440118272,
     "revenue": 6988000256,
     "ivr": null,
     "ivp": null,
     "rank": 283,
-    "delta": 36,
-    "rank_other": 274
+    "delta": 0,
+    "rank_other": 222
   },
   {
     "ticker": "KIM",
@@ -4540,8 +4540,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 284,
-    "delta": 10,
-    "rank_other": 204
+    "delta": 0,
+    "rank_other": 181
   },
   {
     "ticker": "PPG",
@@ -4551,13 +4551,13 @@
     "pct_1d": -2.19,
     "pct_1w": 3.0,
     "pct_1m": 4.03,
-    "market_cap": 24588603392,
-    "revenue": 16421000192,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 285,
-    "delta": -33,
-    "rank_other": 251
+    "delta": 0,
+    "rank_other": 237
   },
   {
     "ticker": "RTX",
@@ -4567,13 +4567,13 @@
     "pct_1d": -1.9,
     "pct_1w": -1.5,
     "pct_1m": 1.27,
-    "market_cap": 257756626944,
-    "revenue": 95986999296,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 286,
-    "delta": -27,
-    "rank_other": 317
+    "delta": 0,
+    "rank_other": 315
   },
   {
     "ticker": "GIS",
@@ -4588,8 +4588,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 287,
-    "delta": -34,
-    "rank_other": 137
+    "delta": 0,
+    "rank_other": 205
   },
   {
     "ticker": "TDY",
@@ -4599,13 +4599,13 @@
     "pct_1d": 0.8,
     "pct_1w": 1.1,
     "pct_1m": 2.19,
-    "market_cap": 28974704640,
-    "revenue": 6519799808,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 288,
-    "delta": 28,
-    "rank_other": 309
+    "delta": 0,
+    "rank_other": 305
   },
   {
     "ticker": "WFC",
@@ -4615,13 +4615,13 @@
     "pct_1d": -0.75,
     "pct_1w": -1.76,
     "pct_1m": 0.26,
-    "market_cap": 247305027584,
-    "revenue": 83112001536,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 289,
-    "delta": -8,
-    "rank_other": 341
+    "delta": 0,
+    "rank_other": 342
   },
   {
     "ticker": "PHM",
@@ -4631,13 +4631,13 @@
     "pct_1d": 1.43,
     "pct_1w": 6.73,
     "pct_1m": 2.55,
-    "market_cap": 23085041664,
-    "revenue": 15976123392,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 290,
-    "delta": 46,
-    "rank_other": 210
+    "delta": 0,
+    "rank_other": 190
   },
   {
     "ticker": "VTR",
@@ -4647,13 +4647,13 @@
     "pct_1d": -0.22,
     "pct_1w": 1.09,
     "pct_1m": 0.57,
-    "market_cap": 44523745280,
-    "revenue": 6418988032,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 291,
-    "delta": 6,
-    "rank_other": 293
+    "delta": 0,
+    "rank_other": 288
   },
   {
     "ticker": "LNT",
@@ -4668,8 +4668,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 292,
-    "delta": -9,
-    "rank_other": 125
+    "delta": 0,
+    "rank_other": 144
   },
   {
     "ticker": "ETR",
@@ -4684,8 +4684,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 293,
-    "delta": -6,
-    "rank_other": 170
+    "delta": 0,
+    "rank_other": 194
   },
   {
     "ticker": "WMB",
@@ -4695,13 +4695,13 @@
     "pct_1d": 1.51,
     "pct_1w": 0.59,
     "pct_1m": 1.59,
-    "market_cap": 87701102592,
-    "revenue": 12323000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 294,
-    "delta": 51,
-    "rank_other": 328
+    "delta": 0,
+    "rank_other": 329
   },
   {
     "ticker": "SYF",
@@ -4711,13 +4711,13 @@
     "pct_1d": -1.93,
     "pct_1w": -0.05,
     "pct_1m": 2.92,
-    "market_cap": 23960309760,
-    "revenue": 9783000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 295,
-    "delta": -24,
-    "rank_other": 325
+    "delta": 0,
+    "rank_other": 326
   },
   {
     "ticker": "GD",
@@ -4732,8 +4732,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 296,
-    "delta": 2,
-    "rank_other": 241
+    "delta": 0,
+    "rank_other": 247
   },
   {
     "ticker": "UPS",
@@ -4743,13 +4743,13 @@
     "pct_1d": -0.45,
     "pct_1w": 3.67,
     "pct_1m": 9.79,
-    "market_cap": 85979979776,
-    "revenue": 89929998336,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 297,
-    "delta": 5,
-    "rank_other": 173
+    "delta": 0,
+    "rank_other": 153
   },
   {
     "ticker": "HON",
@@ -4764,8 +4764,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 298,
-    "delta": 48,
-    "rank_other": 217
+    "delta": 0,
+    "rank_other": 199
   },
   {
     "ticker": "PODD",
@@ -4780,8 +4780,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 299,
-    "delta": 32,
-    "rank_other": 89
+    "delta": 0,
+    "rank_other": 74
   },
   {
     "ticker": "NEM",
@@ -4791,13 +4791,13 @@
     "pct_1d": -4.59,
     "pct_1w": -8.2,
     "pct_1m": -10.25,
-    "market_cap": 113136967680,
-    "revenue": 25767000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 300,
-    "delta": -75,
-    "rank_other": 447
+    "delta": 0,
+    "rank_other": 446
   },
   {
     "ticker": "RF",
@@ -4807,13 +4807,13 @@
     "pct_1d": 0.25,
     "pct_1w": 3.72,
     "pct_1m": 4.44,
-    "market_cap": 24254433280,
-    "revenue": 7331999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 301,
-    "delta": 16,
-    "rank_other": 253
+    "delta": 0,
+    "rank_other": 241
   },
   {
     "ticker": "NVDA",
@@ -4823,13 +4823,13 @@
     "pct_1d": -0.59,
     "pct_1w": -1.48,
     "pct_1m": -6.06,
-    "market_cap": 5094050889728,
-    "revenue": 302970011648,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 302,
-    "delta": -6,
-    "rank_other": 444
+    "delta": 0,
+    "rank_other": 438
   },
   {
     "ticker": "RCL",
@@ -4839,13 +4839,13 @@
     "pct_1d": -3.37,
     "pct_1w": -0.43,
     "pct_1m": 15.69,
-    "market_cap": 73945153536,
-    "revenue": 18681999360,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 303,
-    "delta": -57,
-    "rank_other": 284
+    "delta": 0,
+    "rank_other": 271
   },
   {
     "ticker": "TSN",
@@ -4855,13 +4855,13 @@
     "pct_1d": -0.65,
     "pct_1w": 3.28,
     "pct_1m": 10.87,
-    "market_cap": 19947145216,
-    "revenue": 55694000128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 304,
-    "delta": -3,
-    "rank_other": 119
+    "delta": 0,
+    "rank_other": 97
   },
   {
     "ticker": "TSLA",
@@ -4871,12 +4871,12 @@
     "pct_1d": -0.63,
     "pct_1w": 4.93,
     "pct_1m": -1.51,
-    "market_cap": 1471285166080,
-    "revenue": 103569997824,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 305,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 339
   },
   {
@@ -4887,13 +4887,13 @@
     "pct_1d": -1.49,
     "pct_1w": -5.04,
     "pct_1m": -6.16,
-    "market_cap": 46002872320,
-    "revenue": 12213999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 306,
-    "delta": -24,
-    "rank_other": 419
+    "delta": 0,
+    "rank_other": 418
   },
   {
     "ticker": "CMS",
@@ -4903,13 +4903,13 @@
     "pct_1d": -1.02,
     "pct_1w": 1.28,
     "pct_1m": 10.85,
-    "market_cap": 21494628352,
+    "market_cap": 21818699776,
     "revenue": 8812999680,
     "ivr": null,
     "ivp": null,
     "rank": 307,
-    "delta": -12,
-    "rank_other": 108
+    "delta": 0,
+    "rank_other": 135
   },
   {
     "ticker": "DPZ",
@@ -4924,8 +4924,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 308,
-    "delta": -18,
-    "rank_other": 190
+    "delta": 0,
+    "rank_other": 240
   },
   {
     "ticker": "TFC",
@@ -4935,13 +4935,13 @@
     "pct_1d": 0.04,
     "pct_1w": 2.91,
     "pct_1m": 2.67,
-    "market_cap": 59175571456,
-    "revenue": 18276999168,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 309,
-    "delta": 16,
-    "rank_other": 276
+    "delta": 0,
+    "rank_other": 264
   },
   {
     "ticker": "BXP",
@@ -4956,8 +4956,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 310,
-    "delta": 38,
-    "rank_other": 311
+    "delta": 0,
+    "rank_other": 280
   },
   {
     "ticker": "SBAC",
@@ -4967,13 +4967,13 @@
     "pct_1d": 3.57,
     "pct_1w": -1.23,
     "pct_1m": 11.21,
-    "market_cap": 19599777792,
-    "revenue": 2870621952,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 311,
-    "delta": 71,
-    "rank_other": 147
+    "delta": 0,
+    "rank_other": 121
   },
   {
     "ticker": "BNY",
@@ -4983,12 +4983,12 @@
     "pct_1d": -0.03,
     "pct_1w": 1.37,
     "pct_1m": -3.28,
-    "market_cap": 98566299648,
+    "market_cap": 97751891968,
     "revenue": 22001999872,
     "ivr": null,
     "ivp": null,
     "rank": 312,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 349
   },
   {
@@ -5004,8 +5004,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 313,
-    "delta": -21,
-    "rank_other": 223
+    "delta": 0,
+    "rank_other": 263
   },
   {
     "ticker": "AMP",
@@ -5015,13 +5015,13 @@
     "pct_1d": -0.93,
     "pct_1w": -1.72,
     "pct_1m": 1.45,
-    "market_cap": 43509596160,
+    "market_cap": 43476725760,
     "revenue": 19839000576,
     "ivr": null,
     "ivp": null,
     "rank": 314,
-    "delta": -7,
-    "rank_other": 362
+    "delta": 0,
+    "rank_other": 370
   },
   {
     "ticker": "GEN",
@@ -5036,8 +5036,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 315,
-    "delta": 9,
-    "rank_other": 262
+    "delta": 0,
+    "rank_other": 211
   },
   {
     "ticker": "NI",
@@ -5047,13 +5047,13 @@
     "pct_1d": -0.94,
     "pct_1w": 1.41,
     "pct_1m": 10.63,
-    "market_cap": 20755359744,
-    "revenue": 6881500160,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 316,
-    "delta": -7,
-    "rank_other": 161
+    "delta": 0,
+    "rank_other": 137
   },
   {
     "ticker": "FCX",
@@ -5068,8 +5068,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 317,
-    "delta": 36,
-    "rank_other": 460
+    "delta": 0,
+    "rank_other": 449
   },
   {
     "ticker": "VMRK",
@@ -5079,13 +5079,13 @@
     "pct_1d": -0.85,
     "pct_1w": 2.89,
     "pct_1m": 4.47,
-    "market_cap": 48771297280,
-    "revenue": 3089946880,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 318,
-    "delta": -8,
-    "rank_other": 264
+    "delta": 0,
+    "rank_other": 249
   },
   {
     "ticker": "MKC",
@@ -5095,13 +5095,13 @@
     "pct_1d": -1.21,
     "pct_1w": 3.82,
     "pct_1m": 1.7,
-    "market_cap": 12947382272,
-    "revenue": 7685700096,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 319,
-    "delta": -13,
-    "rank_other": 255
+    "delta": 0,
+    "rank_other": 243
   },
   {
     "ticker": "ES",
@@ -5116,8 +5116,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 320,
-    "delta": -2,
-    "rank_other": 261
+    "delta": 0,
+    "rank_other": 268
   },
   {
     "ticker": "VZ",
@@ -5127,13 +5127,13 @@
     "pct_1d": -1.19,
     "pct_1w": -0.29,
     "pct_1m": -4.16,
-    "market_cap": 185552257024,
-    "revenue": 138894999552,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 321,
-    "delta": -13,
-    "rank_other": 363
+    "delta": 0,
+    "rank_other": 364
   },
   {
     "ticker": "UDR",
@@ -5143,13 +5143,13 @@
     "pct_1d": -0.94,
     "pct_1w": 5.06,
     "pct_1m": 7.28,
-    "market_cap": 13279281152,
-    "revenue": 1766329984,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 322,
-    "delta": -9,
-    "rank_other": 179
+    "delta": 0,
+    "rank_other": 159
   },
   {
     "ticker": "PEP",
@@ -5159,13 +5159,13 @@
     "pct_1d": -2.2,
     "pct_1w": 3.25,
     "pct_1m": 5.95,
-    "market_cap": 185019367424,
-    "revenue": 98241003520,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 323,
-    "delta": -39,
-    "rank_other": 205
+    "delta": 0,
+    "rank_other": 184
   },
   {
     "ticker": "TJX",
@@ -5175,13 +5175,13 @@
     "pct_1d": -1.57,
     "pct_1w": -1.54,
     "pct_1m": 10.2,
-    "market_cap": 160248414208,
-    "revenue": 62363000832,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 324,
-    "delta": -24,
-    "rank_other": 196
+    "delta": 0,
+    "rank_other": 174
   },
   {
     "ticker": "TROW",
@@ -5191,13 +5191,13 @@
     "pct_1d": 0.72,
     "pct_1w": 3.2,
     "pct_1m": -0.07,
-    "market_cap": 22227511296,
-    "revenue": 7592000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 325,
-    "delta": 27,
-    "rank_other": 332
+    "delta": 0,
+    "rank_other": 333
   },
   {
     "ticker": "HAL",
@@ -5207,13 +5207,13 @@
     "pct_1d": 5.21,
     "pct_1w": 4.24,
     "pct_1m": 6.59,
-    "market_cap": 29172088832,
+    "market_cap": 28883249152,
     "revenue": 22475999232,
     "ivr": null,
     "ivp": null,
     "rank": 326,
-    "delta": 80,
-    "rank_other": 154
+    "delta": 0,
+    "rank_other": 127
   },
   {
     "ticker": "LUV",
@@ -5223,13 +5223,13 @@
     "pct_1d": -0.67,
     "pct_1w": 5.7,
     "pct_1m": 0.48,
-    "market_cap": 20424441856,
-    "revenue": 31545999360,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 327,
-    "delta": -5,
-    "rank_other": 320
+    "delta": 0,
+    "rank_other": 321
   },
   {
     "ticker": "FERG",
@@ -5244,8 +5244,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 328,
-    "delta": 6,
-    "rank_other": 302
+    "delta": 0,
+    "rank_other": 301
   },
   {
     "ticker": "STT",
@@ -5255,13 +5255,13 @@
     "pct_1d": -0.01,
     "pct_1w": 1.27,
     "pct_1m": -6.83,
-    "market_cap": 46103195648,
-    "revenue": 15495000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 329,
-    "delta": 9,
-    "rank_other": 405
+    "delta": 0,
+    "rank_other": 408
   },
   {
     "ticker": "RJF",
@@ -5271,13 +5271,13 @@
     "pct_1d": -0.94,
     "pct_1w": 0.59,
     "pct_1m": -0.33,
-    "market_cap": 30335440896,
-    "revenue": 15239999488,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 330,
-    "delta": -10,
-    "rank_other": 354
+    "delta": 0,
+    "rank_other": 356
   },
   {
     "ticker": "KEY",
@@ -5292,8 +5292,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 331,
-    "delta": -3,
-    "rank_other": 252
+    "delta": 0,
+    "rank_other": 239
   },
   {
     "ticker": "AMZN",
@@ -5308,8 +5308,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 332,
-    "delta": -9,
-    "rank_other": 373
+    "delta": 0,
+    "rank_other": 385
   },
   {
     "ticker": "DOC",
@@ -5324,8 +5324,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 333,
-    "delta": -1,
-    "rank_other": 350
+    "delta": 0,
+    "rank_other": 352
   },
   {
     "ticker": "INVH",
@@ -5340,8 +5340,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 334,
-    "delta": 17,
-    "rank_other": 271
+    "delta": 0,
+    "rank_other": 258
   },
   {
     "ticker": "MTB",
@@ -5351,13 +5351,13 @@
     "pct_1d": -0.53,
     "pct_1w": 2.96,
     "pct_1m": 1.37,
-    "market_cap": 32125847552,
-    "revenue": 9464000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 335,
     "delta": 0,
-    "rank_other": 324
+    "rank_other": 325
   },
   {
     "ticker": "XYL",
@@ -5367,13 +5367,13 @@
     "pct_1d": -0.48,
     "pct_1w": 4.51,
     "pct_1m": 5.92,
-    "market_cap": 25389355008,
-    "revenue": 9125999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 336,
-    "delta": 7,
-    "rank_other": 219
+    "delta": 0,
+    "rank_other": 201
   },
   {
     "ticker": "CFG",
@@ -5388,7 +5388,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 337,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 319
   },
   {
@@ -5399,13 +5399,13 @@
     "pct_1d": -0.47,
     "pct_1w": 3.25,
     "pct_1m": 1.43,
-    "market_cap": 89546899456,
-    "revenue": 24944001024,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 338,
-    "delta": 4,
-    "rank_other": 307
+    "delta": 0,
+    "rank_other": 303
   },
   {
     "ticker": "REG",
@@ -5415,13 +5415,13 @@
     "pct_1d": -0.54,
     "pct_1w": 1.01,
     "pct_1m": 1.45,
-    "market_cap": 13831207936,
-    "revenue": 1685532032,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 339,
-    "delta": 5,
-    "rank_other": 305
+    "delta": 0,
+    "rank_other": 298
   },
   {
     "ticker": "BEN",
@@ -5436,8 +5436,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 340,
-    "delta": -25,
-    "rank_other": 377
+    "delta": 0,
+    "rank_other": 398
   },
   {
     "ticker": "CPT",
@@ -5447,13 +5447,13 @@
     "pct_1d": -0.72,
     "pct_1w": 3.46,
     "pct_1m": 5.85,
-    "market_cap": 10255013888,
+    "market_cap": 11804723200,
     "revenue": 1581868032,
     "ivr": null,
     "ivp": null,
     "rank": 341,
     "delta": 0,
-    "rank_other": 203
+    "rank_other": 221
   },
   {
     "ticker": "HOOD",
@@ -5463,12 +5463,12 @@
     "pct_1d": -1.56,
     "pct_1w": -3.84,
     "pct_1m": -21.31,
-    "market_cap": 85475753984,
-    "revenue": 4931999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 342,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 479
   },
   {
@@ -5479,13 +5479,13 @@
     "pct_1d": -0.84,
     "pct_1w": 0.78,
     "pct_1m": 8.13,
-    "market_cap": 54966861824,
-    "revenue": 13552000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 343,
-    "delta": 4,
-    "rank_other": 227
+    "delta": 0,
+    "rank_other": 212
   },
   {
     "ticker": "SNPS",
@@ -5495,13 +5495,13 @@
     "pct_1d": 1.81,
     "pct_1w": -5.39,
     "pct_1m": 1.23,
-    "market_cap": 82430590976,
-    "revenue": 9416465408,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 344,
-    "delta": 36,
-    "rank_other": 427
+    "delta": 0,
+    "rank_other": 425
   },
   {
     "ticker": "IVZ",
@@ -5516,8 +5516,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 345,
-    "delta": -42,
-    "rank_other": 435
+    "delta": 0,
+    "rank_other": 431
   },
   {
     "ticker": "ANET",
@@ -5532,8 +5532,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 346,
-    "delta": 17,
-    "rank_other": 483
+    "delta": 0,
+    "rank_other": 477
   },
   {
     "ticker": "DOV",
@@ -5548,8 +5548,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 347,
-    "delta": 36,
-    "rank_other": 299
+    "delta": 0,
+    "rank_other": 228
   },
   {
     "ticker": "NEE",
@@ -5559,13 +5559,13 @@
     "pct_1d": 0.24,
     "pct_1w": 2.88,
     "pct_1m": 8.57,
-    "market_cap": 172188827648,
-    "revenue": 28824999936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 348,
-    "delta": 10,
-    "rank_other": 193
+    "delta": 0,
+    "rank_other": 172
   },
   {
     "ticker": "AXP",
@@ -5575,13 +5575,13 @@
     "pct_1d": -3.68,
     "pct_1w": -0.12,
     "pct_1m": 2.79,
-    "market_cap": 211520536576,
-    "revenue": 70912999424,
+    "market_cap": 210030297088,
+    "revenue": 72851996672,
     "ivr": null,
     "ivp": null,
     "rank": 349,
-    "delta": -70,
-    "rank_other": 195
+    "delta": 0,
+    "rank_other": 316
   },
   {
     "ticker": "MU",
@@ -5591,13 +5591,13 @@
     "pct_1d": 2.46,
     "pct_1w": -0.15,
     "pct_1m": -18.77,
-    "market_cap": 992880427008,
-    "revenue": 133188001792,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 350,
-    "delta": 39,
-    "rank_other": 475
+    "delta": 0,
+    "rank_other": 472
   },
   {
     "ticker": "SW",
@@ -5607,13 +5607,13 @@
     "pct_1d": -1.37,
     "pct_1w": 1.68,
     "pct_1m": -9.02,
-    "market_cap": 21951283200,
-    "revenue": 31325999104,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 351,
-    "delta": -18,
-    "rank_other": 391
+    "delta": 0,
+    "rank_other": 389
   },
   {
     "ticker": "NTRS",
@@ -5623,13 +5623,13 @@
     "pct_1d": 1.27,
     "pct_1w": 1.44,
     "pct_1m": -3.77,
-    "market_cap": 30721912832,
-    "revenue": 9332200448,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 352,
-    "delta": 22,
-    "rank_other": 368
+    "delta": 0,
+    "rank_other": 369
   },
   {
     "ticker": "ROK",
@@ -5639,13 +5639,13 @@
     "pct_1d": 0.53,
     "pct_1w": -0.03,
     "pct_1m": -1.58,
-    "market_cap": 47318949888,
-    "revenue": 8972999680,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 353,
-    "delta": 11,
-    "rank_other": 374
+    "delta": 0,
+    "rank_other": 375
   },
   {
     "ticker": "DASH",
@@ -5660,8 +5660,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 354,
-    "delta": -66,
-    "rank_other": 382
+    "delta": 0,
+    "rank_other": 423
   },
   {
     "ticker": "TT",
@@ -5671,13 +5671,13 @@
     "pct_1d": -0.87,
     "pct_1w": -3.05,
     "pct_1m": 1.45,
-    "market_cap": 97888313344,
-    "revenue": 22209900544,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 355,
-    "delta": -1,
-    "rank_other": 395
+    "delta": 0,
+    "rank_other": 394
   },
   {
     "ticker": "FDX",
@@ -5692,8 +5692,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 356,
-    "delta": -16,
-    "rank_other": 246
+    "delta": 0,
+    "rank_other": 296
   },
   {
     "ticker": "CSCO",
@@ -5708,8 +5708,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 357,
-    "delta": 28,
-    "rank_other": 418
+    "delta": 0,
+    "rank_other": 403
   },
   {
     "ticker": "QCOM",
@@ -5719,13 +5719,13 @@
     "pct_1d": 1.78,
     "pct_1w": 2.21,
     "pct_1m": -9.45,
-    "market_cap": 187843641344,
-    "revenue": 44068999168,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 358,
-    "delta": 32,
-    "rank_other": 402
+    "delta": 0,
+    "rank_other": 405
   },
   {
     "ticker": "HSY",
@@ -5740,8 +5740,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 359,
-    "delta": -54,
-    "rank_other": 290
+    "delta": 0,
+    "rank_other": 285
   },
   {
     "ticker": "SMCI",
@@ -5751,12 +5751,12 @@
     "pct_1d": -2.31,
     "pct_1w": 4.14,
     "pct_1m": -20.65,
-    "market_cap": 21307996160,
-    "revenue": 39063072768,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 360,
-    "delta": -33,
+    "delta": 0,
     "rank_other": 488
   },
   {
@@ -5767,13 +5767,13 @@
     "pct_1d": -2.08,
     "pct_1w": 1.08,
     "pct_1m": -4.04,
-    "market_cap": 15945669632,
-    "revenue": 9413880832,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 361,
-    "delta": -24,
-    "rank_other": 364
+    "delta": 0,
+    "rank_other": 365
   },
   {
     "ticker": "FISV",
@@ -5788,8 +5788,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 362,
-    "delta": -13,
-    "rank_other": 66
+    "delta": 0,
+    "rank_other": 102
   },
   {
     "ticker": "PEG",
@@ -5799,13 +5799,13 @@
     "pct_1d": -0.96,
     "pct_1w": 0.74,
     "pct_1m": 8.2,
-    "market_cap": 35889106944,
-    "revenue": 12542999552,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 363,
-    "delta": -6,
-    "rank_other": 275
+    "delta": 0,
+    "rank_other": 262
   },
   {
     "ticker": "BX",
@@ -5816,12 +5816,12 @@
     "pct_1w": 10.66,
     "pct_1m": 0.65,
     "market_cap": 141009289216,
-    "revenue": 15812504576,
+    "revenue": 15467870208,
     "ivr": null,
     "ivp": null,
     "rank": 364,
-    "delta": -5,
-    "rank_other": 256
+    "delta": 0,
+    "rank_other": 261
   },
   {
     "ticker": "VMC",
@@ -5831,13 +5831,13 @@
     "pct_1d": -2.62,
     "pct_1w": 1.58,
     "pct_1m": 8.27,
-    "market_cap": 33909458944,
-    "revenue": 8115800064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 365,
-    "delta": -36,
-    "rank_other": 200
+    "delta": 0,
+    "rank_other": 178
   },
   {
     "ticker": "HBAN",
@@ -5852,8 +5852,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 366,
-    "delta": 10,
-    "rank_other": 306
+    "delta": 0,
+    "rank_other": 300
   },
   {
     "ticker": "CPRT",
@@ -5869,7 +5869,7 @@
     "ivp": null,
     "rank": 367,
     "delta": 0,
-    "rank_other": 202
+    "rank_other": 188
   },
   {
     "ticker": "APH",
@@ -5884,8 +5884,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 368,
-    "delta": 28,
-    "rank_other": 472
+    "delta": 0,
+    "rank_other": 464
   },
   {
     "ticker": "DTE",
@@ -5900,8 +5900,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 369,
-    "delta": -9,
-    "rank_other": 188
+    "delta": 0,
+    "rank_other": 214
   },
   {
     "ticker": "HRL",
@@ -5916,8 +5916,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 370,
-    "delta": -14,
-    "rank_other": 164
+    "delta": 0,
+    "rank_other": 141
   },
   {
     "ticker": "LOW",
@@ -5927,13 +5927,13 @@
     "pct_1d": -2.78,
     "pct_1w": 1.3,
     "pct_1m": 6.07,
-    "market_cap": 111470206976,
-    "revenue": 90431995904,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 371,
-    "delta": -32,
-    "rank_other": 201
+    "delta": 0,
+    "rank_other": 179
   },
   {
     "ticker": "CMCSA",
@@ -5943,13 +5943,13 @@
     "pct_1d": -0.66,
     "pct_1w": 3.61,
     "pct_1m": 4.12,
-    "market_cap": 80518569984,
+    "market_cap": 80572334080,
     "revenue": 123005001728,
     "ivr": null,
     "ivp": null,
     "rank": 372,
-    "delta": -4,
-    "rank_other": 181
+    "delta": 0,
+    "rank_other": 189
   },
   {
     "ticker": "BSX",
@@ -5964,8 +5964,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 373,
-    "delta": -4,
-    "rank_other": 198
+    "delta": 0,
+    "rank_other": 218
   },
   {
     "ticker": "DAL",
@@ -5980,8 +5980,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 374,
-    "delta": -44,
-    "rank_other": 381
+    "delta": 0,
+    "rank_other": 419
   },
   {
     "ticker": "DVA",
@@ -5991,13 +5991,13 @@
     "pct_1d": -1.32,
     "pct_1w": -1.96,
     "pct_1m": 5.14,
-    "market_cap": 11786933248,
+    "market_cap": 11716232192,
     "revenue": 14009646080,
     "ivr": null,
     "ivp": null,
     "rank": 375,
-    "delta": -14,
-    "rank_other": 277
+    "delta": 0,
+    "rank_other": 302
   },
   {
     "ticker": "O",
@@ -6007,13 +6007,13 @@
     "pct_1d": -0.3,
     "pct_1w": 1.44,
     "pct_1m": 3.18,
-    "market_cap": 53830344704,
-    "revenue": 6065508864,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 376,
-    "delta": 5,
-    "rank_other": 278
+    "delta": 0,
+    "rank_other": 265
   },
   {
     "ticker": "MAA",
@@ -6023,13 +6023,13 @@
     "pct_1d": -1.15,
     "pct_1w": 2.7,
     "pct_1m": 3.52,
-    "market_cap": 14292944896,
-    "revenue": 2218780928,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 377,
-    "delta": -12,
-    "rank_other": 280
+    "delta": 0,
+    "rank_other": 267
   },
   {
     "ticker": "IR",
@@ -6044,8 +6044,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 378,
-    "delta": -5,
-    "rank_other": 410
+    "delta": 0,
+    "rank_other": 414
   },
   {
     "ticker": "FRT",
@@ -6055,13 +6055,13 @@
     "pct_1d": -0.15,
     "pct_1w": 2.26,
     "pct_1m": -0.41,
-    "market_cap": 9449768960,
+    "market_cap": 9504121856,
     "revenue": 1335422976,
     "ivr": null,
     "ivp": null,
     "rank": 379,
-    "delta": 8,
-    "rank_other": 314
+    "delta": 0,
+    "rank_other": 313
   },
   {
     "ticker": "COIN",
@@ -6076,8 +6076,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 380,
-    "delta": -25,
-    "rank_other": 452
+    "delta": 0,
+    "rank_other": 463
   },
   {
     "ticker": "COO",
@@ -6092,8 +6092,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 381,
-    "delta": 7,
-    "rank_other": 58
+    "delta": 0,
+    "rank_other": 76
   },
   {
     "ticker": "FIS",
@@ -6103,13 +6103,13 @@
     "pct_1d": -1.98,
     "pct_1w": 4.22,
     "pct_1m": 7.26,
-    "market_cap": 19398473728,
+    "market_cap": 19354441728,
     "revenue": 12199999488,
     "ivr": null,
     "ivp": null,
     "rank": 382,
-    "delta": -16,
-    "rank_other": 53
+    "delta": 0,
+    "rank_other": 90
   },
   {
     "ticker": "MCD",
@@ -6120,12 +6120,12 @@
     "pct_1w": 2.26,
     "pct_1m": 4.83,
     "market_cap": 175820619776,
-    "revenue": 27701999616,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 383,
-    "delta": -12,
-    "rank_other": 250
+    "delta": 0,
+    "rank_other": 236
   },
   {
     "ticker": "AON",
@@ -6141,7 +6141,7 @@
     "ivp": null,
     "rank": 384,
     "delta": 0,
-    "rank_other": 73
+    "rank_other": 89
   },
   {
     "ticker": "IP",
@@ -6156,8 +6156,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 385,
-    "delta": -6,
-    "rank_other": 356
+    "delta": 0,
+    "rank_other": 358
   },
   {
     "ticker": "ALGN",
@@ -6172,8 +6172,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 386,
-    "delta": 11,
-    "rank_other": 152
+    "delta": 0,
+    "rank_other": 155
   },
   {
     "ticker": "GM",
@@ -6183,13 +6183,13 @@
     "pct_1d": -1.67,
     "pct_1w": -9.58,
     "pct_1m": -5.77,
-    "market_cap": 66616119296,
+    "market_cap": 64456077312,
     "revenue": 186952007680,
     "ivr": null,
     "ivp": null,
     "rank": 387,
-    "delta": -9,
-    "rank_other": 425
+    "delta": 0,
+    "rank_other": 436
   },
   {
     "ticker": "SNA",
@@ -6199,13 +6199,13 @@
     "pct_1d": 0.16,
     "pct_1w": -2.79,
     "pct_1m": -2.91,
-    "market_cap": 18467616768,
-    "revenue": 5265299968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 388,
-    "delta": 15,
-    "rank_other": 389
+    "delta": 0,
+    "rank_other": 386
   },
   {
     "ticker": "VST",
@@ -6215,13 +6215,13 @@
     "pct_1d": -0.48,
     "pct_1w": -7.8,
     "pct_1m": 1.61,
-    "market_cap": 47042629632,
-    "revenue": 19211999232,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 389,
-    "delta": 10,
-    "rank_other": 421
+    "delta": 0,
+    "rank_other": 420
   },
   {
     "ticker": "DLR",
@@ -6236,8 +6236,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 390,
-    "delta": 19,
-    "rank_other": 413
+    "delta": 0,
+    "rank_other": 402
   },
   {
     "ticker": "PH",
@@ -6247,13 +6247,29 @@
     "pct_1d": -1.42,
     "pct_1w": -8.59,
     "pct_1m": -9.68,
-    "market_cap": 111050809344,
-    "revenue": 21499000832,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 391,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 450
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "rsl": 0.9287,
+    "pct_1d": 0.52,
+    "pct_1w": -2.82,
+    "pct_1m": -3.82,
+    "market_cap": 23674275840,
+    "revenue": 6223600128,
+    "ivr": null,
+    "ivp": null,
+    "rank": 392,
+    "delta": 9,
+    "rank_other": 411
   },
   {
     "ticker": "CEG",
@@ -6267,9 +6283,9 @@
     "revenue": 31270000640,
     "ivr": null,
     "ivp": null,
-    "rank": 392,
-    "delta": 8,
-    "rank_other": 434
+    "rank": 393,
+    "delta": -1,
+    "rank_other": 435
   },
   {
     "ticker": "KKR",
@@ -6279,13 +6295,13 @@
     "pct_1d": -1.88,
     "pct_1w": 5.95,
     "pct_1m": -4.5,
-    "market_cap": 84360757248,
-    "revenue": 25833117696,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
-    "rank": 393,
-    "delta": -7,
-    "rank_other": 352
+    "rank": 394,
+    "delta": -1,
+    "rank_other": 354
   },
   {
     "ticker": "CLX",
@@ -6299,9 +6315,9 @@
     "revenue": 6720000000,
     "ivr": null,
     "ivp": null,
-    "rank": 394,
-    "delta": -22,
-    "rank_other": 177
+    "rank": 395,
+    "delta": -1,
+    "rank_other": 275
   },
   {
     "ticker": "KEYS",
@@ -6315,8 +6331,8 @@
     "revenue": 6582000128,
     "ivr": null,
     "ivp": null,
-    "rank": 395,
-    "delta": 19,
+    "rank": 396,
+    "delta": -1,
     "rank_other": 470
   },
   {
@@ -6327,13 +6343,13 @@
     "pct_1d": -2.03,
     "pct_1w": 1.26,
     "pct_1m": 5.64,
-    "market_cap": 36018900992,
-    "revenue": 6688000000,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
-    "rank": 396,
-    "delta": -5,
-    "rank_other": 260
+    "rank": 397,
+    "delta": -1,
+    "rank_other": 246
   },
   {
     "ticker": "VICI",
@@ -6343,13 +6359,13 @@
     "pct_1d": -1.08,
     "pct_1w": 0.68,
     "pct_1m": 2.11,
-    "market_cap": 26161602560,
-    "revenue": 4097604096,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
-    "rank": 397,
-    "delta": 4,
-    "rank_other": 301
+    "rank": 398,
+    "delta": -1,
+    "rank_other": 294
   },
   {
     "ticker": "SCHW",
@@ -6363,8 +6379,8 @@
     "revenue": 27061000192,
     "ivr": null,
     "ivp": null,
-    "rank": 398,
-    "delta": 4,
+    "rank": 399,
+    "delta": -1,
     "rank_other": 437
   },
   {
@@ -6379,9 +6395,9 @@
     "revenue": 13185000448,
     "ivr": null,
     "ivp": null,
-    "rank": 399,
+    "rank": 400,
     "delta": -1,
-    "rank_other": 296
+    "rank_other": 291
   },
   {
     "ticker": "BKR",
@@ -6395,25 +6411,9 @@
     "revenue": 27725000704,
     "ivr": null,
     "ivp": null,
-    "rank": 400,
-    "delta": 39,
-    "rank_other": 417
-  },
-  {
-    "ticker": "HUBB",
-    "name": "Hubbell Incorporated",
-    "sector": "Industrials",
-    "rsl": 0.9226,
-    "pct_1d": -3.25,
-    "pct_1w": -4.07,
-    "pct_1m": -3.86,
-    "market_cap": 23678400512,
-    "revenue": 6223600128,
-    "ivr": null,
-    "ivp": null,
     "rank": 401,
-    "delta": 6,
-    "rank_other": 412
+    "delta": -1,
+    "rank_other": 361
   },
   {
     "ticker": "GL",
@@ -6428,8 +6428,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 402,
-    "delta": -127,
-    "rank_other": 446
+    "delta": 0,
+    "rank_other": 445
   },
   {
     "ticker": "CDNS",
@@ -6439,13 +6439,13 @@
     "pct_1d": 2.21,
     "pct_1w": -0.95,
     "pct_1m": -1.71,
-    "market_cap": 87293001728,
+    "market_cap": 87159128064,
     "revenue": 5837622784,
     "ivr": null,
     "ivp": null,
     "rank": 403,
-    "delta": 23,
-    "rank_other": 428
+    "delta": 0,
+    "rank_other": 410
   },
   {
     "ticker": "TDG",
@@ -6455,13 +6455,13 @@
     "pct_1d": -3.23,
     "pct_1w": -3.03,
     "pct_1m": -0.04,
-    "market_cap": 61797658624,
-    "revenue": 10005999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 404,
-    "delta": -29,
-    "rank_other": 355
+    "delta": 0,
+    "rank_other": 357
   },
   {
     "ticker": "NKE",
@@ -6471,13 +6471,13 @@
     "pct_1d": -2.66,
     "pct_1w": 0.46,
     "pct_1m": 3.64,
-    "market_cap": 55402016768,
-    "revenue": 45890998272,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 405,
-    "delta": -11,
-    "rank_other": 242
+    "delta": 0,
+    "rank_other": 231
   },
   {
     "ticker": "TKO",
@@ -6487,13 +6487,13 @@
     "pct_1d": -2.62,
     "pct_1w": -1.38,
     "pct_1m": -6.48,
-    "market_cap": 32756910080,
-    "revenue": 5301862912,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 406,
-    "delta": -13,
-    "rank_other": 404
+    "delta": 0,
+    "rank_other": 406
   },
   {
     "ticker": "UBER",
@@ -6503,13 +6503,13 @@
     "pct_1d": -3.43,
     "pct_1w": -5.19,
     "pct_1m": -3.64,
-    "market_cap": 136238751744,
-    "revenue": 55226998784,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 407,
-    "delta": -30,
-    "rank_other": 409
+    "delta": 0,
+    "rank_other": 413
   },
   {
     "ticker": "IRM",
@@ -6524,8 +6524,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 408,
-    "delta": 4,
-    "rank_other": 397
+    "delta": 0,
+    "rank_other": 396
   },
   {
     "ticker": "C",
@@ -6535,13 +6535,13 @@
     "pct_1d": -1.54,
     "pct_1w": -2.93,
     "pct_1m": -8.69,
-    "market_cap": 202332438528,
+    "market_cap": 199650230272,
     "revenue": 83299000320,
     "ivr": null,
     "ivp": null,
     "rank": 409,
-    "delta": -4,
-    "rank_other": 416
+    "delta": 0,
+    "rank_other": 429
   },
   {
     "ticker": "EQIX",
@@ -6556,8 +6556,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 410,
-    "delta": 12,
-    "rank_other": 441
+    "delta": 0,
+    "rank_other": 430
   },
   {
     "ticker": "PLD",
@@ -6567,13 +6567,13 @@
     "pct_1d": -0.17,
     "pct_1w": 0.56,
     "pct_1m": -5.51,
-    "market_cap": 122920951808,
-    "revenue": 9893700608,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 411,
-    "delta": 7,
-    "rank_other": 394
+    "delta": 0,
+    "rank_other": 393
   },
   {
     "ticker": "IBKR",
@@ -6588,8 +6588,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 412,
-    "delta": -8,
-    "rank_other": 448
+    "delta": 0,
+    "rank_other": 447
   },
   {
     "ticker": "LHX",
@@ -6599,13 +6599,13 @@
     "pct_1d": -0.1,
     "pct_1w": 2.2,
     "pct_1m": 6.69,
-    "market_cap": 47292928000,
-    "revenue": 22932000768,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 413,
-    "delta": 11,
-    "rank_other": 186
+    "delta": 0,
+    "rank_other": 168
   },
   {
     "ticker": "NXPI",
@@ -6615,12 +6615,12 @@
     "pct_1d": -1.21,
     "pct_1w": 2.44,
     "pct_1m": 2.07,
-    "market_cap": 59238408192,
-    "revenue": 13185000448,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 414,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 340
   },
   {
@@ -6631,13 +6631,13 @@
     "pct_1d": -1.98,
     "pct_1w": -0.77,
     "pct_1m": 0.35,
-    "market_cap": 38086049792,
-    "revenue": 6686499840,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 415,
-    "delta": -5,
-    "rank_other": 361
+    "delta": 0,
+    "rank_other": 363
   },
   {
     "ticker": "CASY",
@@ -6652,8 +6652,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 416,
-    "delta": -5,
-    "rank_other": 23
+    "delta": 0,
+    "rank_other": 44
   },
   {
     "ticker": "GOOGL",
@@ -6668,8 +6668,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 417,
-    "delta": 3,
-    "rank_other": 438
+    "delta": 0,
+    "rank_other": 444
   },
   {
     "ticker": "GOOG",
@@ -6684,8 +6684,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 418,
-    "delta": 5,
-    "rank_other": 439
+    "delta": 0,
+    "rank_other": 440
   },
   {
     "ticker": "APO",
@@ -6701,7 +6701,7 @@
     "ivp": null,
     "rank": 419,
     "delta": 0,
-    "rank_other": 386
+    "rank_other": 407
   },
   {
     "ticker": "CARR",
@@ -6711,13 +6711,13 @@
     "pct_1d": -0.42,
     "pct_1w": 2.25,
     "pct_1m": 2.5,
-    "market_cap": 46711844864,
+    "market_cap": 46360043520,
     "revenue": 22108000256,
     "ivr": null,
     "ivp": null,
     "rank": 420,
-    "delta": 10,
-    "rank_other": 304
+    "delta": 0,
+    "rank_other": 307
   },
   {
     "ticker": "PCAR",
@@ -6727,13 +6727,13 @@
     "pct_1d": -2.4,
     "pct_1w": -3.48,
     "pct_1m": -3.35,
-    "market_cap": 56299995136,
-    "revenue": 27815800832,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 421,
-    "delta": -6,
-    "rank_other": 398
+    "delta": 0,
+    "rank_other": 397
   },
   {
     "ticker": "ARE",
@@ -6748,8 +6748,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 422,
-    "delta": 6,
-    "rank_other": 445
+    "delta": 0,
+    "rank_other": 439
   },
   {
     "ticker": "BG",
@@ -6764,8 +6764,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 423,
-    "delta": 13,
-    "rank_other": 414
+    "delta": 0,
+    "rank_other": 409
   },
   {
     "ticker": "TXT",
@@ -6775,13 +6775,13 @@
     "pct_1d": -1.55,
     "pct_1w": 1.19,
     "pct_1m": 1.07,
-    "market_cap": 13359890432,
-    "revenue": 15299000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 424,
-    "delta": 1,
-    "rank_other": 331
+    "delta": 0,
+    "rank_other": 332
   },
   {
     "ticker": "BAC",
@@ -6791,13 +6791,13 @@
     "pct_1d": -1.02,
     "pct_1w": -1.31,
     "pct_1m": -9.76,
-    "market_cap": 353553383424,
+    "market_cap": 350011490304,
     "revenue": 114874998784,
     "ivr": null,
     "ivp": null,
     "rank": 425,
-    "delta": 2,
-    "rank_other": 432
+    "delta": 0,
+    "rank_other": 433
   },
   {
     "ticker": "MCHP",
@@ -6807,13 +6807,13 @@
     "pct_1d": -0.63,
     "pct_1w": 0.27,
     "pct_1m": -0.86,
-    "market_cap": 40209797120,
-    "revenue": 5122299904,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 426,
-    "delta": 6,
-    "rank_other": 396
+    "delta": 0,
+    "rank_other": 395
   },
   {
     "ticker": "ETN",
@@ -6823,13 +6823,13 @@
     "pct_1d": -0.78,
     "pct_1w": -6.43,
     "pct_1m": -16.79,
-    "market_cap": 142160510976,
+    "market_cap": 142197112832,
     "revenue": 30026000384,
     "ivr": null,
     "ivp": null,
     "rank": 427,
-    "delta": 6,
-    "rank_other": 474
+    "delta": 0,
+    "rank_other": 473
   },
   {
     "ticker": "CBRE",
@@ -6839,13 +6839,13 @@
     "pct_1d": -6.05,
     "pct_1w": -7.35,
     "pct_1m": -9.69,
-    "market_cap": 35704635392,
+    "market_cap": 35534598144,
     "revenue": 45006999552,
     "ivr": null,
     "ivp": null,
     "rank": 428,
-    "delta": -36,
-    "rank_other": 370
+    "delta": 0,
+    "rank_other": 443
   },
   {
     "ticker": "TPL",
@@ -6855,13 +6855,13 @@
     "pct_1d": 1.38,
     "pct_1w": -3.61,
     "pct_1m": 0.0,
-    "market_cap": 23331375104,
-    "revenue": 897540992,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 429,
-    "delta": 15,
-    "rank_other": 390
+    "delta": 0,
+    "rank_other": 387
   },
   {
     "ticker": "RDDT",
@@ -6871,13 +6871,13 @@
     "pct_1d": -4.0,
     "pct_1w": -7.61,
     "pct_1m": -5.55,
-    "market_cap": 27753197568,
-    "revenue": 2778833920,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 430,
-    "delta": -22,
-    "rank_other": 424
+    "delta": 0,
+    "rank_other": 422
   },
   {
     "ticker": "ODFL",
@@ -6887,13 +6887,13 @@
     "pct_1d": -3.79,
     "pct_1w": -2.67,
     "pct_1m": 4.44,
-    "market_cap": 37884055552,
-    "revenue": 5602506752,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 431,
-    "delta": -18,
-    "rank_other": 322
+    "delta": 0,
+    "rank_other": 323
   },
   {
     "ticker": "GS",
@@ -6908,8 +6908,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 432,
-    "delta": -3,
-    "rank_other": 400
+    "delta": 0,
+    "rank_other": 401
   },
   {
     "ticker": "T",
@@ -6924,8 +6924,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 433,
-    "delta": -71,
-    "rank_other": 420
+    "delta": 0,
+    "rank_other": 471
   },
   {
     "ticker": "BKNG",
@@ -6935,13 +6935,13 @@
     "pct_1d": -3.27,
     "pct_1w": -4.66,
     "pct_1m": -1.0,
-    "market_cap": 120749309952,
+    "market_cap": 117087625216,
     "revenue": 28241000448,
     "ivr": null,
     "ivp": null,
     "rank": 434,
-    "delta": -13,
-    "rank_other": 348
+    "delta": 0,
+    "rank_other": 404
   },
   {
     "ticker": "UAL",
@@ -6951,13 +6951,13 @@
     "pct_1d": -3.99,
     "pct_1w": 1.9,
     "pct_1m": -11.93,
-    "market_cap": 31816904704,
-    "revenue": 65552998400,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 435,
-    "delta": -19,
-    "rank_other": 456
+    "delta": 0,
+    "rank_other": 455
   },
   {
     "ticker": "BA",
@@ -6967,13 +6967,13 @@
     "pct_1d": 0.43,
     "pct_1w": -0.98,
     "pct_1m": -4.29,
-    "market_cap": 148757430272,
+    "market_cap": 148866203648,
     "revenue": 93994999808,
     "ivr": null,
     "ivp": null,
     "rank": 436,
-    "delta": 9,
-    "rank_other": 384
+    "delta": 0,
+    "rank_other": 374
   },
   {
     "ticker": "MS",
@@ -6983,13 +6983,13 @@
     "pct_1d": -2.44,
     "pct_1w": -0.6,
     "pct_1m": -8.57,
-    "market_cap": 281900941312,
-    "revenue": 79794003968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 437,
-    "delta": -6,
-    "rank_other": 426
+    "delta": 0,
+    "rank_other": 424
   },
   {
     "ticker": "AXON",
@@ -7004,8 +7004,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 438,
-    "delta": 10,
-    "rank_other": 375
+    "delta": 0,
+    "rank_other": 343
   },
   {
     "ticker": "ECHO",
@@ -7020,8 +7020,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 439,
-    "delta": 20,
-    "rank_other": 443
+    "delta": 0,
+    "rank_other": 391
   },
   {
     "ticker": "EIX",
@@ -7036,8 +7036,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 440,
-    "delta": 3,
-    "rank_other": 140
+    "delta": 0,
+    "rank_other": 166
   },
   {
     "ticker": "GE",
@@ -7052,8 +7052,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 441,
-    "delta": -6,
-    "rank_other": 431
+    "delta": 0,
+    "rank_other": 448
   },
   {
     "ticker": "JBHT",
@@ -7063,7 +7063,7 @@
     "pct_1d": -1.98,
     "pct_1w": -1.2,
     "pct_1m": -1.36,
-    "market_cap": 21224216576,
+    "market_cap": 21227593728,
     "revenue": 13325219840,
     "ivr": null,
     "ivp": null,
@@ -7079,13 +7079,13 @@
     "pct_1d": -2.83,
     "pct_1w": 0.33,
     "pct_1m": 6.41,
-    "market_cap": 6933736448,
-    "revenue": 10154306560,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 443,
-    "delta": -3,
-    "rank_other": 326
+    "delta": 0,
+    "rank_other": 327
   },
   {
     "ticker": "CRH",
@@ -7100,8 +7100,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 444,
-    "delta": 2,
-    "rank_other": 273
+    "delta": 0,
+    "rank_other": 308
   },
   {
     "ticker": "LITE",
@@ -7111,13 +7111,13 @@
     "pct_1d": 0.48,
     "pct_1w": -8.25,
     "pct_1m": -18.61,
-    "market_cap": 68496035840,
-    "revenue": 3014000128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 445,
-    "delta": 8,
-    "rank_other": 496
+    "delta": 0,
+    "rank_other": 494
   },
   {
     "ticker": "F",
@@ -7132,8 +7132,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 446,
-    "delta": -5,
-    "rank_other": 407
+    "delta": 0,
+    "rank_other": 432
   },
   {
     "ticker": "LULU",
@@ -7143,13 +7143,13 @@
     "pct_1d": -4.85,
     "pct_1w": 1.97,
     "pct_1m": -2.59,
-    "market_cap": 11467930624,
-    "revenue": 11093954560,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 447,
-    "delta": -13,
-    "rank_other": 312
+    "delta": 0,
+    "rank_other": 306
   },
   {
     "ticker": "CHRW",
@@ -7164,8 +7164,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 448,
-    "delta": 2,
-    "rank_other": 379
+    "delta": 0,
+    "rank_other": 382
   },
   {
     "ticker": "WY",
@@ -7175,13 +7175,13 @@
     "pct_1d": -1.66,
     "pct_1w": -0.61,
     "pct_1m": -3.23,
-    "market_cap": 14047144960,
-    "revenue": 6851999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 449,
-    "delta": -2,
-    "rank_other": 344
+    "delta": 0,
+    "rank_other": 348
   },
   {
     "ticker": "DECK",
@@ -7192,12 +7192,12 @@
     "pct_1w": -5.39,
     "pct_1m": 3.06,
     "market_cap": 11042985984,
-    "revenue": 5527288832,
+    "revenue": 5577003008,
     "ivr": null,
     "ivp": null,
     "rank": 450,
-    "delta": -12,
-    "rank_other": 228
+    "delta": 0,
+    "rank_other": 362
   },
   {
     "ticker": "NFLX",
@@ -7207,13 +7207,13 @@
     "pct_1d": -1.79,
     "pct_1w": -6.64,
     "pct_1m": -8.18,
-    "market_cap": 274195415040,
-    "revenue": 49734631424,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 451,
-    "delta": -2,
-    "rank_other": 433
+    "delta": 0,
+    "rank_other": 428
   },
   {
     "ticker": "CVNA",
@@ -7228,8 +7228,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 452,
-    "delta": -1,
-    "rank_other": 436
+    "delta": 0,
+    "rank_other": 442
   },
   {
     "ticker": "ROL",
@@ -7239,13 +7239,13 @@
     "pct_1d": -1.39,
     "pct_1w": 4.1,
     "pct_1m": 14.54,
-    "market_cap": 16753482752,
-    "revenue": 3987582976,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 453,
-    "delta": 2,
-    "rank_other": 68
+    "delta": 0,
+    "rank_other": 59
   },
   {
     "ticker": "CMI",
@@ -7255,13 +7255,13 @@
     "pct_1d": -0.41,
     "pct_1w": -2.62,
     "pct_1m": -0.7,
-    "market_cap": 71395549184,
+    "market_cap": 71227604992,
     "revenue": 34708000768,
     "ivr": null,
     "ivp": null,
     "rank": 454,
-    "delta": 3,
-    "rank_other": 369
+    "delta": 0,
+    "rank_other": 376
   },
   {
     "ticker": "AVGO",
@@ -7276,8 +7276,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 455,
-    "delta": 3,
-    "rank_other": 451
+    "delta": 0,
+    "rank_other": 453
   },
   {
     "ticker": "PNR",
@@ -7287,13 +7287,13 @@
     "pct_1d": 0.24,
     "pct_1w": 3.99,
     "pct_1m": 4.79,
-    "market_cap": 8936785920,
-    "revenue": 4011800064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 456,
-    "delta": 6,
-    "rank_other": 248
+    "delta": 0,
+    "rank_other": 234
   },
   {
     "ticker": "CMG",
@@ -7308,8 +7308,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 457,
-    "delta": -1,
-    "rank_other": 462
+    "delta": 0,
+    "rank_other": 469
   },
   {
     "ticker": "JBL",
@@ -7319,13 +7319,13 @@
     "pct_1d": 2.45,
     "pct_1w": -1.54,
     "pct_1m": -11.82,
-    "market_cap": 28708517888,
+    "market_cap": 28211916800,
     "revenue": 35953999872,
     "ivr": null,
     "ivp": null,
     "rank": 458,
-    "delta": 15,
-    "rank_other": 454
+    "delta": 0,
+    "rank_other": 452
   },
   {
     "ticker": "TPR",
@@ -7335,13 +7335,13 @@
     "pct_1d": -3.12,
     "pct_1w": -8.16,
     "pct_1m": -1.56,
-    "market_cap": 21901309952,
-    "revenue": 8004199936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 459,
-    "delta": -5,
-    "rank_other": 415
+    "delta": 0,
+    "rank_other": 417
   },
   {
     "ticker": "LII",
@@ -7351,13 +7351,13 @@
     "pct_1d": -0.72,
     "pct_1w": 5.11,
     "pct_1m": 2.63,
-    "market_cap": 12995160064,
-    "revenue": 5302199808,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 460,
-    "delta": 1,
-    "rank_other": 249
+    "delta": 0,
+    "rank_other": 235
   },
   {
     "ticker": "TER",
@@ -7367,13 +7367,13 @@
     "pct_1d": 0.03,
     "pct_1w": -4.97,
     "pct_1m": -20.34,
-    "market_cap": 48285843456,
-    "revenue": 4464031232,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 461,
-    "delta": 7,
-    "rank_other": 492
+    "delta": 0,
+    "rank_other": 491
   },
   {
     "ticker": "INTC",
@@ -7388,8 +7388,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 462,
-    "delta": 9,
-    "rank_other": 493
+    "delta": 0,
+    "rank_other": 492
   },
   {
     "ticker": "TMUS",
@@ -7399,13 +7399,13 @@
     "pct_1d": -7.71,
     "pct_1w": -7.89,
     "pct_1m": -11.38,
-    "market_cap": 157189292032,
-    "revenue": 92188999680,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 463,
-    "delta": -26,
-    "rank_other": 459
+    "delta": 0,
+    "rank_other": 457
   },
   {
     "ticker": "GNRC",
@@ -7420,7 +7420,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 464,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 461
   },
   {
@@ -7431,12 +7431,12 @@
     "pct_1d": -1.09,
     "pct_1w": -13.52,
     "pct_1m": -15.07,
-    "market_cap": 82152136704,
-    "revenue": 32905140224,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 465,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 485
   },
   {
@@ -7447,12 +7447,12 @@
     "pct_1d": -2.38,
     "pct_1w": -5.84,
     "pct_1m": -14.51,
-    "market_cap": 56028917760,
-    "revenue": 3273157888,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 466,
-    "delta": -6,
+    "delta": 0,
     "rank_other": 481
   },
   {
@@ -7468,8 +7468,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 467,
-    "delta": -4,
-    "rank_other": 476
+    "delta": 0,
+    "rank_other": 484
   },
   {
     "ticker": "EME",
@@ -7484,8 +7484,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 468,
-    "delta": -3,
-    "rank_other": 473
+    "delta": 0,
+    "rank_other": 478
   },
   {
     "ticker": "ORCL",
@@ -7495,13 +7495,13 @@
     "pct_1d": 0.49,
     "pct_1w": -1.61,
     "pct_1m": -9.25,
-    "market_cap": 382454169600,
-    "revenue": 71776002048,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 469,
-    "delta": 6,
-    "rank_other": 453
+    "delta": 0,
+    "rank_other": 451
   },
   {
     "ticker": "PCG",
@@ -7511,13 +7511,13 @@
     "pct_1d": -2.7,
     "pct_1w": -3.51,
     "pct_1m": 2.94,
-    "market_cap": 37919895552,
-    "revenue": 25837000704,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 470,
-    "delta": -4,
-    "rank_other": 359
+    "delta": 0,
+    "rank_other": 360
   },
   {
     "ticker": "MOS",
@@ -7527,12 +7527,12 @@
     "pct_1d": 3.3,
     "pct_1w": -5.21,
     "pct_1m": -24.69,
-    "market_cap": 5671258624,
-    "revenue": 12247900160,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 471,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 480
   },
   {
@@ -7548,8 +7548,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 472,
-    "delta": -3,
-    "rank_other": 469
+    "delta": 0,
+    "rank_other": 474
   },
   {
     "ticker": "Q",
@@ -7559,29 +7559,29 @@
     "pct_1d": 0.97,
     "pct_1w": -4.8,
     "pct_1m": -10.2,
-    "market_cap": 22991724544,
-    "revenue": 5209999872,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 473,
-    "delta": 7,
-    "rank_other": 465
+    "delta": 0,
+    "rank_other": 466
   },
   {
     "ticker": "SKYD",
-    "name": "Skydance Corporation",
+    "name": "Skydance",
     "sector": "Communication Services",
     "rsl": 0.7933,
     "pct_1d": -0.26,
     "pct_1w": 12.45,
     "pct_1m": -23.67,
-    "market_cap": 39177723904,
-    "revenue": 29109999616,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 474,
-    "delta": 4,
-    "rank_other": 477
+    "delta": 0,
+    "rank_other": 476
   },
   {
     "ticker": "APTV",
@@ -7591,13 +7591,13 @@
     "pct_1d": -2.56,
     "pct_1w": -4.84,
     "pct_1m": -2.04,
-    "market_cap": 9034080256,
+    "market_cap": 8863866880,
     "revenue": 20518000640,
     "ivr": null,
     "ivp": null,
     "rank": 475,
-    "delta": -5,
-    "rank_other": 358
+    "delta": 0,
+    "rank_other": 400
   },
   {
     "ticker": "SNDK",
@@ -7607,13 +7607,13 @@
     "pct_1d": -1.82,
     "pct_1w": -4.72,
     "pct_1m": -29.4,
-    "market_cap": 178929467392,
-    "revenue": 20248000512,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 476,
-    "delta": -4,
-    "rank_other": 499
+    "delta": 0,
+    "rank_other": 497
   },
   {
     "ticker": "AKAM",
@@ -7628,8 +7628,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 477,
-    "delta": 8,
-    "rank_other": 471
+    "delta": 0,
+    "rank_other": 460
   },
   {
     "ticker": "ON",
@@ -7639,13 +7639,13 @@
     "pct_1d": -1.34,
     "pct_1w": 0.32,
     "pct_1m": -1.23,
-    "market_cap": 28128270336,
-    "revenue": 6197799936,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 478,
-    "delta": -4,
-    "rank_other": 430
+    "delta": 0,
+    "rank_other": 427
   },
   {
     "ticker": "FSLR",
@@ -7660,8 +7660,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 479,
-    "delta": 2,
-    "rank_other": 422
+    "delta": 0,
+    "rank_other": 415
   },
   {
     "ticker": "LVS",
@@ -7671,13 +7671,13 @@
     "pct_1d": -2.33,
     "pct_1w": -6.13,
     "pct_1m": -7.68,
-    "market_cap": 23109978112,
-    "revenue": 13603999744,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 480,
-    "delta": -4,
-    "rank_other": 423
+    "delta": 0,
+    "rank_other": 421
   },
   {
     "ticker": "CHTR",
@@ -7692,8 +7692,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 481,
-    "delta": -4,
-    "rank_other": 345
+    "delta": 0,
+    "rank_other": 381
   },
   {
     "ticker": "WYNN",
@@ -7703,13 +7703,13 @@
     "pct_1d": -3.19,
     "pct_1w": -3.8,
     "pct_1m": -9.3,
-    "market_cap": 7489291264,
-    "revenue": 7413425152,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 482,
-    "delta": -3,
-    "rank_other": 440
+    "delta": 0,
+    "rank_other": 434
   },
   {
     "ticker": "AMAT",
@@ -7724,8 +7724,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 483,
-    "delta": 3,
-    "rank_other": 495
+    "delta": 0,
+    "rank_other": 493
   },
   {
     "ticker": "FICO",
@@ -7741,7 +7741,7 @@
     "ivp": null,
     "rank": 484,
     "delta": 0,
-    "rank_other": 146
+    "rank_other": 132
   },
   {
     "ticker": "BE",
@@ -7751,13 +7751,13 @@
     "pct_1d": -11.24,
     "pct_1w": -12.66,
     "pct_1m": -27.51,
-    "market_cap": 56932139008,
-    "revenue": 3113149952,
+    "market_cap": 57127346176,
+    "revenue": 3829938944,
     "ivr": null,
     "ivp": null,
     "rank": 485,
-    "delta": -33,
-    "rank_other": 491
+    "delta": 0,
+    "rank_other": 499
   },
   {
     "ticker": "STX",
@@ -7767,13 +7767,13 @@
     "pct_1d": -1.81,
     "pct_1w": -1.33,
     "pct_1m": -30.4,
-    "market_cap": 143369011200,
-    "revenue": 12195000320,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 486,
-    "delta": -3,
-    "rank_other": 498
+    "delta": 0,
+    "rank_other": 496
   },
   {
     "ticker": "NRG",
@@ -7783,13 +7783,13 @@
     "pct_1d": -2.19,
     "pct_1w": -11.03,
     "pct_1m": -5.66,
-    "market_cap": 19404529664,
-    "revenue": 33124999168,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 487,
-    "delta": 1,
-    "rank_other": 455
+    "delta": 0,
+    "rank_other": 454
   },
   {
     "ticker": "GLW",
@@ -7799,13 +7799,13 @@
     "pct_1d": -0.24,
     "pct_1w": -6.3,
     "pct_1m": -19.76,
-    "market_cap": 106328604672,
+    "market_cap": 106545127424,
     "revenue": 16963999744,
     "ivr": null,
     "ivp": null,
     "rank": 488,
-    "delta": 3,
-    "rank_other": 490
+    "delta": 0,
+    "rank_other": 489
   },
   {
     "ticker": "LRCX",
@@ -7815,13 +7815,13 @@
     "pct_1d": -0.02,
     "pct_1w": -12.82,
     "pct_1m": -25.09,
-    "market_cap": 287952764928,
-    "revenue": 26127935488,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 489,
-    "delta": 3,
-    "rank_other": 500
+    "delta": 0,
+    "rank_other": 498
   },
   {
     "ticker": "KLAC",
@@ -7831,13 +7831,13 @@
     "pct_1d": -1.5,
     "pct_1w": -12.15,
     "pct_1m": -22.18,
-    "market_cap": 190021992448,
-    "revenue": 13579475968,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 490,
-    "delta": -1,
-    "rank_other": 497
+    "delta": 0,
+    "rank_other": 495
   },
   {
     "ticker": "CIEN",
@@ -7852,8 +7852,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 491,
-    "delta": -1,
-    "rank_other": 478
+    "delta": 0,
+    "rank_other": 482
   },
   {
     "ticker": "HWM",
@@ -7868,7 +7868,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 492,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 487
   },
   {
@@ -7879,12 +7879,12 @@
     "pct_1d": -2.97,
     "pct_1w": 3.52,
     "pct_1m": -23.68,
-    "market_cap": 128643678208,
-    "revenue": 12919000064,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 493,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 486
   },
   {
@@ -7895,13 +7895,13 @@
     "pct_1d": -4.88,
     "pct_1w": -1.89,
     "pct_1m": -16.71,
-    "market_cap": 7059692544,
-    "revenue": 17761441792,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 494,
-    "delta": 1,
-    "rank_other": 463
+    "delta": 0,
+    "rank_other": 462
   },
   {
     "ticker": "VRT",
@@ -7911,13 +7911,13 @@
     "pct_1d": -0.65,
     "pct_1w": -5.86,
     "pct_1m": -20.78,
-    "market_cap": 74810900480,
-    "revenue": 11479600128,
+    "market_cap": null,
+    "revenue": null,
     "ivr": null,
     "ivp": null,
     "rank": 495,
-    "delta": 1,
-    "rank_other": 489
+    "delta": 0,
+    "rank_other": 490
   },
   {
     "ticker": "ALB",
@@ -7932,8 +7932,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 496,
-    "delta": 1,
-    "rank_other": 466
+    "delta": 0,
+    "rank_other": 458
   },
   {
     "ticker": "FIX",
@@ -7944,12 +7944,12 @@
     "pct_1w": -19.33,
     "pct_1m": -29.36,
     "market_cap": 40855687168,
-    "revenue": 11228023808,
+    "revenue": 12543356928,
     "ivr": null,
     "ivp": null,
     "rank": 497,
-    "delta": -4,
-    "rank_other": 494
+    "delta": 0,
+    "rank_other": 501
   },
   {
     "ticker": "COHR",
@@ -7964,8 +7964,8 @@
     "ivr": null,
     "ivp": null,
     "rank": 498,
-    "delta": 1,
-    "rank_other": 501
+    "delta": 0,
+    "rank_other": 500
   },
   {
     "ticker": "APP",
@@ -7975,13 +7975,13 @@
     "pct_1d": -1.52,
     "pct_1w": -2.21,
     "pct_1m": -16.71,
-    "market_cap": 87092797440,
+    "market_cap": 87428259840,
     "revenue": 6829124096,
     "ivr": null,
     "ivp": null,
     "rank": 499,
-    "delta": -1,
-    "rank_other": 457
+    "delta": 0,
+    "rank_other": 459
   },
   {
     "ticker": "FLEX",
