@@ -12,7 +12,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 1,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 17
   },
   {
@@ -28,7 +28,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 2,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 4
   },
   {
@@ -60,7 +60,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 4,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 60
   },
   {
@@ -76,7 +76,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 5,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 6
   },
   {
@@ -92,7 +92,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 6,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 39
   },
   {
@@ -108,7 +108,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 7,
-    "delta": 103,
+    "delta": 0,
     "rank_other": 132
   },
   {
@@ -140,7 +140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 9,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 31
   },
   {
@@ -156,7 +156,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 10,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 18
   },
   {
@@ -188,7 +188,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 12,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 3
   },
   {
@@ -204,7 +204,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 13,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 140
   },
   {
@@ -220,7 +220,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 14,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 33
   },
   {
@@ -236,7 +236,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 15,
-    "delta": 44,
+    "delta": 0,
     "rank_other": 16
   },
   {
@@ -284,7 +284,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 18,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 214
   },
   {
@@ -316,7 +316,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 20,
-    "delta": -11,
+    "delta": 0,
     "rank_other": 83
   },
   {
@@ -332,7 +332,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 21,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 8
   },
   {
@@ -348,7 +348,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 22,
-    "delta": 19,
+    "delta": 0,
     "rank_other": 210
   },
   {
@@ -364,7 +364,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 23,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 65
   },
   {
@@ -380,7 +380,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 24,
-    "delta": 47,
+    "delta": 0,
     "rank_other": 28
   },
   {
@@ -396,7 +396,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 25,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 143
   },
   {
@@ -412,7 +412,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 26,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 79
   },
   {
@@ -428,7 +428,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 27,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 2
   },
   {
@@ -444,7 +444,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 28,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 29
   },
   {
@@ -460,7 +460,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 29,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 110
   },
   {
@@ -476,7 +476,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 30,
-    "delta": 68,
+    "delta": 0,
     "rank_other": 55
   },
   {
@@ -492,7 +492,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 31,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 146
   },
   {
@@ -508,7 +508,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 32,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 34
   },
   {
@@ -524,7 +524,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 33,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 105
   },
   {
@@ -540,7 +540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 34,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 189
   },
   {
@@ -556,7 +556,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 35,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 32
   },
   {
@@ -572,7 +572,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 36,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 22
   },
   {
@@ -588,7 +588,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 37,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 128
   },
   {
@@ -604,7 +604,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 38,
-    "delta": -10,
+    "delta": 0,
     "rank_other": 135
   },
   {
@@ -620,7 +620,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 39,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 196
   },
   {
@@ -636,7 +636,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 40,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 69
   },
   {
@@ -652,7 +652,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 41,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 151
   },
   {
@@ -668,7 +668,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 42,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 48
   },
   {
@@ -684,7 +684,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 43,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 40
   },
   {
@@ -700,7 +700,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 44,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 416
   },
   {
@@ -716,7 +716,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 45,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 47
   },
   {
@@ -732,7 +732,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 46,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 121
   },
   {
@@ -748,7 +748,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 47,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 57
   },
   {
@@ -764,7 +764,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 48,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 85
   },
   {
@@ -780,7 +780,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 49,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 186
   },
   {
@@ -796,7 +796,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 50,
-    "delta": 83,
+    "delta": 0,
     "rank_other": 38
   },
   {
@@ -812,7 +812,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 51,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 37
   },
   {
@@ -828,7 +828,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 52,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 234
   },
   {
@@ -844,7 +844,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 53,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 115
   },
   {
@@ -860,7 +860,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 54,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 14
   },
   {
@@ -876,7 +876,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 55,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 170
   },
   {
@@ -892,7 +892,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 56,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 219
   },
   {
@@ -908,7 +908,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 57,
-    "delta": 142,
+    "delta": 0,
     "rank_other": 129
   },
   {
@@ -924,7 +924,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 58,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 86
   },
   {
@@ -940,7 +940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 59,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 453
   },
   {
@@ -956,7 +956,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 60,
-    "delta": 9,
+    "delta": 0,
     "rank_other": 77
   },
   {
@@ -972,7 +972,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 61,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 96
   },
   {
@@ -988,7 +988,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 62,
-    "delta": -33,
+    "delta": 0,
     "rank_other": 213
   },
   {
@@ -1004,7 +1004,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 63,
-    "delta": -39,
+    "delta": 0,
     "rank_other": 112
   },
   {
@@ -1020,7 +1020,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 64,
-    "delta": 96,
+    "delta": 0,
     "rank_other": 46
   },
   {
@@ -1036,7 +1036,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 65,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 278
   },
   {
@@ -1052,7 +1052,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 66,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 50
   },
   {
@@ -1068,7 +1068,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 67,
-    "delta": -27,
+    "delta": 0,
     "rank_other": 153
   },
   {
@@ -1084,7 +1084,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 68,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 155
   },
   {
@@ -1100,7 +1100,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 69,
-    "delta": -44,
+    "delta": 0,
     "rank_other": 136
   },
   {
@@ -1116,7 +1116,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 70,
-    "delta": 16,
+    "delta": 0,
     "rank_other": 188
   },
   {
@@ -1132,7 +1132,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 71,
-    "delta": 16,
+    "delta": 0,
     "rank_other": 173
   },
   {
@@ -1148,7 +1148,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 72,
-    "delta": -40,
+    "delta": 0,
     "rank_other": 148
   },
   {
@@ -1164,7 +1164,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 73,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 137
   },
   {
@@ -1180,7 +1180,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 74,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 299
   },
   {
@@ -1196,7 +1196,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 75,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 194
   },
   {
@@ -1212,7 +1212,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 76,
-    "delta": -18,
+    "delta": 0,
     "rank_other": 381
   },
   {
@@ -1228,7 +1228,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 77,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 117
   },
   {
@@ -1244,7 +1244,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 78,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 130
   },
   {
@@ -1260,7 +1260,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 79,
-    "delta": 16,
+    "delta": 0,
     "rank_other": 165
   },
   {
@@ -1276,7 +1276,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 80,
-    "delta": 17,
+    "delta": 0,
     "rank_other": 87
   },
   {
@@ -1292,7 +1292,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 81,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 259
   },
   {
@@ -1308,7 +1308,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 82,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 103
   },
   {
@@ -1324,7 +1324,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 83,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 80
   },
   {
@@ -1340,7 +1340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 84,
-    "delta": -6,
+    "delta": 0,
     "rank_other": 104
   },
   {
@@ -1356,7 +1356,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 85,
-    "delta": -39,
+    "delta": 0,
     "rank_other": 167
   },
   {
@@ -1372,7 +1372,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 86,
-    "delta": 19,
+    "delta": 0,
     "rank_other": 205
   },
   {
@@ -1388,7 +1388,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 87,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 116
   },
   {
@@ -1404,7 +1404,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 88,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 120
   },
   {
@@ -1420,7 +1420,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 89,
-    "delta": -16,
+    "delta": 0,
     "rank_other": 384
   },
   {
@@ -1436,7 +1436,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 90,
-    "delta": -37,
+    "delta": 0,
     "rank_other": 382
   },
   {
@@ -1452,7 +1452,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 91,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 270
   },
   {
@@ -1468,7 +1468,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 92,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 26
   },
   {
@@ -1484,7 +1484,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 93,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 45
   },
   {
@@ -1500,7 +1500,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 94,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 236
   },
   {
@@ -1516,7 +1516,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 95,
-    "delta": 187,
+    "delta": 0,
     "rank_other": 182
   },
   {
@@ -1532,7 +1532,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 96,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 175
   },
   {
@@ -1548,7 +1548,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 97,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 304
   },
   {
@@ -1564,7 +1564,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 98,
-    "delta": -13,
+    "delta": 0,
     "rank_other": 36
   },
   {
@@ -1580,7 +1580,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 99,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 184
   },
   {
@@ -1596,7 +1596,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 100,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 61
   },
   {
@@ -1612,7 +1612,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 101,
-    "delta": 23,
+    "delta": 0,
     "rank_other": 109
   },
   {
@@ -1628,7 +1628,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 102,
-    "delta": -36,
+    "delta": 0,
     "rank_other": 362
   },
   {
@@ -1644,7 +1644,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 103,
-    "delta": -22,
+    "delta": 0,
     "rank_other": 98
   },
   {
@@ -1660,7 +1660,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 104,
-    "delta": 24,
+    "delta": 0,
     "rank_other": 144
   },
   {
@@ -1676,7 +1676,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 105,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 142
   },
   {
@@ -1692,7 +1692,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 106,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 63
   },
   {
@@ -1708,7 +1708,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 107,
-    "delta": 27,
+    "delta": 0,
     "rank_other": 159
   },
   {
@@ -1724,7 +1724,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 108,
-    "delta": 83,
+    "delta": 0,
     "rank_other": 206
   },
   {
@@ -1740,7 +1740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 109,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 202
   },
   {
@@ -1756,7 +1756,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 110,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 58
   },
   {
@@ -1772,7 +1772,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 111,
-    "delta": -15,
+    "delta": 0,
     "rank_other": 250
   },
   {
@@ -1788,7 +1788,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 112,
-    "delta": 27,
+    "delta": 0,
     "rank_other": 108
   },
   {
@@ -1804,7 +1804,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 113,
-    "delta": -30,
+    "delta": 0,
     "rank_other": 90
   },
   {
@@ -1820,7 +1820,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 114,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 230
   },
   {
@@ -1836,7 +1836,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 115,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 147
   },
   {
@@ -1852,7 +1852,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 116,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 254
   },
   {
@@ -1868,7 +1868,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 117,
-    "delta": 24,
+    "delta": 0,
     "rank_other": 76
   },
   {
@@ -1884,7 +1884,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 118,
-    "delta": 25,
+    "delta": 0,
     "rank_other": 245
   },
   {
@@ -1900,7 +1900,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 119,
-    "delta": -43,
+    "delta": 0,
     "rank_other": 176
   },
   {
@@ -1916,7 +1916,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 120,
-    "delta": 25,
+    "delta": 0,
     "rank_other": 243
   },
   {
@@ -1932,7 +1932,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 121,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 311
   },
   {
@@ -1948,7 +1948,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 122,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 271
   },
   {
@@ -1964,7 +1964,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 123,
-    "delta": 25,
+    "delta": 0,
     "rank_other": 161
   },
   {
@@ -1980,7 +1980,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 124,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 24
   },
   {
@@ -1996,7 +1996,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 125,
-    "delta": 26,
+    "delta": 0,
     "rank_other": 88
   },
   {
@@ -2012,7 +2012,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 126,
-    "delta": 27,
+    "delta": 0,
     "rank_other": 68
   },
   {
@@ -2028,7 +2028,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 127,
-    "delta": 27,
+    "delta": 0,
     "rank_other": 326
   },
   {
@@ -2044,7 +2044,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 128,
-    "delta": -86,
+    "delta": 0,
     "rank_other": 149
   },
   {
@@ -2060,7 +2060,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 129,
-    "delta": 27,
+    "delta": 0,
     "rank_other": 145
   },
   {
@@ -2076,7 +2076,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 130,
-    "delta": 28,
+    "delta": 0,
     "rank_other": 242
   },
   {
@@ -2092,7 +2092,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 131,
-    "delta": -38,
+    "delta": 0,
     "rank_other": 207
   },
   {
@@ -2108,7 +2108,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 132,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 484
   },
   {
@@ -2124,7 +2124,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 133,
-    "delta": -26,
+    "delta": 0,
     "rank_other": 204
   },
   {
@@ -2140,7 +2140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 134,
-    "delta": -104,
+    "delta": 0,
     "rank_other": 150
   },
   {
@@ -2156,7 +2156,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 135,
-    "delta": -27,
+    "delta": 0,
     "rank_other": 307
   },
   {
@@ -2172,7 +2172,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 136,
-    "delta": -22,
+    "delta": 0,
     "rank_other": 266
   },
   {
@@ -2188,7 +2188,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 137,
-    "delta": 24,
+    "delta": 0,
     "rank_other": 316
   },
   {
@@ -2204,7 +2204,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 138,
-    "delta": -91,
+    "delta": 0,
     "rank_other": 179
   },
   {
@@ -2220,7 +2220,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 139,
-    "delta": -48,
+    "delta": 0,
     "rank_other": 200
   },
   {
@@ -2236,7 +2236,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 140,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 235
   },
   {
@@ -2252,7 +2252,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 141,
-    "delta": 23,
+    "delta": 0,
     "rank_other": 370
   },
   {
@@ -2268,7 +2268,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 142,
-    "delta": -60,
+    "delta": 0,
     "rank_other": 113
   },
   {
@@ -2284,7 +2284,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 143,
-    "delta": -25,
+    "delta": 0,
     "rank_other": 281
   },
   {
@@ -2300,7 +2300,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 144,
-    "delta": -19,
+    "delta": 0,
     "rank_other": 292
   },
   {
@@ -2316,7 +2316,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 145,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 241
   },
   {
@@ -2332,7 +2332,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 146,
-    "delta": -17,
+    "delta": 0,
     "rank_other": 239
   },
   {
@@ -2348,7 +2348,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 147,
-    "delta": 168,
+    "delta": 0,
     "rank_other": 97
   },
   {
@@ -2364,7 +2364,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 148,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 237
   },
   {
@@ -2380,7 +2380,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 149,
-    "delta": 19,
+    "delta": 0,
     "rank_other": 244
   },
   {
@@ -2396,7 +2396,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 150,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 66
   },
   {
@@ -2412,7 +2412,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 151,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 172
   },
   {
@@ -2428,7 +2428,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 152,
-    "delta": -77,
+    "delta": 0,
     "rank_other": 94
   },
   {
@@ -2444,7 +2444,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 153,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 297
   },
   {
@@ -2460,7 +2460,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 154,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 107
   },
   {
@@ -2476,7 +2476,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 155,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 386
   },
   {
@@ -2492,7 +2492,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 156,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 282
   },
   {
@@ -2508,7 +2508,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 157,
-    "delta": -48,
+    "delta": 0,
     "rank_other": 122
   },
   {
@@ -2524,7 +2524,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 158,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 106
   },
   {
@@ -2540,7 +2540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 159,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 322
   },
   {
@@ -2556,7 +2556,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 160,
-    "delta": -125,
+    "delta": 0,
     "rank_other": 92
   },
   {
@@ -2572,7 +2572,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 161,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 75
   },
   {
@@ -2588,7 +2588,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 162,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 163
   },
   {
@@ -2604,7 +2604,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 163,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 27
   },
   {
@@ -2620,7 +2620,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 164,
-    "delta": -70,
+    "delta": 0,
     "rank_other": 171
   },
   {
@@ -2636,7 +2636,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 165,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 72
   },
   {
@@ -2652,7 +2652,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 166,
-    "delta": -26,
+    "delta": 0,
     "rank_other": 440
   },
   {
@@ -2668,7 +2668,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 167,
-    "delta": -18,
+    "delta": 0,
     "rank_other": 257
   },
   {
@@ -2684,7 +2684,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 168,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 413
   },
   {
@@ -2700,7 +2700,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 169,
-    "delta": -69,
+    "delta": 0,
     "rank_other": 56
   },
   {
@@ -2716,7 +2716,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 170,
-    "delta": -100,
+    "delta": 0,
     "rank_other": 156
   },
   {
@@ -2732,7 +2732,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 171,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 238
   },
   {
@@ -2748,7 +2748,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 172,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 348
   },
   {
@@ -2764,7 +2764,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 173,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 123
   },
   {
@@ -2780,7 +2780,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 174,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 324
   },
   {
@@ -2796,7 +2796,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 175,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 228
   },
   {
@@ -2812,7 +2812,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 176,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 49
   },
   {
@@ -2828,7 +2828,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 177,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 131
   },
   {
@@ -2844,7 +2844,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 178,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 365
   },
   {
@@ -2860,7 +2860,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 179,
-    "delta": 22,
+    "delta": 0,
     "rank_other": 371
   },
   {
@@ -2876,7 +2876,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 180,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 193
   },
   {
@@ -2892,7 +2892,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 181,
-    "delta": 23,
+    "delta": 0,
     "rank_other": 284
   },
   {
@@ -2908,7 +2908,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 182,
-    "delta": -78,
+    "delta": 0,
     "rank_other": 157
   },
   {
@@ -2924,7 +2924,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 183,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 276
   },
   {
@@ -2940,7 +2940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 184,
-    "delta": 21,
+    "delta": 0,
     "rank_other": 323
   },
   {
@@ -2956,7 +2956,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 185,
-    "delta": 24,
+    "delta": 0,
     "rank_other": 247
   },
   {
@@ -2972,7 +2972,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 186,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 70
   },
   {
@@ -2988,7 +2988,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 187,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 180
   },
   {
@@ -3004,7 +3004,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 188,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 367
   },
   {
@@ -3020,7 +3020,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 189,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 372
   },
   {
@@ -3036,7 +3036,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 190,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 290
   },
   {
@@ -3052,7 +3052,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 191,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 5
   },
   {
@@ -3068,7 +3068,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 192,
-    "delta": -17,
+    "delta": 0,
     "rank_other": 223
   },
   {
@@ -3084,7 +3084,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 193,
-    "delta": 19,
+    "delta": 0,
     "rank_other": 221
   },
   {
@@ -3100,7 +3100,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 194,
-    "delta": -24,
+    "delta": 0,
     "rank_other": 293
   },
   {
@@ -3116,7 +3116,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 195,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 53
   },
   {
@@ -3132,7 +3132,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 196,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 191
   },
   {
@@ -3148,7 +3148,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 197,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 114
   },
   {
@@ -3164,7 +3164,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 198,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 21
   },
   {
@@ -3180,7 +3180,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 199,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 298
   },
   {
@@ -3196,7 +3196,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 200,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 67
   },
   {
@@ -3212,7 +3212,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 201,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 336
   },
   {
@@ -3228,7 +3228,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 202,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 273
   },
   {
@@ -3244,7 +3244,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 203,
-    "delta": -48,
+    "delta": 0,
     "rank_other": 82
   },
   {
@@ -3260,7 +3260,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 204,
-    "delta": 17,
+    "delta": 0,
     "rank_other": 197
   },
   {
@@ -3276,7 +3276,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 205,
-    "delta": -68,
+    "delta": 0,
     "rank_other": 287
   },
   {
@@ -3292,7 +3292,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 206,
-    "delta": 16,
+    "delta": 0,
     "rank_other": 10
   },
   {
@@ -3308,7 +3308,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 207,
-    "delta": 17,
+    "delta": 0,
     "rank_other": 134
   },
   {
@@ -3324,7 +3324,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 208,
-    "delta": 17,
+    "delta": 0,
     "rank_other": 84
   },
   {
@@ -3340,7 +3340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 209,
-    "delta": 17,
+    "delta": 0,
     "rank_other": 160
   },
   {
@@ -3356,7 +3356,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 210,
-    "delta": -80,
+    "delta": 0,
     "rank_other": 99
   },
   {
@@ -3372,7 +3372,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 211,
-    "delta": 51,
+    "delta": 0,
     "rank_other": 315
   },
   {
@@ -3388,7 +3388,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 212,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 343
   },
   {
@@ -3404,7 +3404,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 213,
-    "delta": -93,
+    "delta": 0,
     "rank_other": 158
   },
   {
@@ -3420,7 +3420,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 214,
-    "delta": -26,
+    "delta": 0,
     "rank_other": 369
   },
   {
@@ -3436,7 +3436,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 215,
-    "delta": -49,
+    "delta": 0,
     "rank_other": 166
   },
   {
@@ -3452,7 +3452,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 216,
-    "delta": -51,
+    "delta": 0,
     "rank_other": 168
   },
   {
@@ -3468,7 +3468,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 217,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 201
   },
   {
@@ -3484,7 +3484,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 218,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 373
   },
   {
@@ -3500,7 +3500,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 219,
-    "delta": -147,
+    "delta": 0,
     "rank_other": 280
   },
   {
@@ -3516,7 +3516,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 220,
-    "delta": -82,
+    "delta": 0,
     "rank_other": 164
   },
   {
@@ -3532,7 +3532,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 221,
-    "delta": -18,
+    "delta": 0,
     "rank_other": 341
   },
   {
@@ -3548,7 +3548,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 222,
-    "delta": 52,
+    "delta": 0,
     "rank_other": 283
   },
   {
@@ -3564,7 +3564,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 223,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 93
   },
   {
@@ -3580,7 +3580,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 224,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 51
   },
   {
@@ -3596,7 +3596,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 225,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 240
   },
   {
@@ -3612,7 +3612,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 226,
-    "delta": -84,
+    "delta": 0,
     "rank_other": 226
   },
   {
@@ -3628,7 +3628,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 227,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 78
   },
   {
@@ -3644,7 +3644,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 228,
-    "delta": 71,
+    "delta": 0,
     "rank_other": 347
   },
   {
@@ -3660,7 +3660,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 229,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 252
   },
   {
@@ -3676,7 +3676,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 230,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 275
   },
   {
@@ -3692,7 +3692,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 231,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 405
   },
   {
@@ -3708,7 +3708,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 232,
-    "delta": -110,
+    "delta": 0,
     "rank_other": 111
   },
   {
@@ -3724,7 +3724,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 233,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 100
   },
   {
@@ -3740,7 +3740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 234,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 456
   },
   {
@@ -3756,7 +3756,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 235,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 460
   },
   {
@@ -3772,7 +3772,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 236,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 383
   },
   {
@@ -3788,7 +3788,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 237,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 285
   },
   {
@@ -3804,7 +3804,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 238,
-    "delta": -94,
+    "delta": 0,
     "rank_other": 185
   },
   {
@@ -3820,7 +3820,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 239,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 331
   },
   {
@@ -3836,7 +3836,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 240,
-    "delta": -50,
+    "delta": 0,
     "rank_other": 308
   },
   {
@@ -3852,7 +3852,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 241,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 301
   },
   {
@@ -3868,7 +3868,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 242,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 249
   },
   {
@@ -3884,7 +3884,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 243,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 319
   },
   {
@@ -3900,7 +3900,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 244,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 218
   },
   {
@@ -3916,7 +3916,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 245,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 52
   },
   {
@@ -3932,7 +3932,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 246,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 397
   },
   {
@@ -3948,7 +3948,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 247,
-    "delta": -6,
+    "delta": 0,
     "rank_other": 296
   },
   {
@@ -3964,7 +3964,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 248,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 227
   },
   {
@@ -3980,7 +3980,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 249,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 318
   },
   {
@@ -3996,7 +3996,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 250,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 89
   },
   {
@@ -4012,7 +4012,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 251,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 125
   },
   {
@@ -4028,7 +4028,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 252,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 13
   },
   {
@@ -4044,7 +4044,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 253,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 187
   },
   {
@@ -4060,7 +4060,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 254,
-    "delta": -91,
+    "delta": 0,
     "rank_other": 203
   },
   {
@@ -4076,7 +4076,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 255,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 177
   },
   {
@@ -4092,7 +4092,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 256,
-    "delta": -13,
+    "delta": 0,
     "rank_other": 263
   },
   {
@@ -4108,7 +4108,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 257,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 233
   },
   {
@@ -4124,7 +4124,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 258,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 334
   },
   {
@@ -4140,7 +4140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 259,
-    "delta": -26,
+    "delta": 0,
     "rank_other": 277
   },
   {
@@ -4156,7 +4156,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 260,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 71
   },
   {
@@ -4172,7 +4172,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 261,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 364
   },
   {
@@ -4188,7 +4188,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 262,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 363
   },
   {
@@ -4204,7 +4204,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 263,
-    "delta": -40,
+    "delta": 0,
     "rank_other": 313
   },
   {
@@ -4220,7 +4220,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 264,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 309
   },
   {
@@ -4236,7 +4236,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 265,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 376
   },
   {
@@ -4252,7 +4252,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 266,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 220
   },
   {
@@ -4268,7 +4268,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 267,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 377
   },
   {
@@ -4284,7 +4284,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 268,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 320
   },
   {
@@ -4300,7 +4300,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 269,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 101
   },
   {
@@ -4316,7 +4316,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 270,
-    "delta": -90,
+    "delta": 0,
     "rank_other": 119
   },
   {
@@ -4332,7 +4332,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 271,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 303
   },
   {
@@ -4348,7 +4348,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 272,
-    "delta": 13,
+    "delta": 0,
     "rank_other": 216
   },
   {
@@ -4364,7 +4364,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 273,
-    "delta": -65,
+    "delta": 0,
     "rank_other": 198
   },
   {
@@ -4380,7 +4380,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 274,
-    "delta": 12,
+    "delta": 0,
     "rank_other": 195
   },
   {
@@ -4396,7 +4396,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 275,
-    "delta": -98,
+    "delta": 0,
     "rank_other": 395
   },
   {
@@ -4412,7 +4412,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 276,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 19
   },
   {
@@ -4428,7 +4428,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 277,
-    "delta": 33,
+    "delta": 0,
     "rank_other": 169
   },
   {
@@ -4444,7 +4444,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 278,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 212
   },
   {
@@ -4460,7 +4460,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 279,
-    "delta": -50,
+    "delta": 0,
     "rank_other": 251
   },
   {
@@ -4476,7 +4476,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 280,
-    "delta": 31,
+    "delta": 0,
     "rank_other": 310
   },
   {
@@ -4492,7 +4492,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 281,
-    "delta": -49,
+    "delta": 0,
     "rank_other": 174
   },
   {
@@ -4508,7 +4508,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 282,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 246
   },
   {
@@ -4540,7 +4540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 284,
-    "delta": 53,
+    "delta": 0,
     "rank_other": 248
   },
   {
@@ -4556,7 +4556,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 285,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 359
   },
   {
@@ -4572,7 +4572,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 286,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 208
   },
   {
@@ -4588,7 +4588,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 287,
-    "delta": 5,
+    "delta": 0,
     "rank_other": "-"
   },
   {
@@ -4604,7 +4604,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 288,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 291
   },
   {
@@ -4620,7 +4620,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 289,
-    "delta": -30,
+    "delta": 0,
     "rank_other": 231
   },
   {
@@ -4636,7 +4636,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 290,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 139
   },
   {
@@ -4652,7 +4652,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 291,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 400
   },
   {
@@ -4668,7 +4668,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 292,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 152
   },
   {
@@ -4684,7 +4684,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 293,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 268
   },
   {
@@ -4700,7 +4700,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 294,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 398
   },
   {
@@ -4716,7 +4716,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 295,
-    "delta": -57,
+    "delta": 0,
     "rank_other": 133
   },
   {
@@ -4732,7 +4732,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 296,
-    "delta": -50,
+    "delta": 0,
     "rank_other": 356
   },
   {
@@ -4748,7 +4748,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 297,
-    "delta": -50,
+    "delta": 0,
     "rank_other": 118
   },
   {
@@ -4764,7 +4764,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 298,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 339
   },
   {
@@ -4780,7 +4780,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 299,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 81
   },
   {
@@ -4796,7 +4796,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 300,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 366
   },
   {
@@ -4812,7 +4812,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 301,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 328
   },
   {
@@ -4828,7 +4828,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 302,
-    "delta": -25,
+    "delta": 0,
     "rank_other": 375
   },
   {
@@ -4844,7 +4844,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 303,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 338
   },
   {
@@ -4860,7 +4860,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 304,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 23
   },
   {
@@ -4876,7 +4876,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 305,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 288
   },
   {
@@ -4892,7 +4892,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 306,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 447
   },
   {
@@ -4908,7 +4908,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 307,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 420
   },
   {
@@ -4924,7 +4924,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 308,
-    "delta": -35,
+    "delta": 0,
     "rank_other": 444
   },
   {
@@ -4940,7 +4940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 309,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 124
   },
   {
@@ -4956,7 +4956,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 310,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 260
   },
   {
@@ -4972,7 +4972,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 311,
-    "delta": -16,
+    "delta": 0,
     "rank_other": 30
   },
   {
@@ -4988,7 +4988,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 312,
-    "delta": -68,
+    "delta": 0,
     "rank_other": 217
   },
   {
@@ -5004,7 +5004,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 313,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 379
   },
   {
@@ -5020,7 +5020,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 314,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 138
   },
   {
@@ -5036,7 +5036,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 315,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 286
   },
   {
@@ -5052,7 +5052,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 316,
-    "delta": -121,
+    "delta": 0,
     "rank_other": 349
   },
   {
@@ -5068,7 +5068,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 317,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 258
   },
   {
@@ -5084,7 +5084,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 318,
-    "delta": -20,
+    "delta": 0,
     "rank_other": 261
   },
   {
@@ -5116,7 +5116,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 320,
-    "delta": 72,
+    "delta": 0,
     "rank_other": 64
   },
   {
@@ -5132,7 +5132,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 321,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 327
   },
   {
@@ -5148,7 +5148,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 322,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 178
   },
   {
@@ -5164,7 +5164,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 323,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 431
   },
   {
@@ -5180,7 +5180,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 324,
-    "delta": 118,
+    "delta": 0,
     "rank_other": 15
   },
   {
@@ -5196,7 +5196,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 325,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 335
   },
   {
@@ -5212,7 +5212,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 326,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 295
   },
   {
@@ -5228,7 +5228,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 327,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 443
   },
   {
@@ -5244,7 +5244,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 328,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 183
   },
   {
@@ -5260,7 +5260,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 329,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 294
   },
   {
@@ -5276,7 +5276,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 330,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 126
   },
   {
@@ -5292,7 +5292,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 331,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 54
   },
   {
@@ -5308,7 +5308,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 332,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 424
   },
   {
@@ -5324,7 +5324,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 333,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 325
   },
   {
@@ -5340,7 +5340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 334,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 7
   },
   {
@@ -5356,7 +5356,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 335,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 11
   },
   {
@@ -5372,7 +5372,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 336,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 225
   },
   {
@@ -5388,7 +5388,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 337,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 35
   },
   {
@@ -5404,7 +5404,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 338,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 25
   },
   {
@@ -5452,7 +5452,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 341,
-    "delta": 19,
+    "delta": 0,
     "rank_other": 73
   },
   {
@@ -5468,7 +5468,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 342,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 289
   },
   {
@@ -5484,7 +5484,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 343,
-    "delta": 32,
+    "delta": 0,
     "rank_other": 438
   },
   {
@@ -5500,7 +5500,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 344,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 95
   },
   {
@@ -5516,7 +5516,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 345,
-    "delta": -76,
+    "delta": 0,
     "rank_other": 264
   },
   {
@@ -5532,7 +5532,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 346,
-    "delta": 60,
+    "delta": 0,
     "rank_other": 43
   },
   {
@@ -5548,7 +5548,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 347,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 59
   },
   {
@@ -5564,7 +5564,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 348,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 449
   },
   {
@@ -5596,7 +5596,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 350,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 229
   },
   {
@@ -5612,7 +5612,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 351,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 211
   },
   {
@@ -5628,7 +5628,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 352,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 333
   },
   {
@@ -5644,7 +5644,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 353,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 192
   },
   {
@@ -5660,7 +5660,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 354,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 394
   },
   {
@@ -5676,7 +5676,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 355,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 91
   },
   {
@@ -5692,7 +5692,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 356,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 330
   },
   {
@@ -5708,7 +5708,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 357,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 404
   },
   {
@@ -5724,7 +5724,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 358,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 385
   },
   {
@@ -5740,7 +5740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 359,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 42
   },
   {
@@ -5756,7 +5756,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 360,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 470
   },
   {
@@ -5772,7 +5772,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 361,
-    "delta": 56,
+    "delta": 0,
     "rank_other": 401
   },
   {
@@ -5788,7 +5788,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 362,
-    "delta": -134,
+    "delta": 0,
     "rank_other": 450
   },
   {
@@ -5804,7 +5804,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 363,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 415
   },
   {
@@ -5820,7 +5820,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 364,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 321
   },
   {
@@ -5836,7 +5836,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 365,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 361
   },
   {
@@ -5852,7 +5852,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 366,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 279
   },
   {
@@ -5868,7 +5868,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 367,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 222
   },
   {
@@ -5884,7 +5884,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 368,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 267
   },
   {
@@ -5900,7 +5900,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 369,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 352
   },
   {
@@ -5916,7 +5916,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 370,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 314
   },
   {
@@ -5964,7 +5964,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 373,
-    "delta": 14,
+    "delta": 0,
     "rank_other": 262
   },
   {
@@ -5980,7 +5980,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 374,
-    "delta": 10,
+    "delta": 0,
     "rank_other": 436
   },
   {
@@ -5996,7 +5996,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 375,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 353
   },
   {
@@ -6012,7 +6012,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 376,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 454
   },
   {
@@ -6028,7 +6028,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 377,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 154
   },
   {
@@ -6060,7 +6060,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 379,
-    "delta": 20,
+    "delta": 0,
     "rank_other": 272
   },
   {
@@ -6076,7 +6076,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 380,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 265
   },
   {
@@ -6092,7 +6092,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 381,
-    "delta": -36,
+    "delta": 0,
     "rank_other": 481
   },
   {
@@ -6108,7 +6108,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 382,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 448
   },
   {
@@ -6124,7 +6124,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 383,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 181
   },
   {
@@ -6140,7 +6140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 384,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 199
   },
   {
@@ -6156,7 +6156,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 385,
-    "delta": -12,
+    "delta": 0,
     "rank_other": 332
   },
   {
@@ -6172,7 +6172,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 386,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 388
   },
   {
@@ -6188,7 +6188,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 387,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 429
   },
   {
@@ -6204,7 +6204,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 388,
-    "delta": -8,
+    "delta": 0,
     "rank_other": "-"
   },
   {
@@ -6220,7 +6220,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 389,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 351
   },
   {
@@ -6236,7 +6236,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 390,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 190
   },
   {
@@ -6252,7 +6252,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 391,
-    "delta": 52,
+    "delta": 0,
     "rank_other": 439
   },
   {
@@ -6268,7 +6268,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 392,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 269
   },
   {
@@ -6284,7 +6284,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 393,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 411
   },
   {
@@ -6300,7 +6300,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 394,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 355
   },
   {
@@ -6316,7 +6316,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 395,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 426
   },
   {
@@ -6332,7 +6332,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 396,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 408
   },
   {
@@ -6348,7 +6348,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 397,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 421
   },
   {
@@ -6364,7 +6364,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 398,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 340
   },
   {
@@ -6380,7 +6380,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 399,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 253
   },
   {
@@ -6396,7 +6396,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 400,
-    "delta": -42,
+    "delta": 0,
     "rank_other": 475
   },
   {
@@ -6412,7 +6412,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 401,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 432
   },
   {
@@ -6428,7 +6428,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 402,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 390
   },
   {
@@ -6444,7 +6444,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 403,
-    "delta": 15,
+    "delta": 0,
     "rank_other": 357
   },
   {
@@ -6460,7 +6460,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 404,
-    "delta": -56,
+    "delta": 0,
     "rank_other": 434
   },
   {
@@ -6476,7 +6476,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 405,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 358
   },
   {
@@ -6492,7 +6492,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 406,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 406
   },
   {
@@ -6508,7 +6508,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 407,
-    "delta": -21,
+    "delta": 0,
     "rank_other": 419
   },
   {
@@ -6524,7 +6524,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 408,
-    "delta": -3,
+    "delta": 0,
     "rank_other": 329
   },
   {
@@ -6540,7 +6540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 409,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 423
   },
   {
@@ -6556,7 +6556,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 410,
-    "delta": 18,
+    "delta": 0,
     "rank_other": 403
   },
   {
@@ -6572,7 +6572,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 411,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 392
   },
   {
@@ -6588,7 +6588,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 412,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 209
   },
   {
@@ -6604,7 +6604,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 413,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 407
   },
   {
@@ -6620,7 +6620,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 414,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 378
   },
   {
@@ -6636,7 +6636,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 415,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 479
   },
   {
@@ -6652,7 +6652,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 416,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 274
   },
   {
@@ -6668,7 +6668,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 417,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 459
   },
   {
@@ -6684,7 +6684,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 418,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 306
   },
   {
@@ -6700,7 +6700,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 419,
-    "delta": -38,
+    "delta": 0,
     "rank_other": 374
   },
   {
@@ -6716,7 +6716,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 420,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 389
   },
   {
@@ -6732,7 +6732,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 421,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 480
   },
   {
@@ -6748,7 +6748,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 422,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 430
   },
   {
@@ -6764,7 +6764,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 423,
-    "delta": -41,
+    "delta": 0,
     "rank_other": 354
   },
   {
@@ -6780,7 +6780,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 424,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 437
   },
   {
@@ -6796,7 +6796,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 425,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 344
   },
   {
@@ -6812,7 +6812,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 426,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 44
   },
   {
@@ -6828,7 +6828,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 427,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 478
   },
   {
@@ -6844,7 +6844,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 428,
-    "delta": 5,
+    "delta": 0,
     "rank_other": 451
   },
   {
@@ -6860,7 +6860,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 429,
-    "delta": -13,
+    "delta": 0,
     "rank_other": 409
   },
   {
@@ -6876,7 +6876,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 430,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 410
   },
   {
@@ -6892,7 +6892,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 431,
-    "delta": 4,
+    "delta": 0,
     "rank_other": 345
   },
   {
@@ -6908,7 +6908,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 432,
-    "delta": -25,
+    "delta": 0,
     "rank_other": 446
   },
   {
@@ -6924,7 +6924,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 433,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 425
   },
   {
@@ -6940,7 +6940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 434,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 482
   },
   {
@@ -6956,7 +6956,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 435,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 393
   },
   {
@@ -6972,7 +6972,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 436,
-    "delta": -11,
+    "delta": 0,
     "rank_other": 387
   },
   {
@@ -7004,7 +7004,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 438,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 302
   },
   {
@@ -7020,7 +7020,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 439,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 422
   },
   {
@@ -7036,7 +7036,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 440,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 418
   },
   {
@@ -7052,7 +7052,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 441,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 12
   },
   {
@@ -7068,7 +7068,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 442,
-    "delta": -6,
+    "delta": 0,
     "rank_other": 452
   },
   {
@@ -7084,7 +7084,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 443,
-    "delta": -73,
+    "delta": 0,
     "rank_other": 428
   },
   {
@@ -7100,7 +7100,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 444,
-    "delta": -6,
+    "delta": 0,
     "rank_other": 417
   },
   {
@@ -7116,7 +7116,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 445,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 402
   },
   {
@@ -7132,7 +7132,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 446,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 300
   },
   {
@@ -7148,7 +7148,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 447,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 412
   },
   {
@@ -7164,7 +7164,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 448,
-    "delta": -17,
+    "delta": 0,
     "rank_other": 441
   },
   {
@@ -7180,7 +7180,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 449,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 317
   },
   {
@@ -7212,7 +7212,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 451,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 469
   },
   {
@@ -7228,7 +7228,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 452,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 458
   },
   {
@@ -7244,7 +7244,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 453,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 455
   },
   {
@@ -7260,7 +7260,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 454,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 487
   },
   {
@@ -7276,7 +7276,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 455,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 435
   },
   {
@@ -7292,7 +7292,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 456,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 255
   },
   {
@@ -7308,7 +7308,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 457,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 463
   },
   {
@@ -7324,7 +7324,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 458,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 496
   },
   {
@@ -7340,7 +7340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 459,
-    "delta": -2,
+    "delta": 0,
     "rank_other": 499
   },
   {
@@ -7356,7 +7356,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 460,
-    "delta": 11,
+    "delta": 0,
     "rank_other": 477
   },
   {
@@ -7388,7 +7388,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 462,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 494
   },
   {
@@ -7404,7 +7404,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 463,
-    "delta": -11,
+    "delta": 0,
     "rank_other": 380
   },
   {
@@ -7420,7 +7420,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 464,
-    "delta": 8,
+    "delta": 0,
     "rank_other": 368
   },
   {
@@ -7436,7 +7436,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 465,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 62
   },
   {
@@ -7452,7 +7452,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 466,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 473
   },
   {
@@ -7500,7 +7500,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 469,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 457
   },
   {
@@ -7532,7 +7532,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 471,
-    "delta": -51,
+    "delta": 0,
     "rank_other": 433
   },
   {
@@ -7548,7 +7548,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 472,
-    "delta": 3,
+    "delta": 0,
     "rank_other": 350
   },
   {
@@ -7564,7 +7564,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 473,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 427
   },
   {
@@ -7580,7 +7580,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 474,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 472
   },
   {
@@ -7596,7 +7596,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 475,
-    "delta": 7,
+    "delta": 0,
     "rank_other": 215
   },
   {
@@ -7612,7 +7612,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 476,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 474
   },
   {
@@ -7628,7 +7628,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 477,
-    "delta": 6,
+    "delta": 0,
     "rank_other": 346
   },
   {
@@ -7644,7 +7644,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 478,
-    "delta": -5,
+    "delta": 0,
     "rank_other": 468
   },
   {
@@ -7708,7 +7708,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 482,
-    "delta": -4,
+    "delta": 0,
     "rank_other": 491
   },
   {
@@ -7724,7 +7724,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 483,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 127
   },
   {
@@ -7740,7 +7740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 484,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 467
   },
   {
@@ -7820,7 +7820,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 489,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 488
   },
   {
@@ -7836,7 +7836,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 490,
-    "delta": -1,
+    "delta": 0,
     "rank_other": 495
   },
   {
@@ -7852,7 +7852,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 491,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 461
   },
   {
@@ -7868,7 +7868,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 492,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 462
   },
   {
@@ -7884,7 +7884,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 493,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 483
   },
   {
@@ -7900,7 +7900,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 494,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 445
   },
   {
@@ -7916,7 +7916,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 495,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 490
   },
   {
@@ -7932,7 +7932,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 496,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 486
   },
   {
@@ -7948,7 +7948,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 497,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 476
   },
   {
@@ -7964,7 +7964,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 498,
-    "delta": 2,
+    "delta": 0,
     "rank_other": 489
   },
   {
@@ -7980,7 +7980,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 499,
-    "delta": -8,
+    "delta": 0,
     "rank_other": 485
   },
   {
@@ -7996,7 +7996,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 500,
-    "delta": 1,
+    "delta": 0,
     "rank_other": 498
   },
   {
@@ -8012,7 +8012,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 501,
-    "delta": -7,
+    "delta": 0,
     "rank_other": 497
   },
   {
