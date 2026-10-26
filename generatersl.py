@@ -122,3 +122,12 @@ with open("rsl_26w.json", "w") as f:
     json.dump(list_26w, f, indent=2)
 
 print("JSON-Dateien geschrieben.")
+
+from datetime import datetime
+
+update_info = {
+    "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+}
+with open("last_update.json", "w") as f:
+    json.dump(update_info, f)
+
