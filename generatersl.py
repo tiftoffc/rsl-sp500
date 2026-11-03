@@ -8,7 +8,7 @@ import time
 csv_url = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
 sp500_df = pd.read_csv(csv_url)
 sp500_df['Symbol'] = sp500_df['Symbol'].str.replace('.', '-', regex=False)
-ticker_info = sp500_df.set_index('Symbol')[['Security', 'GICS Sector']].to_dict('index')
+ticker_info = sp500_df.set_index('Symbol')[['Security', 'GICS Sector', 'GICS Sub-Industry']].to_dict('index')
 sp500 = list(ticker_info.keys())
 print(f"Geladene Ticker: {len(sp500)}")
 
@@ -81,6 +81,7 @@ def build_list(period_days, label, prev_ranks):
                 "ticker": ticker,
                 "name": info.get("Security", ticker),
                 "sector": info.get("GICS Sector", "-"),
+                "industry": info.get("GICS Sub-Industry", "-"),
                 "rsl": metrics["rsl"],
                 "pct_1d": metrics["pct_1d"],
                 "pct_1w": metrics["pct_1w"],
