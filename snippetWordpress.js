@@ -2,7 +2,6 @@ function rsl_overview_shortcode() {
     ob_start();
     ?>
     <div class="rsl-container">
-        
         <p id="last-update" style="font-size: 12px; color: #666; margin-top: -10px; margin-bottom: 15px;"></p>
         
         <div class="rsl-buttons">
@@ -17,25 +16,30 @@ function rsl_overview_shortcode() {
             <label><input type="checkbox" id="toggle-fund" checked> Marktkap. / Umsatz</label>
             <label><input type="checkbox" id="toggle-iv" checked> IVR / IVP</label>
         </div>
-		
-		<select id="sector-filter" style="margin-bottom: 15px; padding: 8px;">
-			<option value="">Alle Sektoren</option>
-		</select>
 
-		<h3 style="margin-top: 30px;">Sektor-Übersicht</h3>
-		<table class="rsl-table" id="sector-table">
-			<thead>
-				<tr>
-					<th>Sektor</th>
-					<th>Anzahl</th>
-					<th>Ø RSL</th>
-					<th>Top Titel</th>
-				</tr>
-			</thead>
-			<tbody id="sector-tbody"></tbody>
-		</table>
-		
-        <table class="rsl-table">
+        <div style="display: flex; gap: 15px; margin-bottom: 15px; flex-wrap: wrap;">
+            <select id="sector-filter" style="padding: 8px; min-width: 200px;">
+                <option value="">Alle Sektoren</option>
+            </select>
+            <select id="industry-filter" style="padding: 8px; min-width: 250px;" disabled>
+                <option value="">Alle Sub-Industries</option>
+            </select>
+        </div>
+
+        <h3 style="margin-top: 30px;">Sektor-Übersicht</h3>
+        <table class="rsl-table" id="sector-table">
+            <thead>
+                <tr>
+                    <th>Sektor / Sub-Industry</th>
+                    <th>Anzahl</th>
+                    <th>Ø RSL</th>
+                    <th>Top Titel</th>
+                </tr>
+            </thead>
+            <tbody id="sector-tbody"></tbody>
+        </table>
+
+        <table class="rsl-table" style="margin-top: 30px;">
             <thead>
                 <tr>
                     <th>Rank</th>
@@ -43,7 +47,7 @@ function rsl_overview_shortcode() {
                     <th>Ticker</th>
                     <th>Name</th>
                     <th>Sektor</th>
-					<th>Industry</th>
+                    <th>Industry</th>
                     <th>RSL</th>
                     <th class="col-perf">% 1T</th>
                     <th class="col-perf">% 1W</th>
@@ -78,6 +82,8 @@ function rsl_overview_shortcode() {
     .hide-perf .col-perf,
     .hide-fund .col-fund,
     .hide-iv .col-iv { display: none; }
+    .industry-row { background: #fafafa; }
+    .industry-row td:first-child { padding-left: 30px; font-style: italic; color: #555; }
     </style>
 
     <script>
@@ -93,20 +99,39 @@ function rsl_overview_shortcode() {
             data["26d"] = d26;
             data["26w"] = d26w;
             document.getElementById('last-update').textContent = 'Letztes Update: ' + (update.updated || "-");
+            populateSectors();
             render(currentType);
-			populateSectors();
-			updateSectorOverview(data[currentType]);
         }).catch(err => console.error("Fehler beim Laden:", err));
     }
 
-	// Sektor-Filter befüllen (nach dem Laden der Daten)
-	function populateSectors() {
-		const sectors = [...new Set(data[currentType].map(item => item.sector).filter(s => s && s !== "-"))].sort();
-		const select = document.getElementById('sector-filter');
-		select.innerHTML = '<option value="">Alle Sektoren</option>' + 
-			sectors.map(s => `<option value="${s}">${s}</option>`).join('');
-	}
-				  
+    function populateSectors() {
+        const sectors = [...new Set(data[currentType].map(item => item.sector).filter(s => s && s !== "-"))].sort();
+        const select = document.getElementById('sector-filter');
+        select.innerHTML = '<option value="">Alle Sektoren</option>' + 
+            sectors.map(s => `<option value="${s}">${s}</option>`).join('');
+        updateIndustryFilter();
+    }
+
+    function updateIndustryFilter() {
+        const sector = document.getElementById('sector-filter').value;
+        const industrySelect = document.getElementById('industry-filter');
+        industrySelect.innerHTML = '<option value="">Alle Sub-Industries</option>';
+        
+        if (!sector) {
+            industrySelect.disabled = true;
+            return;
+        }
+
+        const industries = [...new Set(
+            data[currentType]
+                .filter(item => item.sector === sector && item.industry && item.industry !== "-")
+                .map(item => item.industry)
+        )].sort();
+
+        industrySelect.innerHTML += industries.map(i => `<option value="${i}">${i}</option>`).join('');
+        industrySelect.disabled = false;
+    }
+
     function render(type, filter = '') {
         currentType = type;
         let list = (data[type] || []).slice();
@@ -119,12 +144,16 @@ function rsl_overview_shortcode() {
                 list = list.filter(item => filters.some(f => item.ticker.includes(f)));
             }
         }
-		
-		// In der render-Funktion den Filter berücksichtigen
-		const sectorFilter = document.getElementById('sector-filter').value;
-		if (sectorFilter) {
-			list = list.filter(item => item.sector === sectorFilter);
-		}
+
+        const sectorFilter = document.getElementById('sector-filter').value;
+        if (sectorFilter) {
+            list = list.filter(item => item.sector === sectorFilter);
+        }
+
+        const industryFilter = document.getElementById('industry-filter').value;
+        if (industryFilter) {
+            list = list.filter(item => item.industry === industryFilter);
+        }
 
         const header = document.getElementById('other-rank-header');
         if (header) header.textContent = (type === '26d') ? '26W' : '26T';
@@ -160,7 +189,7 @@ function rsl_overview_shortcode() {
                     <td><a href="https://www.tradingview.com/chart/?symbol=${item.ticker}" target="_blank" rel="noopener">${item.ticker}</a></td>
                     <td>${item.name || "-"}</td>
                     <td>${item.sector || "-"}</td>
-					<td>${item.industry || "-"}</td>
+                    <td>${item.industry || "-"}</td>
                     <td>${item.rsl ? item.rsl.toFixed(2) : "-"}</td>
                     <td class="col-perf">${fmtPct(item.pct_1d)}</td>
                     <td class="col-perf">${fmtPct(item.pct_1w)}</td>
@@ -172,11 +201,52 @@ function rsl_overview_shortcode() {
                 </tr>
             `;
         }).join('');
-		updateSectorOverview(list);
+
+        updateSectorOverview(list);
+    }
+
+    function updateSectorOverview(list) {
+        const bySector = {};
+        list.forEach(item => {
+            if (!item.sector || item.sector === "-") return;
+            if (!bySector[item.sector]) bySector[item.sector] = { items: [], industries: {} };
+            bySector[item.sector].items.push(item);
+
+            const ind = item.industry || "Unbekannt";
+            if (!bySector[item.sector].industries[ind]) bySector[item.sector].industries[ind] = [];
+            bySector[item.sector].industries[ind].push(item);
+        });
+
+        let rows = '';
+        Object.entries(bySector).sort((a, b) => a[0].localeCompare(b[0])).forEach(([sector, data]) => {
+            const items = data.items;
+            const avgRsl = (items.reduce((sum, i) => sum + (i.rsl || 0), 0) / items.length).toFixed(2);
+            const top = [...items].sort((a, b) => (b.rsl || 0) - (a.rsl || 0))[0];
+
+            rows += `<tr>
+                <td><strong>${sector}</strong></td>
+                <td>${items.length}</td>
+                <td>${avgRsl}</td>
+                <td>${top.ticker} (${top.rsl ? top.rsl.toFixed(2) : "-"})</td>
+            </tr>`;
+
+            Object.entries(data.industries).sort((a, b) => a[0].localeCompare(b[0])).forEach(([industry, indItems]) => {
+                const indAvg = (indItems.reduce((sum, i) => sum + (i.rsl || 0), 0) / indItems.length).toFixed(2);
+                const indTop = [...indItems].sort((a, b) => (b.rsl || 0) - (a.rsl || 0))[0];
+                rows += `<tr class="industry-row">
+                    <td>↳ ${industry}</td>
+                    <td>${indItems.length}</td>
+                    <td>${indAvg}</td>
+                    <td>${indTop.ticker} (${indTop.rsl ? indTop.rsl.toFixed(2) : "-"})</td>
+                </tr>`;
+            });
+        });
+
+        document.getElementById('sector-tbody').innerHTML = rows || '<tr><td colspan="4">Keine Daten</td></tr>';
     }
 
     function setupToggles() {
-        const table = document.querySelector('.rsl-table');
+        const table = document.querySelector('.rsl-table:last-of-type');
         const toggles = {
             perf: document.getElementById('toggle-perf'),
             fund: document.getElementById('toggle-fund'),
@@ -191,33 +261,11 @@ function rsl_overview_shortcode() {
         update();
     }
 
-	// Sektor-Übersicht aktualisieren
-	function updateSectorOverview(list) {
-		const bySector = {};
-		list.forEach(item => {
-			if (!item.sector || item.sector === "-") return;
-			if (!bySector[item.sector]) bySector[item.sector] = [];
-			bySector[item.sector].push(item);
-		});
-
-		const rows = Object.entries(bySector).map(([sector, items]) => {
-			const avgRsl = (items.reduce((sum, i) => sum + i.rsl, 0) / items.length).toFixed(2);
-			const top = items.sort((a, b) => b.rsl - a.rsl)[0];
-			return `<tr>
-				<td>${sector}</td>
-				<td>${items.length}</td>
-				<td>${avgRsl}</td>
-				<td>${top.ticker} (${top.rsl.toFixed(2)})</td>
-			</tr>`;
-		}).join('');
-
-		document.getElementById('sector-tbody').innerHTML = rows || '<tr><td colspan="4">Keine Daten</td></tr>';
-	}
-				  
     document.querySelectorAll('.rsl-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             document.querySelectorAll('.rsl-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
+            populateSectors();
             render(btn.dataset.type, document.getElementById('rsl-filter').value);
         });
     });
@@ -226,10 +274,15 @@ function rsl_overview_shortcode() {
         render(currentType, e.target.value);
     });
 
-	// Aufrufe ergänzen
-	document.getElementById('sector-filter').addEventListener('change', () => {
-		render(currentType, document.getElementById('rsl-filter').value);
-	});
+    document.getElementById('sector-filter').addEventListener('change', () => {
+        document.getElementById('industry-filter').value = "";
+        updateIndustryFilter();
+        render(currentType, document.getElementById('rsl-filter').value);
+    });
+
+    document.getElementById('industry-filter').addEventListener('change', () => {
+        render(currentType, document.getElementById('rsl-filter').value);
+    });
 
     loadData();
     setupToggles();
