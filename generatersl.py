@@ -3,6 +3,8 @@ import pandas as pd
 import json
 import os
 import time
+import datetime
+from collections import defaultdict
 
 # S&P 500 Daten laden
 csv_url = "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv"
@@ -32,7 +34,6 @@ def calculate_metrics(ticker, period_days):
         if isinstance(close_series, pd.DataFrame):
             close_series = close_series.iloc[:, 0]
         
-        # NaN-Werte entfernen
         close_series = close_series.dropna()
         if len(close_series) < period_days:
             return None
@@ -69,6 +70,49 @@ def load_previous(filename):
             return {item["ticker"]: item["rank"] for item in data}
     return {}
 
+def load_history():
+    if os.path.exists("rank_history.json"):
+        with open("rank_history.json", "r") as f:
+            return json.load(f)
+    return {}
+
+def save_history(history):
+    with open("rank_history.json", "w") as f:
+        json.dump(history, f, indent=2)
+
+def update_history(results, is_weekly=False):
+    history = load_history()
+    today = datetime.date.today()
+    is_saturday = today.weekday() == 5
+
+    for item in results:
+        ticker = item["ticker"]
+        if ticker not in history:
+            history[ticker] = {"daily": [], "weekly": []}
+        
+        key = "weekly" if is_weekly else "daily"
+        ranks = history[ticker][key]
+        ranks.append(item["rank"])
+        history[ticker][key] = ranks[-30:]
+
+        last_5 = ranks[-5:][::-1]
+        item[f"last_5_{'weekly_' if is_weekly else ''}ranks"] = last_5
+
+        if not is_weekly:
+            item["days_in_top50"] = sum(1 for r in ranks[-30:] if r <= 50)
+
+    if is_weekly and not is_saturday:
+        for item in results:
+            ticker = item["ticker"]
+            if ticker in history and history[ticker]["weekly"]:
+                last_5 = history[ticker]["weekly"][-5:][::-1]
+                item["last_5_weekly_ranks"] = last_5
+            else:
+                item["last_5_weekly_ranks"] = []
+
+    save_history(history)
+    return results
+
 def build_list(period_days, label, prev_ranks):
     results = []
     print(f"\nBerechne {label}...")
@@ -100,9 +144,8 @@ def build_list(period_days, label, prev_ranks):
         item["rank"] = i + 1
         prev = prev_ranks.get(item["ticker"])
         item["delta"] = (prev - item["rank"]) if prev else None
-    print(f"{label}: {len(results)} gültige Aktien")
-    # Relative Stärke zum Sektor berechnen
-    from collections import defaultdict
+
+    # Relative Stärke zum Sektor
     sector_rsls = defaultdict(list)
     for item in results:
         if item.get("sector") and item["sector"] != "-":
@@ -116,8 +159,29 @@ def build_list(period_days, label, prev_ranks):
             item["rsl_vs_sector"] = round(item["rsl"] / avg, 4)
         else:
             item["rsl_vs_sector"] = None
+
+    # History & Score
+    is_weekly = (period_days == 130)
+    results = update_history(results, is_weekly=is_weekly)
+
+    for item in results:
+        score = 0
+        if item.get("rsl", 0) > 1.0:
+            score += 1
+        if item.get("rsl_vs_sector") and item["rsl_vs_sector"] > 1.0:
+            score += 1
+        if item.get("delta") and item["delta"] > 0:
+            score += 1
+        if item.get("rank", 999) <= 50:
+            score += 1
+        if item.get("days_in_top50", 0) >= 10:
+            score += 1
+        item["score"] = score
+
+    print(f"{label}: {len(results)} gültige Aktien")
     return results
 
+# Hauptablauf
 prev_26d = load_previous("rsl_26d.json")
 prev_26w = load_previous("rsl_26w.json")
 
@@ -139,11 +203,10 @@ with open("rsl_26w.json", "w") as f:
 
 print("JSON-Dateien geschrieben.")
 
-from datetime import datetime
-
 update_info = {
-    "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    "updated": datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 }
 with open("last_update.json", "w") as f:
     json.dump(update_info, f)
 
+print("Fertig.")
