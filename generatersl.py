@@ -101,6 +101,21 @@ def build_list(period_days, label, prev_ranks):
         prev = prev_ranks.get(item["ticker"])
         item["delta"] = (prev - item["rank"]) if prev else None
     print(f"{label}: {len(results)} gültige Aktien")
+    # Relative Stärke zum Sektor berechnen
+    from collections import defaultdict
+    sector_rsls = defaultdict(list)
+    for item in results:
+        if item.get("sector") and item["sector"] != "-":
+            sector_rsls[item["sector"]].append(item["rsl"])
+
+    sector_avg = {sec: sum(vals)/len(vals) for sec, vals in sector_rsls.items() if vals}
+
+    for item in results:
+        avg = sector_avg.get(item.get("sector"))
+        if avg and avg > 0:
+            item["rsl_vs_sector"] = round(item["rsl"] / avg, 4)
+        else:
+            item["rsl_vs_sector"] = None
     return results
 
 prev_26d = load_previous("rsl_26d.json")
