@@ -112,7 +112,14 @@ def update_history(results, is_weekly=False):
 
     save_history(history)
     return results
-
+    
+def get_expiration_count(ticker):
+    try:
+        opts = yf.Ticker(ticker).options
+        return len(opts) if opts else 0
+    except:
+        return 0
+        
 def build_list(period_days, label, prev_ranks):
     results = []
     print(f"\nBerechne {label}...")
@@ -132,6 +139,7 @@ def build_list(period_days, label, prev_ranks):
                 "pct_1m": metrics["pct_1m"],
                 "market_cap": fund["market_cap"],
                 "revenue": fund["revenue"],
+                "exp_count": get_expiration_count(ticker),
                 "ivr": None,
                 "ivp": None
             })
