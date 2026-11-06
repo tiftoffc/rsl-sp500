@@ -31,48 +31,45 @@ def get_expiration_count(ticker):
     except:
         return 0
 
-def get_trend_strength(ticker, lookback=15):
+def get_trend_strength(ticker):
     try:
-        data = yf.download(ticker, period="6mo", progress=False, auto_adjust=True)
-        if data.empty or len(data) < lookback + 5:
+        data = yf.download(ticker, period="3mo", progress=False, auto_adjust=True)
+        if data.empty or len(data) < 20:
             return None
 
-        high = data['High'].dropna().iloc[-lookback-5:]
-        low = data['Low'].dropna().iloc[-lookback-5:]
+        high = data['High'].dropna()
+        low = data['Low'].dropna()
 
-        if len(high) < lookback:
+        if len(high) < 15:
             return None
 
-        hh = 0
-        hl = 0
-        consecutive_hhhl = 0
-        max_consecutive = 0
+        # Letzte 12 Bars prüfen
+        recent_high = high.iloc[-12:]
+        recent_low = low.iloc[-12:]
 
-        for i in range(1, len(high)):
-            is_hh = high.iloc[-i] > high.iloc[-i-1]
-            is_hl = low.iloc[-i] > low.iloc[-i-1]
+        hh = sum(recent_high.iloc[i] > recent_high.iloc[i-1] for i in range(1, len(recent_high)))
+        hl = sum(recent_low.iloc[i] > recent_low.iloc[i-1] for i in range(1, len(recent_low)))
 
-            if is_hh:
-                hh += 1
-            if is_hl:
-                hl += 1
-
-            if is_hh and is_hl:
-                consecutive_hhhl += 1
-                max_consecutive = max(max_consecutive, consecutive_hhhl)
+        # Konsekutive HH+HL am Ende
+        consecutive = 0
+        for i in range(1, 8):
+            if (high.iloc[-i] > high.iloc[-i-1]) and (low.iloc[-i] > low.iloc[-i-1]):
+                consecutive += 1
             else:
-                consecutive_hhhl = 0
+                break
 
-        if max_consecutive >= 3:
-            return f"HHHL{max_consecutive}"
-        elif hh >= 6 and hl >= 5:
+        if consecutive >= 3:
+            return f"HHHL{consecutive}"
+        elif hh >= 7 and hl >= 6:
             return f"HH{hh}/HL{hl}"
-        elif max_consecutive >= 2:
-            return f"HHHL{max_consecutive}"
+        elif consecutive >= 2:
+            return f"HHHL{consecutive}"
+        elif hh >= 5 and hl >= 4:
+            return f"HH{hh}/HL{hl}"
         return None
 
     except Exception as e:
-        print(f"Trend-Fehler bei {ticker}: {e}")
+        print(f"Trend-Fehler {ticker}: {e}")
         return None
 
 def calculate_metrics(ticker, period_days):
