@@ -9,18 +9,19 @@
     "pct_1w": 39.7,
     "pct_1m": 26.6,
     "market_cap": 119628062720,
-    "revenue": 6829124096,
+    "revenue": 7608893952,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 1,
-    "delta": 350,
+    "delta": 0,
     "rsl_vs_sector": 1.3178,
     "last_5_ranks": [
       1
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 403
   },
   {
@@ -35,10 +36,11 @@
     "market_cap": 33380673536,
     "revenue": null,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 2,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.2299,
     "last_5_ranks": [
       2
@@ -59,16 +61,17 @@
     "market_cap": 18154248192,
     "revenue": 5228000256,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 3,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.4126,
     "last_5_ranks": [
       3
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 46
   },
   {
@@ -83,10 +86,11 @@
     "market_cap": 11139106816,
     "revenue": 3966200064,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 4,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.2122,
     "last_5_ranks": [
       4
@@ -107,16 +111,17 @@
     "market_cap": 48622923776,
     "revenue": 8434599936,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 5,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.3878,
     "last_5_ranks": [
       5
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 5
   },
   {
@@ -131,10 +136,11 @@
     "market_cap": 17140212736,
     "revenue": 15223300096,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 6,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1914,
     "last_5_ranks": [
       6
@@ -155,10 +161,11 @@
     "market_cap": 52842737664,
     "revenue": 4662220800,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 7,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.1371,
     "last_5_ranks": [
       7
@@ -179,6 +186,7 @@
     "market_cap": 37866541056,
     "revenue": 21636999168,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 8,
@@ -203,16 +211,17 @@
     "market_cap": 17111306240,
     "revenue": 2481344000,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 9,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.3582,
     "last_5_ranks": [
       9
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 6
   },
   {
@@ -227,16 +236,17 @@
     "market_cap": 14935555072,
     "revenue": 4122647040,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 10,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.127,
     "last_5_ranks": [
       10
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 28
   },
   {
@@ -251,16 +261,17 @@
     "market_cap": 22773272576,
     "revenue": 6592099840,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 11,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1679,
     "last_5_ranks": [
       11
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 77
   },
   {
@@ -275,16 +286,17 @@
     "market_cap": 7098609664,
     "revenue": 11896399872,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 12,
-    "delta": 51,
+    "delta": 0,
     "rsl_vs_sector": 1.1254,
     "last_5_ranks": [
       12
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 275
   },
   {
@@ -299,16 +311,17 @@
     "market_cap": 73066930176,
     "revenue": 17681000448,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 13,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.1157,
     "last_5_ranks": [
       13
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 204
   },
   {
@@ -323,16 +336,17 @@
     "market_cap": 12057536512,
     "revenue": 7196000256,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 14,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.096,
     "last_5_ranks": [
       14
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 162
   },
   {
@@ -347,16 +361,17 @@
     "market_cap": 18649194496,
     "revenue": 3987582976,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 15,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.1544,
     "last_5_ranks": [
       15
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 349
   },
   {
@@ -371,16 +386,17 @@
     "market_cap": 12638388224,
     "revenue": 2601147904,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 16,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.1095,
     "last_5_ranks": [
       16
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 32
   },
   {
@@ -395,10 +411,11 @@
     "market_cap": 127493914624,
     "revenue": 90431995904,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 17,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.081,
     "last_5_ranks": [
       17
@@ -419,16 +436,17 @@
     "market_cap": 16356463616,
     "revenue": 54395998208,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 18,
-    "delta": 94,
+    "delta": 0,
     "rsl_vs_sector": 1.1459,
     "last_5_ranks": [
       18
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 380
   },
   {
@@ -443,16 +461,17 @@
     "market_cap": 162262564864,
     "revenue": 74183442432,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 19,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.3277,
     "last_5_ranks": [
       19
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 2
   },
   {
@@ -467,16 +486,17 @@
     "market_cap": 44780118016,
     "revenue": 12713477120,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 20,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 1.0747,
     "last_5_ranks": [
       20
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 191
   },
   {
@@ -489,18 +509,19 @@
     "pct_1w": 13.86,
     "pct_1m": 18.29,
     "market_cap": 26624069632,
-    "revenue": 8004199936,
+    "revenue": 8193200128,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 21,
-    "delta": 168,
+    "delta": 0,
     "rsl_vs_sector": 1.0714,
     "last_5_ranks": [
       21
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 277
   },
   {
@@ -515,10 +536,11 @@
     "market_cap": 79898066944,
     "revenue": 27451000832,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 22,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0692,
     "last_5_ranks": [
       22
@@ -539,16 +561,17 @@
     "market_cap": 25744228352,
     "revenue": 15976123392,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 23,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.0682,
     "last_5_ranks": [
       23
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 134
   },
   {
@@ -563,16 +586,17 @@
     "market_cap": 30087211008,
     "revenue": 4666208768,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 24,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.1379,
     "last_5_ranks": [
       24
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 185
   },
   {
@@ -587,16 +611,17 @@
     "market_cap": 73875726336,
     "revenue": 15768000512,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 25,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0923,
     "last_5_ranks": [
       25
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 31
   },
   {
@@ -609,18 +634,19 @@
     "pct_1w": 10.89,
     "pct_1m": 25.37,
     "market_cap": 27524091904,
-    "revenue": 3136000000,
+    "revenue": 3176699904,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 26,
-    "delta": 171,
+    "delta": 0,
     "rsl_vs_sector": 1.1352,
     "last_5_ranks": [
       26
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 60
   },
   {
@@ -633,18 +659,19 @@
     "pct_1w": 9.47,
     "pct_1m": 21.19,
     "market_cap": 24776728576,
-    "revenue": 6037499904,
+    "revenue": 6165799936,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 27,
-    "delta": 56,
+    "delta": 0,
     "rsl_vs_sector": 1.0827,
     "last_5_ranks": [
       27
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 57
   },
   {
@@ -659,16 +686,17 @@
     "market_cap": 28338180096,
     "revenue": 5800999936,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 28,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.1316,
     "last_5_ranks": [
       28
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 16
   },
   {
@@ -683,16 +711,17 @@
     "market_cap": 127561940992,
     "revenue": 26300000256,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 29,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0794,
     "last_5_ranks": [
       29
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 157
   },
   {
@@ -707,10 +736,11 @@
     "market_cap": 39745146880,
     "revenue": 4084000000,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 30,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0736,
     "last_5_ranks": [
       30
@@ -731,16 +761,17 @@
     "market_cap": 21789282304,
     "revenue": 31973076992,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 31,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0578,
     "last_5_ranks": [
       31
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 166
   },
   {
@@ -755,10 +786,11 @@
     "market_cap": 16719174656,
     "revenue": 5181000192,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 32,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0576,
     "last_5_ranks": [
       32
@@ -779,16 +811,17 @@
     "market_cap": 35338891264,
     "revenue": 3520550912,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 33,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0726,
     "last_5_ranks": [
       33
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 101
   },
   {
@@ -803,16 +836,17 @@
     "market_cap": 36835876864,
     "revenue": 5278400000,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 34,
-    "delta": 51,
+    "delta": 0,
     "rsl_vs_sector": 1.0848,
     "last_5_ranks": [
       34
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 38
   },
   {
@@ -827,16 +861,17 @@
     "market_cap": 88597610496,
     "revenue": 123005001728,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 35,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 1.1258,
     "last_5_ranks": [
       35
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 212
   },
   {
@@ -849,18 +884,19 @@
     "pct_1w": 6.76,
     "pct_1m": 17.53,
     "market_cap": 58112647168,
-    "revenue": 6512300032,
+    "revenue": 6674699776,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 36,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 1.076,
     "last_5_ranks": [
       36
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 79
   },
   {
@@ -873,12 +909,13 @@
     "pct_1w": 9.62,
     "pct_1m": 20.75,
     "market_cap": 20380321792,
-    "revenue": 8508800000,
+    "revenue": 8570399744,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 37,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 1.0744,
     "last_5_ranks": [
       37
@@ -899,16 +936,17 @@
     "market_cap": 196752654336,
     "revenue": 27782000640,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 38,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0543,
     "last_5_ranks": [
       38
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 213
   },
   {
@@ -923,10 +961,11 @@
     "market_cap": 16159834112,
     "revenue": 7667999744,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 39,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.1241,
     "last_5_ranks": [
       39
@@ -947,10 +986,11 @@
     "market_cap": 349131505664,
     "revenue": 169176006656,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 40,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0535,
     "last_5_ranks": [
       40
@@ -971,16 +1011,17 @@
     "market_cap": 24463052800,
     "revenue": 9208699904,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 41,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0612,
     "last_5_ranks": [
       41
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 149
   },
   {
@@ -995,10 +1036,11 @@
     "market_cap": 15913783296,
     "revenue": 4390900224,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 42,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.1207,
     "last_5_ranks": [
       42
@@ -1019,16 +1061,17 @@
     "market_cap": 63620198400,
     "revenue": 5043446784,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 43,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0655,
     "last_5_ranks": [
       43
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 132
   },
   {
@@ -1043,16 +1086,17 @@
     "market_cap": 15212922880,
     "revenue": 5180599808,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 44,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.2959,
     "last_5_ranks": [
       44
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 10
   },
   {
@@ -1067,16 +1111,17 @@
     "market_cap": 134104817664,
     "revenue": 37541998592,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 45,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0669,
     "last_5_ranks": [
       45
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 21
   },
   {
@@ -1091,16 +1136,17 @@
     "market_cap": 12945869824,
     "revenue": 11093954560,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 46,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0456,
     "last_5_ranks": [
       46
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 321
   },
   {
@@ -1115,10 +1161,11 @@
     "market_cap": 93403070464,
     "revenue": 16896199680,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 47,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.0653,
     "last_5_ranks": [
       47
@@ -1139,16 +1186,17 @@
     "market_cap": 56254439424,
     "revenue": 7790000128,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 48,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.2887,
     "last_5_ranks": [
       48
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 51
   },
   {
@@ -1163,10 +1211,11 @@
     "market_cap": 8156732416,
     "revenue": 10162927616,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 49,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 1.044,
     "last_5_ranks": [
       49
@@ -1187,16 +1236,17 @@
     "market_cap": 30347532288,
     "revenue": 5343000064,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 50,
-    "delta": 68,
+    "delta": 0,
     "rsl_vs_sector": 1.0844,
     "last_5_ranks": [
       50
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 67
   },
   {
@@ -1211,10 +1261,11 @@
     "market_cap": 96399507456,
     "revenue": 2228000000,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 51,
-    "delta": -42,
+    "delta": 0,
     "rsl_vs_sector": 1.0633,
     "last_5_ranks": [
       51
@@ -1235,16 +1286,17 @@
     "market_cap": 21933561856,
     "revenue": 7556100096,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 52,
-    "delta": 86,
+    "delta": 0,
     "rsl_vs_sector": 1.1125,
     "last_5_ranks": [
       52
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 27
   },
   {
@@ -1259,16 +1311,17 @@
     "market_cap": 99586965504,
     "revenue": 28458999808,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 53,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0698,
     "last_5_ranks": [
       53
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 45
   },
   {
@@ -1283,16 +1336,17 @@
     "market_cap": 42786398208,
     "revenue": 33043400704,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 54,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 1.0424,
     "last_5_ranks": [
       54
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 175
   },
   {
@@ -1307,16 +1361,17 @@
     "market_cap": 30262679552,
     "revenue": 15134999552,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 55,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.1111,
     "last_5_ranks": [
       55
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 118
   },
   {
@@ -1331,16 +1386,17 @@
     "market_cap": 8942278656,
     "revenue": 3802899968,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 56,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.111,
     "last_5_ranks": [
       56
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 104
   },
   {
@@ -1355,10 +1411,11 @@
     "market_cap": 63496269824,
     "revenue": 38959001600,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 57,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0774,
     "last_5_ranks": [
       57
@@ -1379,16 +1436,17 @@
     "market_cap": 44678209536,
     "revenue": 8796999680,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 58,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0409,
     "last_5_ranks": [
       58
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 130
   },
   {
@@ -1401,18 +1459,19 @@
     "pct_1w": 7.67,
     "pct_1m": 18.53,
     "market_cap": 58168205312,
-    "revenue": 22484000768,
+    "revenue": 19456999424,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 59,
-    "delta": 77,
+    "delta": 0,
     "rsl_vs_sector": 1.0604,
     "last_5_ranks": [
       59
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 11
   },
   {
@@ -1427,10 +1486,11 @@
     "market_cap": 25133455360,
     "revenue": 10206745600,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 60,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0678,
     "last_5_ranks": [
       60
@@ -1451,16 +1511,17 @@
     "market_cap": 12008333312,
     "revenue": 2476256000,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 61,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.067,
     "last_5_ranks": [
       61
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 9
   },
   {
@@ -1475,10 +1536,11 @@
     "market_cap": 86320898048,
     "revenue": 19135000576,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 62,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0394,
     "last_5_ranks": [
       62
@@ -1499,10 +1561,11 @@
     "market_cap": 47684653056,
     "revenue": 3432358912,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 63,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0654,
     "last_5_ranks": [
       63
@@ -1523,16 +1586,17 @@
     "market_cap": 15581039616,
     "revenue": 6997000192,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 64,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0528,
     "last_5_ranks": [
       64
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 361
   },
   {
@@ -1547,10 +1611,11 @@
     "market_cap": 27230343168,
     "revenue": 16691999744,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 65,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0729,
     "last_5_ranks": [
       65
@@ -1571,10 +1636,11 @@
     "market_cap": 94470782976,
     "revenue": 91367997440,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 66,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.1064,
     "last_5_ranks": [
       66
@@ -1595,10 +1661,11 @@
     "market_cap": 44365078528,
     "revenue": 4980667904,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 67,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.0638,
     "last_5_ranks": [
       67
@@ -1619,16 +1686,17 @@
     "market_cap": 26503931904,
     "revenue": 13603999744,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 68,
-    "delta": 40,
+    "delta": 0,
     "rsl_vs_sector": 1.0363,
     "last_5_ranks": [
       68
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 395
   },
   {
@@ -1641,18 +1709,19 @@
     "pct_1w": 12.32,
     "pct_1m": 11.08,
     "market_cap": 29349840896,
-    "revenue": 5020502016,
+    "revenue": 5229953024,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 69,
-    "delta": 230,
+    "delta": 0,
     "rsl_vs_sector": 1.0624,
     "last_5_ranks": [
       69
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 44
   },
   {
@@ -1667,16 +1736,17 @@
     "market_cap": 12437927936,
     "revenue": 12146911232,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 70,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0443,
     "last_5_ranks": [
       70
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 267
   },
   {
@@ -1691,10 +1761,11 @@
     "market_cap": 25881724928,
     "revenue": 20068700160,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 71,
-    "delta": -61,
+    "delta": 0,
     "rsl_vs_sector": 1.0442,
     "last_5_ranks": [
       71
@@ -1715,16 +1786,17 @@
     "market_cap": 24671238144,
     "revenue": 6814000128,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 72,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0619,
     "last_5_ranks": [
       72
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 82
   },
   {
@@ -1739,10 +1811,11 @@
     "market_cap": 96837206016,
     "revenue": 25247000576,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 73,
-    "delta": -31,
+    "delta": 0,
     "rsl_vs_sector": 1.1031,
     "last_5_ranks": [
       73
@@ -1763,16 +1836,17 @@
     "market_cap": 19494692864,
     "revenue": 18296600576,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 74,
-    "delta": 77,
+    "delta": 0,
     "rsl_vs_sector": 1.0418,
     "last_5_ranks": [
       74
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 223
   },
   {
@@ -1787,16 +1861,17 @@
     "market_cap": 106008764416,
     "revenue": 78701002752,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 75,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0517,
     "last_5_ranks": [
       75
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 22
   },
   {
@@ -1811,16 +1886,17 @@
     "market_cap": 17030874112,
     "revenue": 2197420032,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 76,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0469,
     "last_5_ranks": [
       76
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 186
   },
   {
@@ -1833,18 +1909,19 @@
     "pct_1w": 5.07,
     "pct_1m": 15.32,
     "market_cap": 85561950208,
-    "revenue": 12236999680,
+    "revenue": 12602999808,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 77,
-    "delta": 145,
+    "delta": 0,
     "rsl_vs_sector": 1.2738,
     "last_5_ranks": [
       77
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 48
   },
   {
@@ -1859,16 +1936,17 @@
     "market_cap": 14206437376,
     "revenue": 3915000064,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 78,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 1.0409,
     "last_5_ranks": [
       78
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 64
   },
   {
@@ -1883,10 +1961,11 @@
     "market_cap": 29499959296,
     "revenue": 14594499584,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 79,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0502,
     "last_5_ranks": [
       79
@@ -1907,16 +1986,17 @@
     "market_cap": 94826020864,
     "revenue": 21447999488,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 80,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.2717,
     "last_5_ranks": [
       80
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 111
   },
   {
@@ -1931,10 +2011,11 @@
     "market_cap": 196571545600,
     "revenue": 48228999168,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 81,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0497,
     "last_5_ranks": [
       81
@@ -1955,16 +2036,17 @@
     "market_cap": 36090048512,
     "revenue": 18777999360,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 82,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.0557,
     "last_5_ranks": [
       82
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 94
   },
   {
@@ -1979,16 +2061,17 @@
     "market_cap": 11238280192,
     "revenue": 5066358784,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 83,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.0288,
     "last_5_ranks": [
       83
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 182
   },
   {
@@ -2003,16 +2086,17 @@
     "market_cap": 21040508928,
     "revenue": 5014151168,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 84,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 1.2699,
     "last_5_ranks": [
       84
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 411
   },
   {
@@ -2027,16 +2111,17 @@
     "market_cap": 8232963584,
     "revenue": 17722869760,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 85,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0283,
     "last_5_ranks": [
       85
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 445
   },
   {
@@ -2051,16 +2136,17 @@
     "market_cap": 19075278848,
     "revenue": 15942134784,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 86,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.0278,
     "last_5_ranks": [
       86
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 87
   },
   {
@@ -2075,16 +2161,17 @@
     "market_cap": 185087262720,
     "revenue": 28824999936,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 87,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0675,
     "last_5_ranks": [
       87
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 233
   },
   {
@@ -2099,16 +2186,17 @@
     "market_cap": 42539667456,
     "revenue": 6602500096,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 88,
-    "delta": 40,
+    "delta": 0,
     "rsl_vs_sector": 1.096,
     "last_5_ranks": [
       88
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 115
   },
   {
@@ -2121,18 +2209,19 @@
     "pct_1w": 9.29,
     "pct_1m": 17.76,
     "market_cap": 124984868864,
-    "revenue": 410983006208,
+    "revenue": 418790014976,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 89,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 1.0457,
     "last_5_ranks": [
       89
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 12
   },
   {
@@ -2147,16 +2236,17 @@
     "market_cap": 11704202240,
     "revenue": 18352594944,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 90,
-    "delta": 68,
+    "delta": 0,
     "rsl_vs_sector": 1.0446,
     "last_5_ranks": [
       90
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 35
   },
   {
@@ -2171,10 +2261,11 @@
     "market_cap": 36643618816,
     "revenue": 8008900096,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 91,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 1.0603,
     "last_5_ranks": [
       91
@@ -2195,16 +2286,17 @@
     "market_cap": 23892787200,
     "revenue": 24757000192,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 92,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0909,
     "last_5_ranks": [
       92
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 122
   },
   {
@@ -2219,16 +2311,17 @@
     "market_cap": 21146787840,
     "revenue": 55694000128,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 93,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0333,
     "last_5_ranks": [
       93
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 221
   },
   {
@@ -2243,10 +2336,11 @@
     "market_cap": 1016405884928,
     "revenue": 735839977472,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 94,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0324,
     "last_5_ranks": [
       94
@@ -2267,10 +2361,11 @@
     "market_cap": 136951660544,
     "revenue": 16293000192,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 95,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0498,
     "last_5_ranks": [
       95
@@ -2291,16 +2386,17 @@
     "market_cap": 50205081600,
     "revenue": 23128000512,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 96,
-    "delta": 39,
+    "delta": 0,
     "rsl_vs_sector": 1.0308,
     "last_5_ranks": [
       96
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 43
   },
   {
@@ -2315,10 +2411,11 @@
     "market_cap": 36719194112,
     "revenue": 180409008128,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 97,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 1.0392,
     "last_5_ranks": [
       97
@@ -2337,18 +2434,19 @@
     "pct_1w": 5.15,
     "pct_1m": 16.06,
     "market_cap": 44911992832,
-    "revenue": 17688999936,
+    "revenue": 18072000512,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 98,
-    "delta": 69,
+    "delta": 0,
     "rsl_vs_sector": 1.0592,
     "last_5_ranks": [
       98
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 106
   },
   {
@@ -2363,10 +2461,11 @@
     "market_cap": 28907528192,
     "revenue": 13274999808,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 99,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0463,
     "last_5_ranks": [
       99
@@ -2387,16 +2486,17 @@
     "market_cap": 61252980736,
     "revenue": 19209000960,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 100,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 1.059,
     "last_5_ranks": [
       100
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 210
   },
   {
@@ -2409,18 +2509,19 @@
     "pct_1w": 4.22,
     "pct_1m": 19.1,
     "market_cap": 67442274304,
-    "revenue": 70137004032,
+    "revenue": 70229999616,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 101,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0458,
     "last_5_ranks": [
       101
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 128
   },
   {
@@ -2435,16 +2536,17 @@
     "market_cap": 97241366528,
     "revenue": 10912000000,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 102,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0452,
     "last_5_ranks": [
       102
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 61
   },
   {
@@ -2459,16 +2561,17 @@
     "market_cap": 15135984640,
     "revenue": 13754200064,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 103,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.045,
     "last_5_ranks": [
       103
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 98
   },
   {
@@ -2483,10 +2586,11 @@
     "market_cap": 50804027392,
     "revenue": 25646370816,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 104,
-    "delta": -55,
+    "delta": 0,
     "rsl_vs_sector": 1.0447,
     "last_5_ranks": [
       104
@@ -2507,16 +2611,17 @@
     "market_cap": 41004572672,
     "revenue": 149326004224,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 105,
-    "delta": 58,
+    "delta": 0,
     "rsl_vs_sector": 1.0271,
     "last_5_ranks": [
       105
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 80
   },
   {
@@ -2531,10 +2636,11 @@
     "market_cap": 18601940992,
     "revenue": 8794999808,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 106,
-    "delta": -54,
+    "delta": 0,
     "rsl_vs_sector": 1.0859,
     "last_5_ranks": [
       106
@@ -2553,12 +2659,13 @@
     "pct_1w": 2.37,
     "pct_1m": 16.2,
     "market_cap": 10827577344,
-    "revenue": 3053400064,
+    "revenue": 3189199872,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 107,
-    "delta": -78,
+    "delta": 0,
     "rsl_vs_sector": 1.0372,
     "last_5_ranks": [
       107
@@ -2579,10 +2686,11 @@
     "market_cap": 39787016192,
     "revenue": 27593000960,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 108,
-    "delta": -82,
+    "delta": 0,
     "rsl_vs_sector": 1.0175,
     "last_5_ranks": [
       108
@@ -2601,18 +2709,19 @@
     "pct_1w": 5.02,
     "pct_1m": 14.66,
     "market_cap": 86003703808,
-    "revenue": 6940724224,
+    "revenue": 7153709056,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 109,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.0321,
     "last_5_ranks": [
       109
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 189
   },
   {
@@ -2627,16 +2736,17 @@
     "market_cap": 38926372864,
     "revenue": 10323999744,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 110,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 1.0566,
     "last_5_ranks": [
       110
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 177
   },
   {
@@ -2651,16 +2761,17 @@
     "market_cap": 75983216640,
     "revenue": 17237999616,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 111,
-    "delta": 73,
+    "delta": 0,
     "rsl_vs_sector": 1.0849,
     "last_5_ranks": [
       111
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 72
   },
   {
@@ -2675,10 +2786,11 @@
     "market_cap": 12076762112,
     "revenue": 4236900096,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 112,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0355,
     "last_5_ranks": [
       112
@@ -2699,10 +2811,11 @@
     "market_cap": 19471898624,
     "revenue": 4396199936,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 113,
-    "delta": -65,
+    "delta": 0,
     "rsl_vs_sector": 1.0839,
     "last_5_ranks": [
       113
@@ -2723,10 +2836,11 @@
     "market_cap": 68361838592,
     "revenue": 19369000960,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 114,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 1.0834,
     "last_5_ranks": [
       114
@@ -2747,16 +2861,17 @@
     "market_cap": 472194187264,
     "revenue": 303154003968,
     "exp_count": 20,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 115,
-    "delta": 90,
+    "delta": 0,
     "rsl_vs_sector": 1.0244,
     "last_5_ranks": [
       115
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 125
   },
   {
@@ -2771,10 +2886,11 @@
     "market_cap": 59715551232,
     "revenue": 5779999744,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 116,
-    "delta": -41,
+    "delta": 0,
     "rsl_vs_sector": 1.042,
     "last_5_ranks": [
       116
@@ -2795,10 +2911,11 @@
     "market_cap": 14437960704,
     "revenue": 15448000512,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 117,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0832,
     "last_5_ranks": [
       117
@@ -2819,10 +2936,11 @@
     "market_cap": 165517819904,
     "revenue": 11578000384,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 118,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 1.0346,
     "last_5_ranks": [
       118
@@ -2843,16 +2961,17 @@
     "market_cap": 62016225280,
     "revenue": 254247993344,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 119,
-    "delta": 95,
+    "delta": 0,
     "rsl_vs_sector": 1.0342,
     "last_5_ranks": [
       119
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 47
   },
   {
@@ -2867,10 +2986,11 @@
     "market_cap": 27783804928,
     "revenue": 12955516928,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 120,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.0138,
     "last_5_ranks": [
       120
@@ -2891,10 +3011,11 @@
     "market_cap": 75841175552,
     "revenue": 186952007680,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 121,
-    "delta": -60,
+    "delta": 0,
     "rsl_vs_sector": 1.0137,
     "last_5_ranks": [
       121
@@ -2915,10 +3036,11 @@
     "market_cap": 1215626477568,
     "revenue": 86461997056,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 122,
-    "delta": -67,
+    "delta": 0,
     "rsl_vs_sector": 1.0312,
     "last_5_ranks": [
       122
@@ -2939,10 +3061,11 @@
     "market_cap": 107451432960,
     "revenue": 7581000192,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 123,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.012,
     "last_5_ranks": [
       123
@@ -2963,16 +3086,17 @@
     "market_cap": 25872461824,
     "revenue": 13366500352,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 124,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0118,
     "last_5_ranks": [
       124
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 120
   },
   {
@@ -2987,16 +3111,17 @@
     "market_cap": 19047520256,
     "revenue": 4504000000,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 125,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0506,
     "last_5_ranks": [
       125
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 225
   },
   {
@@ -3011,16 +3136,17 @@
     "market_cap": 53255692288,
     "revenue": 20338554880,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 126,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0107,
     "last_5_ranks": [
       126
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 180
   },
   {
@@ -3035,16 +3161,17 @@
     "market_cap": 194476802048,
     "revenue": 98241003520,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 127,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 1.0194,
     "last_5_ranks": [
       127
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 243
   },
   {
@@ -3059,10 +3186,11 @@
     "market_cap": 88857026560,
     "revenue": 8176000000,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 128,
-    "delta": -39,
+    "delta": 0,
     "rsl_vs_sector": 1.0368,
     "last_5_ranks": [
       128
@@ -3083,16 +3211,17 @@
     "market_cap": 31031685120,
     "revenue": 10273999872,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 129,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0362,
     "last_5_ranks": [
       129
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 89
   },
   {
@@ -3107,16 +3236,17 @@
     "market_cap": 26277447680,
     "revenue": 6245600256,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 130,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0183,
     "last_5_ranks": [
       130
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 95
   },
   {
@@ -3131,16 +3261,17 @@
     "market_cap": 121246416896,
     "revenue": 22262900736,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 131,
-    "delta": 69,
+    "delta": 0,
     "rsl_vs_sector": 1.0766,
     "last_5_ranks": [
       131
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 33
   },
   {
@@ -3155,16 +3286,17 @@
     "market_cap": 89965494272,
     "revenue": 11009500160,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 132,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0227,
     "last_5_ranks": [
       132
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 121
   },
   {
@@ -3179,16 +3311,17 @@
     "market_cap": 95937380352,
     "revenue": 26069999616,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 133,
-    "delta": 74,
+    "delta": 0,
     "rsl_vs_sector": 1.0755,
     "last_5_ranks": [
       133
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 159
   },
   {
@@ -3203,16 +3336,17 @@
     "market_cap": 13469368320,
     "revenue": 7685700096,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 134,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.017,
     "last_5_ranks": [
       134
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 260
   },
   {
@@ -3227,16 +3361,17 @@
     "market_cap": 30025056256,
     "revenue": 24778000384,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 135,
-    "delta": 31,
+    "delta": 0,
     "rsl_vs_sector": 1.0169,
     "last_5_ranks": [
       135
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 214
   },
   {
@@ -3251,10 +3386,11 @@
     "market_cap": 83779559424,
     "revenue": 5178999808,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 136,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 1.0076,
     "last_5_ranks": [
       136
@@ -3275,16 +3411,17 @@
     "market_cap": 27090448384,
     "revenue": 13998372864,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 137,
-    "delta": 111,
+    "delta": 0,
     "rsl_vs_sector": 1.0465,
     "last_5_ranks": [
       137
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 236
   },
   {
@@ -3299,10 +3436,11 @@
     "market_cap": 571421818880,
     "revenue": 36288000000,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 138,
-    "delta": -47,
+    "delta": 0,
     "rsl_vs_sector": 1.0329,
     "last_5_ranks": [
       138
@@ -3323,16 +3461,17 @@
     "market_cap": 17416108032,
     "revenue": 15134999552,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 139,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0411,
     "last_5_ranks": [
       139
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 131
   },
   {
@@ -3347,16 +3486,17 @@
     "market_cap": 78450704384,
     "revenue": 21284999168,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 140,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.0148,
     "last_5_ranks": [
       140
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 141
   },
   {
@@ -3371,16 +3511,17 @@
     "market_cap": 15476193280,
     "revenue": 16197000192,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 141,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0323,
     "last_5_ranks": [
       141
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 83
   },
   {
@@ -3395,6 +3536,7 @@
     "market_cap": 1225192505344,
     "revenue": 384687013888,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 142,
@@ -3419,10 +3561,11 @@
     "market_cap": 58758819840,
     "revenue": 45890998272,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 143,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.0057,
     "last_5_ranks": [
       143
@@ -3443,10 +3586,11 @@
     "market_cap": 20162764800,
     "revenue": 2852218112,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 144,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0196,
     "last_5_ranks": [
       144
@@ -3467,16 +3611,17 @@
     "market_cap": 17178156032,
     "revenue": 9413880832,
     "exp_count": 0,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 145,
-    "delta": 66,
+    "delta": 0,
     "rsl_vs_sector": 1.0051,
     "last_5_ranks": [
       145
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 249
   },
   {
@@ -3491,16 +3636,17 @@
     "market_cap": 23425847296,
     "revenue": 18559000576,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 146,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.044,
     "last_5_ranks": [
       146
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 390
   },
   {
@@ -3515,10 +3661,11 @@
     "market_cap": 90788954112,
     "revenue": 25833117696,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 147,
-    "delta": -53,
+    "delta": 0,
     "rsl_vs_sector": 1.0307,
     "last_5_ranks": [
       147
@@ -3539,10 +3686,11 @@
     "market_cap": 121033015296,
     "revenue": 37910601728,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 148,
-    "delta": -60,
+    "delta": 0,
     "rsl_vs_sector": 1.0044,
     "last_5_ranks": [
       148
@@ -3563,16 +3711,17 @@
     "market_cap": 11800442880,
     "revenue": 3414745088,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 149,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0188,
     "last_5_ranks": [
       149
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 254
   },
   {
@@ -3587,10 +3736,11 @@
     "market_cap": 207843540992,
     "revenue": 30987999232,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 150,
-    "delta": -78,
+    "delta": 0,
     "rsl_vs_sector": 1.0231,
     "last_5_ranks": [
       150
@@ -3611,16 +3761,17 @@
     "market_cap": 101423661056,
     "revenue": 32803000320,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 151,
-    "delta": 45,
+    "delta": 0,
     "rsl_vs_sector": 1.0423,
     "last_5_ranks": [
       151
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 201
   },
   {
@@ -3635,16 +3786,17 @@
     "market_cap": 387301572608,
     "revenue": 87921999872,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 152,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 1.0114,
     "last_5_ranks": [
       152
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 91
   },
   {
@@ -3659,10 +3811,11 @@
     "market_cap": 19207911424,
     "revenue": 7061000192,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 153,
-    "delta": -73,
+    "delta": 0,
     "rsl_vs_sector": 1.0694,
     "last_5_ranks": [
       153
@@ -3683,10 +3836,11 @@
     "market_cap": 14324519936,
     "revenue": 9364100096,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 154,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0364,
     "last_5_ranks": [
       154
@@ -3707,16 +3861,17 @@
     "market_cap": 48153743360,
     "revenue": 25940000768,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 155,
-    "delta": 55,
+    "delta": 0,
     "rsl_vs_sector": 1.0406,
     "last_5_ranks": [
       155
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 228
   },
   {
@@ -3731,16 +3886,17 @@
     "market_cap": 27758366720,
     "revenue": 4155599872,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 156,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0161,
     "last_5_ranks": [
       156
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 316
   },
   {
@@ -3755,10 +3911,11 @@
     "market_cap": 11321621504,
     "revenue": 4158603008,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 157,
-    "delta": -67,
+    "delta": 0,
     "rsl_vs_sector": 1.0205,
     "last_5_ranks": [
       157
@@ -3779,10 +3936,11 @@
     "market_cap": 20846934016,
     "revenue": 42201001984,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 158,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.0004,
     "last_5_ranks": [
       158
@@ -3803,16 +3961,17 @@
     "market_cap": 56299974656,
     "revenue": 6216386048,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 159,
-    "delta": 57,
+    "delta": 0,
     "rsl_vs_sector": 1.0145,
     "last_5_ranks": [
       159
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 303
   },
   {
@@ -3827,10 +3986,11 @@
     "market_cap": 202402234368,
     "revenue": 98860998656,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 160,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0651,
     "last_5_ranks": [
       160
@@ -3851,16 +4011,17 @@
     "market_cap": 84583317504,
     "revenue": 39898001408,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 161,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0084,
     "last_5_ranks": [
       161
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 152
   },
   {
@@ -3875,16 +4036,17 @@
     "market_cap": 35659948032,
     "revenue": 12258003968,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 162,
-    "delta": 102,
+    "delta": 0,
     "rsl_vs_sector": 1.0082,
     "last_5_ranks": [
       162
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 289
   },
   {
@@ -3899,10 +4061,11 @@
     "market_cap": 30445115392,
     "revenue": 43637997568,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 163,
-    "delta": -41,
+    "delta": 0,
     "rsl_vs_sector": 1.0072,
     "last_5_ranks": [
       163
@@ -3923,16 +4086,17 @@
     "market_cap": 14234188800,
     "revenue": 9156899840,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 164,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 1.007,
     "last_5_ranks": [
       164
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 76
   },
   {
@@ -3947,16 +4111,17 @@
     "market_cap": 89901776896,
     "revenue": 11560620032,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 165,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.0646,
     "last_5_ranks": [
       165
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 50
   },
   {
@@ -3971,16 +4136,17 @@
     "market_cap": 13596149760,
     "revenue": 1750148992,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 166,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.012,
     "last_5_ranks": [
       166
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 290
   },
   {
@@ -3995,16 +4161,17 @@
     "market_cap": 125477273600,
     "revenue": 28125999104,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 167,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9969,
     "last_5_ranks": [
       167
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 350
   },
   {
@@ -4017,18 +4184,19 @@
     "pct_1w": 2.36,
     "pct_1m": 11.34,
     "market_cap": 31230687232,
-    "revenue": 8410999808,
+    "revenue": 8602999808,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 168,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.0349,
     "last_5_ranks": [
       168
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 227
   },
   {
@@ -4043,16 +4211,17 @@
     "market_cap": 28116510720,
     "revenue": 11841000448,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 169,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.0151,
     "last_5_ranks": [
       169
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 70
   },
   {
@@ -4065,18 +4234,19 @@
     "pct_1w": 0.4,
     "pct_1m": 14.49,
     "market_cap": 67782660096,
-    "revenue": 16581999616,
+    "revenue": 16565999616,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 170,
-    "delta": 103,
+    "delta": 0,
     "rsl_vs_sector": 1.0048,
     "last_5_ranks": [
       170
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 192
   },
   {
@@ -4091,16 +4261,17 @@
     "market_cap": 12254178304,
     "revenue": 14167544832,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 171,
-    "delta": 89,
+    "delta": 0,
     "rsl_vs_sector": 1.0142,
     "last_5_ranks": [
       171
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 311
   },
   {
@@ -4113,12 +4284,13 @@
     "pct_1w": 4.91,
     "pct_1m": 15.54,
     "market_cap": 33929791488,
-    "revenue": 9525000192,
+    "revenue": 9516000256,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 172,
-    "delta": -150,
+    "delta": 0,
     "rsl_vs_sector": 1.0137,
     "last_5_ranks": [
       172
@@ -4137,12 +4309,13 @@
     "pct_1w": 5.8,
     "pct_1m": 5.88,
     "market_cap": 35798474752,
-    "revenue": 5301862912,
+    "revenue": 5542104064,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 173,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0589,
     "last_5_ranks": [
       173
@@ -4163,10 +4336,11 @@
     "market_cap": 789823225856,
     "revenue": 45902999552,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 174,
-    "delta": -60,
+    "delta": 0,
     "rsl_vs_sector": 1.0198,
     "last_5_ranks": [
       174
@@ -4185,18 +4359,19 @@
     "pct_1w": 2.19,
     "pct_1m": 11.97,
     "market_cap": 63289577472,
-    "revenue": 18069000192,
+    "revenue": 16600000512,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 175,
-    "delta": 79,
+    "delta": 0,
     "rsl_vs_sector": 1.0186,
     "last_5_ranks": [
       175
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 197
   },
   {
@@ -4211,16 +4386,17 @@
     "market_cap": 50489090048,
     "revenue": 3089946880,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 176,
-    "delta": 131,
+    "delta": 0,
     "rsl_vs_sector": 1.0069,
     "last_5_ranks": [
       176
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 280
   },
   {
@@ -4235,16 +4411,17 @@
     "market_cap": 109971603456,
     "revenue": 6956100096,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 177,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0178,
     "last_5_ranks": [
       177
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 84
   },
   {
@@ -4259,10 +4436,11 @@
     "market_cap": 21752328192,
     "revenue": 31545999360,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 178,
-    "delta": -83,
+    "delta": 0,
     "rsl_vs_sector": 1.0577,
     "last_5_ranks": [
       178
@@ -4283,10 +4461,11 @@
     "market_cap": 248970739712,
     "revenue": 38903001088,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 179,
-    "delta": -69,
+    "delta": 0,
     "rsl_vs_sector": 1.0101,
     "last_5_ranks": [
       179
@@ -4305,12 +4484,13 @@
     "pct_1w": 4.78,
     "pct_1m": 8.99,
     "market_cap": 42248699904,
-    "revenue": 60814999552,
+    "revenue": 61794000896,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 180,
-    "delta": -50,
+    "delta": 0,
     "rsl_vs_sector": 1.0169,
     "last_5_ranks": [
       180
@@ -4331,16 +4511,17 @@
     "market_cap": 129049436160,
     "revenue": 20633999360,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 181,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9992,
     "last_5_ranks": [
       181
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 124
   },
   {
@@ -4355,16 +4536,17 @@
     "market_cap": 14264019968,
     "revenue": 3064825088,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 182,
-    "delta": 59,
+    "delta": 0,
     "rsl_vs_sector": 1.0042,
     "last_5_ranks": [
       182
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 297
   },
   {
@@ -4379,10 +4561,11 @@
     "market_cap": 56159399936,
     "revenue": 71799996416,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 183,
-    "delta": -77,
+    "delta": 0,
     "rsl_vs_sector": 1.0559,
     "last_5_ranks": [
       183
@@ -4403,16 +4586,17 @@
     "market_cap": 23346694144,
     "revenue": 31484000256,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 184,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0233,
     "last_5_ranks": [
       184
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 268
   },
   {
@@ -4427,16 +4611,17 @@
     "market_cap": 51587448832,
     "revenue": 14872999936,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 185,
-    "delta": 48,
+    "delta": 0,
     "rsl_vs_sector": 1.0272,
     "last_5_ranks": [
       185
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 235
   },
   {
@@ -4451,10 +4636,11 @@
     "market_cap": 143220588544,
     "revenue": 15467870208,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 186,
-    "delta": -93,
+    "delta": 0,
     "rsl_vs_sector": 1.0141,
     "last_5_ranks": [
       186
@@ -4475,10 +4661,11 @@
     "market_cap": 74194354176,
     "revenue": 94720000000,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 187,
-    "delta": -70,
+    "delta": 0,
     "rsl_vs_sector": 1.0543,
     "last_5_ranks": [
       187
@@ -4499,10 +4686,11 @@
     "market_cap": 85775458304,
     "revenue": 17372299264,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 188,
-    "delta": -39,
+    "delta": 0,
     "rsl_vs_sector": 1.0218,
     "last_5_ranks": [
       188
@@ -4523,16 +4711,17 @@
     "market_cap": 16568099840,
     "revenue": 17795000320,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 189,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 1.053,
     "last_5_ranks": [
       189
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 153
   },
   {
@@ -4547,16 +4736,17 @@
     "market_cap": 141992099840,
     "revenue": 61939998720,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 190,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 1.0126,
     "last_5_ranks": [
       190
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 150
   },
   {
@@ -4571,16 +4761,17 @@
     "market_cap": 180049854464,
     "revenue": 13793300480,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 191,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0009,
     "last_5_ranks": [
       191
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 184
   },
   {
@@ -4595,10 +4786,11 @@
     "market_cap": 54150647808,
     "revenue": 12394000384,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 192,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9865,
     "last_5_ranks": [
       192
@@ -4619,16 +4811,17 @@
     "market_cap": 28599285760,
     "revenue": 14866676736,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 193,
-    "delta": 70,
+    "delta": 0,
     "rsl_vs_sector": 1.0118,
     "last_5_ranks": [
       193
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 137
   },
   {
@@ -4643,10 +4836,11 @@
     "market_cap": 84316651520,
     "revenue": 24912099328,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 194,
-    "delta": -70,
+    "delta": 0,
     "rsl_vs_sector": 1.02,
     "last_5_ranks": [
       194
@@ -4667,10 +4861,11 @@
     "market_cap": 21316472832,
     "revenue": 6957799936,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 195,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.024,
     "last_5_ranks": [
       195
@@ -4691,16 +4886,17 @@
     "market_cap": 20153876480,
     "revenue": 6093899776,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 196,
-    "delta": 100,
+    "delta": 0,
     "rsl_vs_sector": 1.0237,
     "last_5_ranks": [
       196
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 211
   },
   {
@@ -4713,12 +4909,13 @@
     "pct_1w": 3.19,
     "pct_1m": 11.54,
     "market_cap": 93701447680,
-    "revenue": 9218957312,
+    "revenue": 9584870400,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 197,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9939,
     "last_5_ranks": [
       197
@@ -4739,16 +4936,17 @@
     "market_cap": 47086133248,
     "revenue": 6741898240,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 198,
-    "delta": 61,
+    "delta": 0,
     "rsl_vs_sector": 0.9991,
     "last_5_ranks": [
       198
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 278
   },
   {
@@ -4763,6 +4961,7 @@
     "market_cap": 11711533056,
     "revenue": 5577003008,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 199,
@@ -4787,10 +4986,11 @@
     "market_cap": 35897577472,
     "revenue": 65552998400,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 200,
-    "delta": -80,
+    "delta": 0,
     "rsl_vs_sector": 1.0502,
     "last_5_ranks": [
       200
@@ -4811,10 +5011,11 @@
     "market_cap": 28543299584,
     "revenue": 17959000064,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 201,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.0474,
     "last_5_ranks": [
       201
@@ -4835,16 +5036,17 @@
     "market_cap": 29572997120,
     "revenue": 4921525760,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 202,
-    "delta": 33,
+    "delta": 0,
     "rsl_vs_sector": 1.0206,
     "last_5_ranks": [
       202
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 250
   },
   {
@@ -4859,16 +5061,17 @@
     "market_cap": 39894147072,
     "revenue": 6686499840,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 203,
-    "delta": 128,
+    "delta": 0,
     "rsl_vs_sector": 1.0459,
     "last_5_ranks": [
       203
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 368
   },
   {
@@ -4883,16 +5086,17 @@
     "market_cap": 135095664640,
     "revenue": 91699003392,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 204,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.0077,
     "last_5_ranks": [
       204
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 148
   },
   {
@@ -4907,16 +5111,17 @@
     "market_cap": 9899251712,
     "revenue": 1352390016,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 205,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9958,
     "last_5_ranks": [
       205
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 344
   },
   {
@@ -4931,10 +5136,11 @@
     "market_cap": 65734287360,
     "revenue": 10005999616,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 206,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.0465,
     "last_5_ranks": [
       206
@@ -4955,16 +5161,17 @@
     "market_cap": 411821113344,
     "revenue": 51053998080,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 207,
-    "delta": 67,
+    "delta": 0,
     "rsl_vs_sector": 0.9891,
     "last_5_ranks": [
       207
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 107
   },
   {
@@ -4979,10 +5186,11 @@
     "market_cap": 37486161920,
     "revenue": 7210999808,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 208,
-    "delta": -110,
+    "delta": 0,
     "rsl_vs_sector": 1.0141,
     "last_5_ranks": [
       208
@@ -5003,10 +5211,11 @@
     "market_cap": 59732664320,
     "revenue": 18276999168,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 209,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0057,
     "last_5_ranks": [
       209
@@ -5027,16 +5236,17 @@
     "market_cap": 124401819648,
     "revenue": 26606000128,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 210,
-    "delta": 111,
+    "delta": 0,
     "rsl_vs_sector": 1.0138,
     "last_5_ranks": [
       210
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 169
   },
   {
@@ -5049,12 +5259,13 @@
     "pct_1w": 6.89,
     "pct_1m": 5.8,
     "market_cap": 8167888896,
-    "revenue": 7413425152,
+    "revenue": 7268730880,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 211,
-    "delta": -46,
+    "delta": 0,
     "rsl_vs_sector": 0.9796,
     "last_5_ranks": [
       211
@@ -5075,16 +5286,17 @@
     "market_cap": 137544187904,
     "revenue": 12951600128,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 212,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 0.998,
     "last_5_ranks": [
       212
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 142
   },
   {
@@ -5099,10 +5311,11 @@
     "market_cap": 39004876800,
     "revenue": 15283000320,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 213,
-    "delta": -74,
+    "delta": 0,
     "rsl_vs_sector": 0.9879,
     "last_5_ranks": [
       213
@@ -5123,10 +5336,11 @@
     "market_cap": 190206017536,
     "revenue": 28541999104,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 214,
-    "delta": -85,
+    "delta": 0,
     "rsl_vs_sector": 1.0048,
     "last_5_ranks": [
       214
@@ -5145,18 +5359,19 @@
     "pct_1w": 1.92,
     "pct_1m": 6.09,
     "market_cap": 42223910912,
-    "revenue": 26272534528,
+    "revenue": 27878426624,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 215,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 1.0427,
     "last_5_ranks": [
       215
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 238
   },
   {
@@ -5171,10 +5386,11 @@
     "market_cap": 48975613952,
     "revenue": 34294999040,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 216,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0045,
     "last_5_ranks": [
       216
@@ -5195,16 +5411,17 @@
     "market_cap": 82552160256,
     "revenue": 48921001984,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 217,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0045,
     "last_5_ranks": [
       217
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 71
   },
   {
@@ -5219,10 +5436,11 @@
     "market_cap": 19801509888,
     "revenue": 24517500928,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 218,
-    "delta": -150,
+    "delta": 0,
     "rsl_vs_sector": 1.2082,
     "last_5_ranks": [
       218
@@ -5243,10 +5461,11 @@
     "market_cap": 31432017920,
     "revenue": 8052100096,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 219,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 1.0433,
     "last_5_ranks": [
       219
@@ -5267,10 +5486,11 @@
     "market_cap": 12894911488,
     "revenue": 3673999872,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 220,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9919,
     "last_5_ranks": [
       220
@@ -5291,10 +5511,11 @@
     "market_cap": 25303867392,
     "revenue": 17959000064,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 221,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 1.0409,
     "last_5_ranks": [
       221
@@ -5315,16 +5536,17 @@
     "market_cap": 22167060480,
     "revenue": 8974999552,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 222,
-    "delta": 50,
+    "delta": 0,
     "rsl_vs_sector": 1.0153,
     "last_5_ranks": [
       222
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 295
   },
   {
@@ -5339,16 +5561,17 @@
     "market_cap": 239288221696,
     "revenue": 36238000128,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 223,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.0111,
     "last_5_ranks": [
       223
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 229
   },
   {
@@ -5363,10 +5586,11 @@
     "market_cap": 23190663168,
     "revenue": 7703399936,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 224,
-    "delta": -53,
+    "delta": 0,
     "rsl_vs_sector": 1.0028,
     "last_5_ranks": [
       224
@@ -5387,10 +5611,11 @@
     "market_cap": 81113522176,
     "revenue": 16645999616,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 225,
-    "delta": -43,
+    "delta": 0,
     "rsl_vs_sector": 1.0421,
     "last_5_ranks": [
       225
@@ -5411,10 +5636,11 @@
     "market_cap": 39295561728,
     "revenue": 45006999552,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 226,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 0.9908,
     "last_5_ranks": [
       226
@@ -5433,18 +5659,19 @@
     "pct_1w": 2.74,
     "pct_1m": 8.26,
     "market_cap": 12002625536,
-    "revenue": 1581868032,
+    "revenue": 1565353984,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 227,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 0.9903,
     "last_5_ranks": [
       227
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 326
   },
   {
@@ -5457,18 +5684,19 @@
     "pct_1w": 1.73,
     "pct_1m": 7.74,
     "market_cap": 14261212160,
-    "revenue": 1685532032,
+    "revenue": 1706733952,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 228,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 0.9896,
     "last_5_ranks": [
       228
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 298
   },
   {
@@ -5483,16 +5711,17 @@
     "market_cap": 52704333824,
     "revenue": 14035376128,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 229,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0134,
     "last_5_ranks": [
       229
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 269
   },
   {
@@ -5505,18 +5734,19 @@
     "pct_1w": -1.2,
     "pct_1m": 8.46,
     "market_cap": 21788768256,
-    "revenue": 14737300480,
+    "revenue": 14726899712,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 230,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 0.9934,
     "last_5_ranks": [
       230
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 105
   },
   {
@@ -5531,10 +5761,11 @@
     "market_cap": 30458871808,
     "revenue": 8005155840,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 231,
-    "delta": -88,
+    "delta": 0,
     "rsl_vs_sector": 0.9744,
     "last_5_ranks": [
       231
@@ -5555,16 +5786,17 @@
     "market_cap": 14476703744,
     "revenue": 2224538112,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 232,
-    "delta": 58,
+    "delta": 0,
     "rsl_vs_sector": 0.9879,
     "last_5_ranks": [
       232
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 354
   },
   {
@@ -5579,16 +5811,17 @@
     "market_cap": 7866835968,
     "revenue": 2759439104,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 233,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 0.9877,
     "last_5_ranks": [
       233
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 382
   },
   {
@@ -5601,12 +5834,13 @@
     "pct_1w": -0.72,
     "pct_1m": 11.28,
     "market_cap": 68918943744,
-    "revenue": 12602200064,
+    "revenue": 12990900224,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 234,
-    "delta": -48,
+    "delta": 0,
     "rsl_vs_sector": 1.0072,
     "last_5_ranks": [
       234
@@ -5625,18 +5859,19 @@
     "pct_1w": 0.38,
     "pct_1m": 9.25,
     "market_cap": 107374878720,
-    "revenue": 30179000320,
+    "revenue": 31199000576,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 235,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 1.0107,
     "last_5_ranks": [
       235
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 256
   },
   {
@@ -5651,16 +5886,17 @@
     "market_cap": 129043144704,
     "revenue": 50033000448,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 236,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.9914,
     "last_5_ranks": [
       236
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 234
   },
   {
@@ -5675,16 +5911,17 @@
     "market_cap": 655558770688,
     "revenue": 99334995968,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 237,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 0.9907,
     "last_5_ranks": [
       237
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 183
   },
   {
@@ -5699,16 +5936,17 @@
     "market_cap": 29745405952,
     "revenue": 21891000320,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 238,
-    "delta": 90,
+    "delta": 0,
     "rsl_vs_sector": 1.1998,
     "last_5_ranks": [
       238
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 30
   },
   {
@@ -5723,10 +5961,11 @@
     "market_cap": 23149744128,
     "revenue": 42612998144,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 239,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.0052,
     "last_5_ranks": [
       239
@@ -5747,16 +5986,17 @@
     "market_cap": 27091613696,
     "revenue": 9397999616,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 240,
-    "delta": 84,
+    "delta": 0,
     "rsl_vs_sector": 1.0092,
     "last_5_ranks": [
       240
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 247
   },
   {
@@ -5771,10 +6011,11 @@
     "market_cap": 13269981184,
     "revenue": 11610999808,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 241,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 0.9897,
     "last_5_ranks": [
       241
@@ -5795,10 +6036,11 @@
     "market_cap": 31661924352,
     "revenue": 15822999552,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 242,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 0.9965,
     "last_5_ranks": [
       242
@@ -5819,10 +6061,11 @@
     "market_cap": 11404508160,
     "revenue": 13530000384,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 243,
-    "delta": -99,
+    "delta": 0,
     "rsl_vs_sector": 1.0353,
     "last_5_ranks": [
       243
@@ -5843,16 +6086,17 @@
     "market_cap": 191148867584,
     "revenue": 139386994688,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 244,
-    "delta": 66,
+    "delta": 0,
     "rsl_vs_sector": 1.0335,
     "last_5_ranks": [
       244
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 285
   },
   {
@@ -5867,16 +6111,17 @@
     "market_cap": 73613541376,
     "revenue": 18988156928,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 245,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 0.9699,
     "last_5_ranks": [
       245
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 246
   },
   {
@@ -5891,16 +6136,17 @@
     "market_cap": 25485146112,
     "revenue": 18672330752,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 246,
-    "delta": 104,
+    "delta": 0,
     "rsl_vs_sector": 0.9783,
     "last_5_ranks": [
       246
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 410
   },
   {
@@ -5915,10 +6161,11 @@
     "market_cap": 28064835584,
     "revenue": 16465000448,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 247,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0072,
     "last_5_ranks": [
       247
@@ -5939,16 +6186,17 @@
     "market_cap": 36659699712,
     "revenue": 29585999872,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 248,
-    "delta": 41,
+    "delta": 0,
     "rsl_vs_sector": 0.9939,
     "last_5_ranks": [
       248
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 259
   },
   {
@@ -5961,12 +6209,13 @@
     "pct_1w": -2.3,
     "pct_1m": 9.49,
     "market_cap": 33642985472,
-    "revenue": 4133874944,
+    "revenue": 4198469888,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 249,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 0.9865,
     "last_5_ranks": [
       249
@@ -5987,10 +6236,11 @@
     "market_cap": 22167656448,
     "revenue": 9822900224,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 250,
-    "delta": -73,
+    "delta": 0,
     "rsl_vs_sector": 1.0003,
     "last_5_ranks": [
       250
@@ -6011,10 +6261,11 @@
     "market_cap": 217909280768,
     "revenue": 72851996672,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 251,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9919,
     "last_5_ranks": [
       251
@@ -6033,12 +6284,13 @@
     "pct_1w": -2.74,
     "pct_1m": 11.1,
     "market_cap": 21175590912,
-    "revenue": 23505999872,
+    "revenue": 23889999872,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 252,
-    "delta": -115,
+    "delta": 0,
     "rsl_vs_sector": 0.9997,
     "last_5_ranks": [
       252
@@ -6059,10 +6311,11 @@
     "market_cap": 233548808192,
     "revenue": 69868003328,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 253,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.1914,
     "last_5_ranks": [
       253
@@ -6083,16 +6336,17 @@
     "market_cap": 27265873920,
     "revenue": 16044999680,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 254,
-    "delta": 61,
+    "delta": 0,
     "rsl_vs_sector": 1.0026,
     "last_5_ranks": [
       254
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 263
   },
   {
@@ -6107,16 +6361,17 @@
     "market_cap": 50035015680,
     "revenue": 186965000192,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 255,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 0.965,
     "last_5_ranks": [
       255
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 393
   },
   {
@@ -6131,10 +6386,11 @@
     "market_cap": 45587132416,
     "revenue": 31446200320,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 256,
-    "delta": -102,
+    "delta": 0,
     "rsl_vs_sector": 1.0294,
     "last_5_ranks": [
       256
@@ -6155,16 +6411,17 @@
     "market_cap": 79663226880,
     "revenue": 282382008320,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 257,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9826,
     "last_5_ranks": [
       257
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 206
   },
   {
@@ -6179,16 +6436,17 @@
     "market_cap": 93687537664,
     "revenue": 201832005632,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 258,
-    "delta": 48,
+    "delta": 0,
     "rsl_vs_sector": 0.9822,
     "last_5_ranks": [
       258
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 176
   },
   {
@@ -6203,16 +6461,17 @@
     "market_cap": 48060268544,
     "revenue": 23332999168,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 259,
-    "delta": 44,
+    "delta": 0,
     "rsl_vs_sector": 1.0283,
     "last_5_ranks": [
       259
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 387
   },
   {
@@ -6227,10 +6486,11 @@
     "market_cap": 94161305600,
     "revenue": 14942000128,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 260,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0282,
     "last_5_ranks": [
       260
@@ -6251,16 +6511,17 @@
     "market_cap": 27991781376,
     "revenue": 1731800064,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 261,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.1897,
     "last_5_ranks": [
       261
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 161
   },
   {
@@ -6275,16 +6536,17 @@
     "market_cap": 60692250624,
     "revenue": 9079300096,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 262,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 1.0281,
     "last_5_ranks": [
       262
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 138
   },
   {
@@ -6299,10 +6561,11 @@
     "market_cap": 96294223872,
     "revenue": 56519999488,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 263,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0281,
     "last_5_ranks": [
       263
@@ -6323,16 +6586,17 @@
     "market_cap": 16033421312,
     "revenue": 2856811008,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 264,
-    "delta": 66,
+    "delta": 0,
     "rsl_vs_sector": 0.9766,
     "last_5_ranks": [
       264
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 345
   },
   {
@@ -6347,10 +6611,11 @@
     "market_cap": 177004806144,
     "revenue": 26363000832,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 265,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 1.0265,
     "last_5_ranks": [
       265
@@ -6371,10 +6636,11 @@
     "market_cap": 64820170752,
     "revenue": 337397284864,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 266,
-    "delta": -79,
+    "delta": 0,
     "rsl_vs_sector": 0.9802,
     "last_5_ranks": [
       266
@@ -6395,10 +6661,11 @@
     "market_cap": 509497704448,
     "revenue": 66013999104,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 267,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9795,
     "last_5_ranks": [
       267
@@ -6417,18 +6684,19 @@
     "pct_1w": -1.82,
     "pct_1m": 6.64,
     "market_cap": 48299868160,
-    "revenue": 11125000192,
+    "revenue": 11157000192,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 268,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9862,
     "last_5_ranks": [
       268
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 293
   },
   {
@@ -6443,10 +6711,11 @@
     "market_cap": 326552059904,
     "revenue": 52576002048,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 269,
-    "delta": -76,
+    "delta": 0,
     "rsl_vs_sector": 1.0248,
     "last_5_ranks": [
       269
@@ -6467,10 +6736,11 @@
     "market_cap": 36057784320,
     "revenue": 10297299968,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 270,
-    "delta": -69,
+    "delta": 0,
     "rsl_vs_sector": 0.9779,
     "last_5_ranks": [
       270
@@ -6491,10 +6761,11 @@
     "market_cap": 44215328768,
     "revenue": 20137000960,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 271,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 0.9845,
     "last_5_ranks": [
       271
@@ -6515,10 +6786,11 @@
     "market_cap": 71756169216,
     "revenue": 107704999936,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 272,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 0.9676,
     "last_5_ranks": [
       272
@@ -6539,10 +6811,11 @@
     "market_cap": 24054274048,
     "revenue": 6010754048,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 273,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 0.9771,
     "last_5_ranks": [
       273
@@ -6563,16 +6836,17 @@
     "market_cap": 170108583936,
     "revenue": 93815996416,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 274,
-    "delta": 83,
+    "delta": 0,
     "rsl_vs_sector": 1.021,
     "last_5_ranks": [
       274
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 402
   },
   {
@@ -6587,10 +6861,11 @@
     "market_cap": 133095628800,
     "revenue": 79116001280,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 275,
-    "delta": -37,
+    "delta": 0,
     "rsl_vs_sector": 1.0222,
     "last_5_ranks": [
       275
@@ -6611,10 +6886,11 @@
     "market_cap": 254556913664,
     "revenue": 83112001536,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 276,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 0.9832,
     "last_5_ranks": [
       276
@@ -6635,16 +6911,17 @@
     "market_cap": 2813686448128,
     "revenue": 797455024128,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 277,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9579,
     "last_5_ranks": [
       277
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 257
   },
   {
@@ -6659,10 +6936,11 @@
     "market_cap": 23960311808,
     "revenue": 16627999744,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 278,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 0.9823,
     "last_5_ranks": [
       278
@@ -6681,18 +6959,19 @@
     "pct_1w": -0.1,
     "pct_1m": 0.52,
     "market_cap": 21139830784,
-    "revenue": 2953971968,
+    "revenue": 2733431040,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 279,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.1816,
     "last_5_ranks": [
       279
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 4
   },
   {
@@ -6707,16 +6986,17 @@
     "market_cap": 48240967680,
     "revenue": 10154999808,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 280,
-    "delta": 45,
+    "delta": 0,
     "rsl_vs_sector": 1.1814,
     "last_5_ranks": [
       280
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 26
   },
   {
@@ -6729,12 +7009,13 @@
     "pct_1w": -4.16,
     "pct_1m": 10.75,
     "market_cap": 17111112704,
-    "revenue": 6233999872,
+    "revenue": 6253000192,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 281,
-    "delta": -117,
+    "delta": 0,
     "rsl_vs_sector": 0.9706,
     "last_5_ranks": [
       281
@@ -6755,16 +7036,17 @@
     "market_cap": 12584322048,
     "revenue": 5706258944,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 282,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9938,
     "last_5_ranks": [
       282
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 239
   },
   {
@@ -6779,10 +7061,11 @@
     "market_cap": 18132473856,
     "revenue": 24177999872,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 283,
-    "delta": -57,
+    "delta": 0,
     "rsl_vs_sector": 0.9893,
     "last_5_ranks": [
       283
@@ -6803,16 +7086,17 @@
     "market_cap": 24203317248,
     "revenue": 7331999744,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 284,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9813,
     "last_5_ranks": [
       284
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 330
   },
   {
@@ -6825,12 +7109,13 @@
     "pct_1w": -0.23,
     "pct_1m": 6.71,
     "market_cap": 170311630848,
-    "revenue": 63624998912,
+    "revenue": 63623999488,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 285,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9741,
     "last_5_ranks": [
       285
@@ -6851,16 +7136,17 @@
     "market_cap": 36441477120,
     "revenue": 12337000448,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 286,
-    "delta": 52,
+    "delta": 0,
     "rsl_vs_sector": 0.9926,
     "last_5_ranks": [
       286
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 341
   },
   {
@@ -6873,18 +7159,19 @@
     "pct_1w": -0.63,
     "pct_1m": 6.97,
     "market_cap": 41957257216,
-    "revenue": 27761999872,
+    "revenue": 27790999552,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 287,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 0.9805,
     "last_5_ranks": [
       287
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 216
   },
   {
@@ -6899,10 +7186,11 @@
     "market_cap": 26940614656,
     "revenue": 8576562176,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 288,
-    "delta": -94,
+    "delta": 0,
     "rsl_vs_sector": 1.019,
     "last_5_ranks": [
       288
@@ -6923,16 +7211,17 @@
     "market_cap": 93093576704,
     "revenue": 27886000128,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 289,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9801,
     "last_5_ranks": [
       289
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 287
   },
   {
@@ -6947,16 +7236,17 @@
     "market_cap": 39721312256,
     "revenue": 25774999552,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 290,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 0.9916,
     "last_5_ranks": [
       290
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 434
   },
   {
@@ -6971,10 +7261,11 @@
     "market_cap": 64704487424,
     "revenue": 21070000128,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 291,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.9724,
     "last_5_ranks": [
       291
@@ -6995,10 +7286,11 @@
     "market_cap": 89969418240,
     "revenue": 24944001024,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 292,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.9792,
     "last_5_ranks": [
       292
@@ -7019,16 +7311,17 @@
     "market_cap": 50207936512,
     "revenue": 3458097920,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 293,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 0.9722,
     "last_5_ranks": [
       293
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 3
   },
   {
@@ -7043,10 +7336,11 @@
     "market_cap": 99245801472,
     "revenue": 22001999872,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 294,
-    "delta": -36,
+    "delta": 0,
     "rsl_vs_sector": 0.9789,
     "last_5_ranks": [
       294
@@ -7067,10 +7361,11 @@
     "market_cap": 69267709952,
     "revenue": 30493999104,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 295,
-    "delta": -76,
+    "delta": 0,
     "rsl_vs_sector": 0.9788,
     "last_5_ranks": [
       295
@@ -7091,10 +7386,11 @@
     "market_cap": 17267875840,
     "revenue": 14219215872,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 296,
-    "delta": -196,
+    "delta": 0,
     "rsl_vs_sector": 1.016,
     "last_5_ranks": [
       296
@@ -7115,10 +7411,11 @@
     "market_cap": 22133336064,
     "revenue": 7575000064,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 297,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.9773,
     "last_5_ranks": [
       297
@@ -7139,16 +7436,17 @@
     "market_cap": 55187931136,
     "revenue": 7886612992,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 298,
-    "delta": 37,
+    "delta": 0,
     "rsl_vs_sector": 0.9521,
     "last_5_ranks": [
       298
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 173
   },
   {
@@ -7163,10 +7461,11 @@
     "market_cap": 75457331200,
     "revenue": 24511797248,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 299,
-    "delta": -63,
+    "delta": 0,
     "rsl_vs_sector": 0.9521,
     "last_5_ranks": [
       299
@@ -7187,10 +7486,11 @@
     "market_cap": 27340566528,
     "revenue": 3396699904,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 300,
-    "delta": -54,
+    "delta": 0,
     "rsl_vs_sector": 0.9683,
     "last_5_ranks": [
       300
@@ -7211,16 +7511,17 @@
     "market_cap": 178845220864,
     "revenue": 47927001088,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 301,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 1.0134,
     "last_5_ranks": [
       301
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 194
   },
   {
@@ -7235,16 +7536,17 @@
     "market_cap": 22473289728,
     "revenue": 18781999104,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 302,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 0.9748,
     "last_5_ranks": [
       302
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 286
   },
   {
@@ -7259,10 +7561,11 @@
     "market_cap": 31041781760,
     "revenue": 9332200448,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 303,
-    "delta": -35,
+    "delta": 0,
     "rsl_vs_sector": 0.9742,
     "last_5_ranks": [
       303
@@ -7281,18 +7584,19 @@
     "pct_1w": 4.33,
     "pct_1m": 1.51,
     "market_cap": 14840104960,
-    "revenue": 8310000128,
+    "revenue": 8162999808,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 304,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.967,
     "last_5_ranks": [
       304
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 218
   },
   {
@@ -7307,16 +7611,17 @@
     "market_cap": 74619379712,
     "revenue": 43591000064,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 305,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 1.012,
     "last_5_ranks": [
       305
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 323
   },
   {
@@ -7331,10 +7636,11 @@
     "market_cap": 44486045696,
     "revenue": 5610286080,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 306,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 0.9666,
     "last_5_ranks": [
       306
@@ -7355,16 +7661,17 @@
     "market_cap": 362526212096,
     "revenue": 67377999872,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 307,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9664,
     "last_5_ranks": [
       307
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 127
   },
   {
@@ -7379,16 +7686,17 @@
     "market_cap": 122616520704,
     "revenue": 48893001728,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 308,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 0.9722,
     "last_5_ranks": [
       308
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 282
   },
   {
@@ -7403,10 +7711,11 @@
     "market_cap": 31499433984,
     "revenue": 5104399872,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 309,
-    "delta": -62,
+    "delta": 0,
     "rsl_vs_sector": 0.9652,
     "last_5_ranks": [
       309
@@ -7427,10 +7736,11 @@
     "market_cap": 3979920277504,
     "revenue": 346444988416,
     "exp_count": 20,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 310,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.169,
     "last_5_ranks": [
       310
@@ -7451,10 +7761,11 @@
     "market_cap": 16365156352,
     "revenue": 9324099584,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 311,
-    "delta": -81,
+    "delta": 0,
     "rsl_vs_sector": 0.9715,
     "last_5_ranks": [
       311
@@ -7475,10 +7786,11 @@
     "market_cap": 61609312256,
     "revenue": 13797999616,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 312,
-    "delta": -180,
+    "delta": 0,
     "rsl_vs_sector": 1.1682,
     "last_5_ranks": [
       312
@@ -7497,12 +7809,13 @@
     "pct_1w": 2.21,
     "pct_1m": 5.91,
     "market_cap": 101871411200,
-    "revenue": 13159000064,
+    "revenue": 13932999680,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 313,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.9459,
     "last_5_ranks": [
       313
@@ -7523,16 +7836,17 @@
     "market_cap": 18954887168,
     "revenue": 5265299968,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 314,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.0082,
     "last_5_ranks": [
       314
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 356
   },
   {
@@ -7545,18 +7859,19 @@
     "pct_1w": 5.47,
     "pct_1m": -4.26,
     "market_cap": 11608157184,
-    "revenue": 5907904000,
+    "revenue": 6153171968,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 315,
-    "delta": 92,
+    "delta": 0,
     "rsl_vs_sector": 0.9776,
     "last_5_ranks": [
       315
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 471
   },
   {
@@ -7569,18 +7884,19 @@
     "pct_1w": 0.41,
     "pct_1m": 3.61,
     "market_cap": 17944162304,
-    "revenue": 7738999808,
+    "revenue": 7939999744,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 316,
-    "delta": 107,
+    "delta": 0,
     "rsl_vs_sector": 0.9771,
     "last_5_ranks": [
       316
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 307
   },
   {
@@ -7595,16 +7911,17 @@
     "market_cap": 33660643328,
     "revenue": 5732675072,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 317,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 0.9623,
     "last_5_ranks": [
       317
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 126
   },
   {
@@ -7619,16 +7936,17 @@
     "market_cap": 5001541320704,
     "revenue": 478833999872,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 318,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.1656,
     "last_5_ranks": [
       318
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 171
   },
   {
@@ -7641,12 +7959,13 @@
     "pct_1w": -0.49,
     "pct_1m": 4.76,
     "market_cap": 63388823552,
-    "revenue": 79398002688,
+    "revenue": 82559000576,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 319,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.9678,
     "last_5_ranks": [
       319
@@ -7667,16 +7986,17 @@
     "market_cap": 24100218880,
     "revenue": 9783000064,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 320,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 0.9669,
     "last_5_ranks": [
       320
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 302
   },
   {
@@ -7691,16 +8011,17 @@
     "market_cap": 10624977920,
     "revenue": 13575000064,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 321,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 0.9776,
     "last_5_ranks": [
       321
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 253
   },
   {
@@ -7715,10 +8036,11 @@
     "market_cap": 31460194304,
     "revenue": 9815000064,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 322,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9656,
     "last_5_ranks": [
       322
@@ -7739,16 +8061,17 @@
     "market_cap": 69029601280,
     "revenue": 23612000256,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 323,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9774,
     "last_5_ranks": [
       323
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 305
   },
   {
@@ -7763,10 +8086,11 @@
     "market_cap": 895843303424,
     "revenue": 190732992512,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 324,
-    "delta": -45,
+    "delta": 0,
     "rsl_vs_sector": 0.9655,
     "last_5_ranks": [
       324
@@ -7787,10 +8111,11 @@
     "market_cap": 314060603392,
     "revenue": 43137998848,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 325,
-    "delta": -64,
+    "delta": 0,
     "rsl_vs_sector": 0.9485,
     "last_5_ranks": [
       325
@@ -7811,16 +8136,17 @@
     "market_cap": 140487278592,
     "revenue": 56526000128,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 326,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0025,
     "last_5_ranks": [
       326
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 363
   },
   {
@@ -7835,10 +8161,11 @@
     "market_cap": 73955041280,
     "revenue": 12963000320,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 327,
-    "delta": -51,
+    "delta": 0,
     "rsl_vs_sector": 1.0024,
     "last_5_ranks": [
       327
@@ -7859,16 +8186,17 @@
     "market_cap": 18704248832,
     "revenue": 1981277056,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 328,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 0.9528,
     "last_5_ranks": [
       328
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 333
   },
   {
@@ -7883,10 +8211,11 @@
     "market_cap": 258930655232,
     "revenue": 95986999296,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 329,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 1.0019,
     "last_5_ranks": [
       329
@@ -7907,10 +8236,11 @@
     "market_cap": 68389314560,
     "revenue": 37743001600,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 330,
-    "delta": -96,
+    "delta": 0,
     "rsl_vs_sector": 1.0018,
     "last_5_ranks": [
       330
@@ -7931,10 +8261,11 @@
     "market_cap": 9430042624,
     "revenue": 13733999616,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 331,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 0.9565,
     "last_5_ranks": [
       331
@@ -7955,16 +8286,17 @@
     "market_cap": 124962349056,
     "revenue": 9893700608,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 332,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9518,
     "last_5_ranks": [
       332
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 386
   },
   {
@@ -7977,12 +8309,13 @@
     "pct_1w": -4.68,
     "pct_1m": 5.72,
     "market_cap": 22747308032,
-    "revenue": 8355200000,
+    "revenue": 8537800192,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 333,
-    "delta": -163,
+    "delta": 0,
     "rsl_vs_sector": 0.9378,
     "last_5_ranks": [
       333
@@ -8003,16 +8336,17 @@
     "market_cap": 11411657728,
     "revenue": 1215038976,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 334,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 0.9548,
     "last_5_ranks": [
       334
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 144
   },
   {
@@ -8027,10 +8361,11 @@
     "market_cap": 159113854976,
     "revenue": 25607999488,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 335,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.9548,
     "last_5_ranks": [
       335
@@ -8051,16 +8386,17 @@
     "market_cap": 31584143360,
     "revenue": 9464000512,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 336,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9615,
     "last_5_ranks": [
       336
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 355
   },
   {
@@ -8075,10 +8411,11 @@
     "market_cap": 26757220352,
     "revenue": 8393999872,
     "exp_count": 11,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 337,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9602,
     "last_5_ranks": [
       337
@@ -8099,10 +8436,11 @@
     "market_cap": 90703855616,
     "revenue": 18982000640,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 338,
-    "delta": -53,
+    "delta": 0,
     "rsl_vs_sector": 0.9961,
     "last_5_ranks": [
       338
@@ -8123,16 +8461,17 @@
     "market_cap": 95914450944,
     "revenue": 25969999872,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 339,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.1522,
     "last_5_ranks": [
       339
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 291
   },
   {
@@ -8147,10 +8486,11 @@
     "market_cap": 354574073856,
     "revenue": 450059010048,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 340,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9507,
     "last_5_ranks": [
       340
@@ -8171,10 +8511,11 @@
     "market_cap": 250817019904,
     "revenue": 47351001088,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 341,
-    "delta": -37,
+    "delta": 0,
     "rsl_vs_sector": 0.9504,
     "last_5_ranks": [
       341
@@ -8195,16 +8536,17 @@
     "market_cap": 49447870464,
     "revenue": 145679007744,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 342,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9503,
     "last_5_ranks": [
       342
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 139
   },
   {
@@ -8219,10 +8561,11 @@
     "market_cap": 26495299584,
     "revenue": 9822999552,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 343,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9684,
     "last_5_ranks": [
       343
@@ -8243,16 +8586,17 @@
     "market_cap": 160101908480,
     "revenue": 27061000192,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 344,
-    "delta": 33,
+    "delta": 0,
     "rsl_vs_sector": 0.956,
     "last_5_ranks": [
       344
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 373
   },
   {
@@ -8267,16 +8611,17 @@
     "market_cap": 43652222976,
     "revenue": 17311000576,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 345,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 0.9479,
     "last_5_ranks": [
       345
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 54
   },
   {
@@ -8291,10 +8636,11 @@
     "market_cap": 48436088832,
     "revenue": 7372000256,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 346,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.946,
     "last_5_ranks": [
       346
@@ -8315,10 +8661,11 @@
     "market_cap": 98725994496,
     "revenue": 10147000320,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 347,
-    "delta": -59,
+    "delta": 0,
     "rsl_vs_sector": 0.9411,
     "last_5_ranks": [
       347
@@ -8339,16 +8686,17 @@
     "market_cap": 41093750784,
     "revenue": 29109999616,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 348,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9868,
     "last_5_ranks": [
       348
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 436
   },
   {
@@ -8363,16 +8711,17 @@
     "market_cap": 22944925696,
     "revenue": 9059000320,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 349,
-    "delta": 33,
+    "delta": 0,
     "rsl_vs_sector": 0.987,
     "last_5_ranks": [
       349
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 407
   },
   {
@@ -8387,16 +8736,17 @@
     "market_cap": 19097794560,
     "revenue": 3959600128,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 350,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.14,
     "last_5_ranks": [
       350
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 133
   },
   {
@@ -8411,16 +8761,17 @@
     "market_cap": 17155268608,
     "revenue": 25332613120,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 351,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9218,
     "last_5_ranks": [
       351
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 241
   },
   {
@@ -8435,10 +8786,11 @@
     "market_cap": 285518594048,
     "revenue": 79794003968,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 352,
-    "delta": -60,
+    "delta": 0,
     "rsl_vs_sector": 0.9459,
     "last_5_ranks": [
       352
@@ -8459,10 +8811,11 @@
     "market_cap": 65966518272,
     "revenue": 7080731136,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 353,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 0.934,
     "last_5_ranks": [
       353
@@ -8483,10 +8836,11 @@
     "market_cap": 73270108160,
     "revenue": 36886999040,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 354,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0743,
     "last_5_ranks": [
       354
@@ -8507,10 +8861,11 @@
     "market_cap": 152445386752,
     "revenue": 62363000832,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 355,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9188,
     "last_5_ranks": [
       355
@@ -8531,16 +8886,17 @@
     "market_cap": 19921434624,
     "revenue": 31964000256,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 356,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 0.9478,
     "last_5_ranks": [
       356
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 328
   },
   {
@@ -8555,10 +8911,11 @@
     "market_cap": 46729609216,
     "revenue": 12213999616,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 357,
-    "delta": -37,
+    "delta": 0,
     "rsl_vs_sector": 0.9764,
     "last_5_ranks": [
       357
@@ -8579,16 +8936,17 @@
     "market_cap": 272987865088,
     "revenue": 49734631424,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 358,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 0.9741,
     "last_5_ranks": [
       358
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 427
   },
   {
@@ -8603,16 +8961,17 @@
     "market_cap": 55019806720,
     "revenue": 29080500224,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 359,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 0.9742,
     "last_5_ranks": [
       359
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 418
   },
   {
@@ -8627,16 +8986,17 @@
     "market_cap": 11931558912,
     "revenue": 5447900160,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 360,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.9733,
     "last_5_ranks": [
       360
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 457
   },
   {
@@ -8649,18 +9009,19 @@
     "pct_1w": -0.25,
     "pct_1m": 3.76,
     "market_cap": 15278168064,
-    "revenue": 2393574912,
+    "revenue": 2534873088,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 361,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 1.1255,
     "last_5_ranks": [
       361
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 479
   },
   {
@@ -8675,16 +9036,17 @@
     "market_cap": 12235201536,
     "revenue": 6274907136,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 362,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 0.9349,
     "last_5_ranks": [
       362
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 374
   },
   {
@@ -8697,12 +9059,13 @@
     "pct_1w": -3.63,
     "pct_1m": 5.26,
     "market_cap": 32703617024,
-    "revenue": 15699999744,
+    "revenue": 16225999872,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 363,
-    "delta": -303,
+    "delta": 0,
     "rsl_vs_sector": 0.9091,
     "last_5_ranks": [
       363
@@ -8723,10 +9086,11 @@
     "market_cap": 250635239424,
     "revenue": 71036002304,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 364,
-    "delta": -47,
+    "delta": 0,
     "rsl_vs_sector": 0.9325,
     "last_5_ranks": [
       364
@@ -8745,18 +9109,19 @@
     "pct_1w": -4.9,
     "pct_1m": 2.68,
     "market_cap": 21623791616,
-    "revenue": 10028999680,
+    "revenue": 10853999616,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 365,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9399,
     "last_5_ranks": [
       365
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 208
   },
   {
@@ -8771,10 +9136,11 @@
     "market_cap": 26164754432,
     "revenue": 12167277568,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 366,
-    "delta": -138,
+    "delta": 0,
     "rsl_vs_sector": 0.9666,
     "last_5_ranks": [
       366
@@ -8795,10 +9161,11 @@
     "market_cap": 14999124992,
     "revenue": 3976867072,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 367,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9236,
     "last_5_ranks": [
       367
@@ -8819,16 +9186,17 @@
     "market_cap": 146989858816,
     "revenue": 128852000768,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 368,
-    "delta": 45,
+    "delta": 0,
     "rsl_vs_sector": 0.965,
     "last_5_ranks": [
       368
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 388
   },
   {
@@ -8841,12 +9209,13 @@
     "pct_1w": -7.06,
     "pct_1m": 0.18,
     "market_cap": 52200865792,
-    "revenue": 13552000000,
+    "revenue": 13592000512,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 369,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9412,
     "last_5_ranks": [
       369
@@ -8867,10 +9236,11 @@
     "market_cap": 16830576640,
     "revenue": 2941761024,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 370,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 0.9221,
     "last_5_ranks": [
       370
@@ -8891,16 +9261,17 @@
     "market_cap": 415426445312,
     "revenue": 226326003712,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 371,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0568,
     "last_5_ranks": [
       371
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 172
   },
   {
@@ -8915,10 +9286,11 @@
     "market_cap": 78440857600,
     "revenue": 17061000192,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 372,
-    "delta": -147,
+    "delta": 0,
     "rsl_vs_sector": 0.904,
     "last_5_ranks": [
       372
@@ -8939,10 +9311,11 @@
     "market_cap": 44955455488,
     "revenue": 15495000064,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 373,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 0.9275,
     "last_5_ranks": [
       373
@@ -8963,10 +9336,11 @@
     "market_cap": 24385132544,
     "revenue": 13248900096,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 374,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 0.9633,
     "last_5_ranks": [
       374
@@ -8987,16 +9361,17 @@
     "market_cap": 20566431744,
     "revenue": 13325219840,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 375,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.963,
     "last_5_ranks": [
       375
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 439
   },
   {
@@ -9011,10 +9386,11 @@
     "market_cap": 43534303232,
     "revenue": 22791999488,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 376,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9605,
     "last_5_ranks": [
       376
@@ -9035,16 +9411,17 @@
     "market_cap": 343354408960,
     "revenue": 114874998784,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 377,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9224,
     "last_5_ranks": [
       377
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 421
   },
   {
@@ -9059,16 +9436,17 @@
     "market_cap": 162733178880,
     "revenue": 64459001856,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 378,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 1.0506,
     "last_5_ranks": [
       378
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 158
   },
   {
@@ -9083,10 +9461,11 @@
     "market_cap": 254297980928,
     "revenue": 20765999104,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 379,
-    "delta": -184,
+    "delta": 0,
     "rsl_vs_sector": 1.1078,
     "last_5_ranks": [
       379
@@ -9107,16 +9486,17 @@
     "market_cap": 18933848064,
     "revenue": 93468000256,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 380,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 0.9046,
     "last_5_ranks": [
       380
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 426
   },
   {
@@ -9131,10 +9511,11 @@
     "market_cap": 64627298304,
     "revenue": 17496000512,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 381,
-    "delta": -55,
+    "delta": 0,
     "rsl_vs_sector": 0.9562,
     "last_5_ranks": [
       381
@@ -9155,10 +9536,11 @@
     "market_cap": 59328614400,
     "revenue": 19885000704,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 382,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.1048,
     "last_5_ranks": [
       382
@@ -9179,10 +9561,11 @@
     "market_cap": 196058431488,
     "revenue": 83299000320,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 383,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9171,
     "last_5_ranks": [
       383
@@ -9203,10 +9586,11 @@
     "market_cap": 12494523392,
     "revenue": 6444344832,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 384,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.1011,
     "last_5_ranks": [
       384
@@ -9227,16 +9611,17 @@
     "market_cap": 26401871872,
     "revenue": 22475999232,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 385,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0415,
     "last_5_ranks": [
       385
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 409
   },
   {
@@ -9251,10 +9636,11 @@
     "market_cap": 16350594048,
     "revenue": 3658299904,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 386,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.9502,
     "last_5_ranks": [
       386
@@ -9275,10 +9661,11 @@
     "market_cap": 55738814464,
     "revenue": 38828998656,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 387,
-    "delta": -82,
+    "delta": 0,
     "rsl_vs_sector": 0.9214,
     "last_5_ranks": [
       387
@@ -9297,18 +9684,19 @@
     "pct_1w": -3.89,
     "pct_1m": -6.35,
     "market_cap": 112528842752,
-    "revenue": 21499000832,
+    "revenue": 22407000064,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 388,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 0.9486,
     "last_5_ranks": [
       388
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 375
   },
   {
@@ -9323,10 +9711,11 @@
     "market_cap": 17294096384,
     "revenue": 2979794944,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 389,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 0.9484,
     "last_5_ranks": [
       389
@@ -9347,16 +9736,17 @@
     "market_cap": 31665311744,
     "revenue": 9149624320,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 390,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.0373,
     "last_5_ranks": [
       390
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 362
   },
   {
@@ -9371,16 +9761,17 @@
     "market_cap": 54376349696,
     "revenue": 43186999296,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 391,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0365,
     "last_5_ranks": [
       391
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 351
   },
   {
@@ -9395,16 +9786,17 @@
     "market_cap": 674295513088,
     "revenue": 388231987200,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 392,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.0359,
     "last_5_ranks": [
       392
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 217
   },
   {
@@ -9417,18 +9809,19 @@
     "pct_1w": -10.68,
     "pct_1m": 1.15,
     "market_cap": 75999035392,
-    "revenue": 26720999424,
+    "revenue": 29749999616,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 393,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0349,
     "last_5_ranks": [
       393
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 258
   },
   {
@@ -9443,16 +9836,17 @@
     "market_cap": 19709898752,
     "revenue": 12949999616,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 394,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0349,
     "last_5_ranks": [
       394
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 389
   },
   {
@@ -9467,16 +9861,17 @@
     "market_cap": 183043440640,
     "revenue": 43938000896,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 395,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.0921,
     "last_5_ranks": [
       395
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 136
   },
   {
@@ -9491,16 +9886,17 @@
     "market_cap": 26548727808,
     "revenue": 59162001408,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 396,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0902,
     "last_5_ranks": [
       396
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 190
   },
   {
@@ -9515,10 +9911,11 @@
     "market_cap": 45730267136,
     "revenue": 17812000768,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 397,
-    "delta": null,
+    "delta": 0,
     "rsl_vs_sector": 0.8909,
     "last_5_ranks": [
       397
@@ -9539,10 +9936,11 @@
     "market_cap": 79889989632,
     "revenue": 9731000320,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 398,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.9408,
     "last_5_ranks": [
       398
@@ -9563,16 +9961,17 @@
     "market_cap": 37038448640,
     "revenue": 85148999680,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 399,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.8892,
     "last_5_ranks": [
       399
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 376
   },
   {
@@ -9587,10 +9986,11 @@
     "market_cap": 35471069184,
     "revenue": 5786721792,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 400,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9401,
     "last_5_ranks": [
       400
@@ -9611,10 +10011,11 @@
     "market_cap": 27429576704,
     "revenue": 6519799808,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 401,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0875,
     "last_5_ranks": [
       401
@@ -9635,10 +10036,11 @@
     "market_cap": 47424790528,
     "revenue": 18026000384,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 402,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9356,
     "last_5_ranks": [
       402
@@ -9659,16 +10061,17 @@
     "market_cap": 136697610240,
     "revenue": 94913003520,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 403,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9347,
     "last_5_ranks": [
       403
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 443
   },
   {
@@ -9683,10 +10086,11 @@
     "market_cap": 11902443520,
     "revenue": 7135300096,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 404,
-    "delta": -44,
+    "delta": 0,
     "rsl_vs_sector": 0.8976,
     "last_5_ranks": [
       404
@@ -9707,10 +10111,11 @@
     "market_cap": 8269268480,
     "revenue": 20590000128,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 405,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.8721,
     "last_5_ranks": [
       405
@@ -9731,10 +10136,11 @@
     "market_cap": 58286641152,
     "revenue": 16741499904,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 406,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0195,
     "last_5_ranks": [
       406
@@ -9755,10 +10161,11 @@
     "market_cap": 84379525120,
     "revenue": 9416465408,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 407,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.076,
     "last_5_ranks": [
       407
@@ -9779,10 +10186,11 @@
     "market_cap": 85449850880,
     "revenue": 6132096000,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 408,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0753,
     "last_5_ranks": [
       408
@@ -9801,12 +10209,13 @@
     "pct_1w": -10.88,
     "pct_1m": -8.86,
     "market_cap": 31407646720,
-    "revenue": 7562470912,
+    "revenue": 7798994944,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 409,
-    "delta": -109,
+    "delta": 0,
     "rsl_vs_sector": 0.8806,
     "last_5_ranks": [
       409
@@ -9827,16 +10236,17 @@
     "market_cap": 14876470272,
     "revenue": 18217725952,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 410,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9259,
     "last_5_ranks": [
       410
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 453
   },
   {
@@ -9851,6 +10261,7 @@
     "market_cap": 67254726656,
     "revenue": 18343999488,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 411,
@@ -9873,12 +10284,13 @@
     "pct_1w": -12.67,
     "pct_1m": -5.77,
     "market_cap": 31078184960,
-    "revenue": 3219098880,
+    "revenue": 3417011968,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 412,
-    "delta": -66,
+    "delta": 0,
     "rsl_vs_sector": 0.9232,
     "last_5_ranks": [
       412
@@ -9899,16 +10311,17 @@
     "market_cap": 56339562496,
     "revenue": 23925999616,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 413,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0116,
     "last_5_ranks": [
       413
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 325
   },
   {
@@ -9923,10 +10336,11 @@
     "market_cap": 31557349376,
     "revenue": 22219882496,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 414,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 0.8914,
     "last_5_ranks": [
       414
@@ -9945,18 +10359,19 @@
     "pct_1w": -13.01,
     "pct_1m": -2.6,
     "market_cap": 50146234368,
-    "revenue": 17831999488,
+    "revenue": 17661999104,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 415,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.0021,
     "last_5_ranks": [
       415
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 397
   },
   {
@@ -9971,16 +10386,17 @@
     "market_cap": 22126784512,
     "revenue": 6593699840,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 416,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.914,
     "last_5_ranks": [
       416
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 419
   },
   {
@@ -9993,18 +10409,19 @@
     "pct_1w": -9.96,
     "pct_1m": -6.86,
     "market_cap": 104059633664,
-    "revenue": 418381004800,
+    "revenue": 418157985792,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 417,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 0.8721,
     "last_5_ranks": [
       417
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 428
   },
   {
@@ -10017,18 +10434,19 @@
     "pct_1w": -15.59,
     "pct_1m": -0.25,
     "market_cap": 15233284096,
-    "revenue": 8572000256,
+    "revenue": 9237000192,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 418,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9988,
     "last_5_ranks": [
       418
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 170
   },
   {
@@ -10043,10 +10461,11 @@
     "market_cap": 23003131904,
     "revenue": 5489999872,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 419,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.051,
     "last_5_ranks": [
       419
@@ -10067,10 +10486,11 @@
     "market_cap": 51135623168,
     "revenue": 8191587840,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 420,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9046,
     "last_5_ranks": [
       420
@@ -10091,10 +10511,11 @@
     "market_cap": 1358513831936,
     "revenue": 103569997824,
     "exp_count": 20,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 421,
-    "delta": -63,
+    "delta": 0,
     "rsl_vs_sector": 0.8474,
     "last_5_ranks": [
       421
@@ -10115,16 +10536,17 @@
     "market_cap": 80325509120,
     "revenue": 12677000192,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 422,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9814,
     "last_5_ranks": [
       422
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 417
   },
   {
@@ -10137,12 +10559,13 @@
     "pct_1w": -10.08,
     "pct_1m": -7.44,
     "market_cap": 14244456448,
-    "revenue": 9027999744,
+    "revenue": 9164999680,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 423,
-    "delta": -94,
+    "delta": 0,
     "rsl_vs_sector": 0.8935,
     "last_5_ranks": [
       423
@@ -10161,12 +10584,13 @@
     "pct_1w": -9.98,
     "pct_1m": -8.09,
     "market_cap": 15583908864,
-    "revenue": 9027999744,
+    "revenue": 9164999680,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 424,
-    "delta": -92,
+    "delta": 0,
     "rsl_vs_sector": 0.8918,
     "last_5_ranks": [
       424
@@ -10185,12 +10609,13 @@
     "pct_1w": -15.46,
     "pct_1m": -11.5,
     "market_cap": 167383842816,
-    "revenue": 44068999168,
+    "revenue": 43120001024,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 425,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 1.0322,
     "last_5_ranks": [
       425
@@ -10211,16 +10636,17 @@
     "market_cap": 84909760512,
     "revenue": 31270000640,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 426,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 0.867,
     "last_5_ranks": [
       426
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 416
   },
   {
@@ -10235,16 +10661,17 @@
     "market_cap": 33538027520,
     "revenue": 84062003200,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 427,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.8412,
     "last_5_ranks": [
       427
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 420
   },
   {
@@ -10259,16 +10686,17 @@
     "market_cap": 96363470848,
     "revenue": 168192000000,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 428,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9715,
     "last_5_ranks": [
       428
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 117
   },
   {
@@ -10283,16 +10711,17 @@
     "market_cap": 1547088560128,
     "revenue": 241605001216,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 429,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.884,
     "last_5_ranks": [
       429
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 347
   },
   {
@@ -10307,10 +10736,11 @@
     "market_cap": 174932983808,
     "revenue": 13881744384,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 430,
-    "delta": -45,
+    "delta": 0,
     "rsl_vs_sector": 1.0236,
     "last_5_ranks": [
       430
@@ -10331,10 +10761,11 @@
     "market_cap": 55177580544,
     "revenue": 3738391040,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 431,
-    "delta": -28,
+    "delta": 0,
     "rsl_vs_sector": 1.0194,
     "last_5_ranks": [
       431
@@ -10355,16 +10786,17 @@
     "market_cap": 12507766784,
     "revenue": 3848499968,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 432,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0156,
     "last_5_ranks": [
       432
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 378
   },
   {
@@ -10379,10 +10811,11 @@
     "market_cap": 176897884160,
     "revenue": 33046900736,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 433,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0147,
     "last_5_ranks": [
       433
@@ -10401,12 +10834,13 @@
     "pct_1w": -15.58,
     "pct_1m": -13.77,
     "market_cap": 42400940032,
-    "revenue": 8972999680,
+    "revenue": 8988999680,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 434,
-    "delta": -79,
+    "delta": 0,
     "rsl_vs_sector": 0.8752,
     "last_5_ranks": [
       434
@@ -10427,10 +10861,11 @@
     "market_cap": 377384435712,
     "revenue": 63324999680,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 435,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0108,
     "last_5_ranks": [
       435
@@ -10451,10 +10886,11 @@
     "market_cap": 123918508032,
     "revenue": 7057999872,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 436,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.8392,
     "last_5_ranks": [
       436
@@ -10473,18 +10909,19 @@
     "pct_1w": -16.2,
     "pct_1m": -10.44,
     "market_cap": 47168000000,
-    "revenue": 18780999680,
+    "revenue": 21574000640,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 437,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 0.955,
     "last_5_ranks": [
       437
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 392
   },
   {
@@ -10499,10 +10936,11 @@
     "market_cap": 79630770176,
     "revenue": 25666000896,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 438,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8708,
     "last_5_ranks": [
       438
@@ -10523,16 +10961,17 @@
     "market_cap": 3463711293440,
     "revenue": 471097999360,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 439,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 0.8679,
     "last_5_ranks": [
       439
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 444
   },
   {
@@ -10547,16 +10986,17 @@
     "market_cap": 85901099008,
     "revenue": 23227099136,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 440,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.8663,
     "last_5_ranks": [
       440
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 433
   },
   {
@@ -10571,10 +11011,11 @@
     "market_cap": 359035273216,
     "revenue": 71776002048,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 441,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0008,
     "last_5_ranks": [
       441
@@ -10595,16 +11036,17 @@
     "market_cap": 61753532416,
     "revenue": 34708000768,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 442,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.8642,
     "last_5_ranks": [
       442
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 472
   },
   {
@@ -10619,16 +11061,17 @@
     "market_cap": 3473915510784,
     "revenue": 471097999360,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 443,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.8624,
     "last_5_ranks": [
       443
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 447
   },
   {
@@ -10643,16 +11086,17 @@
     "market_cap": 15145209856,
     "revenue": 6141000192,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 444,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9938,
     "last_5_ranks": [
       444
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 244
   },
   {
@@ -10667,10 +11111,11 @@
     "market_cap": 222398644224,
     "revenue": 5396145152,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 445,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 0.9916,
     "last_5_ranks": [
       445
@@ -10691,10 +11136,11 @@
     "market_cap": 1391656304640,
     "revenue": 89103998976,
     "exp_count": 21,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 446,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.9857,
     "last_5_ranks": [
       446
@@ -10715,10 +11161,11 @@
     "market_cap": 83145416704,
     "revenue": 26442000384,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 447,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.8256,
     "last_5_ranks": [
       447
@@ -10737,12 +11184,13 @@
     "pct_1w": -20.06,
     "pct_1m": -16.88,
     "market_cap": 35214114816,
-    "revenue": 5122299904,
+    "revenue": 5603400192,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 448,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 0.9821,
     "last_5_ranks": [
       448
@@ -10763,10 +11211,11 @@
     "market_cap": 10165571584,
     "revenue": 4619158016,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 449,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 0.8472,
     "last_5_ranks": [
       449
@@ -10787,16 +11236,17 @@
     "market_cap": 97952579584,
     "revenue": 146528993280,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 450,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9237,
     "last_5_ranks": [
       450
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 178
   },
   {
@@ -10811,16 +11261,17 @@
     "market_cap": 102737551360,
     "revenue": 175398993920,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 451,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.9229,
     "last_5_ranks": [
       451
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 113
   },
   {
@@ -10835,10 +11286,11 @@
     "market_cap": 201083125760,
     "revenue": 11890100224,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 452,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9719,
     "last_5_ranks": [
       452
@@ -10859,10 +11311,11 @@
     "market_cap": 45880225792,
     "revenue": 28739999744,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 453,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9185,
     "last_5_ranks": [
       453
@@ -10883,10 +11336,11 @@
     "market_cap": 203936333824,
     "revenue": 44039999488,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 454,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8369,
     "last_5_ranks": [
       454
@@ -10907,10 +11361,11 @@
     "market_cap": 257539506176,
     "revenue": 11480000512,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 455,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.964,
     "last_5_ranks": [
       455
@@ -10931,16 +11386,17 @@
     "market_cap": 15156596736,
     "revenue": 12938000384,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 456,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.7981,
     "last_5_ranks": [
       456
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 469
   },
   {
@@ -10955,10 +11411,11 @@
     "market_cap": 24528814080,
     "revenue": 6369200128,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 457,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 0.9598,
     "last_5_ranks": [
       457
@@ -10979,10 +11436,11 @@
     "market_cap": 4385095286784,
     "revenue": 302970011648,
     "exp_count": 22,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 458,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.9596,
     "last_5_ranks": [
       458
@@ -11003,16 +11461,17 @@
     "market_cap": 26064302080,
     "revenue": 19837765632,
     "exp_count": 5,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 459,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.8267,
     "last_5_ranks": [
       459
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 468
   },
   {
@@ -11027,10 +11486,11 @@
     "market_cap": 24339046400,
     "revenue": 35953999872,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 460,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.9551,
     "last_5_ranks": [
       460
@@ -11051,16 +11511,17 @@
     "market_cap": 16932454400,
     "revenue": 33124999168,
     "exp_count": 12,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 461,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.8005,
     "last_5_ranks": [
       461
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 480
   },
   {
@@ -11075,6 +11536,7 @@
     "market_cap": 127047262208,
     "revenue": 31984001024,
     "exp_count": 14,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 462,
@@ -11099,10 +11561,11 @@
     "market_cap": 29922351104,
     "revenue": 3072999936,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 463,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9459,
     "last_5_ranks": [
       463
@@ -11123,10 +11586,11 @@
     "market_cap": 36224933888,
     "revenue": 5441357824,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 464,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.7806,
     "last_5_ranks": [
       464
@@ -11145,12 +11609,13 @@
     "pct_1w": -21.67,
     "pct_1m": -25.59,
     "market_cap": 11186899968,
-    "revenue": 4322833920,
+    "revenue": 4390164992,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 465,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9369,
     "last_5_ranks": [
       465
@@ -11171,10 +11636,11 @@
     "market_cap": 373448048640,
     "revenue": 7288260096,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 466,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.9304,
     "last_5_ranks": [
       466
@@ -11195,10 +11661,11 @@
     "market_cap": 76703711232,
     "revenue": 37288607744,
     "exp_count": 10,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 467,
-    "delta": -24,
+    "delta": 0,
     "rsl_vs_sector": 0.8038,
     "last_5_ranks": [
       467
@@ -11217,18 +11684,19 @@
     "pct_1w": -17.01,
     "pct_1m": -21.29,
     "market_cap": 18773528576,
-    "revenue": 897540992,
+    "revenue": 967846016,
     "exp_count": 4,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 468,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.8791,
     "last_5_ranks": [
       468
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 474
   },
   {
@@ -11243,10 +11711,11 @@
     "market_cap": 70589513728,
     "revenue": 5081999872,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 469,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.7592,
     "last_5_ranks": [
       469
@@ -11267,10 +11736,11 @@
     "market_cap": 68051726336,
     "revenue": 13116600320,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 470,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 0.7853,
     "last_5_ranks": [
       470
@@ -11291,10 +11761,11 @@
     "market_cap": 33269452800,
     "revenue": 7391000064,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 471,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9085,
     "last_5_ranks": [
       471
@@ -11315,6 +11786,7 @@
     "market_cap": 31449600000,
     "revenue": 4538999808,
     "exp_count": 6,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 472,
@@ -11339,16 +11811,17 @@
     "market_cap": 31095351296,
     "revenue": 5831461888,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 473,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.8981,
     "last_5_ranks": [
       473
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 414
   },
   {
@@ -11363,16 +11836,17 @@
     "market_cap": 37889855488,
     "revenue": 19211999232,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 474,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.7504,
     "last_5_ranks": [
       474
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 467
   },
   {
@@ -11387,16 +11861,17 @@
     "market_cap": 44367482880,
     "revenue": 6582000128,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 475,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.8824,
     "last_5_ranks": [
       475
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 462
   },
   {
@@ -11411,16 +11886,17 @@
     "market_cap": 253342449664,
     "revenue": 77772996608,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 476,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.7603,
     "last_5_ranks": [
       476
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 484
   },
   {
@@ -11435,10 +11911,11 @@
     "market_cap": 169124528128,
     "revenue": 14505794560,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 477,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.8752,
     "last_5_ranks": [
       477
@@ -11459,16 +11936,17 @@
     "market_cap": 106241187840,
     "revenue": 15431000064,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 478,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.868,
     "last_5_ranks": [
       478
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 429
   },
   {
@@ -11483,16 +11961,17 @@
     "market_cap": 17790621696,
     "revenue": 53991112704,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 479,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.8657,
     "last_5_ranks": [
       479
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 459
   },
   {
@@ -11507,10 +11986,11 @@
     "market_cap": 89094717440,
     "revenue": 17718999040,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 480,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.8655,
     "last_5_ranks": [
       480
@@ -11531,10 +12011,11 @@
     "market_cap": 253355982848,
     "revenue": 30837000192,
     "exp_count": 17,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 481,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8439,
     "last_5_ranks": [
       481
@@ -11555,16 +12036,17 @@
     "market_cap": 17710260224,
     "revenue": 3416668928,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 482,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.8438,
     "last_5_ranks": [
       482
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 463
   },
   {
@@ -11579,6 +12061,7 @@
     "market_cap": 58620846080,
     "revenue": 41870999552,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 483,
@@ -11603,10 +12086,11 @@
     "market_cap": 663251320832,
     "revenue": 45435998208,
     "exp_count": 20,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 484,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 0.8376,
     "last_5_ranks": [
       484
@@ -11627,16 +12111,17 @@
     "market_cap": 90009296896,
     "revenue": 7880900096,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 485,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.8325,
     "last_5_ranks": [
       485
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 454
   },
   {
@@ -11651,10 +12136,11 @@
     "market_cap": 100180140032,
     "revenue": 14481999872,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 486,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 0.8278,
     "last_5_ranks": [
       486
@@ -11675,10 +12161,11 @@
     "market_cap": 49508397056,
     "revenue": 3829938944,
     "exp_count": 20,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 487,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.7049,
     "last_5_ranks": [
       487
@@ -11699,10 +12186,11 @@
     "market_cap": 742654935040,
     "revenue": 133188001792,
     "exp_count": 23,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 488,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 0.8105,
     "last_5_ranks": [
       488
@@ -11723,10 +12211,11 @@
     "market_cap": 31136755712,
     "revenue": 4262149888,
     "exp_count": 9,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 489,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.8082,
     "last_5_ranks": [
       489
@@ -11747,10 +12236,11 @@
     "market_cap": 24654120960,
     "revenue": 30954000384,
     "exp_count": 7,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 490,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.801,
     "last_5_ranks": [
       490
@@ -11771,10 +12261,11 @@
     "market_cap": 231763787776,
     "revenue": 26127935488,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 491,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.7811,
     "last_5_ranks": [
       491
@@ -11795,16 +12286,17 @@
     "market_cap": 18114121728,
     "revenue": 3088880128,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 492,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.672,
     "last_5_ranks": [
       492
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 489
   },
   {
@@ -11819,16 +12311,17 @@
     "market_cap": 62694498304,
     "revenue": 4278163968,
     "exp_count": 16,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 493,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.7761,
     "last_5_ranks": [
       493
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 476
   },
   {
@@ -11843,16 +12336,17 @@
     "market_cap": 33960415232,
     "revenue": 12543356928,
     "exp_count": 8,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 494,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.6677,
     "last_5_ranks": [
       494
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 493
   },
   {
@@ -11865,12 +12359,13 @@
     "pct_1w": -28.44,
     "pct_1m": -49.26,
     "market_cap": 33431033856,
-    "revenue": 7118180864,
+    "revenue": 7907126784,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 495,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.7681,
     "last_5_ranks": [
       495
@@ -11891,10 +12386,11 @@
     "market_cap": 107097145344,
     "revenue": 13799000064,
     "exp_count": 13,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 496,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.7665,
     "last_5_ranks": [
       496
@@ -11915,10 +12411,11 @@
     "market_cap": 201495412736,
     "revenue": 151197007872,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 497,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.7491,
     "last_5_ranks": [
       497
@@ -11939,10 +12436,11 @@
     "market_cap": 32730826752,
     "revenue": 6020894208,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 498,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.7472,
     "last_5_ranks": [
       498
@@ -11963,10 +12461,11 @@
     "market_cap": 33213980672,
     "revenue": 5000771072,
     "exp_count": 15,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 499,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.7188,
     "last_5_ranks": [
       499
@@ -11987,10 +12486,11 @@
     "market_cap": 114746408960,
     "revenue": 28970999808,
     "exp_count": 22,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 500,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.6742,
     "last_5_ranks": [
       500
@@ -12011,10 +12511,11 @@
     "market_cap": 46222102528,
     "revenue": 3742799872,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 501,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.6637,
     "last_5_ranks": [
       501
@@ -12035,6 +12536,7 @@
     "market_cap": 277708734464,
     "revenue": 59891998720,
     "exp_count": 18,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 502,
@@ -12059,10 +12561,11 @@
     "market_cap": 120163737600,
     "revenue": 9450300416,
     "exp_count": 19,
+    "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 503,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.6537,
     "last_5_ranks": [
       503
