@@ -177,6 +177,7 @@ def build_list(period_days, label, prev_ranks):
                 "market_cap": fund["market_cap"],
                 "revenue": fund["revenue"],
                 "exp_count": get_expiration_count(ticker),
+                "trend": get_trend_strength(ticker),
                 "ivr": None,
                 "ivp": None
             })
