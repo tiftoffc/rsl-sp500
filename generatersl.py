@@ -14,43 +14,6 @@ ticker_info = sp500_df.set_index('Symbol')[['Security', 'GICS Sector', 'GICS Sub
 sp500 = list(ticker_info.keys())
 print(f"Geladene Ticker: {len(sp500)}")
 
-def get_trend_strength(ticker, lookback=10):
-    try:
-        data = yf.download(ticker, period="6mo", progress=False, auto_adjust=True)
-        if data.empty or len(data) < lookback + 1:
-            return None
-        
-        high = data['High'].dropna()
-        low = data['Low'].dropna()
-        
-        if len(high) < lookback + 1:
-            return None
-        
-        # Letzte lookback Perioden prüfen
-        hh_count = 0
-        hl_count = 0
-        consecutive = 0
-        max_consecutive = 0
-        
-        for i in range(1, lookback + 1):
-            is_hh = high.iloc[-i] > high.iloc[-i-1]
-            is_hl = low.iloc[-i] > low.iloc[-i-1]
-            if is_hh and is_hl:
-                consecutive += 1
-                max_consecutive = max(max_consecutive, consecutive)
-                hh_count += 1
-                hl_count += 1
-            else:
-                consecutive = 0
-        
-        if max_consecutive >= 2:
-            return f"HHHL{max_consecutive}"
-        elif hh_count >= 3 and hl_count >= 3:
-            return f"HHHL~{min(hh_count, hl_count)}"
-        return None
-    except:
-        return None
-
 def get_fundamental(ticker):
     try:
         info = yf.Ticker(ticker).info
@@ -60,6 +23,57 @@ def get_fundamental(ticker):
         }
     except:
         return {"market_cap": None, "revenue": None}
+
+def get_expiration_count(ticker):
+    try:
+        opts = yf.Ticker(ticker).options
+        return len(opts) if opts else 0
+    except:
+        return 0
+
+def get_trend_strength(ticker, lookback=15):
+    try:
+        data = yf.download(ticker, period="6mo", progress=False, auto_adjust=True)
+        if data.empty or len(data) < lookback + 5:
+            return None
+
+        high = data['High'].dropna().iloc[-lookback-5:]
+        low = data['Low'].dropna().iloc[-lookback-5:]
+
+        if len(high) < lookback:
+            return None
+
+        hh = 0
+        hl = 0
+        consecutive_hhhl = 0
+        max_consecutive = 0
+
+        for i in range(1, len(high)):
+            is_hh = high.iloc[-i] > high.iloc[-i-1]
+            is_hl = low.iloc[-i] > low.iloc[-i-1]
+
+            if is_hh:
+                hh += 1
+            if is_hl:
+                hl += 1
+
+            if is_hh and is_hl:
+                consecutive_hhhl += 1
+                max_consecutive = max(max_consecutive, consecutive_hhhl)
+            else:
+                consecutive_hhhl = 0
+
+        if max_consecutive >= 3:
+            return f"HHHL{max_consecutive}"
+        elif hh >= 6 and hl >= 5:
+            return f"HH{hh}/HL{hl}"
+        elif max_consecutive >= 2:
+            return f"HHHL{max_consecutive}"
+        return None
+
+    except Exception as e:
+        print(f"Trend-Fehler bei {ticker}: {e}")
+        return None
 
 def calculate_metrics(ticker, period_days):
     try:
@@ -149,14 +163,7 @@ def update_history(results, is_weekly=False):
 
     save_history(history)
     return results
-    
-def get_expiration_count(ticker):
-    try:
-        opts = yf.Ticker(ticker).options
-        return len(opts) if opts else 0
-    except:
-        return 0
-        
+
 def build_list(period_days, label, prev_ranks):
     results = []
     print(f"\nBerechne {label}...")
@@ -183,7 +190,7 @@ def build_list(period_days, label, prev_ranks):
             })
         if (i + 1) % 50 == 0:
             print(f"  {i+1}/{len(sp500)} verarbeitet")
-        time.sleep(0.05)
+        time.sleep(0.08)
 
     results.sort(key=lambda x: x["rsl"], reverse=True)
     for i, item in enumerate(results):
