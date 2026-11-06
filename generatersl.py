@@ -14,6 +14,43 @@ ticker_info = sp500_df.set_index('Symbol')[['Security', 'GICS Sector', 'GICS Sub
 sp500 = list(ticker_info.keys())
 print(f"Geladene Ticker: {len(sp500)}")
 
+def get_trend_strength(ticker, lookback=10):
+    try:
+        data = yf.download(ticker, period="6mo", progress=False, auto_adjust=True)
+        if data.empty or len(data) < lookback + 1:
+            return None
+        
+        high = data['High'].dropna()
+        low = data['Low'].dropna()
+        
+        if len(high) < lookback + 1:
+            return None
+        
+        # Letzte lookback Perioden prüfen
+        hh_count = 0
+        hl_count = 0
+        consecutive = 0
+        max_consecutive = 0
+        
+        for i in range(1, lookback + 1):
+            is_hh = high.iloc[-i] > high.iloc[-i-1]
+            is_hl = low.iloc[-i] > low.iloc[-i-1]
+            if is_hh and is_hl:
+                consecutive += 1
+                max_consecutive = max(max_consecutive, consecutive)
+                hh_count += 1
+                hl_count += 1
+            else:
+                consecutive = 0
+        
+        if max_consecutive >= 2:
+            return f"HHHL{max_consecutive}"
+        elif hh_count >= 3 and hl_count >= 3:
+            return f"HHHL~{min(hh_count, hl_count)}"
+        return None
+    except:
+        return None
+
 def get_fundamental(ticker):
     try:
         info = yf.Ticker(ticker).info
