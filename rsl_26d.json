@@ -15,13 +15,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 1,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.189,
     "last_5_ranks": [
       1
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 99
   },
   {
@@ -40,7 +40,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 2,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1364,
     "last_5_ranks": [
       2
@@ -65,13 +65,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 3,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0984,
     "last_5_ranks": [
       3
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 29
   },
   {
@@ -90,13 +90,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 4,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.1068,
     "last_5_ranks": [
       4
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 13
   },
   {
@@ -115,7 +115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 5,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0972,
     "last_5_ranks": [
       5
@@ -140,7 +140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 6,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0874,
     "last_5_ranks": [
       6
@@ -165,13 +165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 7,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1026,
     "last_5_ranks": [
       7
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 84
   },
   {
@@ -190,13 +190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 8,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0784,
     "last_5_ranks": [
       8
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 424
   },
   {
@@ -215,13 +215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 9,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0942,
     "last_5_ranks": [
       9
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 36
   },
   {
@@ -240,13 +240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 10,
-    "delta": 40,
+    "delta": 0,
     "rsl_vs_sector": 1.0767,
     "last_5_ranks": [
       10
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 104
   },
   {
@@ -265,7 +265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 11,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0842,
     "last_5_ranks": [
       11
@@ -315,13 +315,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 13,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.0792,
     "last_5_ranks": [
       13
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 251
   },
   {
@@ -340,7 +340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 14,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0795,
     "last_5_ranks": [
       14
@@ -365,7 +365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 15,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0572,
     "last_5_ranks": [
       15
@@ -383,20 +383,20 @@
     "pct_1d": 2.0,
     "pct_1w": 5.78,
     "pct_1m": 18.91,
-    "market_cap": 132212375552,
+    "market_cap": 132210941952,
     "revenue": 92374999040,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 16,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0638,
     "last_5_ranks": [
       16
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 76
   },
   {
@@ -415,13 +415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 17,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0734,
     "last_5_ranks": [
       17
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 24
   },
   {
@@ -440,13 +440,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 18,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0617,
     "last_5_ranks": [
       18
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 359
   },
   {
@@ -465,7 +465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 19,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.074,
     "last_5_ranks": [
       19
@@ -490,13 +490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 20,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 1.0809,
     "last_5_ranks": [
       20
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 400
   },
   {
@@ -515,13 +515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 21,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.0761,
     "last_5_ranks": [
       21
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 23
   },
   {
@@ -540,13 +540,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 22,
-    "delta": 178,
+    "delta": 0,
     "rsl_vs_sector": 1.1742,
     "last_5_ranks": [
       22
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 16
   },
   {
@@ -565,7 +565,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 23,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.066,
     "last_5_ranks": [
       23
@@ -590,13 +590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 24,
-    "delta": 59,
+    "delta": 0,
     "rsl_vs_sector": 1.0451,
     "last_5_ranks": [
       24
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 130
   },
   {
@@ -615,13 +615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 25,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0741,
     "last_5_ranks": [
       25
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 117
   },
   {
@@ -640,13 +640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 26,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0635,
     "last_5_ranks": [
       26
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 140
   },
   {
@@ -665,7 +665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 27,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0569,
     "last_5_ranks": [
       27
@@ -690,7 +690,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 28,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0519,
     "last_5_ranks": [
       28
@@ -715,13 +715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 29,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0693,
     "last_5_ranks": [
       29
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 55
   },
   {
@@ -740,13 +740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 30,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0502,
     "last_5_ranks": [
       30
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 100
   },
   {
@@ -765,7 +765,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 31,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0622,
     "last_5_ranks": [
       31
@@ -790,13 +790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 32,
-    "delta": 62,
+    "delta": 0,
     "rsl_vs_sector": 1.0414,
     "last_5_ranks": [
       32
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 190
   },
   {
@@ -815,13 +815,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 33,
-    "delta": 56,
+    "delta": 0,
     "rsl_vs_sector": 1.0493,
     "last_5_ranks": [
       33
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 143
   },
   {
@@ -840,13 +840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 34,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0599,
     "last_5_ranks": [
       34
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 74
   },
   {
@@ -865,13 +865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 35,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0666,
     "last_5_ranks": [
       35
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 25
   },
   {
@@ -890,7 +890,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 36,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.0394,
     "last_5_ranks": [
       36
@@ -908,14 +908,14 @@
     "pct_1d": 0.56,
     "pct_1w": 2.39,
     "pct_1m": 13.44,
-    "market_cap": 60262858752,
+    "market_cap": 59978797056,
     "revenue": 19456999424,
     "exp_count": 7,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 37,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0594,
     "last_5_ranks": [
       37
@@ -940,7 +940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 38,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0592,
     "last_5_ranks": [
       38
@@ -965,13 +965,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 39,
-    "delta": 48,
+    "delta": 0,
     "rsl_vs_sector": 1.0466,
     "last_5_ranks": [
       39
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 159
   },
   {
@@ -990,7 +990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 40,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0588,
     "last_5_ranks": [
       40
@@ -1015,13 +1015,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 41,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.1646,
     "last_5_ranks": [
       41
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 21
   },
   {
@@ -1040,13 +1040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 42,
-    "delta": 76,
+    "delta": 0,
     "rsl_vs_sector": 1.0753,
     "last_5_ranks": [
       42
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 247
   },
   {
@@ -1065,13 +1065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 43,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0666,
     "last_5_ranks": [
       43
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 43
   },
   {
@@ -1090,7 +1090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 44,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.0634,
     "last_5_ranks": [
       44
@@ -1115,7 +1115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 45,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0629,
     "last_5_ranks": [
       45
@@ -1140,7 +1140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 46,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.0562,
     "last_5_ranks": [
       46
@@ -1165,13 +1165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 47,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 1.0552,
     "last_5_ranks": [
       47
     ],
     "days_in_top50": 1,
-    "score": 4,
+    "score": 3,
     "rank_other": 158
   },
   {
@@ -1215,7 +1215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 49,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0634,
     "last_5_ranks": [
       49
@@ -1240,7 +1240,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 50,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0418,
     "last_5_ranks": [
       50
@@ -1265,13 +1265,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 51,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0445,
     "last_5_ranks": [
       51
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 237
   },
   {
@@ -1290,7 +1290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 52,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.0329,
     "last_5_ranks": [
       52
@@ -1315,13 +1315,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 53,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0589,
     "last_5_ranks": [
       53
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 53
   },
   {
@@ -1340,13 +1340,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 54,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.0609,
     "last_5_ranks": [
       54
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 107
   },
   {
@@ -1365,7 +1365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 55,
-    "delta": -24,
+    "delta": 0,
     "rsl_vs_sector": 1.1574,
     "last_5_ranks": [
       55
@@ -1390,13 +1390,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 56,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0581,
     "last_5_ranks": [
       56
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 30
   },
   {
@@ -1415,13 +1415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 57,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0599,
     "last_5_ranks": [
       57
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 89
   },
   {
@@ -1440,7 +1440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 58,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0375,
     "last_5_ranks": [
       58
@@ -1458,14 +1458,14 @@
     "pct_1d": -0.28,
     "pct_1w": 3.6,
     "pct_1m": 10.58,
-    "market_cap": 1049988956160,
+    "market_cap": 1046778478592,
     "revenue": 745178988544,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 59,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.0288,
     "last_5_ranks": [
       59
@@ -1490,7 +1490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 60,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0473,
     "last_5_ranks": [
       60
@@ -1515,13 +1515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 61,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.055,
     "last_5_ranks": [
       61
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 52
   },
   {
@@ -1540,13 +1540,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 62,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 1.0406,
     "last_5_ranks": [
       62
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 313
   },
   {
@@ -1565,13 +1565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 63,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 1.0571,
     "last_5_ranks": [
       63
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 371
   },
   {
@@ -1590,13 +1590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 64,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0542,
     "last_5_ranks": [
       64
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 65
   },
   {
@@ -1615,13 +1615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 65,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.0558,
     "last_5_ranks": [
       65
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 85
   },
   {
@@ -1640,13 +1640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 66,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.0336,
     "last_5_ranks": [
       66
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 97
   },
   {
@@ -1665,7 +1665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 67,
-    "delta": -44,
+    "delta": 0,
     "rsl_vs_sector": 1.0253,
     "last_5_ranks": [
       67
@@ -1683,20 +1683,20 @@
     "pct_1d": 1.55,
     "pct_1w": 4.13,
     "pct_1m": 4.57,
-    "market_cap": 160695205888,
+    "market_cap": 161386266624,
     "revenue": 63197999104,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 68,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 1.0331,
     "last_5_ranks": [
       68
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 273
   },
   {
@@ -1715,13 +1715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 69,
-    "delta": 51,
+    "delta": 0,
     "rsl_vs_sector": 1.0624,
     "last_5_ranks": [
       69
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 144
   },
   {
@@ -1765,13 +1765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 71,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0532,
     "last_5_ranks": [
       71
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 106
   },
   {
@@ -1790,13 +1790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 72,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 1.024,
     "last_5_ranks": [
       72
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 218
   },
   {
@@ -1815,13 +1815,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 73,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 1.0239,
     "last_5_ranks": [
       73
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 254
   },
   {
@@ -1840,13 +1840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 74,
-    "delta": 90,
+    "delta": 0,
     "rsl_vs_sector": 1.035,
     "last_5_ranks": [
       74
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 274
   },
   {
@@ -1865,7 +1865,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 75,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.044,
     "last_5_ranks": [
       75
@@ -1890,13 +1890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 76,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0347,
     "last_5_ranks": [
       76
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 92
   },
   {
@@ -1915,13 +1915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 77,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 1.0525,
     "last_5_ranks": [
       77
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 19
   },
   {
@@ -1940,7 +1940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 78,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 1.0437,
     "last_5_ranks": [
       78
@@ -1965,13 +1965,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 79,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.0601,
     "last_5_ranks": [
       79
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 171
   },
   {
@@ -1990,13 +1990,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 80,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.049,
     "last_5_ranks": [
       80
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 51
   },
   {
@@ -2015,7 +2015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 81,
-    "delta": -36,
+    "delta": 0,
     "rsl_vs_sector": 1.0418,
     "last_5_ranks": [
       81
@@ -2040,13 +2040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 82,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.0474,
     "last_5_ranks": [
       82
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 44
   },
   {
@@ -2065,7 +2065,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 83,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0472,
     "last_5_ranks": [
       83
@@ -2090,13 +2090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 84,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0331,
     "last_5_ranks": [
       84
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 72
   },
   {
@@ -2115,7 +2115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 85,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.0284,
     "last_5_ranks": [
       85
@@ -2140,7 +2140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 86,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0201,
     "last_5_ranks": [
       86
@@ -2165,13 +2165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 87,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.0313,
     "last_5_ranks": [
       87
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 138
   },
   {
@@ -2190,7 +2190,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 88,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0485,
     "last_5_ranks": [
       88
@@ -2215,7 +2215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 89,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0301,
     "last_5_ranks": [
       89
@@ -2234,19 +2234,19 @@
     "pct_1w": 8.69,
     "pct_1m": -7.24,
     "market_cap": 28090787840,
-    "revenue": 59162001408,
+    "revenue": 60527001600,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 90,
-    "delta": 310,
+    "delta": 0,
     "rsl_vs_sector": 1.1427,
     "last_5_ranks": [
       90
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 119
   },
   {
@@ -2265,7 +2265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 91,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0383,
     "last_5_ranks": [
       91
@@ -2290,13 +2290,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 92,
-    "delta": 50,
+    "delta": 0,
     "rsl_vs_sector": 1.0552,
     "last_5_ranks": [
       92
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 120
   },
   {
@@ -2315,7 +2315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 93,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1418,
     "last_5_ranks": [
       93
@@ -2340,7 +2340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 94,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.0361,
     "last_5_ranks": [
       94
@@ -2365,7 +2365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 95,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0443,
     "last_5_ranks": [
       95
@@ -2390,7 +2390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 96,
-    "delta": -80,
+    "delta": 0,
     "rsl_vs_sector": 1.0354,
     "last_5_ranks": [
       96
@@ -2415,7 +2415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 97,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.034,
     "last_5_ranks": [
       97
@@ -2440,7 +2440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 98,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.015,
     "last_5_ranks": [
       98
@@ -2465,7 +2465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 99,
-    "delta": -43,
+    "delta": 0,
     "rsl_vs_sector": 1.0274,
     "last_5_ranks": [
       99
@@ -2490,13 +2490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 100,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0252,
     "last_5_ranks": [
       100
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 260
   },
   {
@@ -2515,7 +2515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 101,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0265,
     "last_5_ranks": [
       101
@@ -2533,20 +2533,20 @@
     "pct_1d": 1.25,
     "pct_1w": 1.65,
     "pct_1m": 9.02,
-    "market_cap": 67562356736,
+    "market_cap": 67403956224,
     "revenue": 337397284864,
     "exp_count": 8,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 102,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.034,
     "last_5_ranks": [
       102
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 78
   },
   {
@@ -2565,13 +2565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 103,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0403,
     "last_5_ranks": [
       103
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 109
   },
   {
@@ -2590,13 +2590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 104,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 1.1371,
     "last_5_ranks": [
       104
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 11
   },
   {
@@ -2615,13 +2615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 105,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.042,
     "last_5_ranks": [
       105
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 113
   },
   {
@@ -2640,7 +2640,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 106,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.0389,
     "last_5_ranks": [
       106
@@ -2665,7 +2665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 107,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0249,
     "last_5_ranks": [
       107
@@ -2690,13 +2690,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 108,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0381,
     "last_5_ranks": [
       108
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 116
   },
   {
@@ -2715,7 +2715,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 109,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0401,
     "last_5_ranks": [
       109
@@ -2740,13 +2740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 110,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0374,
     "last_5_ranks": [
       110
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 184
   },
   {
@@ -2765,13 +2765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 111,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.031,
     "last_5_ranks": [
       111
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 214
   },
   {
@@ -2790,7 +2790,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 112,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1344,
     "last_5_ranks": [
       112
@@ -2815,7 +2815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 113,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0396,
     "last_5_ranks": [
       113
@@ -2840,13 +2840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 114,
-    "delta": 79,
+    "delta": 0,
     "rsl_vs_sector": 1.0396,
     "last_5_ranks": [
       114
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 153
   },
   {
@@ -2865,13 +2865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 115,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 1.0218,
     "last_5_ranks": [
       115
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 145
   },
   {
@@ -2890,13 +2890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 116,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.0104,
     "last_5_ranks": [
       116
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 124
   },
   {
@@ -2915,7 +2915,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 117,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0103,
     "last_5_ranks": [
       117
@@ -2940,13 +2940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 118,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0358,
     "last_5_ranks": [
       118
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 118
   },
   {
@@ -2965,13 +2965,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 119,
-    "delta": 53,
+    "delta": 0,
     "rsl_vs_sector": 1.0464,
     "last_5_ranks": [
       119
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 90
   },
   {
@@ -2990,7 +2990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 120,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0377,
     "last_5_ranks": [
       120
@@ -3015,7 +3015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 121,
-    "delta": -31,
+    "delta": 0,
     "rsl_vs_sector": 1.0289,
     "last_5_ranks": [
       121
@@ -3040,13 +3040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 122,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 1.132,
     "last_5_ranks": [
       122
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 12
   },
   {
@@ -3065,7 +3065,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 123,
-    "delta": -71,
+    "delta": 0,
     "rsl_vs_sector": 1.0285,
     "last_5_ranks": [
       123
@@ -3090,13 +3090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 124,
-    "delta": 54,
+    "delta": 0,
     "rsl_vs_sector": 1.0195,
     "last_5_ranks": [
       124
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 302
   },
   {
@@ -3115,7 +3115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 125,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0366,
     "last_5_ranks": [
       125
@@ -3140,13 +3140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 126,
-    "delta": 55,
+    "delta": 0,
     "rsl_vs_sector": 1.0077,
     "last_5_ranks": [
       126
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 246
   },
   {
@@ -3165,7 +3165,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 127,
-    "delta": -68,
+    "delta": 0,
     "rsl_vs_sector": 1.0276,
     "last_5_ranks": [
       127
@@ -3190,7 +3190,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 128,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0152,
     "last_5_ranks": [
       128
@@ -3215,7 +3215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 129,
-    "delta": -24,
+    "delta": 0,
     "rsl_vs_sector": 1.0269,
     "last_5_ranks": [
       129
@@ -3240,13 +3240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 130,
-    "delta": 76,
+    "delta": 0,
     "rsl_vs_sector": 1.0354,
     "last_5_ranks": [
       130
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 391
   },
   {
@@ -3265,13 +3265,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 131,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0253,
     "last_5_ranks": [
       131
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 256
   },
   {
@@ -3290,7 +3290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 132,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.0327,
     "last_5_ranks": [
       132
@@ -3315,13 +3315,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 133,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0185,
     "last_5_ranks": [
       133
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 175
   },
   {
@@ -3340,7 +3340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 134,
-    "delta": -57,
+    "delta": 0,
     "rsl_vs_sector": 1.0059,
     "last_5_ranks": [
       134
@@ -3365,13 +3365,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 135,
-    "delta": 84,
+    "delta": 0,
     "rsl_vs_sector": 1.0427,
     "last_5_ranks": [
       135
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 126
   },
   {
@@ -3390,13 +3390,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 136,
-    "delta": 44,
+    "delta": 0,
     "rsl_vs_sector": 1.0425,
     "last_5_ranks": [
       136
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 282
   },
   {
@@ -3415,7 +3415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 137,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0133,
     "last_5_ranks": [
       137
@@ -3440,7 +3440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 138,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0177,
     "last_5_ranks": [
       138
@@ -3465,7 +3465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 139,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.0313,
     "last_5_ranks": [
       139
@@ -3490,7 +3490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 140,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.005,
     "last_5_ranks": [
       140
@@ -3515,7 +3515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 141,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0048,
     "last_5_ranks": [
       141
@@ -3540,13 +3540,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 142,
-    "delta": 78,
+    "delta": 0,
     "rsl_vs_sector": 1.0126,
     "last_5_ranks": [
       142
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 26
   },
   {
@@ -3565,13 +3565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 143,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0306,
     "last_5_ranks": [
       143
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 216
   },
   {
@@ -3590,13 +3590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 144,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0154,
     "last_5_ranks": [
       144
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 258
   },
   {
@@ -3615,13 +3615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 145,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 1.0302,
     "last_5_ranks": [
       145
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 47
   },
   {
@@ -3640,13 +3640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 146,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.0296,
     "last_5_ranks": [
       146
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 160
   },
   {
@@ -3665,7 +3665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 147,
-    "delta": -105,
+    "delta": 0,
     "rsl_vs_sector": 1.0233,
     "last_5_ranks": [
       147
@@ -3690,13 +3690,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 148,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0139,
     "last_5_ranks": [
       148
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 270
   },
   {
@@ -3715,13 +3715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 149,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0135,
     "last_5_ranks": [
       149
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 285
   },
   {
@@ -3740,13 +3740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 150,
-    "delta": 65,
+    "delta": 0,
     "rsl_vs_sector": 1.0222,
     "last_5_ranks": [
       150
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 304
   },
   {
@@ -3765,7 +3765,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 151,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0145,
     "last_5_ranks": [
       151
@@ -3790,13 +3790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 152,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0128,
     "last_5_ranks": [
       152
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 298
   },
   {
@@ -3815,7 +3815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 153,
-    "delta": -50,
+    "delta": 0,
     "rsl_vs_sector": 1.0277,
     "last_5_ranks": [
       153
@@ -3840,7 +3840,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 154,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0383,
     "last_5_ranks": [
       154
@@ -3865,13 +3865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 155,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 1.0089,
     "last_5_ranks": [
       155
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 399
   },
   {
@@ -3890,13 +3890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 156,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0132,
     "last_5_ranks": [
       156
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 197
   },
   {
@@ -3915,13 +3915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 157,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0088,
     "last_5_ranks": [
       157
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 177
   },
   {
@@ -3940,7 +3940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 158,
-    "delta": -28,
+    "delta": 0,
     "rsl_vs_sector": 1.0289,
     "last_5_ranks": [
       158
@@ -3965,7 +3965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 159,
-    "delta": -71,
+    "delta": 0,
     "rsl_vs_sector": 1.0182,
     "last_5_ranks": [
       159
@@ -3990,7 +3990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 160,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.1213,
     "last_5_ranks": [
       160
@@ -4015,7 +4015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 161,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 1.0254,
     "last_5_ranks": [
       161
@@ -4040,7 +4040,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 162,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0276,
     "last_5_ranks": [
       162
@@ -4065,7 +4065,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 163,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 1.01,
     "last_5_ranks": [
       163
@@ -4090,13 +4090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 164,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1207,
     "last_5_ranks": [
       164
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 220
   },
   {
@@ -4115,7 +4115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 165,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.011,
     "last_5_ranks": [
       165
@@ -4140,13 +4140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 166,
-    "delta": 39,
+    "delta": 0,
     "rsl_vs_sector": 1.0241,
     "last_5_ranks": [
       166
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 63
   },
   {
@@ -4158,14 +4158,14 @@
     "pct_1d": 0.55,
     "pct_1w": -0.15,
     "pct_1m": 3.94,
-    "market_cap": 27566899200,
+    "market_cap": 27868547072,
     "revenue": 16044999680,
     "exp_count": 8,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 167,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0103,
     "last_5_ranks": [
       167
@@ -4190,13 +4190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 168,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0175,
     "last_5_ranks": [
       168
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 88
   },
   {
@@ -4215,13 +4215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 169,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.0084,
     "last_5_ranks": [
       169
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 278
   },
   {
@@ -4240,13 +4240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 170,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.0233,
     "last_5_ranks": [
       170
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 83
   },
   {
@@ -4265,7 +4265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 171,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0094,
     "last_5_ranks": [
       171
@@ -4290,13 +4290,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 172,
-    "delta": 120,
+    "delta": 0,
     "rsl_vs_sector": 1.0168,
     "last_5_ranks": [
       172
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 80
   },
   {
@@ -4315,7 +4315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 173,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.0253,
     "last_5_ranks": [
       173
@@ -4340,7 +4340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 174,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.009,
     "last_5_ranks": [
       174
@@ -4365,7 +4365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 175,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 0.9966,
     "last_5_ranks": [
       175
@@ -4390,7 +4390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 176,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.0243,
     "last_5_ranks": [
       176
@@ -4415,7 +4415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 177,
-    "delta": -45,
+    "delta": 0,
     "rsl_vs_sector": 1.0157,
     "last_5_ranks": [
       177
@@ -4440,13 +4440,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 178,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 1.0323,
     "last_5_ranks": [
       178
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 191
   },
   {
@@ -4465,7 +4465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 179,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0079,
     "last_5_ranks": [
       179
@@ -4490,13 +4490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 180,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.0033,
     "last_5_ranks": [
       180
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 236
   },
   {
@@ -4515,13 +4515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 181,
-    "delta": 85,
+    "delta": 0,
     "rsl_vs_sector": 1.0319,
     "last_5_ranks": [
       181
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 169
   },
   {
@@ -4540,7 +4540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 182,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.007,
     "last_5_ranks": [
       182
@@ -4565,13 +4565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 183,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 1.002,
     "last_5_ranks": [
       183
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 392
   },
   {
@@ -4590,13 +4590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 184,
-    "delta": 53,
+    "delta": 0,
     "rsl_vs_sector": 1.0048,
     "last_5_ranks": [
       184
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 287
   },
   {
@@ -4615,13 +4615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 185,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0059,
     "last_5_ranks": [
       185
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 241
   },
   {
@@ -4640,13 +4640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 186,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0219,
     "last_5_ranks": [
       186
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 213
   },
   {
@@ -4665,13 +4665,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 187,
-    "delta": 48,
+    "delta": 0,
     "rsl_vs_sector": 1.0132,
     "last_5_ranks": [
       187
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 49
   },
   {
@@ -4690,7 +4690,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 188,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0191,
     "last_5_ranks": [
       188
@@ -4715,7 +4715,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 189,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0216,
     "last_5_ranks": [
       189
@@ -4740,13 +4740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 190,
-    "delta": 77,
+    "delta": 0,
     "rsl_vs_sector": 1.0298,
     "last_5_ranks": [
       190
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 376
   },
   {
@@ -4765,13 +4765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 191,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 0.993,
     "last_5_ranks": [
       191
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 42
   },
   {
@@ -4790,7 +4790,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 192,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0188,
     "last_5_ranks": [
       192
@@ -4815,13 +4815,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 193,
-    "delta": 68,
+    "delta": 0,
     "rsl_vs_sector": 1.0004,
     "last_5_ranks": [
       193
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 321
   },
   {
@@ -4840,7 +4840,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 194,
-    "delta": -84,
+    "delta": 0,
     "rsl_vs_sector": 1.0119,
     "last_5_ranks": [
       194
@@ -4865,13 +4865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 195,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 1.0116,
     "last_5_ranks": [
       195
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 342
   },
   {
@@ -4890,7 +4890,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 196,
-    "delta": -110,
+    "delta": 0,
     "rsl_vs_sector": 1.0114,
     "last_5_ranks": [
       196
@@ -4915,13 +4915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 197,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 1.028,
     "last_5_ranks": [
       197
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 162
   },
   {
@@ -4940,7 +4940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 198,
-    "delta": -143,
+    "delta": 0,
     "rsl_vs_sector": 1.0111,
     "last_5_ranks": [
       198
@@ -4965,7 +4965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 199,
-    "delta": -41,
+    "delta": 0,
     "rsl_vs_sector": 1.0035,
     "last_5_ranks": [
       199
@@ -4990,7 +4990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 200,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0194,
     "last_5_ranks": [
       200
@@ -5015,7 +5015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 201,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0027,
     "last_5_ranks": [
       201
@@ -5040,7 +5040,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 202,
-    "delta": -40,
+    "delta": 0,
     "rsl_vs_sector": 1.0024,
     "last_5_ranks": [
       202
@@ -5065,13 +5065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 203,
-    "delta": 59,
+    "delta": 0,
     "rsl_vs_sector": 1.0096,
     "last_5_ranks": [
       203
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 161
   },
   {
@@ -5090,13 +5090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 204,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0157,
     "last_5_ranks": [
       204
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 172
   },
   {
@@ -5115,13 +5115,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 205,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.0008,
     "last_5_ranks": [
       205
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 395
   },
   {
@@ -5140,13 +5140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 206,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 1.0174,
     "last_5_ranks": [
       206
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 412
   },
   {
@@ -5165,13 +5165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 207,
-    "delta": 39,
+    "delta": 0,
     "rsl_vs_sector": 1.0172,
     "last_5_ranks": [
       207
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 137
   },
   {
@@ -5190,13 +5190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 208,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 1.0087,
     "last_5_ranks": [
       208
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 148
   },
   {
@@ -5215,13 +5215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 209,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 1.0171,
     "last_5_ranks": [
       209
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 233
   },
   {
@@ -5240,13 +5240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 210,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.9952,
     "last_5_ranks": [
       210
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 330
   },
   {
@@ -5265,7 +5265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 211,
-    "delta": -51,
+    "delta": 0,
     "rsl_vs_sector": 1.0154,
     "last_5_ranks": [
       211
@@ -5290,7 +5290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 212,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0149,
     "last_5_ranks": [
       212
@@ -5315,7 +5315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 213,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 1.0124,
     "last_5_ranks": [
       213
@@ -5340,13 +5340,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 214,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9988,
     "last_5_ranks": [
       214
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 235
   },
   {
@@ -5365,7 +5365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 215,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 0.9944,
     "last_5_ranks": [
       215
@@ -5390,7 +5390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 216,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0115,
     "last_5_ranks": [
       216
@@ -5415,13 +5415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 217,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 0.9855,
     "last_5_ranks": [
       217
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 373
   },
   {
@@ -5440,7 +5440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 218,
-    "delta": -93,
+    "delta": 0,
     "rsl_vs_sector": 0.9931,
     "last_5_ranks": [
       218
@@ -5465,13 +5465,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 219,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 1.013,
     "last_5_ranks": [
       219
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 71
   },
   {
@@ -5490,7 +5490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 220,
-    "delta": -51,
+    "delta": 0,
     "rsl_vs_sector": 1.0105,
     "last_5_ranks": [
       220
@@ -5515,7 +5515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 221,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0128,
     "last_5_ranks": [
       221
@@ -5540,7 +5540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 222,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.9968,
     "last_5_ranks": [
       222
@@ -5565,13 +5565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 223,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9953,
     "last_5_ranks": [
       223
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 291
   },
   {
@@ -5590,7 +5590,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 224,
-    "delta": -77,
+    "delta": 0,
     "rsl_vs_sector": 1.0039,
     "last_5_ranks": [
       224
@@ -5615,7 +5615,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 225,
-    "delta": -162,
+    "delta": 0,
     "rsl_vs_sector": 1.0099,
     "last_5_ranks": [
       225
@@ -5640,13 +5640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 226,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.984,
     "last_5_ranks": [
       226
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 206
   },
   {
@@ -5665,13 +5665,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 227,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 0.9917,
     "last_5_ranks": [
       227
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 264
   },
   {
@@ -5690,7 +5690,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 228,
-    "delta": -77,
+    "delta": 0,
     "rsl_vs_sector": 1.0034,
     "last_5_ranks": [
       228
@@ -5715,13 +5715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 229,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.009,
     "last_5_ranks": [
       229
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 288
   },
   {
@@ -5740,13 +5740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 230,
-    "delta": 57,
+    "delta": 0,
     "rsl_vs_sector": 1.0112,
     "last_5_ranks": [
       230
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 272
   },
   {
@@ -5765,13 +5765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 231,
-    "delta": 69,
+    "delta": 0,
     "rsl_vs_sector": 0.9929,
     "last_5_ranks": [
       231
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 406
   },
   {
@@ -5783,20 +5783,20 @@
     "pct_1d": 1.39,
     "pct_1w": 0.35,
     "pct_1m": 2.99,
-    "market_cap": 31281563648,
-    "revenue": 15822999552,
+    "market_cap": 31123310592,
+    "revenue": 15808000000,
     "exp_count": 7,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 232,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0075,
     "last_5_ranks": [
       232
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 289
   },
   {
@@ -5815,7 +5815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 233,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9894,
     "last_5_ranks": [
       233
@@ -5840,7 +5840,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 234,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 1.101,
     "last_5_ranks": [
       234
@@ -5865,7 +5865,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 235,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 0.9889,
     "last_5_ranks": [
       235
@@ -5890,13 +5890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 236,
-    "delta": 66,
+    "delta": 0,
     "rsl_vs_sector": 1.0091,
     "last_5_ranks": [
       236
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 245
   },
   {
@@ -5915,13 +5915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 237,
-    "delta": 77,
+    "delta": 0,
     "rsl_vs_sector": 1.0063,
     "last_5_ranks": [
       237
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 141
   },
   {
@@ -5940,13 +5940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 238,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0061,
     "last_5_ranks": [
       238
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 132
   },
   {
@@ -5965,13 +5965,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 239,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 0.9801,
     "last_5_ranks": [
       239
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 151
   },
   {
@@ -5990,7 +5990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 240,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.0077,
     "last_5_ranks": [
       240
@@ -6015,7 +6015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 241,
-    "delta": -50,
+    "delta": 0,
     "rsl_vs_sector": 1.0076,
     "last_5_ranks": [
       241
@@ -6040,13 +6040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 242,
-    "delta": 44,
+    "delta": 0,
     "rsl_vs_sector": 1.0074,
     "last_5_ranks": [
       242
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 210
   },
   {
@@ -6065,13 +6065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 243,
-    "delta": 33,
+    "delta": 0,
     "rsl_vs_sector": 0.9792,
     "last_5_ranks": [
       243
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 181
   },
   {
@@ -6090,7 +6090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 244,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0047,
     "last_5_ranks": [
       244
@@ -6115,13 +6115,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 245,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0071,
     "last_5_ranks": [
       245
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 174
   },
   {
@@ -6140,13 +6140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 246,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 1.0064,
     "last_5_ranks": [
       246
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 208
   },
   {
@@ -6165,7 +6165,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 247,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 0.9892,
     "last_5_ranks": [
       247
@@ -6190,13 +6190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 248,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0063,
     "last_5_ranks": [
       248
     ],
     "days_in_top50": 0,
-    "score": 3,
+    "score": 2,
     "rank_other": 350
   },
   {
@@ -6215,7 +6215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 249,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.99,
     "last_5_ranks": [
       249
@@ -6240,7 +6240,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 250,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 0.9968,
     "last_5_ranks": [
       250
@@ -6265,13 +6265,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 251,
-    "delta": 62,
+    "delta": 0,
     "rsl_vs_sector": 1.0052,
     "last_5_ranks": [
       251
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 442
   },
   {
@@ -6290,13 +6290,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 252,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 1.0052,
     "last_5_ranks": [
       252
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 133
   },
   {
@@ -6315,7 +6315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 253,
-    "delta": -43,
+    "delta": 0,
     "rsl_vs_sector": 1.0028,
     "last_5_ranks": [
       253
@@ -6340,13 +6340,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 254,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 0.9845,
     "last_5_ranks": [
       254
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 261
   },
   {
@@ -6365,13 +6365,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 255,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 0.9872,
     "last_5_ranks": [
       255
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 368
   },
   {
@@ -6390,7 +6390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 256,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.9884,
     "last_5_ranks": [
       256
@@ -6415,13 +6415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 257,
-    "delta": 58,
+    "delta": 0,
     "rsl_vs_sector": 1.0037,
     "last_5_ranks": [
       257
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 416
   },
   {
@@ -6433,20 +6433,20 @@
     "pct_1d": 2.85,
     "pct_1w": -5.49,
     "pct_1m": 14.54,
-    "market_cap": 170370711552,
+    "market_cap": 74845224960,
     "revenue": 27451000832,
     "exp_count": 14,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 258,
-    "delta": 58,
+    "delta": 0,
     "rsl_vs_sector": 0.9835,
     "last_5_ranks": [
       258
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 267
   },
   {
@@ -6465,7 +6465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 259,
-    "delta": -50,
+    "delta": 0,
     "rsl_vs_sector": 0.9757,
     "last_5_ranks": [
       259
@@ -6490,7 +6490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 260,
-    "delta": -57,
+    "delta": 0,
     "rsl_vs_sector": 1.0945,
     "last_5_ranks": [
       260
@@ -6515,13 +6515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 261,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0032,
     "last_5_ranks": [
       261
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 155
   },
   {
@@ -6540,13 +6540,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 262,
-    "delta": 76,
+    "delta": 0,
     "rsl_vs_sector": 1.0031,
     "last_5_ranks": [
       262
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 426
   },
   {
@@ -6565,7 +6565,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 263,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0029,
     "last_5_ranks": [
       263
@@ -6590,13 +6590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 264,
-    "delta": 75,
+    "delta": 0,
     "rsl_vs_sector": 1.0939,
     "last_5_ranks": [
       264
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 281
   },
   {
@@ -6615,7 +6615,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 265,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 0.9856,
     "last_5_ranks": [
       265
@@ -6633,14 +6633,14 @@
     "pct_1d": -0.6,
     "pct_1w": -2.74,
     "pct_1m": 2.96,
-    "market_cap": 13893423104,
+    "market_cap": 13910092800,
     "revenue": 9109999616,
     "exp_count": 6,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 266,
-    "delta": -55,
+    "delta": 0,
     "rsl_vs_sector": 0.9747,
     "last_5_ranks": [
       266
@@ -6665,7 +6665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 267,
-    "delta": -63,
+    "delta": 0,
     "rsl_vs_sector": 0.994,
     "last_5_ranks": [
       267
@@ -6715,13 +6715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 269,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0,
     "last_5_ranks": [
       269
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 336
   },
   {
@@ -6740,7 +6740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 270,
-    "delta": -78,
+    "delta": 0,
     "rsl_vs_sector": 0.9737,
     "last_5_ranks": [
       270
@@ -6765,13 +6765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 271,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0097,
     "last_5_ranks": [
       271
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 198
   },
   {
@@ -6790,13 +6790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 272,
-    "delta": 83,
+    "delta": 0,
     "rsl_vs_sector": 1.0095,
     "last_5_ranks": [
       272
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 344
   },
   {
@@ -6808,14 +6808,14 @@
     "pct_1d": 0.27,
     "pct_1w": -0.41,
     "pct_1m": -1.01,
-    "market_cap": 17880610816,
+    "market_cap": 17886574592,
     "revenue": 2979794944,
     "exp_count": 4,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 273,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0008,
     "last_5_ranks": [
       273
@@ -6840,7 +6840,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 274,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.998,
     "last_5_ranks": [
       274
@@ -6865,13 +6865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 275,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 0.9823,
     "last_5_ranks": [
       275
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 361
   },
   {
@@ -6890,13 +6890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 276,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 0.9993,
     "last_5_ranks": [
       276
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 410
   },
   {
@@ -6915,13 +6915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 277,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9988,
     "last_5_ranks": [
       277
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 335
   },
   {
@@ -6940,13 +6940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 278,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9958,
     "last_5_ranks": [
       278
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 308
   },
   {
@@ -6965,7 +6965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 279,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 0.9825,
     "last_5_ranks": [
       279
@@ -6990,13 +6990,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 280,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9955,
     "last_5_ranks": [
       280
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 326
   },
   {
@@ -7015,13 +7015,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 281,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 1.0054,
     "last_5_ranks": [
       281
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 215
   },
   {
@@ -7040,13 +7040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 282,
-    "delta": 117,
+    "delta": 0,
     "rsl_vs_sector": 1.0512,
     "last_5_ranks": [
       282
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 327
   },
   {
@@ -7065,13 +7065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 283,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 1.0877,
     "last_5_ranks": [
       283
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 377
   },
   {
@@ -7090,13 +7090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 284,
-    "delta": 82,
+    "delta": 0,
     "rsl_vs_sector": 1.0874,
     "last_5_ranks": [
       284
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 79
   },
   {
@@ -7115,13 +7115,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 285,
-    "delta": 50,
+    "delta": 0,
     "rsl_vs_sector": 0.9967,
     "last_5_ranks": [
       285
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 266
   },
   {
@@ -7140,7 +7140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 286,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0041,
     "last_5_ranks": [
       286
@@ -7165,13 +7165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 287,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.0864,
     "last_5_ranks": [
       287
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 259
   },
   {
@@ -7190,7 +7190,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 288,
-    "delta": -74,
+    "delta": 0,
     "rsl_vs_sector": 0.9759,
     "last_5_ranks": [
       288
@@ -7215,13 +7215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 289,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.049,
     "last_5_ranks": [
       289
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 276
   },
   {
@@ -7240,13 +7240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 290,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 0.9789,
     "last_5_ranks": [
       290
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 283
   },
   {
@@ -7265,13 +7265,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 291,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.9774,
     "last_5_ranks": [
       291
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 192
   },
   {
@@ -7290,7 +7290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 292,
-    "delta": -49,
+    "delta": 0,
     "rsl_vs_sector": 0.9744,
     "last_5_ranks": [
       292
@@ -7315,13 +7315,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 293,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.084,
     "last_5_ranks": [
       293
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 284
   },
   {
@@ -7340,7 +7340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 294,
-    "delta": -109,
+    "delta": 0,
     "rsl_vs_sector": 0.993,
     "last_5_ranks": [
       294
@@ -7365,7 +7365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 295,
-    "delta": -120,
+    "delta": 0,
     "rsl_vs_sector": 0.9847,
     "last_5_ranks": [
       295
@@ -7390,7 +7390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 296,
-    "delta": -79,
+    "delta": 0,
     "rsl_vs_sector": 0.9847,
     "last_5_ranks": [
       296
@@ -7415,13 +7415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 297,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9907,
     "last_5_ranks": [
       297
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 309
   },
   {
@@ -7440,7 +7440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 298,
-    "delta": -90,
+    "delta": 0,
     "rsl_vs_sector": 0.9844,
     "last_5_ranks": [
       298
@@ -7465,13 +7465,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 299,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 0.9921,
     "last_5_ranks": [
       299
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 401
   },
   {
@@ -7490,7 +7490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 300,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 0.9823,
     "last_5_ranks": [
       300
@@ -7515,7 +7515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 301,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 0.975,
     "last_5_ranks": [
       301
@@ -7540,7 +7540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 302,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 0.9918,
     "last_5_ranks": [
       302
@@ -7565,7 +7565,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 303,
-    "delta": -59,
+    "delta": 0,
     "rsl_vs_sector": 0.9718,
     "last_5_ranks": [
       303
@@ -7590,13 +7590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 304,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9758,
     "last_5_ranks": [
       304
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 242
   },
   {
@@ -7615,7 +7615,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 305,
-    "delta": -55,
+    "delta": 0,
     "rsl_vs_sector": 0.9826,
     "last_5_ranks": [
       305
@@ -7640,7 +7640,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 306,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 0.9878,
     "last_5_ranks": [
       306
@@ -7665,13 +7665,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 307,
-    "delta": 82,
+    "delta": 0,
     "rsl_vs_sector": 1.0435,
     "last_5_ranks": [
       307
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 306
   },
   {
@@ -7690,7 +7690,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 308,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.9868,
     "last_5_ranks": [
       308
@@ -7715,13 +7715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 309,
-    "delta": 31,
+    "delta": 0,
     "rsl_vs_sector": 0.9891,
     "last_5_ranks": [
       309
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": "-"
   },
   {
@@ -7740,13 +7740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 310,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9867,
     "last_5_ranks": [
       310
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 310
   },
   {
@@ -7765,13 +7765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 311,
-    "delta": 43,
+    "delta": 0,
     "rsl_vs_sector": 0.9886,
     "last_5_ranks": [
       311
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 374
   },
   {
@@ -7790,13 +7790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 312,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0412,
     "last_5_ranks": [
       312
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 244
   },
   {
@@ -7815,13 +7815,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 313,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.972,
     "last_5_ranks": [
       313
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 453
   },
   {
@@ -7840,13 +7840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 314,
-    "delta": 68,
+    "delta": 0,
     "rsl_vs_sector": 0.9771,
     "last_5_ranks": [
       314
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 319
   },
   {
@@ -7865,13 +7865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 315,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9844,
     "last_5_ranks": [
       315
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 343
   },
   {
@@ -7890,13 +7890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 316,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 0.9865,
     "last_5_ranks": [
       316
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 339
   },
   {
@@ -7915,7 +7915,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 317,
-    "delta": -52,
+    "delta": 0,
     "rsl_vs_sector": 0.9764,
     "last_5_ranks": [
       317
@@ -7940,13 +7940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 318,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9835,
     "last_5_ranks": [
       318
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 337
   },
   {
@@ -7965,13 +7965,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 319,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9827,
     "last_5_ranks": [
       319
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 389
   },
   {
@@ -7990,7 +7990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 320,
-    "delta": -47,
+    "delta": 0,
     "rsl_vs_sector": 0.9652,
     "last_5_ranks": [
       320
@@ -8015,13 +8015,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 321,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.9826,
     "last_5_ranks": [
       321
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 348
   },
   {
@@ -8034,19 +8034,19 @@
     "pct_1w": -0.58,
     "pct_1m": 0.23,
     "market_cap": 172835291136,
-    "revenue": 47927001088,
+    "revenue": 47703998464,
     "exp_count": 14,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 322,
-    "delta": 71,
+    "delta": 0,
     "rsl_vs_sector": 0.9846,
     "last_5_ranks": [
       322
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 249
   },
   {
@@ -8065,13 +8065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 323,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.9846,
     "last_5_ranks": [
       323
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 196
   },
   {
@@ -8090,7 +8090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 324,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 0.9762,
     "last_5_ranks": [
       324
@@ -8115,7 +8115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 325,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.9818,
     "last_5_ranks": [
       325
@@ -8140,13 +8140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 326,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0736,
     "last_5_ranks": [
       326
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 131
   },
   {
@@ -8165,7 +8165,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 327,
-    "delta": -48,
+    "delta": 0,
     "rsl_vs_sector": 0.9838,
     "last_5_ranks": [
       327
@@ -8190,7 +8190,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 328,
-    "delta": -79,
+    "delta": 0,
     "rsl_vs_sector": 0.9639,
     "last_5_ranks": [
       328
@@ -8215,7 +8215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 329,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 0.9804,
     "last_5_ranks": [
       329
@@ -8240,13 +8240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 330,
-    "delta": 37,
+    "delta": 0,
     "rsl_vs_sector": 0.9627,
     "last_5_ranks": [
       330
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 385
   },
   {
@@ -8265,13 +8265,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 331,
-    "delta": 52,
+    "delta": 0,
     "rsl_vs_sector": 1.0715,
     "last_5_ranks": [
       331
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 3
   },
   {
@@ -8290,7 +8290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 332,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9664,
     "last_5_ranks": [
       332
@@ -8315,7 +8315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 333,
-    "delta": -48,
+    "delta": 0,
     "rsl_vs_sector": 0.9812,
     "last_5_ranks": [
       333
@@ -8340,7 +8340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 334,
-    "delta": -103,
+    "delta": 0,
     "rsl_vs_sector": 0.9728,
     "last_5_ranks": [
       334
@@ -8365,13 +8365,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 335,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9771,
     "last_5_ranks": [
       335
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 364
   },
   {
@@ -8390,13 +8390,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 336,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9768,
     "last_5_ranks": [
       336
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 329
   },
   {
@@ -8415,13 +8415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 337,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9519,
     "last_5_ranks": [
       337
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": "-"
   },
   {
@@ -8440,7 +8440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 338,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 0.9766,
     "last_5_ranks": [
       338
@@ -8465,7 +8465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 339,
-    "delta": -42,
+    "delta": 0,
     "rsl_vs_sector": 0.9706,
     "last_5_ranks": [
       339
@@ -8490,7 +8490,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 340,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0671,
     "last_5_ranks": [
       340
@@ -8515,7 +8515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 341,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 0.975,
     "last_5_ranks": [
       341
@@ -8540,7 +8540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 342,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 0.9749,
     "last_5_ranks": [
       342
@@ -8565,13 +8565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 343,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 0.9768,
     "last_5_ranks": [
       343
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": "-"
   },
   {
@@ -8590,13 +8590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 344,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9682,
     "last_5_ranks": [
       344
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 207
   },
   {
@@ -8615,7 +8615,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 345,
-    "delta": -65,
+    "delta": 0,
     "rsl_vs_sector": 0.968,
     "last_5_ranks": [
       345
@@ -8640,7 +8640,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 346,
-    "delta": -76,
+    "delta": 0,
     "rsl_vs_sector": 0.9676,
     "last_5_ranks": [
       346
@@ -8665,13 +8665,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 347,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0285,
     "last_5_ranks": [
       347
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 167
   },
   {
@@ -8684,13 +8684,13 @@
     "pct_1w": -2.45,
     "pct_1m": 1.94,
     "market_cap": 51578064896,
-    "revenue": 7790000128,
+    "revenue": 8096999936,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 348,
-    "delta": -149,
+    "delta": 0,
     "rsl_vs_sector": 1.0641,
     "last_5_ranks": [
       348
@@ -8715,7 +8715,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 349,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 0.9753,
     "last_5_ranks": [
       349
@@ -8733,14 +8733,14 @@
     "pct_1d": -1.29,
     "pct_1w": -1.92,
     "pct_1m": -2.97,
-    "market_cap": 71617585152,
+    "market_cap": 71321100288,
     "revenue": 25166804992,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 350,
-    "delta": -54,
+    "delta": 0,
     "rsl_vs_sector": 0.9558,
     "last_5_ranks": [
       350
@@ -8790,7 +8790,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 352,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.9573,
     "last_5_ranks": [
       352
@@ -8815,7 +8815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 353,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.957,
     "last_5_ranks": [
       353
@@ -8840,7 +8840,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 354,
-    "delta": -130,
+    "delta": 0,
     "rsl_vs_sector": 0.9732,
     "last_5_ranks": [
       354
@@ -8865,13 +8865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 355,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9649,
     "last_5_ranks": [
       355
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 325
   },
   {
@@ -8890,7 +8890,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 356,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 0.9647,
     "last_5_ranks": [
       356
@@ -8915,7 +8915,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 357,
-    "delta": -64,
+    "delta": 0,
     "rsl_vs_sector": 0.9644,
     "last_5_ranks": [
       357
@@ -8940,13 +8940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 358,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9685,
     "last_5_ranks": [
       358
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 370
   },
   {
@@ -8965,7 +8965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 359,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 0.9707,
     "last_5_ranks": [
       359
@@ -8990,13 +8990,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 360,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.059,
     "last_5_ranks": [
       360
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 428
   },
   {
@@ -9015,13 +9015,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 361,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 1.0231,
     "last_5_ranks": [
       361
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 322
   },
   {
@@ -9040,7 +9040,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 362,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9664,
     "last_5_ranks": [
       362
@@ -9065,7 +9065,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 363,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.976,
     "last_5_ranks": [
       363
@@ -9090,13 +9090,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 364,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 0.9487,
     "last_5_ranks": [
       364
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 431
   },
   {
@@ -9115,13 +9115,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 365,
-    "delta": 64,
+    "delta": 0,
     "rsl_vs_sector": 0.9755,
     "last_5_ranks": [
       365
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 405
   },
   {
@@ -9140,7 +9140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 366,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.9675,
     "last_5_ranks": [
       366
@@ -9165,13 +9165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 367,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 1.0199,
     "last_5_ranks": [
       367
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 365
   },
   {
@@ -9190,13 +9190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 368,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9479,
     "last_5_ranks": [
       368
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 224
   },
   {
@@ -9215,13 +9215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 369,
-    "delta": 28,
+    "delta": 0,
     "rsl_vs_sector": 0.9648,
     "last_5_ranks": [
       369
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 312
   },
   {
@@ -9240,7 +9240,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 370,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0196,
     "last_5_ranks": [
       370
@@ -9315,7 +9315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 373,
-    "delta": -145,
+    "delta": 0,
     "rsl_vs_sector": 0.9661,
     "last_5_ranks": [
       373
@@ -9340,7 +9340,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 374,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0181,
     "last_5_ranks": [
       374
@@ -9365,7 +9365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 375,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0531,
     "last_5_ranks": [
       375
@@ -9390,13 +9390,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 376,
-    "delta": 37,
+    "delta": 0,
     "rsl_vs_sector": 1.0174,
     "last_5_ranks": [
       376
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 358
   },
   {
@@ -9415,7 +9415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 377,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.9482,
     "last_5_ranks": [
       377
@@ -9440,7 +9440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 378,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9622,
     "last_5_ranks": [
       378
@@ -9465,7 +9465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 379,
-    "delta": -23,
+    "delta": 0,
     "rsl_vs_sector": 0.9639,
     "last_5_ranks": [
       379
@@ -9490,13 +9490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 380,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0158,
     "last_5_ranks": [
       380
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 105
   },
   {
@@ -9515,7 +9515,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 381,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 0.9623,
     "last_5_ranks": [
       381
@@ -9540,7 +9540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 382,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9622,
     "last_5_ranks": [
       382
@@ -9565,7 +9565,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 383,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9616,
     "last_5_ranks": [
       383
@@ -9590,13 +9590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 384,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 0.9414,
     "last_5_ranks": [
       384
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 415
   },
   {
@@ -9615,13 +9615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 385,
-    "delta": 29,
+    "delta": 0,
     "rsl_vs_sector": 1.0477,
     "last_5_ranks": [
       385
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 134
   },
   {
@@ -9640,13 +9640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 386,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0121,
     "last_5_ranks": [
       386
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 396
   },
   {
@@ -9665,7 +9665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 387,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9572,
     "last_5_ranks": [
       387
@@ -9690,7 +9690,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 388,
-    "delta": -99,
+    "delta": 0,
     "rsl_vs_sector": 0.94,
     "last_5_ranks": [
       388
@@ -9715,13 +9715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 389,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9493,
     "last_5_ranks": [
       389
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 445
   },
   {
@@ -9740,13 +9740,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 390,
-    "delta": 63,
+    "delta": 0,
     "rsl_vs_sector": 0.9585,
     "last_5_ranks": [
       390
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 466
   },
   {
@@ -9765,13 +9765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 391,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0432,
     "last_5_ranks": [
       391
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 315
   },
   {
@@ -9790,7 +9790,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 392,
-    "delta": -136,
+    "delta": 0,
     "rsl_vs_sector": 0.9538,
     "last_5_ranks": [
       392
@@ -9815,7 +9815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 393,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 0.951,
     "last_5_ranks": [
       393
@@ -9840,13 +9840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 394,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9504,
     "last_5_ranks": [
       394
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 382
   },
   {
@@ -9865,7 +9865,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 395,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0387,
     "last_5_ranks": [
       395
@@ -9890,13 +9890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 396,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9503,
     "last_5_ranks": [
       396
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 477
   },
   {
@@ -9915,7 +9915,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 397,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9335,
     "last_5_ranks": [
       397
@@ -9933,20 +9933,20 @@
     "pct_1d": 0.7,
     "pct_1w": -0.79,
     "pct_1m": -11.66,
-    "market_cap": 15523610624,
+    "market_cap": 15520896000,
     "revenue": 9164999680,
     "exp_count": 3,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 398,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9401,
     "last_5_ranks": [
       398
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 394
   },
   {
@@ -9965,7 +9965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 399,
-    "delta": -35,
+    "delta": 0,
     "rsl_vs_sector": 1.0354,
     "last_5_ranks": [
       399
@@ -9990,7 +9990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 400,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.0353,
     "last_5_ranks": [
       400
@@ -10015,7 +10015,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 401,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9409,
     "last_5_ranks": [
       401
@@ -10040,13 +10040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 402,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.948,
     "last_5_ranks": [
       402
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 420
   },
   {
@@ -10065,13 +10065,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 403,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 1.0334,
     "last_5_ranks": [
       403
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 252
   },
   {
@@ -10090,7 +10090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 404,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 0.9448,
     "last_5_ranks": [
       404
@@ -10115,7 +10115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 405,
-    "delta": -48,
+    "delta": 0,
     "rsl_vs_sector": 0.9274,
     "last_5_ranks": [
       405
@@ -10140,13 +10140,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 406,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9356,
     "last_5_ranks": [
       406
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 301
   },
   {
@@ -10158,20 +10158,20 @@
     "pct_1d": 0.31,
     "pct_1w": -0.19,
     "pct_1m": -12.98,
-    "market_cap": 13989487616,
+    "market_cap": 13987041280,
     "revenue": 9164999680,
     "exp_count": 3,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 407,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.933,
     "last_5_ranks": [
       407
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 380
   },
   {
@@ -10190,13 +10190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 408,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0279,
     "last_5_ranks": [
       408
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 436
   },
   {
@@ -10215,13 +10215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 409,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 1.0256,
     "last_5_ranks": [
       409
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 286
   },
   {
@@ -10233,20 +10233,20 @@
     "pct_1d": 0.68,
     "pct_1w": 1.68,
     "pct_1m": -12.18,
-    "market_cap": 43486040064,
-    "revenue": 10154999808,
+    "market_cap": 42944720896,
+    "revenue": 10428999680,
     "exp_count": 14,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 410,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.025,
     "last_5_ranks": [
       410
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 186
   },
   {
@@ -10265,7 +10265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 411,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 0.9302,
     "last_5_ranks": [
       411
@@ -10290,7 +10290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 412,
-    "delta": -35,
+    "delta": 0,
     "rsl_vs_sector": 0.9299,
     "last_5_ranks": [
       412
@@ -10315,7 +10315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 413,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9125,
     "last_5_ranks": [
       413
@@ -10340,13 +10340,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 414,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9119,
     "last_5_ranks": [
       414
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 375
   },
   {
@@ -10365,13 +10365,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 415,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9294,
     "last_5_ranks": [
       415
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 429
   },
   {
@@ -10390,7 +10390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 416,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.0223,
     "last_5_ranks": [
       416
@@ -10415,7 +10415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 417,
-    "delta": -42,
+    "delta": 0,
     "rsl_vs_sector": 0.9208,
     "last_5_ranks": [
       417
@@ -10440,7 +10440,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 418,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9863,
     "last_5_ranks": [
       418
@@ -10465,13 +10465,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 419,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9332,
     "last_5_ranks": [
       419
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 403
   },
   {
@@ -10490,13 +10490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 420,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9421,
     "last_5_ranks": [
       420
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 409
   },
   {
@@ -10515,13 +10515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 421,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.9412,
     "last_5_ranks": [
       421
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 318
   },
   {
@@ -10540,7 +10540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 422,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9259,
     "last_5_ranks": [
       422
@@ -10565,13 +10565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 423,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.9068,
     "last_5_ranks": [
       423
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 435
   },
   {
@@ -10590,7 +10590,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 424,
-    "delta": -83,
+    "delta": 0,
     "rsl_vs_sector": 0.9236,
     "last_5_ranks": [
       424
@@ -10615,13 +10615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 425,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.911,
     "last_5_ranks": [
       425
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 462
   },
   {
@@ -10640,13 +10640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 426,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 0.9791,
     "last_5_ranks": [
       426
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 378
   },
   {
@@ -10665,7 +10665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 427,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.013,
     "last_5_ranks": [
       427
@@ -10715,13 +10715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 429,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9785,
     "last_5_ranks": [
       429
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 363
   },
   {
@@ -10740,7 +10740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 430,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.92,
     "last_5_ranks": [
       430
@@ -10765,13 +10765,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 431,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9773,
     "last_5_ranks": [
       431
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 447
   },
   {
@@ -10790,13 +10790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 432,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0106,
     "last_5_ranks": [
       432
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 353
   },
   {
@@ -10815,7 +10815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 433,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 0.9257,
     "last_5_ranks": [
       433
@@ -10840,13 +10840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 434,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9091,
     "last_5_ranks": [
       434
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 439
   },
   {
@@ -10865,13 +10865,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 435,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.0064,
     "last_5_ranks": [
       435
     ],
     "days_in_top50": 0,
-    "score": 2,
+    "score": 1,
     "rank_other": 188
   },
   {
@@ -10890,13 +10890,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 436,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9297,
     "last_5_ranks": [
       436
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 388
   },
   {
@@ -10915,7 +10915,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 437,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.9195,
     "last_5_ranks": [
       437
@@ -10940,7 +10940,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 438,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0041,
     "last_5_ranks": [
       438
@@ -10965,7 +10965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 439,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.9106,
     "last_5_ranks": [
       439
@@ -10990,13 +10990,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 440,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9252,
     "last_5_ranks": [
       440
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 381
   },
   {
@@ -11008,20 +11008,20 @@
     "pct_1d": 4.87,
     "pct_1w": -5.41,
     "pct_1m": -12.4,
-    "market_cap": 16937474048,
+    "market_cap": 16937347072,
     "revenue": 93468000256,
     "exp_count": 5,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 441,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.8917,
     "last_5_ranks": [
       441
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 452
   },
   {
@@ -11040,7 +11040,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 442,
-    "delta": -39,
+    "delta": 0,
     "rsl_vs_sector": 0.9991,
     "last_5_ranks": [
       442
@@ -11090,7 +11090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 444,
-    "delta": -57,
+    "delta": 0,
     "rsl_vs_sector": 0.8988,
     "last_5_ranks": [
       444
@@ -11115,7 +11115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 445,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.962,
     "last_5_ranks": [
       445
@@ -11140,7 +11140,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 446,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9034,
     "last_5_ranks": [
       446
@@ -11165,7 +11165,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 447,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 0.9096,
     "last_5_ranks": [
       447
@@ -11190,7 +11190,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 448,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9033,
     "last_5_ranks": [
       448
@@ -11215,13 +11215,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 449,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8921,
     "last_5_ranks": [
       449
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 417
   },
   {
@@ -11240,13 +11240,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 450,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.993,
     "last_5_ranks": [
       450
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 328
   },
   {
@@ -11265,7 +11265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 451,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9922,
     "last_5_ranks": [
       451
@@ -11290,7 +11290,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 452,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.992,
     "last_5_ranks": [
       452
@@ -11315,7 +11315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 453,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9862,
     "last_5_ranks": [
       453
@@ -11340,13 +11340,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 454,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9037,
     "last_5_ranks": [
       454
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 467
   },
   {
@@ -11365,7 +11365,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 455,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9012,
     "last_5_ranks": [
       455
@@ -11390,13 +11390,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 456,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9817,
     "last_5_ranks": [
       456
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 465
   },
   {
@@ -11415,13 +11415,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 457,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8981,
     "last_5_ranks": [
       457
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 478
   },
   {
@@ -11440,13 +11440,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 458,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9043,
     "last_5_ranks": [
       458
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 480
   },
   {
@@ -11465,7 +11465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 459,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9744,
     "last_5_ranks": [
       459
@@ -11490,13 +11490,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 460,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9732,
     "last_5_ranks": [
       460
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 469
   },
   {
@@ -11515,13 +11515,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 461,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.882,
     "last_5_ranks": [
       461
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 422
   },
   {
@@ -11540,7 +11540,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 462,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.8851,
     "last_5_ranks": [
       462
@@ -11565,13 +11565,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 463,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9621,
     "last_5_ranks": [
       463
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 408
   },
   {
@@ -11590,13 +11590,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 464,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 0.929,
     "last_5_ranks": [
       464
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 468
   },
   {
@@ -11615,13 +11615,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 465,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9254,
     "last_5_ranks": [
       465
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 334
   },
   {
@@ -11640,13 +11640,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 466,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.8742,
     "last_5_ranks": [
       466
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 464
   },
   {
@@ -11665,7 +11665,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 467,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.8688,
     "last_5_ranks": [
       467
@@ -11690,13 +11690,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 468,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.8658,
     "last_5_ranks": [
       468
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 472
   },
   {
@@ -11715,13 +11715,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 469,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9513,
     "last_5_ranks": [
       469
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 496
   },
   {
@@ -11740,7 +11740,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 470,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.9503,
     "last_5_ranks": [
       470
@@ -11790,13 +11790,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 472,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9483,
     "last_5_ranks": [
       472
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 461
   },
   {
@@ -11815,7 +11815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 473,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.8673,
     "last_5_ranks": [
       473
@@ -11840,13 +11840,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 474,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9401,
     "last_5_ranks": [
       474
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 495
   },
   {
@@ -11858,14 +11858,14 @@
     "pct_1d": -0.69,
     "pct_1w": -18.34,
     "pct_1m": -15.2,
-    "market_cap": 24863860736,
+    "market_cap": 24863903744,
     "revenue": 8113517056,
     "exp_count": 10,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 475,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.8439,
     "last_5_ranks": [
       475
@@ -11890,7 +11890,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 476,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 0.9382,
     "last_5_ranks": [
       476
@@ -11915,13 +11915,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 477,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.85,
     "last_5_ranks": [
       477
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 492
   },
   {
@@ -11940,13 +11940,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 478,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9352,
     "last_5_ranks": [
       478
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 432
   },
   {
@@ -11965,7 +11965,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 479,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9036,
     "last_5_ranks": [
       479
@@ -11990,7 +11990,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 480,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 0.9339,
     "last_5_ranks": [
       480
@@ -12015,13 +12015,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 481,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9303,
     "last_5_ranks": [
       481
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 346
   },
   {
@@ -12040,13 +12040,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 482,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9232,
     "last_5_ranks": [
       482
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 490
   },
   {
@@ -12090,7 +12090,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 484,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9218,
     "last_5_ranks": [
       484
@@ -12115,7 +12115,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 485,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9158,
     "last_5_ranks": [
       485
@@ -12133,14 +12133,14 @@
     "pct_1d": -2.76,
     "pct_1w": -13.26,
     "pct_1m": -17.27,
-    "market_cap": 71738155008,
+    "market_cap": 71589896192,
     "revenue": 21916999680,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 486,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.9072,
     "last_5_ranks": [
       486
@@ -12165,13 +12165,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 487,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.8324,
     "last_5_ranks": [
       487
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 463
   },
   {
@@ -12190,13 +12190,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 488,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9007,
     "last_5_ranks": [
       488
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 459
   },
   {
@@ -12215,7 +12215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 489,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.8977,
     "last_5_ranks": [
       489
@@ -12265,7 +12265,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 491,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8963,
     "last_5_ranks": [
       491
@@ -12290,13 +12290,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 492,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.8917,
     "last_5_ranks": [
       492
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 458
   },
   {
@@ -12315,7 +12315,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 493,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.8887,
     "last_5_ranks": [
       493
@@ -12365,13 +12365,13 @@
     "ivr": null,
     "ivp": null,
     "rank": 495,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.8857,
     "last_5_ranks": [
       495
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 476
   },
   {
@@ -12390,7 +12390,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 496,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.8043,
     "last_5_ranks": [
       496
@@ -12409,19 +12409,19 @@
     "pct_1w": -5.13,
     "pct_1m": -40.82,
     "market_cap": 188874522624,
-    "revenue": 151197007872,
+    "revenue": 179129008128,
     "exp_count": 22,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 497,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.8627,
     "last_5_ranks": [
       497
     ],
     "days_in_top50": 0,
-    "score": 1,
+    "score": 0,
     "rank_other": 479
   },
   {
@@ -12433,14 +12433,14 @@
     "pct_1d": -4.53,
     "pct_1w": -14.75,
     "pct_1m": -35.26,
-    "market_cap": 680268201984,
+    "market_cap": 682379247616,
     "revenue": 133188001792,
     "exp_count": 25,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 498,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.8439,
     "last_5_ranks": [
       498
@@ -12465,7 +12465,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 499,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8432,
     "last_5_ranks": [
       499

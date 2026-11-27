@@ -8,9 +8,9 @@
     "pct_1d": -2.88,
     "pct_1w": 12.22,
     "pct_1m": 6.19,
-    "market_cap": 89356492800,
-    "revenue": 2524999936,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -63,12 +63,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 3,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.4765,
     "last_5_weekly_ranks": [
       3
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 331
   },
   {
@@ -87,7 +87,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 4,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.4708,
     "last_5_weekly_ranks": [
       4
@@ -104,19 +104,19 @@
     "pct_1d": 0.56,
     "pct_1w": 2.39,
     "pct_1m": 13.44,
-    "market_cap": 60262858752,
+    "market_cap": 59978797056,
     "revenue": 19456999424,
     "exp_count": 7,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 5,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.1363,
     "last_5_weekly_ranks": [
       5
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 37
   },
   {
@@ -135,12 +135,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 6,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.4266,
     "last_5_weekly_ranks": [
       6
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 93
   },
   {
@@ -152,14 +152,14 @@
     "pct_1d": -0.37,
     "pct_1w": 1.57,
     "pct_1m": 26.41,
-    "market_cap": 55895703552,
-    "revenue": 4662220800,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 7,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.1283,
     "last_5_weekly_ranks": [
       7
@@ -183,7 +183,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 8,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.12,
     "last_5_weekly_ranks": [
       8
@@ -207,12 +207,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 9,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.2544,
     "last_5_weekly_ranks": [
       9
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 49
   },
   {
@@ -231,12 +231,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 10,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.2543,
     "last_5_weekly_ranks": [
       10
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 113
   },
   {
@@ -255,12 +255,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 11,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.4116,
     "last_5_weekly_ranks": [
       11
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 104
   },
   {
@@ -272,19 +272,19 @@
     "pct_1d": 1.84,
     "pct_1w": 3.15,
     "pct_1m": -10.75,
-    "market_cap": 35273617408,
-    "revenue": 3072999936,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 12,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.4105,
     "last_5_weekly_ranks": [
       12
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 122
   },
   {
@@ -303,12 +303,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 13,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.2019,
     "last_5_weekly_ranks": [
       13
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 4
   },
   {
@@ -327,7 +327,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 14,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.147,
     "last_5_weekly_ranks": [
       14
@@ -344,14 +344,14 @@
     "pct_1d": -0.87,
     "pct_1w": 4.59,
     "pct_1m": 11.1,
-    "market_cap": 219217444864,
-    "revenue": 30987999232,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 15,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.1127,
     "last_5_weekly_ranks": [
       15
@@ -375,12 +375,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 16,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.4005,
     "last_5_weekly_ranks": [
       16
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 22
   },
   {
@@ -392,14 +392,14 @@
     "pct_1d": -0.07,
     "pct_1w": -0.66,
     "pct_1m": 11.41,
-    "market_cap": 124383764480,
-    "revenue": 418790014976,
-    "exp_count": 12,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 17,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.0982,
     "last_5_weekly_ranks": [
       17
@@ -416,19 +416,19 @@
     "pct_1d": 0.98,
     "pct_1w": -0.39,
     "pct_1m": 17.18,
-    "market_cap": 37676646400,
-    "revenue": 21636999168,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 18,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0899,
     "last_5_weekly_ranks": [
       18
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 75
   },
   {
@@ -447,12 +447,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 19,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.2153,
     "last_5_weekly_ranks": [
       19
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 77
   },
   {
@@ -471,12 +471,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 20,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0824,
     "last_5_weekly_ranks": [
       20
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 38
   },
   {
@@ -488,19 +488,19 @@
     "pct_1d": 2.06,
     "pct_1w": 3.14,
     "pct_1m": 11.87,
-    "market_cap": 89445662720,
-    "revenue": 12602999808,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 21,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.3649,
     "last_5_weekly_ranks": [
       21
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 41
   },
   {
@@ -519,7 +519,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 22,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0792,
     "last_5_weekly_ranks": [
       22
@@ -536,19 +536,19 @@
     "pct_1d": 2.67,
     "pct_1w": 4.3,
     "pct_1m": 15.06,
-    "market_cap": 12676174848,
-    "revenue": 2601147904,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 23,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.1674,
     "last_5_weekly_ranks": [
       23
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 21
   },
   {
@@ -567,12 +567,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 24,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.2442,
     "last_5_weekly_ranks": [
       24
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 17
   },
   {
@@ -584,19 +584,19 @@
     "pct_1d": 1.64,
     "pct_1w": 5.47,
     "pct_1m": 13.63,
-    "market_cap": 103024934912,
-    "revenue": 28458999808,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 25,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.1664,
     "last_5_weekly_ranks": [
       25
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 35
   },
   {
@@ -615,12 +615,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 26,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.1596,
     "last_5_weekly_ranks": [
       26
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 142
   },
   {
@@ -656,14 +656,14 @@
     "pct_1d": -1.9,
     "pct_1w": -0.3,
     "pct_1m": 11.62,
-    "market_cap": 29958739968,
-    "revenue": 14594499584,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 28,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.075,
     "last_5_weekly_ranks": [
       28
@@ -687,12 +687,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 29,
-    "delta": 31,
+    "delta": 0,
     "rsl_vs_sector": 1.1052,
     "last_5_weekly_ranks": [
       29
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 3
   },
   {
@@ -711,12 +711,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 30,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.1594,
     "last_5_weekly_ranks": [
       30
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 56
   },
   {
@@ -735,7 +735,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 31,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.1564,
     "last_5_weekly_ranks": [
       31
@@ -759,7 +759,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 32,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0654,
     "last_5_weekly_ranks": [
       32
@@ -776,14 +776,14 @@
     "pct_1d": -1.48,
     "pct_1w": -6.79,
     "pct_1m": -5.99,
-    "market_cap": 15466005504,
-    "revenue": 5181000192,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 33,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.1465,
     "last_5_weekly_ranks": [
       33
@@ -807,7 +807,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 34,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0638,
     "last_5_weekly_ranks": [
       34
@@ -831,7 +831,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 35,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0619,
     "last_5_weekly_ranks": [
       35
@@ -855,12 +855,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 36,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.1491,
     "last_5_weekly_ranks": [
       36
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 9
   },
   {
@@ -879,7 +879,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 37,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0603,
     "last_5_weekly_ranks": [
       37
@@ -903,7 +903,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 38,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.06,
     "last_5_weekly_ranks": [
       38
@@ -920,14 +920,14 @@
     "pct_1d": -2.32,
     "pct_1w": -4.19,
     "pct_1m": -1.23,
-    "market_cap": 33108572160,
-    "revenue": 4198469888,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 39,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0582,
     "last_5_weekly_ranks": [
       39
@@ -951,7 +951,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 40,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0904,
     "last_5_weekly_ranks": [
       40
@@ -975,12 +975,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 41,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.0573,
     "last_5_weekly_ranks": [
       41
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 19
   },
   {
@@ -999,12 +999,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 42,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.088,
     "last_5_weekly_ranks": [
       42
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 191
   },
   {
@@ -1016,19 +1016,19 @@
     "pct_1d": 2.15,
     "pct_1w": 3.08,
     "pct_1m": 16.09,
-    "market_cap": 16757417984,
-    "revenue": 7667999744,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 43,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 1.183,
     "last_5_weekly_ranks": [
       43
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 43
   },
   {
@@ -1040,19 +1040,19 @@
     "pct_1d": 1.67,
     "pct_1w": 3.49,
     "pct_1m": 14.39,
-    "market_cap": 99370614784,
-    "revenue": 10912000000,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 44,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.1413,
     "last_5_weekly_ranks": [
       44
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 82
   },
   {
@@ -1071,7 +1071,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 45,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.1821,
     "last_5_weekly_ranks": [
       45
@@ -1088,19 +1088,19 @@
     "pct_1d": 1.19,
     "pct_1w": 2.49,
     "pct_1m": 4.85,
-    "market_cap": 11442224128,
-    "revenue": 2476256000,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 46,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1405,
     "last_5_weekly_ranks": [
       46
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 268
   },
   {
@@ -1112,19 +1112,19 @@
     "pct_1d": 1.94,
     "pct_1w": 2.58,
     "pct_1m": 8.22,
-    "market_cap": 574950080512,
-    "revenue": 36288000000,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 47,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.1405,
     "last_5_weekly_ranks": [
       47
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 145
   },
   {
@@ -1143,7 +1143,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 48,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1403,
     "last_5_weekly_ranks": [
       48
@@ -1160,19 +1160,19 @@
     "pct_1d": 1.92,
     "pct_1w": 3.08,
     "pct_1m": 9.12,
-    "market_cap": 102568304640,
-    "revenue": 78701002752,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 49,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0509,
     "last_5_weekly_ranks": [
       49
     ],
-    "score": 4,
+    "score": 3,
     "rank_other": 187
   },
   {
@@ -1191,7 +1191,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 50,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.0496,
     "last_5_weekly_ranks": [
       50
@@ -1215,12 +1215,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 51,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1356,
     "last_5_weekly_ranks": [
       51
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 80
   },
   {
@@ -1239,12 +1239,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 52,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.1345,
     "last_5_weekly_ranks": [
       52
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 61
   },
   {
@@ -1256,19 +1256,19 @@
     "pct_1d": 1.86,
     "pct_1w": 12.16,
     "pct_1m": 17.93,
-    "market_cap": 25412976640,
-    "revenue": 11493521408,
-    "exp_count": 12,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 53,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.1342,
     "last_5_weekly_ranks": [
       53
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 53
   },
   {
@@ -1287,12 +1287,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 54,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1337,
     "last_5_weekly_ranks": [
       54
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 70
   },
   {
@@ -1311,12 +1311,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 55,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.132,
     "last_5_weekly_ranks": [
       55
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 29
   },
   {
@@ -1335,7 +1335,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 56,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0775,
     "last_5_weekly_ranks": [
       56
@@ -1359,7 +1359,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 57,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0764,
     "last_5_weekly_ranks": [
       57
@@ -1383,7 +1383,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 58,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0436,
     "last_5_weekly_ranks": [
       58
@@ -1400,14 +1400,14 @@
     "pct_1d": -1.09,
     "pct_1w": 0.68,
     "pct_1m": 8.74,
-    "market_cap": 1240112955392,
-    "revenue": 86461997056,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 59,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0434,
     "last_5_weekly_ranks": [
       59
@@ -1424,14 +1424,14 @@
     "pct_1d": -0.41,
     "pct_1w": 1.13,
     "pct_1m": 6.6,
-    "market_cap": 41240809472,
-    "revenue": 149326004224,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 60,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0731,
     "last_5_weekly_ranks": [
       60
@@ -1455,7 +1455,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 61,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0727,
     "last_5_weekly_ranks": [
       61
@@ -1479,7 +1479,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 62,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1665,
     "last_5_weekly_ranks": [
       62
@@ -1503,12 +1503,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 63,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.1254,
     "last_5_weekly_ranks": [
       63
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 166
   },
   {
@@ -1527,7 +1527,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 64,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.1195,
     "last_5_weekly_ranks": [
       64
@@ -1544,19 +1544,19 @@
     "pct_1d": 1.98,
     "pct_1w": -1.16,
     "pct_1m": 26.12,
-    "market_cap": 31805810688,
+    "market_cap": null,
     "revenue": null,
-    "exp_count": 12,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 65,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.1245,
     "last_5_weekly_ranks": [
       65
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 64
   },
   {
@@ -1575,7 +1575,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 66,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.1244,
     "last_5_weekly_ranks": [
       66
@@ -1599,12 +1599,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 67,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.1629,
     "last_5_weekly_ranks": [
       67
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 162
   },
   {
@@ -1623,7 +1623,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 68,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0352,
     "last_5_weekly_ranks": [
       68
@@ -1671,7 +1671,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 70,
-    "delta": -35,
+    "delta": 0,
     "rsl_vs_sector": 1.0338,
     "last_5_weekly_ranks": [
       70
@@ -1695,12 +1695,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 71,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1576,
     "last_5_weekly_ranks": [
       71
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 219
   },
   {
@@ -1719,12 +1719,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 72,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.1258,
     "last_5_weekly_ranks": [
       72
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 84
   },
   {
@@ -1736,9 +1736,9 @@
     "pct_1d": 0.61,
     "pct_1w": 1.28,
     "pct_1m": 2.6,
-    "market_cap": 59419860992,
-    "revenue": 5779999744,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -1760,19 +1760,19 @@
     "pct_1d": 1.65,
     "pct_1w": 2.87,
     "pct_1m": 15.2,
-    "market_cap": 24747264000,
-    "revenue": 24757000192,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 74,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.1839,
     "last_5_weekly_ranks": [
       74
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 34
   },
   {
@@ -1791,7 +1791,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 75,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0568,
     "last_5_weekly_ranks": [
       75
@@ -1808,19 +1808,19 @@
     "pct_1d": 2.0,
     "pct_1w": 5.78,
     "pct_1m": 18.91,
-    "market_cap": 132212375552,
-    "revenue": 92374999040,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 76,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.1038,
     "last_5_weekly_ranks": [
       76
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 16
   },
   {
@@ -1839,7 +1839,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 77,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0558,
     "last_5_weekly_ranks": [
       77
@@ -1856,19 +1856,19 @@
     "pct_1d": 1.25,
     "pct_1w": 1.65,
     "pct_1m": 9.02,
-    "market_cap": 67562356736,
+    "market_cap": 67403956224,
     "revenue": 337397284864,
     "exp_count": 8,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 78,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0244,
     "last_5_weekly_ranks": [
       78
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 102
   },
   {
@@ -1887,12 +1887,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 79,
-    "delta": 38,
+    "delta": 0,
     "rsl_vs_sector": 1.2938,
     "last_5_weekly_ranks": [
       79
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 284
   },
   {
@@ -1911,12 +1911,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 80,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 1.0233,
     "last_5_weekly_ranks": [
       80
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 172
   },
   {
@@ -1928,14 +1928,14 @@
     "pct_1d": 0.73,
     "pct_1w": -0.98,
     "pct_1m": 24.93,
-    "market_cap": 17899139072,
-    "revenue": 5228000256,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 81,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.2897,
     "last_5_weekly_ranks": [
       81
@@ -1959,7 +1959,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 82,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0209,
     "last_5_weekly_ranks": [
       82
@@ -1983,12 +1983,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 83,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.1042,
     "last_5_weekly_ranks": [
       83
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 170
   },
   {
@@ -2000,19 +2000,19 @@
     "pct_1d": 2.26,
     "pct_1w": 6.6,
     "pct_1m": 17.0,
-    "market_cap": 11635633152,
-    "revenue": 3966200064,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 84,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.1442,
     "last_5_weekly_ranks": [
       84
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 7
   },
   {
@@ -2031,12 +2031,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 85,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1436,
     "last_5_weekly_ranks": [
       85
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 65
   },
   {
@@ -2055,12 +2055,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 86,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.0976,
     "last_5_weekly_ranks": [
       86
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 12
   },
   {
@@ -2079,7 +2079,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 87,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.1014,
     "last_5_weekly_ranks": [
       87
@@ -2103,7 +2103,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 88,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.0161,
     "last_5_weekly_ranks": [
       88
@@ -2127,12 +2127,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 89,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.1386,
     "last_5_weekly_ranks": [
       89
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 57
   },
   {
@@ -2151,12 +2151,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 90,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.1333,
     "last_5_weekly_ranks": [
       90
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 119
   },
   {
@@ -2175,7 +2175,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 91,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0445,
     "last_5_weekly_ranks": [
       91
@@ -2192,19 +2192,19 @@
     "pct_1d": 1.58,
     "pct_1w": 2.77,
     "pct_1m": 11.65,
-    "market_cap": 35207684096,
-    "revenue": 3520550912,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 92,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.1175,
     "last_5_weekly_ranks": [
       92
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 76
   },
   {
@@ -2223,7 +2223,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 93,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0905,
     "last_5_weekly_ranks": [
       93
@@ -2247,7 +2247,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 94,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0429,
     "last_5_weekly_ranks": [
       94
@@ -2271,7 +2271,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 95,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.0105,
     "last_5_weekly_ranks": [
       95
@@ -2295,7 +2295,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 96,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.093,
     "last_5_weekly_ranks": [
       96
@@ -2319,12 +2319,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 97,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0854,
     "last_5_weekly_ranks": [
       97
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 66
   },
   {
@@ -2343,7 +2343,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 98,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0897,
     "last_5_weekly_ranks": [
       98
@@ -2367,12 +2367,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 99,
-    "delta": 128,
+    "delta": 0,
     "rsl_vs_sector": 1.161,
     "last_5_weekly_ranks": [
       99
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 1
   },
   {
@@ -2384,19 +2384,19 @@
     "pct_1d": 2.14,
     "pct_1w": 7.0,
     "pct_1m": 13.43,
-    "market_cap": 360484110336,
-    "revenue": 171222007808,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 100,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0832,
     "last_5_weekly_ranks": [
       100
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 30
   },
   {
@@ -2408,14 +2408,14 @@
     "pct_1d": -0.47,
     "pct_1w": 1.77,
     "pct_1m": 2.21,
-    "market_cap": 50865922048,
-    "revenue": 23128000512,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 101,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 1.0367,
     "last_5_weekly_ranks": [
       101
@@ -2439,7 +2439,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 102,
-    "delta": -32,
+    "delta": 0,
     "rsl_vs_sector": 1.0057,
     "last_5_weekly_ranks": [
       102
@@ -2456,14 +2456,14 @@
     "pct_1d": -0.11,
     "pct_1w": -2.21,
     "pct_1m": 6.73,
-    "market_cap": 107062599680,
-    "revenue": 7581000192,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 103,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 1.0828,
     "last_5_weekly_ranks": [
       103
@@ -2487,12 +2487,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 104,
-    "delta": 51,
+    "delta": 0,
     "rsl_vs_sector": 1.1085,
     "last_5_weekly_ranks": [
       104
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 10
   },
   {
@@ -2511,12 +2511,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 105,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1455,
     "last_5_weekly_ranks": [
       105
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 380
   },
   {
@@ -2535,12 +2535,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 106,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.1258,
     "last_5_weekly_ranks": [
       106
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 71
   },
   {
@@ -2552,19 +2552,19 @@
     "pct_1d": 1.88,
     "pct_1w": 2.66,
     "pct_1m": 12.35,
-    "market_cap": 49765752832,
-    "revenue": 32227201024,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 107,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.124,
     "last_5_weekly_ranks": [
       107
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 54
   },
   {
@@ -2583,7 +2583,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 108,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.2659,
     "last_5_weekly_ranks": [
       108
@@ -2607,12 +2607,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 109,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.084,
     "last_5_weekly_ranks": [
       109
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 103
   },
   {
@@ -2631,7 +2631,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 110,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0782,
     "last_5_weekly_ranks": [
       110
@@ -2655,7 +2655,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 111,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.093,
     "last_5_weekly_ranks": [
       111
@@ -2672,14 +2672,14 @@
     "pct_1d": 0.77,
     "pct_1w": 1.58,
     "pct_1m": 6.96,
-    "market_cap": 30038061056,
-    "revenue": 15134999552,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 112,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.1207,
     "last_5_weekly_ranks": [
       112
@@ -2703,12 +2703,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 113,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1194,
     "last_5_weekly_ranks": [
       113
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 105
   },
   {
@@ -2727,7 +2727,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 114,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.1144,
     "last_5_weekly_ranks": [
       114
@@ -2751,7 +2751,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 115,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0799,
     "last_5_weekly_ranks": [
       115
@@ -2775,12 +2775,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 116,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.0795,
     "last_5_weekly_ranks": [
       116
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 108
   },
   {
@@ -2799,12 +2799,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 117,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 1.1184,
     "last_5_weekly_ranks": [
       117
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 25
   },
   {
@@ -2823,12 +2823,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 118,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0784,
     "last_5_weekly_ranks": [
       118
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 118
   },
   {
@@ -2840,19 +2840,19 @@
     "pct_1d": 11.49,
     "pct_1w": 8.69,
     "pct_1m": -7.24,
-    "market_cap": 28090787840,
-    "revenue": 59162001408,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 119,
-    "delta": 159,
+    "delta": 0,
     "rsl_vs_sector": 1.2568,
     "last_5_weekly_ranks": [
       119
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 90
   },
   {
@@ -2871,12 +2871,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 120,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.1101,
     "last_5_weekly_ranks": [
       120
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 92
   },
   {
@@ -2895,7 +2895,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 121,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.1145,
     "last_5_weekly_ranks": [
       121
@@ -2919,7 +2919,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 122,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.2549,
     "last_5_weekly_ranks": [
       122
@@ -2943,7 +2943,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 123,
-    "delta": -28,
+    "delta": 0,
     "rsl_vs_sector": 0.9924,
     "last_5_weekly_ranks": [
       123
@@ -2960,19 +2960,19 @@
     "pct_1d": 1.19,
     "pct_1w": 1.86,
     "pct_1m": 8.76,
-    "market_cap": 85836496896,
-    "revenue": 39898001408,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 124,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0225,
     "last_5_weekly_ranks": [
       124
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 116
   },
   {
@@ -2984,14 +2984,14 @@
     "pct_1d": 0.52,
     "pct_1w": -1.83,
     "pct_1m": 6.25,
-    "market_cap": 81481097216,
-    "revenue": 5178999808,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 125,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0679,
     "last_5_weekly_ranks": [
       125
@@ -3015,12 +3015,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 126,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 1.1073,
     "last_5_weekly_ranks": [
       126
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 135
   },
   {
@@ -3039,7 +3039,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 127,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0209,
     "last_5_weekly_ranks": [
       127
@@ -3063,7 +3063,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 128,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0197,
     "last_5_weekly_ranks": [
       128
@@ -3080,14 +3080,14 @@
     "pct_1d": 0.52,
     "pct_1w": -0.93,
     "pct_1m": 7.29,
-    "market_cap": 19677274112,
-    "revenue": 4396199936,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 129,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.1093,
     "last_5_weekly_ranks": [
       129
@@ -3104,19 +3104,19 @@
     "pct_1d": 3.68,
     "pct_1w": 4.21,
     "pct_1m": 10.18,
-    "market_cap": 31383306240,
-    "revenue": 24778000384,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 130,
-    "delta": 42,
+    "delta": 0,
     "rsl_vs_sector": 1.0191,
     "last_5_weekly_ranks": [
       130
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 24
   },
   {
@@ -3135,12 +3135,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 131,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.2488,
     "last_5_weekly_ranks": [
       131
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 326
   },
   {
@@ -3159,12 +3159,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 132,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.0694,
     "last_5_weekly_ranks": [
       132
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 238
   },
   {
@@ -3176,19 +3176,19 @@
     "pct_1d": 2.15,
     "pct_1w": 3.64,
     "pct_1m": -3.81,
-    "market_cap": 138427219968,
-    "revenue": 79116001280,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 133,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.1079,
     "last_5_weekly_ranks": [
       133
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 252
   },
   {
@@ -3200,19 +3200,19 @@
     "pct_1d": 2.8,
     "pct_1w": 2.0,
     "pct_1m": -1.01,
-    "market_cap": 12750822400,
-    "revenue": 5180599808,
-    "exp_count": 12,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 134,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.247,
     "last_5_weekly_ranks": [
       134
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 385
   },
   {
@@ -3224,14 +3224,14 @@
     "pct_1d": 0.19,
     "pct_1w": 4.93,
     "pct_1m": -0.73,
-    "market_cap": 25588445184,
-    "revenue": 13248900096,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 135,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.1058,
     "last_5_weekly_ranks": [
       135
@@ -3248,19 +3248,19 @@
     "pct_1d": 1.32,
     "pct_1w": 3.56,
     "pct_1m": 7.65,
-    "market_cap": 77550092288,
-    "revenue": 18988156928,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 136,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0612,
     "last_5_weekly_ranks": [
       136
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 48
   },
   {
@@ -3279,12 +3279,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 137,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.105,
     "last_5_weekly_ranks": [
       137
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 207
   },
   {
@@ -3303,12 +3303,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 138,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0865,
     "last_5_weekly_ranks": [
       138
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 87
   },
   {
@@ -3320,14 +3320,14 @@
     "pct_1d": -0.07,
     "pct_1w": -4.63,
     "pct_1m": 2.25,
-    "market_cap": 122873987072,
-    "revenue": 37944999936,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 139,
-    "delta": -19,
+    "delta": 0,
     "rsl_vs_sector": 0.9848,
     "last_5_weekly_ranks": [
       139
@@ -3351,12 +3351,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 140,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.136,
     "last_5_weekly_ranks": [
       140
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 26
   },
   {
@@ -3368,19 +3368,19 @@
     "pct_1d": 2.92,
     "pct_1w": -0.14,
     "pct_1m": 3.07,
-    "market_cap": 48020357120,
-    "revenue": 34294999040,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 141,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0653,
     "last_5_weekly_ranks": [
       141
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 237
   },
   {
@@ -3399,7 +3399,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 142,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0752,
     "last_5_weekly_ranks": [
       142
@@ -3423,12 +3423,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 143,
-    "delta": 34,
+    "delta": 0,
     "rsl_vs_sector": 1.0593,
     "last_5_weekly_ranks": [
       143
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 33
   },
   {
@@ -3447,12 +3447,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 144,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.097,
     "last_5_weekly_ranks": [
       144
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 69
   },
   {
@@ -3471,12 +3471,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 145,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0833,
     "last_5_weekly_ranks": [
       145
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 115
   },
   {
@@ -3495,7 +3495,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 146,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 1.012,
     "last_5_weekly_ranks": [
       146
@@ -3519,7 +3519,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 147,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0995,
     "last_5_weekly_ranks": [
       147
@@ -3543,12 +3543,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 148,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9795,
     "last_5_weekly_ranks": [
       148
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 208
   },
   {
@@ -3567,7 +3567,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 149,
-    "delta": -41,
+    "delta": 0,
     "rsl_vs_sector": 1.0541,
     "last_5_weekly_ranks": [
       149
@@ -3591,7 +3591,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 150,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0684,
     "last_5_weekly_ranks": [
       150
@@ -3615,12 +3615,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 151,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0075,
     "last_5_weekly_ranks": [
       151
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 239
   },
   {
@@ -3632,14 +3632,14 @@
     "pct_1d": -0.15,
     "pct_1w": -0.61,
     "pct_1m": 5.53,
-    "market_cap": 45259501568,
-    "revenue": 3432358912,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 152,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 1.0577,
     "last_5_weekly_ranks": [
       152
@@ -3656,19 +3656,19 @@
     "pct_1d": 2.96,
     "pct_1w": 4.24,
     "pct_1m": 8.45,
-    "market_cap": 42180124672,
-    "revenue": 6602500096,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 153,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 1.0956,
     "last_5_weekly_ranks": [
       153
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 114
   },
   {
@@ -3680,14 +3680,14 @@
     "pct_1d": 1.01,
     "pct_1w": 1.52,
     "pct_1m": 9.92,
-    "market_cap": 17309929472,
-    "revenue": 2197420032,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 154,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0758,
     "last_5_weekly_ranks": [
       154
@@ -3704,19 +3704,19 @@
     "pct_1d": 1.26,
     "pct_1w": -1.91,
     "pct_1m": 3.2,
-    "market_cap": 60726669312,
-    "revenue": 9079300096,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 155,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0931,
     "last_5_weekly_ranks": [
       155
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 261
   },
   {
@@ -3728,14 +3728,14 @@
     "pct_1d": 1.0,
     "pct_1w": 3.46,
     "pct_1m": 13.64,
-    "market_cap": 200089976832,
-    "revenue": 27782000640,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 156,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.0492,
     "last_5_weekly_ranks": [
       156
@@ -3759,7 +3759,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 157,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.1096,
     "last_5_weekly_ranks": [
       157
@@ -3783,12 +3783,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 158,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9724,
     "last_5_weekly_ranks": [
       158
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 47
   },
   {
@@ -3807,12 +3807,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 159,
-    "delta": 41,
+    "delta": 0,
     "rsl_vs_sector": 1.0461,
     "last_5_weekly_ranks": [
       159
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 39
   },
   {
@@ -3831,12 +3831,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 160,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0498,
     "last_5_weekly_ranks": [
       160
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 146
   },
   {
@@ -3855,12 +3855,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 161,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 0.9688,
     "last_5_weekly_ranks": [
       161
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 203
   },
   {
@@ -3879,12 +3879,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 162,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.0796,
     "last_5_weekly_ranks": [
       162
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 197
   },
   {
@@ -3896,14 +3896,14 @@
     "pct_1d": 0.0,
     "pct_1w": 1.43,
     "pct_1m": -3.1,
-    "market_cap": 162217836544,
-    "revenue": 63623999488,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 163,
-    "delta": -16,
+    "delta": 0,
     "rsl_vs_sector": 0.9667,
     "last_5_weekly_ranks": [
       163
@@ -3921,13 +3921,13 @@
     "pct_1w": -2.45,
     "pct_1m": 1.94,
     "market_cap": 51578064896,
-    "revenue": 7790000128,
+    "revenue": 8096999936,
     "exp_count": 15,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 164,
-    "delta": -68,
+    "delta": 0,
     "rsl_vs_sector": 1.2203,
     "last_5_weekly_ranks": [
       164
@@ -3951,7 +3951,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 165,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0398,
     "last_5_weekly_ranks": [
       165
@@ -3975,7 +3975,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 166,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0646,
     "last_5_weekly_ranks": [
       166
@@ -3999,12 +3999,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 167,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.1001,
     "last_5_weekly_ranks": [
       167
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 347
   },
   {
@@ -4023,12 +4023,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 168,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0429,
     "last_5_weekly_ranks": [
       168
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 45
   },
   {
@@ -4047,12 +4047,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 169,
-    "delta": 47,
+    "delta": 0,
     "rsl_vs_sector": 1.0757,
     "last_5_weekly_ranks": [
       169
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 181
   },
   {
@@ -4095,12 +4095,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 171,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 1.075,
     "last_5_weekly_ranks": [
       171
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 79
   },
   {
@@ -4119,12 +4119,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 172,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.0415,
     "last_5_weekly_ranks": [
       172
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 204
   },
   {
@@ -4136,14 +4136,14 @@
     "pct_1d": -0.91,
     "pct_1w": 0.96,
     "pct_1m": 2.45,
-    "market_cap": 659458621440,
-    "revenue": 99334995968,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 173,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 0.9623,
     "last_5_weekly_ranks": [
       173
@@ -4167,12 +4167,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 174,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 1.0792,
     "last_5_weekly_ranks": [
       174
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 245
   },
   {
@@ -4191,12 +4191,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 175,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0509,
     "last_5_weekly_ranks": [
       175
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 133
   },
   {
@@ -4215,7 +4215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 176,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0502,
     "last_5_weekly_ranks": [
       176
@@ -4239,12 +4239,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 177,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 1.0352,
     "last_5_weekly_ranks": [
       177
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 157
   },
   {
@@ -4256,14 +4256,14 @@
     "pct_1d": 0.57,
     "pct_1w": -0.01,
     "pct_1m": 0.39,
-    "market_cap": 62705954816,
-    "revenue": 82560000000,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 178,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0393,
     "last_5_weekly_ranks": [
       178
@@ -4280,14 +4280,14 @@
     "pct_1d": -0.35,
     "pct_1w": -2.61,
     "pct_1m": -7.52,
-    "market_cap": 41384574976,
-    "revenue": 17311000576,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 179,
-    "delta": -28,
+    "delta": 0,
     "rsl_vs_sector": 0.9602,
     "last_5_weekly_ranks": [
       179
@@ -4304,14 +4304,14 @@
     "pct_1d": 0.08,
     "pct_1w": -1.85,
     "pct_1m": -1.35,
-    "market_cap": 17280497664,
-    "revenue": 6253000192,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 180,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 1.0588,
     "last_5_weekly_ranks": [
       180
@@ -4335,12 +4335,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 181,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 0.9889,
     "last_5_weekly_ranks": [
       181
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 243
   },
   {
@@ -4352,14 +4352,14 @@
     "pct_1d": -1.68,
     "pct_1w": 1.48,
     "pct_1m": -4.19,
-    "market_cap": 148079263744,
-    "revenue": 11578000384,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 182,
-    "delta": -45,
+    "delta": 0,
     "rsl_vs_sector": 0.957,
     "last_5_weekly_ranks": [
       182
@@ -4383,12 +4383,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 183,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0546,
     "last_5_weekly_ranks": [
       183
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 353
   },
   {
@@ -4407,12 +4407,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 184,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0346,
     "last_5_weekly_ranks": [
       184
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 110
   },
   {
@@ -4424,14 +4424,14 @@
     "pct_1d": 0.25,
     "pct_1w": 0.65,
     "pct_1m": 10.1,
-    "market_cap": 31927404544,
-    "revenue": 8052100096,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 185,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.0703,
     "last_5_weekly_ranks": [
       185
@@ -4455,7 +4455,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 186,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.2052,
     "last_5_weekly_ranks": [
       186
@@ -4479,7 +4479,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 187,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.954,
     "last_5_weekly_ranks": [
       187
@@ -4496,19 +4496,19 @@
     "pct_1d": 2.62,
     "pct_1w": 3.33,
     "pct_1m": -16.35,
-    "market_cap": 11657434112,
-    "revenue": 6444344832,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 188,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.2051,
     "last_5_weekly_ranks": [
       188
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 435
   },
   {
@@ -4527,12 +4527,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 189,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0323,
     "last_5_weekly_ranks": [
       189
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 192
   },
   {
@@ -4544,19 +4544,19 @@
     "pct_1d": 3.4,
     "pct_1w": 3.77,
     "pct_1m": 11.91,
-    "market_cap": 36692992000,
-    "revenue": 12258003968,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 190,
-    "delta": 49,
+    "delta": 0,
     "rsl_vs_sector": 0.9814,
     "last_5_weekly_ranks": [
       190
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 32
   },
   {
@@ -4568,19 +4568,19 @@
     "pct_1d": 1.51,
     "pct_1w": 2.43,
     "pct_1m": 3.14,
-    "market_cap": 240839933952,
-    "revenue": 36238000128,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 191,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 1.0618,
     "last_5_weekly_ranks": [
       191
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 178
   },
   {
@@ -4599,12 +4599,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 192,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0478,
     "last_5_weekly_ranks": [
       192
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 291
   },
   {
@@ -4623,7 +4623,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 193,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0379,
     "last_5_weekly_ranks": [
       193
@@ -4647,7 +4647,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 194,
-    "delta": -38,
+    "delta": 0,
     "rsl_vs_sector": 1.0227,
     "last_5_weekly_ranks": [
       194
@@ -4664,14 +4664,14 @@
     "pct_1d": -1.02,
     "pct_1w": 3.86,
     "pct_1m": 4.93,
-    "market_cap": 24938905600,
-    "revenue": 6010754048,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 195,
-    "delta": -35,
+    "delta": 0,
     "rsl_vs_sector": 0.9496,
     "last_5_weekly_ranks": [
       195
@@ -4688,19 +4688,19 @@
     "pct_1d": 1.75,
     "pct_1w": 3.91,
     "pct_1m": -6.46,
-    "market_cap": 15934946304,
-    "revenue": 17795000320,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 196,
-    "delta": 24,
+    "delta": 0,
     "rsl_vs_sector": 1.0649,
     "last_5_weekly_ranks": [
       196
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 323
   },
   {
@@ -4719,12 +4719,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 197,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 1.0364,
     "last_5_weekly_ranks": [
       197
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 156
   },
   {
@@ -4736,19 +4736,19 @@
     "pct_1d": 0.93,
     "pct_1w": 7.53,
     "pct_1m": -7.62,
-    "market_cap": 21561194496,
-    "revenue": 10853999616,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 198,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.059,
     "last_5_weekly_ranks": [
       198
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 271
   },
   {
@@ -4767,7 +4767,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 199,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0262,
     "last_5_weekly_ranks": [
       199
@@ -4784,14 +4784,14 @@
     "pct_1d": 0.47,
     "pct_1w": 0.99,
     "pct_1m": 3.32,
-    "market_cap": 81019731968,
-    "revenue": 16645999616,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 200,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0636,
     "last_5_weekly_ranks": [
       200
@@ -4808,19 +4808,19 @@
     "pct_1d": 0.88,
     "pct_1w": 1.45,
     "pct_1m": 7.81,
-    "market_cap": 196139319296,
-    "revenue": 98241003520,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 201,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9772,
     "last_5_weekly_ranks": [
       201
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 140
   },
   {
@@ -4839,7 +4839,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 202,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.948,
     "last_5_weekly_ranks": [
       202
@@ -4856,14 +4856,14 @@
     "pct_1d": -4.27,
     "pct_1w": -7.47,
     "pct_1m": -1.92,
-    "market_cap": 16898917376,
-    "revenue": 15776850944,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 203,
-    "delta": -90,
+    "delta": 0,
     "rsl_vs_sector": 1.0633,
     "last_5_weekly_ranks": [
       203
@@ -4887,7 +4887,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 204,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.0629,
     "last_5_weekly_ranks": [
       204
@@ -4904,14 +4904,14 @@
     "pct_1d": -1.25,
     "pct_1w": -3.43,
     "pct_1m": -7.61,
-    "market_cap": 3638315450368,
-    "revenue": 346444988416,
-    "exp_count": 25,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 205,
-    "delta": -42,
+    "delta": 0,
     "rsl_vs_sector": 1.1967,
     "last_5_weekly_ranks": [
       205
@@ -4928,14 +4928,14 @@
     "pct_1d": 0.69,
     "pct_1w": 2.06,
     "pct_1m": 0.32,
-    "market_cap": 67166760960,
-    "revenue": 16565999616,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 206,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9755,
     "last_5_weekly_ranks": [
       206
@@ -4952,19 +4952,19 @@
     "pct_1d": 0.94,
     "pct_1w": 5.37,
     "pct_1m": -1.8,
-    "market_cap": 48823173120,
-    "revenue": 154185007104,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 207,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9451,
     "last_5_weekly_ranks": [
       207
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 344
   },
   {
@@ -4983,12 +4983,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 208,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 1.0595,
     "last_5_weekly_ranks": [
       208
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 246
   },
   {
@@ -5007,12 +5007,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 209,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.0316,
     "last_5_weekly_ranks": [
       209
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 174
   },
   {
@@ -5031,12 +5031,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 210,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 1.0588,
     "last_5_weekly_ranks": [
       210
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 242
   },
   {
@@ -5055,7 +5055,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 211,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.031,
     "last_5_weekly_ranks": [
       211
@@ -5079,7 +5079,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 212,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 1.0309,
     "last_5_weekly_ranks": [
       212
@@ -5096,19 +5096,19 @@
     "pct_1d": 0.9,
     "pct_1w": 2.36,
     "pct_1m": 0.83,
-    "market_cap": 78958026752,
-    "revenue": 43591000064,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 213,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.0576,
     "last_5_weekly_ranks": [
       213
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 186
   },
   {
@@ -5120,19 +5120,19 @@
     "pct_1d": 1.39,
     "pct_1w": 3.55,
     "pct_1m": 5.32,
-    "market_cap": 9808084992,
-    "revenue": 13733999616,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 214,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.9426,
     "last_5_weekly_ranks": [
       214
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 111
   },
   {
@@ -5144,19 +5144,19 @@
     "pct_1d": 2.44,
     "pct_1w": 1.59,
     "pct_1m": -2.43,
-    "market_cap": 21994799104,
-    "revenue": 9822900224,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 215,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0504,
     "last_5_weekly_ranks": [
       215
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 281
   },
   {
@@ -5168,19 +5168,19 @@
     "pct_1d": 1.17,
     "pct_1w": 2.8,
     "pct_1m": 4.7,
-    "market_cap": 37379043328,
-    "revenue": 29585999872,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 216,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 1.0171,
     "last_5_weekly_ranks": [
       216
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 143
   },
   {
@@ -5192,14 +5192,14 @@
     "pct_1d": -0.84,
     "pct_1w": -1.18,
     "pct_1m": 0.98,
-    "market_cap": 24460263424,
-    "revenue": 17959000064,
-    "exp_count": 3,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 217,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.0835,
     "last_5_weekly_ranks": [
       217
@@ -5216,19 +5216,19 @@
     "pct_1d": 1.85,
     "pct_1w": 4.98,
     "pct_1m": 8.31,
-    "market_cap": 19382409216,
-    "revenue": 18296600576,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 218,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9679,
     "last_5_weekly_ranks": [
       218
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 72
   },
   {
@@ -5240,14 +5240,14 @@
     "pct_1d": 0.27,
     "pct_1w": -0.41,
     "pct_1m": -1.01,
-    "market_cap": 17880610816,
-    "revenue": 2979794944,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 219,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 1.0529,
     "last_5_weekly_ranks": [
       219
@@ -5264,19 +5264,19 @@
     "pct_1d": 0.89,
     "pct_1w": 4.77,
     "pct_1m": -11.34,
-    "market_cap": 292390961152,
-    "revenue": 12451000320,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 220,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.1855,
     "last_5_weekly_ranks": [
       220
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 164
   },
   {
@@ -5288,14 +5288,14 @@
     "pct_1d": -0.8,
     "pct_1w": 0.08,
     "pct_1m": -3.31,
-    "market_cap": 53906509824,
-    "revenue": 7886612992,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 221,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 1.0103,
     "last_5_weekly_ranks": [
       221
@@ -5312,14 +5312,14 @@
     "pct_1d": -0.04,
     "pct_1w": 0.42,
     "pct_1m": 4.16,
-    "market_cap": 21637853184,
-    "revenue": 6957799936,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 222,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0236,
     "last_5_weekly_ranks": [
       222
@@ -5343,7 +5343,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 223,
-    "delta": -92,
+    "delta": 0,
     "rsl_vs_sector": 0.9368,
     "last_5_weekly_ranks": [
       223
@@ -5367,12 +5367,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 224,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 1.0082,
     "last_5_weekly_ranks": [
       224
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 368
   },
   {
@@ -5384,14 +5384,14 @@
     "pct_1d": -0.9,
     "pct_1w": -1.52,
     "pct_1m": 0.15,
-    "market_cap": 36703748096,
-    "revenue": 17959000064,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 225,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.0801,
     "last_5_weekly_ranks": [
       225
@@ -5415,7 +5415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 226,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 1.0801,
     "last_5_weekly_ranks": [
       226
@@ -5439,12 +5439,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 227,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.0675,
     "last_5_weekly_ranks": [
       227
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 371
   },
   {
@@ -5463,7 +5463,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 228,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0496,
     "last_5_weekly_ranks": [
       228
@@ -5487,7 +5487,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 229,
-    "delta": -40,
+    "delta": 0,
     "rsl_vs_sector": 0.9352,
     "last_5_weekly_ranks": [
       229
@@ -5504,14 +5504,14 @@
     "pct_1d": -1.03,
     "pct_1w": 0.09,
     "pct_1m": 5.68,
-    "market_cap": 42833133568,
-    "revenue": 27878426624,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 230,
-    "delta": -37,
+    "delta": 0,
     "rsl_vs_sector": 1.0785,
     "last_5_weekly_ranks": [
       230
@@ -5528,14 +5528,14 @@
     "pct_1d": 0.55,
     "pct_1w": -0.15,
     "pct_1m": 3.94,
-    "market_cap": 27566899200,
-    "revenue": 16044999680,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 231,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 1.0212,
     "last_5_weekly_ranks": [
       231
@@ -5552,14 +5552,14 @@
     "pct_1d": -0.9,
     "pct_1w": 1.82,
     "pct_1m": -1.08,
-    "market_cap": 345849298944,
-    "revenue": 67377999872,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 232,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.9345,
     "last_5_weekly_ranks": [
       232
@@ -5576,19 +5576,19 @@
     "pct_1d": 2.23,
     "pct_1w": 3.98,
     "pct_1m": 6.41,
-    "market_cap": 11795810304,
-    "revenue": 13530000384,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 233,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 1.0477,
     "last_5_weekly_ranks": [
       233
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 209
   },
   {
@@ -5607,7 +5607,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 234,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0654,
     "last_5_weekly_ranks": [
       234
@@ -5631,7 +5631,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 235,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0184,
     "last_5_weekly_ranks": [
       235
@@ -5648,19 +5648,19 @@
     "pct_1d": 2.11,
     "pct_1w": 4.68,
     "pct_1m": 2.61,
-    "market_cap": 20647362560,
-    "revenue": 31973076992,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 236,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 1.003,
     "last_5_weekly_ranks": [
       236
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 180
   },
   {
@@ -5672,19 +5672,19 @@
     "pct_1d": 1.67,
     "pct_1w": 7.08,
     "pct_1m": 9.44,
-    "market_cap": 15035847680,
-    "revenue": 3064825088,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 237,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 1.0267,
     "last_5_weekly_ranks": [
       237
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 51
   },
   {
@@ -5703,7 +5703,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 238,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 1.0165,
     "last_5_weekly_ranks": [
       238
@@ -5727,7 +5727,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 239,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 1.0155,
     "last_5_weekly_ranks": [
       239
@@ -5744,14 +5744,14 @@
     "pct_1d": -0.77,
     "pct_1w": -0.26,
     "pct_1m": 10.64,
-    "market_cap": 12707599360,
-    "revenue": 12146911232,
-    "exp_count": 11,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 240,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 0.9573,
     "last_5_weekly_ranks": [
       240
@@ -5775,12 +5775,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 241,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0141,
     "last_5_weekly_ranks": [
       241
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 185
   },
   {
@@ -5799,12 +5799,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 242,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0139,
     "last_5_weekly_ranks": [
       242
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 304
   },
   {
@@ -5816,14 +5816,14 @@
     "pct_1d": 0.63,
     "pct_1w": -2.44,
     "pct_1m": 7.59,
-    "market_cap": 17219999744,
-    "revenue": 9415300096,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 243,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.0035,
     "last_5_weekly_ranks": [
       243
@@ -5847,7 +5847,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 244,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.0563,
     "last_5_weekly_ranks": [
       244
@@ -5871,12 +5871,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 245,
-    "delta": 22,
+    "delta": 0,
     "rsl_vs_sector": 1.0382,
     "last_5_weekly_ranks": [
       245
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 236
   },
   {
@@ -5895,12 +5895,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 246,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9532,
     "last_5_weekly_ranks": [
       246
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 126
   },
   {
@@ -5919,12 +5919,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 247,
-    "delta": 46,
+    "delta": 0,
     "rsl_vs_sector": 1.0308,
     "last_5_weekly_ranks": [
       247
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 42
   },
   {
@@ -5936,14 +5936,14 @@
     "pct_1d": 0.06,
     "pct_1w": 1.13,
     "pct_1m": 2.69,
-    "market_cap": 83744653312,
-    "revenue": 8176000000,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 248,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9978,
     "last_5_weekly_ranks": [
       248
@@ -5961,18 +5961,18 @@
     "pct_1w": -0.58,
     "pct_1m": 0.23,
     "market_cap": 172835291136,
-    "revenue": 47927001088,
+    "revenue": 47703998464,
     "exp_count": 14,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 249,
-    "delta": 53,
+    "delta": 0,
     "rsl_vs_sector": 1.034,
     "last_5_weekly_ranks": [
       249
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 322
   },
   {
@@ -5984,9 +5984,9 @@
     "pct_1d": 0.98,
     "pct_1w": 0.74,
     "pct_1m": 3.63,
-    "market_cap": 179130925056,
-    "revenue": 28824999936,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -6015,12 +6015,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 251,
-    "delta": 32,
+    "delta": 0,
     "rsl_vs_sector": 1.0629,
     "last_5_weekly_ranks": [
       251
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 13
   },
   {
@@ -6032,19 +6032,19 @@
     "pct_1d": 1.5,
     "pct_1w": 4.42,
     "pct_1m": -17.68,
-    "market_cap": 394169712640,
-    "revenue": 7288260096,
-    "exp_count": 19,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 252,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1626,
     "last_5_weekly_ranks": [
       252
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 403
   },
   {
@@ -6063,7 +6063,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 253,
-    "delta": -24,
+    "delta": 0,
     "rsl_vs_sector": 0.919,
     "last_5_weekly_ranks": [
       253
@@ -6080,19 +6080,19 @@
     "pct_1d": 1.67,
     "pct_1w": 7.6,
     "pct_1m": 4.99,
-    "market_cap": 13412864000,
-    "revenue": 7685700096,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 254,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.946,
     "last_5_weekly_ranks": [
       254
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 73
   },
   {
@@ -6111,7 +6111,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 255,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 0.9883,
     "last_5_weekly_ranks": [
       255
@@ -6135,12 +6135,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 256,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 1.0583,
     "last_5_weekly_ranks": [
       256
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 131
   },
   {
@@ -6159,7 +6159,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 257,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.0019,
     "last_5_weekly_ranks": [
       257
@@ -6207,12 +6207,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 259,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.1584,
     "last_5_weekly_ranks": [
       259
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 287
   },
   {
@@ -6248,19 +6248,19 @@
     "pct_1d": 2.03,
     "pct_1w": 2.26,
     "pct_1m": 4.28,
-    "market_cap": 70849716224,
-    "revenue": 186952007680,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 261,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9869,
     "last_5_weekly_ranks": [
       261
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 254
   },
   {
@@ -6279,7 +6279,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 262,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9153,
     "last_5_weekly_ranks": [
       262
@@ -6303,7 +6303,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 263,
-    "delta": -15,
+    "delta": 0,
     "rsl_vs_sector": 0.9999,
     "last_5_weekly_ranks": [
       263
@@ -6320,19 +6320,19 @@
     "pct_1d": 2.15,
     "pct_1w": 0.19,
     "pct_1m": 1.71,
-    "market_cap": 17078677504,
-    "revenue": 25332613120,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 264,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9832,
     "last_5_weekly_ranks": [
       264
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 227
   },
   {
@@ -6344,14 +6344,14 @@
     "pct_1d": 0.12,
     "pct_1w": 1.08,
     "pct_1m": 3.2,
-    "market_cap": 71437410304,
-    "revenue": 37743001600,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 265,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.0237,
     "last_5_weekly_ranks": [
       265
@@ -6368,19 +6368,19 @@
     "pct_1d": 2.6,
     "pct_1w": 0.93,
     "pct_1m": -3.5,
-    "market_cap": 73339600896,
-    "revenue": 12963000320,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 266,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 1.0229,
     "last_5_weekly_ranks": [
       266
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 285
   },
   {
@@ -6392,19 +6392,19 @@
     "pct_1d": 2.85,
     "pct_1w": -5.49,
     "pct_1m": 14.54,
-    "market_cap": 170370711552,
+    "market_cap": 74845224960,
     "revenue": 27451000832,
     "exp_count": 14,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 267,
-    "delta": 33,
+    "delta": 0,
     "rsl_vs_sector": 0.9799,
     "last_5_weekly_ranks": [
       267
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 258
   },
   {
@@ -6416,14 +6416,14 @@
     "pct_1d": -0.09,
     "pct_1w": -1.56,
     "pct_1m": -11.58,
-    "market_cap": 644843503616,
-    "revenue": 388231987200,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 268,
-    "delta": -14,
+    "delta": 0,
     "rsl_vs_sector": 1.0377,
     "last_5_weekly_ranks": [
       268
@@ -6440,14 +6440,14 @@
     "pct_1d": 0.4,
     "pct_1w": 1.09,
     "pct_1m": 0.15,
-    "market_cap": 22471268352,
-    "revenue": 18781999104,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 269,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9844,
     "last_5_weekly_ranks": [
       269
@@ -6471,12 +6471,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 270,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.003,
     "last_5_weekly_ranks": [
       270
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 148
   },
   {
@@ -6495,7 +6495,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 271,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9931,
     "last_5_weekly_ranks": [
       271
@@ -6512,19 +6512,19 @@
     "pct_1d": 2.48,
     "pct_1w": 3.22,
     "pct_1m": 1.52,
-    "market_cap": 97353490432,
-    "revenue": 56519999488,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 272,
-    "delta": 26,
+    "delta": 0,
     "rsl_vs_sector": 1.0195,
     "last_5_weekly_ranks": [
       272
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 230
   },
   {
@@ -6543,12 +6543,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 273,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.9783,
     "last_5_weekly_ranks": [
       273
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 68
   },
   {
@@ -6567,12 +6567,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 274,
-    "delta": 35,
+    "delta": 0,
     "rsl_vs_sector": 1.0016,
     "last_5_weekly_ranks": [
       274
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 74
   },
   {
@@ -6591,7 +6591,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 275,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 1.0184,
     "last_5_weekly_ranks": [
       275
@@ -6608,19 +6608,19 @@
     "pct_1d": 1.96,
     "pct_1w": 1.05,
     "pct_1m": -5.55,
-    "market_cap": 70596296704,
-    "revenue": 18343999488,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 276,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 1.0352,
     "last_5_weekly_ranks": [
       276
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 289
   },
   {
@@ -6639,7 +6639,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 277,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 1.0177,
     "last_5_weekly_ranks": [
       277
@@ -6663,7 +6663,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 278,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 1.0005,
     "last_5_weekly_ranks": [
       278
@@ -6687,7 +6687,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 279,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 1.017,
     "last_5_weekly_ranks": [
       279
@@ -6711,7 +6711,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 280,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 0.989,
     "last_5_weekly_ranks": [
       280
@@ -6728,19 +6728,19 @@
     "pct_1d": 3.33,
     "pct_1w": 6.54,
     "pct_1m": -2.04,
-    "market_cap": 230108577792,
-    "revenue": 69868003328,
-    "exp_count": 19,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 281,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.1431,
     "last_5_weekly_ranks": [
       281
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 264
   },
   {
@@ -6752,19 +6752,19 @@
     "pct_1d": 1.97,
     "pct_1w": 3.48,
     "pct_1m": 6.52,
-    "market_cap": 38157910016,
-    "revenue": 7210999808,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 282,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 1.01,
     "last_5_weekly_ranks": [
       282
     ],
-    "score": 3,
+    "score": 2,
     "rank_other": 136
   },
   {
@@ -6783,12 +6783,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 283,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9873,
     "last_5_weekly_ranks": [
       283
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 290
   },
   {
@@ -6807,12 +6807,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 284,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 1.139,
     "last_5_weekly_ranks": [
       284
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 293
   },
   {
@@ -6831,12 +6831,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 285,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9944,
     "last_5_weekly_ranks": [
       285
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 149
   },
   {
@@ -6855,7 +6855,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 286,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 1.1385,
     "last_5_weekly_ranks": [
       286
@@ -6879,12 +6879,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 287,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 0.9939,
     "last_5_weekly_ranks": [
       287
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 184
   },
   {
@@ -6903,12 +6903,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 288,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.9742,
     "last_5_weekly_ranks": [
       288
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 229
   },
   {
@@ -6927,12 +6927,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 289,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9741,
     "last_5_weekly_ranks": [
       289
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 232
   },
   {
@@ -6951,7 +6951,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 290,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 1.0039,
     "last_5_weekly_ranks": [
       290
@@ -6975,7 +6975,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 291,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.9911,
     "last_5_weekly_ranks": [
       291
@@ -6999,7 +6999,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 292,
-    "delta": -17,
+    "delta": 0,
     "rsl_vs_sector": 0.9815,
     "last_5_weekly_ranks": [
       292
@@ -7023,7 +7023,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 293,
-    "delta": -25,
+    "delta": 0,
     "rsl_vs_sector": 1.0361,
     "last_5_weekly_ranks": [
       293
@@ -7047,7 +7047,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 294,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9902,
     "last_5_weekly_ranks": [
       294
@@ -7064,14 +7064,14 @@
     "pct_1d": -0.23,
     "pct_1w": -3.38,
     "pct_1m": -3.41,
-    "market_cap": 16545243136,
-    "revenue": 3658299904,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 295,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 1.0065,
     "last_5_weekly_ranks": [
       295
@@ -7095,7 +7095,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 296,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 1.0344,
     "last_5_weekly_ranks": [
       296
@@ -7119,7 +7119,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 297,
-    "delta": -51,
+    "delta": 0,
     "rsl_vs_sector": 1.0055,
     "last_5_weekly_ranks": [
       297
@@ -7136,19 +7136,19 @@
     "pct_1d": 1.51,
     "pct_1w": 1.71,
     "pct_1m": 4.18,
-    "market_cap": 9888105472,
-    "revenue": 1352390016,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 298,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9879,
     "last_5_weekly_ranks": [
       298
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 152
   },
   {
@@ -7160,14 +7160,14 @@
     "pct_1d": 0.13,
     "pct_1w": -0.83,
     "pct_1m": -8.29,
-    "market_cap": 55862636544,
-    "revenue": 38828998656,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 299,
-    "delta": -20,
+    "delta": 0,
     "rsl_vs_sector": 0.9993,
     "last_5_weekly_ranks": [
       299
@@ -7184,14 +7184,14 @@
     "pct_1d": -2.5,
     "pct_1w": -7.38,
     "pct_1m": -20.36,
-    "market_cap": 94283177984,
-    "revenue": 175398993920,
-    "exp_count": 11,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 300,
-    "delta": -56,
+    "delta": 0,
     "rsl_vs_sector": 1.0188,
     "last_5_weekly_ranks": [
       300
@@ -7215,7 +7215,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 301,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8926,
     "last_5_weekly_ranks": [
       301
@@ -7232,19 +7232,19 @@
     "pct_1d": 2.13,
     "pct_1w": 5.22,
     "pct_1m": 2.32,
-    "market_cap": 16089728000,
-    "revenue": 2856811008,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 302,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.9833,
     "last_5_weekly_ranks": [
       302
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 124
   },
   {
@@ -7256,14 +7256,14 @@
     "pct_1d": 0.19,
     "pct_1w": -2.97,
     "pct_1m": 0.58,
-    "market_cap": 72337154048,
-    "revenue": 94720000000,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 303,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9999,
     "last_5_weekly_ranks": [
       303
@@ -7287,12 +7287,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 304,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.8913,
     "last_5_weekly_ranks": [
       304
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 150
   },
   {
@@ -7311,7 +7311,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 305,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9643,
     "last_5_weekly_ranks": [
       305
@@ -7335,12 +7335,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 306,
-    "delta": 48,
+    "delta": 0,
     "rsl_vs_sector": 1.0145,
     "last_5_weekly_ranks": [
       306
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 307
   },
   {
@@ -7359,7 +7359,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 307,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9576,
     "last_5_weekly_ranks": [
       307
@@ -7383,12 +7383,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 308,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.9587,
     "last_5_weekly_ranks": [
       308
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 278
   },
   {
@@ -7407,12 +7407,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 309,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.9585,
     "last_5_weekly_ranks": [
       309
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 297
   },
   {
@@ -7448,14 +7448,14 @@
     "pct_1d": 0.2,
     "pct_1w": -4.36,
     "pct_1m": -9.03,
-    "market_cap": 287291408384,
-    "revenue": 43137998848,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 311,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9122,
     "last_5_weekly_ranks": [
       311
@@ -7479,12 +7479,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 312,
-    "delta": 20,
+    "delta": 0,
     "rsl_vs_sector": 0.9578,
     "last_5_weekly_ranks": [
       312
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 369
   },
   {
@@ -7503,12 +7503,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 313,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9667,
     "last_5_weekly_ranks": [
       313
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 62
   },
   {
@@ -7527,7 +7527,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 314,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 1.1174,
     "last_5_weekly_ranks": [
       314
@@ -7551,12 +7551,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 315,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 1.1164,
     "last_5_weekly_ranks": [
       315
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 391
   },
   {
@@ -7575,7 +7575,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 316,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.9561,
     "last_5_weekly_ranks": [
       316
@@ -7599,7 +7599,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 317,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9521,
     "last_5_weekly_ranks": [
       317
@@ -7623,12 +7623,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 318,
-    "delta": 25,
+    "delta": 0,
     "rsl_vs_sector": 0.982,
     "last_5_weekly_ranks": [
       318
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 421
   },
   {
@@ -7640,19 +7640,19 @@
     "pct_1d": 3.4,
     "pct_1w": -1.05,
     "pct_1m": -1.66,
-    "market_cap": 1559025942528,
-    "revenue": 241605001216,
-    "exp_count": 22,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 319,
-    "delta": 37,
+    "delta": 0,
     "rsl_vs_sector": 1.0145,
     "last_5_weekly_ranks": [
       319
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 314
   },
   {
@@ -7664,14 +7664,14 @@
     "pct_1d": -0.58,
     "pct_1w": -5.5,
     "pct_1m": 7.94,
-    "market_cap": 7807682560,
-    "revenue": 10162927616,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 320,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 0.9424,
     "last_5_weekly_ranks": [
       320
@@ -7688,19 +7688,19 @@
     "pct_1d": 2.52,
     "pct_1w": 6.9,
     "pct_1m": 3.63,
-    "market_cap": 15919627264,
-    "revenue": 9413880832,
+    "market_cap": null,
+    "revenue": null,
     "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 321,
-    "delta": 30,
+    "delta": 0,
     "rsl_vs_sector": 0.9423,
     "last_5_weekly_ranks": [
       321
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 193
   },
   {
@@ -7712,19 +7712,19 @@
     "pct_1d": 1.96,
     "pct_1w": -1.45,
     "pct_1m": -8.95,
-    "market_cap": 54502436864,
-    "revenue": 43186999296,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 322,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.9977,
     "last_5_weekly_ranks": [
       322
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 361
   },
   {
@@ -7743,7 +7743,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 323,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.8741,
     "last_5_weekly_ranks": [
       323
@@ -7767,7 +7767,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 324,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9459,
     "last_5_weekly_ranks": [
       324
@@ -7784,19 +7784,19 @@
     "pct_1d": 1.46,
     "pct_1w": 1.93,
     "pct_1m": -4.77,
-    "market_cap": 9897859072,
-    "revenue": 3189199872,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 325,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.8735,
     "last_5_weekly_ranks": [
       325
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 355
   },
   {
@@ -7808,19 +7808,19 @@
     "pct_1d": 1.08,
     "pct_1w": 0.66,
     "pct_1m": 2.59,
-    "market_cap": 86392684544,
-    "revenue": 23821225984,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 326,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9449,
     "last_5_weekly_ranks": [
       326
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 280
   },
   {
@@ -7839,12 +7839,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 327,
-    "delta": 60,
+    "delta": 0,
     "rsl_vs_sector": 0.9954,
     "last_5_weekly_ranks": [
       327
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 282
   },
   {
@@ -7863,12 +7863,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 328,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.1021,
     "last_5_weekly_ranks": [
       328
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 450
   },
   {
@@ -7880,19 +7880,19 @@
     "pct_1d": 1.15,
     "pct_1w": -0.5,
     "pct_1m": -3.51,
-    "market_cap": 46727520256,
-    "revenue": 11157000192,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 329,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9441,
     "last_5_weekly_ranks": [
       329
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 336
   },
   {
@@ -7904,19 +7904,19 @@
     "pct_1d": 1.31,
     "pct_1w": -3.01,
     "pct_1m": 2.72,
-    "market_cap": 12444344320,
-    "revenue": 11093954560,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 330,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9393,
     "last_5_weekly_ranks": [
       330
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 210
   },
   {
@@ -7935,7 +7935,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 331,
-    "delta": -61,
+    "delta": 0,
     "rsl_vs_sector": 0.9391,
     "last_5_weekly_ranks": [
       331
@@ -7959,7 +7959,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 332,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 1.0059,
     "last_5_weekly_ranks": [
       332
@@ -7983,7 +7983,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 333,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 0.9379,
     "last_5_weekly_ranks": [
       333
@@ -8007,7 +8007,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 334,
-    "delta": -18,
+    "delta": 0,
     "rsl_vs_sector": 0.9924,
     "last_5_weekly_ranks": [
       334
@@ -8024,19 +8024,19 @@
     "pct_1d": 1.48,
     "pct_1w": 2.16,
     "pct_1m": 0.96,
-    "market_cap": 48764112896,
-    "revenue": 23332999168,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 335,
-    "delta": 10,
+    "delta": 0,
     "rsl_vs_sector": 0.9754,
     "last_5_weekly_ranks": [
       335
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 277
   },
   {
@@ -8048,19 +8048,19 @@
     "pct_1d": 1.12,
     "pct_1w": -1.92,
     "pct_1m": -0.41,
-    "market_cap": 12350763008,
-    "revenue": 7135300096,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 336,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9409,
     "last_5_weekly_ranks": [
       336
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 269
   },
   {
@@ -8079,12 +8079,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 337,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.9394,
     "last_5_weekly_ranks": [
       337
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 318
   },
   {
@@ -8103,7 +8103,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 338,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.939,
     "last_5_weekly_ranks": [
       338
@@ -8127,12 +8127,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 339,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 0.9725,
     "last_5_weekly_ranks": [
       339
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 316
   },
   {
@@ -8151,12 +8151,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 340,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.9561,
     "last_5_weekly_ranks": [
       340
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 377
   },
   {
@@ -8175,7 +8175,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 341,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 1.0947,
     "last_5_weekly_ranks": [
       341
@@ -8199,12 +8199,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 342,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.8649,
     "last_5_weekly_ranks": [
       342
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 195
   },
   {
@@ -8223,12 +8223,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 343,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9352,
     "last_5_weekly_ranks": [
       343
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 315
   },
   {
@@ -8247,12 +8247,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 344,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 0.9649,
     "last_5_weekly_ranks": [
       344
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 272
   },
   {
@@ -8271,7 +8271,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 345,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 0.8639,
     "last_5_weekly_ranks": [
       345
@@ -8295,12 +8295,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 346,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 1.0908,
     "last_5_weekly_ranks": [
       346
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 481
   },
   {
@@ -8319,7 +8319,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 347,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9341,
     "last_5_weekly_ranks": [
       347
@@ -8336,19 +8336,19 @@
     "pct_1d": 1.25,
     "pct_1w": -2.07,
     "pct_1m": -1.37,
-    "market_cap": 30429601792,
-    "revenue": 9332200448,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 348,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9335,
     "last_5_weekly_ranks": [
       348
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 321
   },
   {
@@ -8367,7 +8367,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 349,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.9667,
     "last_5_weekly_ranks": [
       349
@@ -8415,7 +8415,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 351,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9647,
     "last_5_weekly_ranks": [
       351
@@ -8439,7 +8439,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 352,
-    "delta": -30,
+    "delta": 0,
     "rsl_vs_sector": 0.9645,
     "last_5_weekly_ranks": [
       352
@@ -8463,12 +8463,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 353,
-    "delta": 36,
+    "delta": 0,
     "rsl_vs_sector": 1.0846,
     "last_5_weekly_ranks": [
       353
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 432
   },
   {
@@ -8480,19 +8480,19 @@
     "pct_1d": 1.49,
     "pct_1w": -3.77,
     "pct_1m": -4.16,
-    "market_cap": 61238796288,
-    "revenue": 13797999616,
-    "exp_count": 10,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 354,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 1.0836,
     "last_5_weekly_ranks": [
       354
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 372
   },
   {
@@ -8511,7 +8511,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 355,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9459,
     "last_5_weekly_ranks": [
       355
@@ -8528,14 +8528,14 @@
     "pct_1d": -0.33,
     "pct_1w": -3.39,
     "pct_1m": 6.49,
-    "market_cap": 327551909888,
-    "revenue": 52576002048,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 356,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 0.9618,
     "last_5_weekly_ranks": [
       356
@@ -8552,14 +8552,14 @@
     "pct_1d": -2.02,
     "pct_1w": -4.58,
     "pct_1m": -28.3,
-    "market_cap": 30298968064,
-    "revenue": 4538999808,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 357,
-    "delta": -42,
+    "delta": 0,
     "rsl_vs_sector": 0.8571,
     "last_5_weekly_ranks": [
       357
@@ -8583,12 +8583,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 358,
-    "delta": 23,
+    "delta": 0,
     "rsl_vs_sector": 0.9774,
     "last_5_weekly_ranks": [
       358
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 376
   },
   {
@@ -8607,12 +8607,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 359,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9227,
     "last_5_weekly_ranks": [
       359
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 18
   },
   {
@@ -8624,14 +8624,14 @@
     "pct_1d": -0.92,
     "pct_1w": -2.28,
     "pct_1m": -0.11,
-    "market_cap": 113222311936,
-    "revenue": 22407000064,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 360,
-    "delta": -29,
+    "delta": 0,
     "rsl_vs_sector": 0.9593,
     "last_5_weekly_ranks": [
       360
@@ -8655,12 +8655,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 361,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9429,
     "last_5_weekly_ranks": [
       361
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 275
   },
   {
@@ -8672,14 +8672,14 @@
     "pct_1d": -0.39,
     "pct_1w": -1.39,
     "pct_1m": -12.43,
-    "market_cap": 81927266304,
-    "revenue": 25666000896,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 362,
-    "delta": -22,
+    "delta": 0,
     "rsl_vs_sector": 0.9583,
     "last_5_weekly_ranks": [
       362
@@ -8696,14 +8696,14 @@
     "pct_1d": 1.07,
     "pct_1w": 0.35,
     "pct_1m": -14.0,
-    "market_cap": 53944320000,
-    "revenue": 24974000128,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 363,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.9736,
     "last_5_weekly_ranks": [
       363
@@ -8727,7 +8727,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 364,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9235,
     "last_5_weekly_ranks": [
       364
@@ -8751,12 +8751,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 365,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.9706,
     "last_5_weekly_ranks": [
       365
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 367
   },
   {
@@ -8768,14 +8768,14 @@
     "pct_1d": -0.11,
     "pct_1w": -2.27,
     "pct_1m": -5.67,
-    "market_cap": 841137782784,
-    "revenue": 190732992512,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 366,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9207,
     "last_5_weekly_ranks": [
       366
@@ -8792,14 +8792,14 @@
     "pct_1d": 0.55,
     "pct_1w": 0.62,
     "pct_1m": -2.63,
-    "market_cap": 30910119936,
-    "revenue": 9464000512,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 367,
-    "delta": -5,
+    "delta": 0,
     "rsl_vs_sector": 0.9178,
     "last_5_weekly_ranks": [
       367
@@ -8816,19 +8816,19 @@
     "pct_1d": 1.52,
     "pct_1w": 1.85,
     "pct_1m": -0.97,
-    "market_cap": 13985369088,
-    "revenue": 2224538112,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 368,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9354,
     "last_5_weekly_ranks": [
       368
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 255
   },
   {
@@ -8840,14 +8840,14 @@
     "pct_1d": 0.28,
     "pct_1w": 4.01,
     "pct_1m": 10.03,
-    "market_cap": 31406647296,
-    "revenue": 25774999552,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 369,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9247,
     "last_5_weekly_ranks": [
       369
@@ -8864,9 +8864,9 @@
     "pct_1d": 1.25,
     "pct_1w": -1.27,
     "pct_1m": -4.4,
-    "market_cap": 21351909376,
-    "revenue": 7575000064,
-    "exp_count": 11,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -8888,19 +8888,19 @@
     "pct_1d": 2.84,
     "pct_1w": -0.71,
     "pct_1m": 5.31,
-    "market_cap": 12033163264,
-    "revenue": 4619158016,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 371,
-    "delta": 21,
+    "delta": 0,
     "rsl_vs_sector": 0.9463,
     "last_5_weekly_ranks": [
       371
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 63
   },
   {
@@ -8919,7 +8919,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 372,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9297,
     "last_5_weekly_ranks": [
       372
@@ -8943,12 +8943,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 373,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.8686,
     "last_5_weekly_ranks": [
       373
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 217
   },
   {
@@ -8967,12 +8967,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 374,
-    "delta": 17,
+    "delta": 0,
     "rsl_vs_sector": 0.9434,
     "last_5_weekly_ranks": [
       374
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 311
   },
   {
@@ -8984,14 +8984,14 @@
     "pct_1d": 1.02,
     "pct_1w": -5.14,
     "pct_1m": -6.25,
-    "market_cap": 83390005248,
-    "revenue": 9584870400,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 375,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.8665,
     "last_5_weekly_ranks": [
       375
@@ -9008,19 +9008,19 @@
     "pct_1d": 3.4,
     "pct_1w": 2.11,
     "pct_1m": 8.3,
-    "market_cap": 6469339136,
-    "revenue": 11896399872,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 376,
-    "delta": 27,
+    "delta": 0,
     "rsl_vs_sector": 0.9389,
     "last_5_weekly_ranks": [
       376
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 190
   },
   {
@@ -9039,12 +9039,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 377,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 1.0619,
     "last_5_weekly_ranks": [
       377
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 283
   },
   {
@@ -9063,12 +9063,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 378,
-    "delta": 19,
+    "delta": 0,
     "rsl_vs_sector": 0.9582,
     "last_5_weekly_ranks": [
       378
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 426
   },
   {
@@ -9087,7 +9087,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 379,
-    "delta": -10,
+    "delta": 0,
     "rsl_vs_sector": 0.9176,
     "last_5_weekly_ranks": [
       379
@@ -9104,14 +9104,14 @@
     "pct_1d": 0.31,
     "pct_1w": -0.19,
     "pct_1m": -12.98,
-    "market_cap": 13989487616,
-    "revenue": 9164999680,
-    "exp_count": 3,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 380,
-    "delta": -13,
+    "delta": 0,
     "rsl_vs_sector": 0.9687,
     "last_5_weekly_ranks": [
       380
@@ -9128,19 +9128,19 @@
     "pct_1d": 2.41,
     "pct_1w": -2.57,
     "pct_1m": -15.53,
-    "market_cap": 18411892736,
-    "revenue": 31964000256,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 381,
-    "delta": 14,
+    "delta": 0,
     "rsl_vs_sector": 0.9371,
     "last_5_weekly_ranks": [
       381
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 440
   },
   {
@@ -9183,7 +9183,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 383,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9564,
     "last_5_weekly_ranks": [
       383
@@ -9207,7 +9207,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 384,
-    "delta": -40,
+    "delta": 0,
     "rsl_vs_sector": 1.0581,
     "last_5_weekly_ranks": [
       384
@@ -9224,19 +9224,19 @@
     "pct_1d": 2.55,
     "pct_1w": 0.96,
     "pct_1m": -2.4,
-    "market_cap": 54451421184,
-    "revenue": 45890998272,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 385,
-    "delta": 16,
+    "delta": 0,
     "rsl_vs_sector": 0.9007,
     "last_5_weekly_ranks": [
       385
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 330
   },
   {
@@ -9255,7 +9255,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 386,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9043,
     "last_5_weekly_ranks": [
       386
@@ -9279,7 +9279,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 387,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.9042,
     "last_5_weekly_ranks": [
       387
@@ -9296,19 +9296,19 @@
     "pct_1d": 2.02,
     "pct_1w": -2.7,
     "pct_1m": -9.71,
-    "market_cap": 105415761920,
-    "revenue": 26606000128,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 388,
-    "delta": 8,
+    "delta": 0,
     "rsl_vs_sector": 0.9325,
     "last_5_weekly_ranks": [
       388
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 436
   },
   {
@@ -9320,14 +9320,14 @@
     "pct_1d": 0.36,
     "pct_1w": 0.35,
     "pct_1m": -0.82,
-    "market_cap": 11745967104,
-    "revenue": 6274907136,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 389,
-    "delta": -12,
+    "delta": 0,
     "rsl_vs_sector": 0.9016,
     "last_5_weekly_ranks": [
       389
@@ -9344,14 +9344,14 @@
     "pct_1d": 0.38,
     "pct_1w": 1.25,
     "pct_1m": 10.98,
-    "market_cap": 24929126400,
-    "revenue": 13603999744,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 390,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.8969,
     "last_5_weekly_ranks": [
       390
@@ -9368,19 +9368,19 @@
     "pct_1d": 2.48,
     "pct_1w": 3.99,
     "pct_1m": 4.41,
-    "market_cap": 56836251648,
-    "revenue": 29080500224,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 391,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.9342,
     "last_5_weekly_ranks": [
       391
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 130
   },
   {
@@ -9399,12 +9399,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 392,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8963,
     "last_5_weekly_ranks": [
       392
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 183
   },
   {
@@ -9423,7 +9423,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 393,
-    "delta": -27,
+    "delta": 0,
     "rsl_vs_sector": 1.0507,
     "last_5_weekly_ranks": [
       393
@@ -9440,14 +9440,14 @@
     "pct_1d": 0.7,
     "pct_1w": -0.79,
     "pct_1m": -11.66,
-    "market_cap": 15523610624,
-    "revenue": 9164999680,
-    "exp_count": 3,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 394,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9586,
     "last_5_weekly_ranks": [
       394
@@ -9471,12 +9471,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 395,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9159,
     "last_5_weekly_ranks": [
       395
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 205
   },
   {
@@ -9488,19 +9488,19 @@
     "pct_1d": 2.3,
     "pct_1w": 0.54,
     "pct_1m": -11.26,
-    "market_cap": 26145464320,
-    "revenue": 22475999232,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 396,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.947,
     "last_5_weekly_ranks": [
       396
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 386
   },
   {
@@ -9519,7 +9519,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 397,
-    "delta": -48,
+    "delta": 0,
     "rsl_vs_sector": 0.929,
     "last_5_weekly_ranks": [
       397
@@ -9543,7 +9543,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 398,
-    "delta": -26,
+    "delta": 0,
     "rsl_vs_sector": 0.8914,
     "last_5_weekly_ranks": [
       398
@@ -9560,19 +9560,19 @@
     "pct_1d": 1.84,
     "pct_1w": 7.89,
     "pct_1m": 5.19,
-    "market_cap": 48597458944,
-    "revenue": 186965000192,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 399,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.8906,
     "last_5_weekly_ranks": [
       399
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 155
   },
   {
@@ -9591,12 +9591,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 400,
-    "delta": 12,
+    "delta": 0,
     "rsl_vs_sector": 0.9258,
     "last_5_weekly_ranks": [
       400
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 20
   },
   {
@@ -9608,19 +9608,19 @@
     "pct_1d": 1.57,
     "pct_1w": 0.53,
     "pct_1m": -1.28,
-    "market_cap": 22652493824,
-    "revenue": 6593699840,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 401,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.9256,
     "last_5_weekly_ranks": [
       401
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 299
   },
   {
@@ -9639,7 +9639,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 402,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.9097,
     "last_5_weekly_ranks": [
       402
@@ -9663,7 +9663,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 403,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8884,
     "last_5_weekly_ranks": [
       403
@@ -9680,14 +9680,14 @@
     "pct_1d": 0.68,
     "pct_1w": -0.4,
     "pct_1m": -5.28,
-    "market_cap": 29988962304,
-    "revenue": 9815000064,
-    "exp_count": 12,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 404,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8872,
     "last_5_weekly_ranks": [
       404
@@ -9704,19 +9704,19 @@
     "pct_1d": 4.77,
     "pct_1w": -1.35,
     "pct_1m": -2.58,
-    "market_cap": 16989649920,
-    "revenue": 24177999872,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 405,
-    "delta": 18,
+    "delta": 0,
     "rsl_vs_sector": 0.9138,
     "last_5_weekly_ranks": [
       405
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 365
   },
   {
@@ -9735,12 +9735,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 406,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.8955,
     "last_5_weekly_ranks": [
       406
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 231
   },
   {
@@ -9759,7 +9759,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 407,
-    "delta": -34,
+    "delta": 0,
     "rsl_vs_sector": 1.0244,
     "last_5_weekly_ranks": [
       407
@@ -9776,19 +9776,19 @@
     "pct_1d": 1.23,
     "pct_1w": -4.18,
     "pct_1m": -27.5,
-    "market_cap": 32409137152,
-    "revenue": 7391000064,
-    "exp_count": 9,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 408,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 1.0236,
     "last_5_weekly_ranks": [
       408
     ],
-    "score": 2,
+    "score": 1,
     "rank_other": 463
   },
   {
@@ -9807,12 +9807,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 409,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9045,
     "last_5_weekly_ranks": [
       409
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 420
   },
   {
@@ -9831,12 +9831,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 410,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.9018,
     "last_5_weekly_ranks": [
       410
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 276
   },
   {
@@ -9855,7 +9855,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 411,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9016,
     "last_5_weekly_ranks": [
       411
@@ -9872,19 +9872,19 @@
     "pct_1d": 1.99,
     "pct_1w": 0.23,
     "pct_1m": -1.54,
-    "market_cap": 21246410752,
-    "revenue": 13325219840,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 412,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.9013,
     "last_5_weekly_ranks": [
       412
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 206
   },
   {
@@ -9920,9 +9920,9 @@
     "pct_1d": 0.38,
     "pct_1w": -8.87,
     "pct_1m": -1.42,
-    "market_cap": 58259714048,
-    "revenue": 3738391040,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -9951,12 +9951,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 415,
-    "delta": 13,
+    "delta": 0,
     "rsl_vs_sector": 0.8633,
     "last_5_weekly_ranks": [
       415
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 384
   },
   {
@@ -9975,12 +9975,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 416,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.8991,
     "last_5_weekly_ranks": [
       416
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 257
   },
   {
@@ -9992,14 +9992,14 @@
     "pct_1d": 0.84,
     "pct_1w": -1.84,
     "pct_1m": -13.07,
-    "market_cap": 28608421888,
-    "revenue": 16225999872,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 417,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8618,
     "last_5_weekly_ranks": [
       417
@@ -10023,7 +10023,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 418,
-    "delta": -39,
+    "delta": 0,
     "rsl_vs_sector": 0.8724,
     "last_5_weekly_ranks": [
       418
@@ -10040,14 +10040,14 @@
     "pct_1d": -1.87,
     "pct_1w": -6.91,
     "pct_1m": -9.78,
-    "market_cap": 30992582656,
-    "revenue": 7798994944,
-    "exp_count": 14,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 419,
-    "delta": -11,
+    "delta": 0,
     "rsl_vs_sector": 0.8764,
     "last_5_weekly_ranks": [
       419
@@ -10088,14 +10088,14 @@
     "pct_1d": -2.76,
     "pct_1w": -13.26,
     "pct_1m": -17.27,
-    "market_cap": 71738155008,
-    "revenue": 21916999680,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 421,
-    "delta": -21,
+    "delta": 0,
     "rsl_vs_sector": 1.0018,
     "last_5_weekly_ranks": [
       421
@@ -10119,12 +10119,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 422,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.7899,
     "last_5_weekly_ranks": [
       422
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 461
   },
   {
@@ -10143,7 +10143,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 423,
-    "delta": -33,
+    "delta": 0,
     "rsl_vs_sector": 0.8836,
     "last_5_weekly_ranks": [
       423
@@ -10160,19 +10160,19 @@
     "pct_1d": 0.96,
     "pct_1w": 2.7,
     "pct_1m": 23.79,
-    "market_cap": 8766815232,
-    "revenue": 17722869760,
-    "exp_count": 12,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 424,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8466,
     "last_5_weekly_ranks": [
       424
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 8
   },
   {
@@ -10191,7 +10191,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 425,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.8508,
     "last_5_weekly_ranks": [
       425
@@ -10208,19 +10208,19 @@
     "pct_1d": 3.0,
     "pct_1w": -0.26,
     "pct_1m": -6.61,
-    "market_cap": 35986927616,
-    "revenue": 5786721792,
-    "exp_count": 4,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 426,
-    "delta": 6,
+    "delta": 0,
     "rsl_vs_sector": 0.8817,
     "last_5_weekly_ranks": [
       426
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 262
   },
   {
@@ -10239,7 +10239,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 427,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.992,
     "last_5_weekly_ranks": [
       427
@@ -10256,19 +10256,19 @@
     "pct_1d": 1.86,
     "pct_1w": 2.39,
     "pct_1m": -27.05,
-    "market_cap": 99156434944,
-    "revenue": 7880900096,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 428,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.9859,
     "last_5_weekly_ranks": [
       428
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 360
   },
   {
@@ -10287,7 +10287,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 429,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.7803,
     "last_5_weekly_ranks": [
       429
@@ -10311,7 +10311,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 430,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8414,
     "last_5_weekly_ranks": [
       430
@@ -10335,12 +10335,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 431,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.8343,
     "last_5_weekly_ranks": [
       431
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 364
   },
   {
@@ -10359,12 +10359,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 432,
-    "delta": 15,
+    "delta": 0,
     "rsl_vs_sector": 0.9771,
     "last_5_weekly_ranks": [
       432
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 478
   },
   {
@@ -10376,14 +10376,14 @@
     "pct_1d": 0.04,
     "pct_1w": -2.24,
     "pct_1m": -9.13,
-    "market_cap": 127345082368,
-    "revenue": 7057999872,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 433,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8338,
     "last_5_weekly_ranks": [
       433
@@ -10400,14 +10400,14 @@
     "pct_1d": 0.11,
     "pct_1w": -4.56,
     "pct_1m": 10.01,
-    "market_cap": 83934199808,
-    "revenue": 9731000320,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 434,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8632,
     "last_5_weekly_ranks": [
       434
@@ -10431,12 +10431,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 435,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.7907,
     "last_5_weekly_ranks": [
       435
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 423
   },
   {
@@ -10455,7 +10455,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 436,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9657,
     "last_5_weekly_ranks": [
       436
@@ -10479,7 +10479,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 437,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.7563,
     "last_5_weekly_ranks": [
       437
@@ -10503,7 +10503,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 438,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.8405,
     "last_5_weekly_ranks": [
       438
@@ -10527,12 +10527,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 439,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.8179,
     "last_5_weekly_ranks": [
       439
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 434
   },
   {
@@ -10544,14 +10544,14 @@
     "pct_1d": -0.73,
     "pct_1w": -7.52,
     "pct_1m": -9.81,
-    "market_cap": 261888000000,
-    "revenue": 79794003968,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 440,
-    "delta": -4,
+    "delta": 0,
     "rsl_vs_sector": 0.8098,
     "last_5_weekly_ranks": [
       440
@@ -10575,7 +10575,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 441,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.9355,
     "last_5_weekly_ranks": [
       441
@@ -10592,19 +10592,19 @@
     "pct_1d": 2.35,
     "pct_1w": 2.16,
     "pct_1m": -5.93,
-    "market_cap": 11971924992,
-    "revenue": 5447900160,
-    "exp_count": 5,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 442,
-    "delta": 9,
+    "delta": 0,
     "rsl_vs_sector": 0.8282,
     "last_5_weekly_ranks": [
       442
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 251
   },
   {
@@ -10616,9 +10616,9 @@
     "pct_1d": -0.62,
     "pct_1w": -8.26,
     "pct_1m": -12.15,
-    "market_cap": 231044775936,
-    "revenue": 71036002304,
-    "exp_count": 22,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -10647,12 +10647,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 444,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.9305,
     "last_5_weekly_ranks": [
       444
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 438
   },
   {
@@ -10664,19 +10664,19 @@
     "pct_1d": 0.92,
     "pct_1w": -0.69,
     "pct_1m": -4.97,
-    "market_cap": 243956826112,
-    "revenue": 49734631424,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 445,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8493,
     "last_5_weekly_ranks": [
       445
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 389
   },
   {
@@ -10688,14 +10688,14 @@
     "pct_1d": -1.66,
     "pct_1w": -6.5,
     "pct_1m": -20.35,
-    "market_cap": 45480529920,
-    "revenue": 7157000192,
-    "exp_count": 6,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 446,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.9262,
     "last_5_weekly_ranks": [
       446
@@ -10719,12 +10719,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 447,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.8319,
     "last_5_weekly_ranks": [
       447
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 431
   },
   {
@@ -10743,12 +10743,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 448,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.8166,
     "last_5_weekly_ranks": [
       448
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 382
   },
   {
@@ -10767,7 +10767,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 449,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.8392,
     "last_5_weekly_ranks": [
       449
@@ -10791,7 +10791,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 450,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.8389,
     "last_5_weekly_ranks": [
       450
@@ -10815,7 +10815,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 451,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.9168,
     "last_5_weekly_ranks": [
       451
@@ -10832,19 +10832,19 @@
     "pct_1d": 4.87,
     "pct_1w": -5.41,
     "pct_1m": -12.4,
-    "market_cap": 16937474048,
+    "market_cap": 16937347072,
     "revenue": 93468000256,
     "exp_count": 5,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 452,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.7459,
     "last_5_weekly_ranks": [
       452
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 441
   },
   {
@@ -10856,19 +10856,19 @@
     "pct_1d": 1.14,
     "pct_1w": -1.84,
     "pct_1m": -3.02,
-    "market_cap": 19309357056,
-    "revenue": 34956001280,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 453,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.7864,
     "last_5_weekly_ranks": [
       453
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 313
   },
   {
@@ -10887,7 +10887,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 454,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.905,
     "last_5_weekly_ranks": [
       454
@@ -10911,7 +10911,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 455,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.803,
     "last_5_weekly_ranks": [
       455
@@ -10928,14 +10928,14 @@
     "pct_1d": 0.06,
     "pct_1w": -1.24,
     "pct_1m": -30.98,
-    "market_cap": 18051586048,
-    "revenue": 3416668928,
-    "exp_count": 8,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 456,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.9041,
     "last_5_weekly_ranks": [
       456
@@ -10959,7 +10959,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 457,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.8913,
     "last_5_weekly_ranks": [
       457
@@ -10976,9 +10976,9 @@
     "pct_1d": 1.57,
     "pct_1w": -10.83,
     "pct_1m": -32.91,
-    "market_cap": 53719117824,
-    "revenue": 46739001344,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -11007,7 +11007,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 459,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.8829,
     "last_5_weekly_ranks": [
       459
@@ -11024,9 +11024,9 @@
     "pct_1d": -0.78,
     "pct_1w": -7.41,
     "pct_1m": -20.12,
-    "market_cap": 189244112896,
-    "revenue": 44039999488,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -11048,19 +11048,19 @@
     "pct_1d": 2.31,
     "pct_1w": -2.57,
     "pct_1m": -27.48,
-    "market_cap": 31377211392,
-    "revenue": 5603400192,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 461,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.8446,
     "last_5_weekly_ranks": [
       461
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 472
   },
   {
@@ -11079,12 +11079,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 462,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.7194,
     "last_5_weekly_ranks": [
       462
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 425
   },
   {
@@ -11096,19 +11096,19 @@
     "pct_1d": 1.72,
     "pct_1w": -5.64,
     "pct_1m": -26.38,
-    "market_cap": 69666144256,
-    "revenue": 26442000384,
-    "exp_count": 17,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 463,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.7426,
     "last_5_weekly_ranks": [
       463
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 487
   },
   {
@@ -11120,19 +11120,19 @@
     "pct_1d": 1.88,
     "pct_1w": 3.4,
     "pct_1m": -22.38,
-    "market_cap": 14247597056,
-    "revenue": 12938000384,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 464,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.7172,
     "last_5_weekly_ranks": [
       464
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 466
   },
   {
@@ -11144,19 +11144,19 @@
     "pct_1d": 1.61,
     "pct_1w": -7.07,
     "pct_1m": -20.58,
-    "market_cap": 24322494464,
-    "revenue": 6369200128,
-    "exp_count": 19,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 465,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.8349,
     "last_5_weekly_ranks": [
       465
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 456
   },
   {
@@ -11175,12 +11175,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 466,
-    "delta": 11,
+    "delta": 0,
     "rsl_vs_sector": 0.7365,
     "last_5_weekly_ranks": [
       466
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 390
   },
   {
@@ -11199,12 +11199,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 467,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.7364,
     "last_5_weekly_ranks": [
       467
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 454
   },
   {
@@ -11223,12 +11223,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 468,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.7488,
     "last_5_weekly_ranks": [
       468
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 464
   },
   {
@@ -11240,14 +11240,14 @@
     "pct_1d": 0.64,
     "pct_1w": -7.78,
     "pct_1m": -19.44,
-    "market_cap": 23492595712,
-    "revenue": 35953999872,
-    "exp_count": 13,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 469,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.8277,
     "last_5_weekly_ranks": [
       469
@@ -11264,14 +11264,14 @@
     "pct_1d": -3.91,
     "pct_1w": -1.1,
     "pct_1m": -31.49,
-    "market_cap": 3605147156480,
-    "revenue": 361808003072,
-    "exp_count": 24,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 470,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.8201,
     "last_5_weekly_ranks": [
       470
@@ -11288,14 +11288,14 @@
     "pct_1d": -5.13,
     "pct_1w": -8.79,
     "pct_1m": -20.42,
-    "market_cap": 323867508736,
-    "revenue": 71776002048,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 471,
-    "delta": -9,
+    "delta": 0,
     "rsl_vs_sector": 0.8101,
     "last_5_weekly_ranks": [
       471
@@ -11319,7 +11319,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 472,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.7367,
     "last_5_weekly_ranks": [
       472
@@ -11336,14 +11336,14 @@
     "pct_1d": -0.5,
     "pct_1w": 3.25,
     "pct_1m": 1.17,
-    "market_cap": 14962587648,
-    "revenue": 2534873088,
-    "exp_count": 19,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 473,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.8005,
     "last_5_weekly_ranks": [
       473
@@ -11360,9 +11360,9 @@
     "pct_1d": 0.41,
     "pct_1w": -7.37,
     "pct_1m": -12.53,
-    "market_cap": 174857551872,
-    "revenue": 14505794560,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -11384,14 +11384,14 @@
     "pct_1d": -0.08,
     "pct_1w": -2.05,
     "pct_1m": -15.91,
-    "market_cap": 15894312960,
-    "revenue": 5014151168,
-    "exp_count": 15,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 475,
-    "delta": -3,
+    "delta": 0,
     "rsl_vs_sector": 0.7986,
     "last_5_weekly_ranks": [
       475
@@ -11415,12 +11415,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 476,
-    "delta": 7,
+    "delta": 0,
     "rsl_vs_sector": 0.7829,
     "last_5_weekly_ranks": [
       476
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 495
   },
   {
@@ -11439,7 +11439,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 477,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.6925,
     "last_5_weekly_ranks": [
       477
@@ -11463,12 +11463,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 478,
-    "delta": 4,
+    "delta": 0,
     "rsl_vs_sector": 0.6806,
     "last_5_weekly_ranks": [
       478
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 457
   },
   {
@@ -11481,18 +11481,18 @@
     "pct_1w": -5.13,
     "pct_1m": -40.82,
     "market_cap": 188874522624,
-    "revenue": 151197007872,
+    "revenue": 179129008128,
     "exp_count": 22,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 479,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.7664,
     "last_5_weekly_ranks": [
       479
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 497
   },
   {
@@ -11511,12 +11511,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 480,
-    "delta": 5,
+    "delta": 0,
     "rsl_vs_sector": 0.6761,
     "last_5_weekly_ranks": [
       480
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 458
   },
   {
@@ -11559,7 +11559,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 482,
-    "delta": -7,
+    "delta": 0,
     "rsl_vs_sector": 0.7553,
     "last_5_weekly_ranks": [
       482
@@ -11583,12 +11583,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 483,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.6699,
     "last_5_weekly_ranks": [
       483
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 473
   },
   {
@@ -11607,12 +11607,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 484,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.7491,
     "last_5_weekly_ranks": [
       484
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 428
   },
   {
@@ -11631,7 +11631,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 485,
-    "delta": -6,
+    "delta": 0,
     "rsl_vs_sector": 0.7362,
     "last_5_weekly_ranks": [
       485
@@ -11648,14 +11648,14 @@
     "pct_1d": -4.53,
     "pct_1w": -14.75,
     "pct_1m": -35.26,
-    "market_cap": 680268201984,
-    "revenue": 133188001792,
-    "exp_count": 25,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 486,
-    "delta": -8,
+    "delta": 0,
     "rsl_vs_sector": 0.7348,
     "last_5_weekly_ranks": [
       486
@@ -11727,12 +11727,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 489,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.6229,
     "last_5_weekly_ranks": [
       489
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 500
   },
   {
@@ -11751,12 +11751,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 490,
-    "delta": 1,
+    "delta": 0,
     "rsl_vs_sector": 0.7107,
     "last_5_weekly_ranks": [
       490
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 482
   },
   {
@@ -11768,14 +11768,14 @@
     "pct_1d": -5.68,
     "pct_1w": -12.6,
     "pct_1m": -23.18,
-    "market_cap": 231109115904,
-    "revenue": 26127935488,
-    "exp_count": 16,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 491,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.7,
     "last_5_weekly_ranks": [
       491
@@ -11799,12 +11799,12 @@
     "ivr": null,
     "ivp": null,
     "rank": 492,
-    "delta": 3,
+    "delta": 0,
     "rsl_vs_sector": 0.6235,
     "last_5_weekly_ranks": [
       492
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 477
   },
   {
@@ -11847,7 +11847,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 494,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.6726,
     "last_5_weekly_ranks": [
       494
@@ -11871,7 +11871,7 @@
     "ivr": null,
     "ivp": null,
     "rank": 495,
-    "delta": -1,
+    "delta": 0,
     "rsl_vs_sector": 0.6716,
     "last_5_weekly_ranks": [
       495
@@ -11888,19 +11888,19 @@
     "pct_1d": 1.19,
     "pct_1w": -10.17,
     "pct_1m": -19.34,
-    "market_cap": 24838850560,
-    "revenue": 30954000384,
-    "exp_count": 7,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 496,
-    "delta": 2,
+    "delta": 0,
     "rsl_vs_sector": 0.6647,
     "last_5_weekly_ranks": [
       496
     ],
-    "score": 1,
+    "score": 0,
     "rank_other": 469
   },
   {
@@ -11912,9 +11912,9 @@
     "pct_1d": -0.49,
     "pct_1w": -10.04,
     "pct_1m": -46.25,
-    "market_cap": 117806342144,
-    "revenue": 9450300416,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
@@ -11936,14 +11936,14 @@
     "pct_1d": -2.16,
     "pct_1w": -13.52,
     "pct_1m": -44.98,
-    "market_cap": 43218612224,
-    "revenue": 3742799872,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
     "rank": 498,
-    "delta": -2,
+    "delta": 0,
     "rsl_vs_sector": 0.6554,
     "last_5_weekly_ranks": [
       498
@@ -11960,9 +11960,9 @@
     "pct_1d": -0.6,
     "pct_1w": -0.37,
     "pct_1m": -41.89,
-    "market_cap": 289508032512,
-    "revenue": 59891998720,
-    "exp_count": 18,
+    "market_cap": null,
+    "revenue": null,
+    "exp_count": 0,
     "trend": null,
     "ivr": null,
     "ivp": null,
